@@ -2,7 +2,7 @@ name: Beacon Pipeline
 
 on:
   schedule:
-    - cron: '0 */8 * * *'  # Every 8 hours
+    - cron: '0 */3 * * *'  # Every 3 hours
   workflow_dispatch:       # Manual trigger
 
 permissions:

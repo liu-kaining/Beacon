@@ -2,7 +2,6 @@
 
 import json
 import os
-import sys
 
 from dotenv import load_dotenv
 
@@ -12,6 +11,8 @@ from ai_processor import generate_analysis
 from renderer import render_site
 
 DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "posts.json")
+
+FALLBACK_INSIGHT = "暂无分析数据"
 
 
 def load_existing_posts() -> list[dict]:
@@ -30,39 +31,60 @@ def save_posts(posts: list[dict]) -> None:
         json.dump(posts, f, ensure_ascii=False, indent=2)
 
 
+def _has_fallback_analysis(post: dict) -> bool:
+    """Check if a post has fallback (failed) AI analysis."""
+    ai = post.get("ai_analysis", {})
+    return ai.get("core_insight") == FALLBACK_INSIGHT
+
+
 def main() -> None:
     """Run the full pipeline: scrape -> process -> store -> render."""
     load_dotenv()
 
     print("[beacon] Starting pipeline...")
 
-    # Load existing posts for idempotency
+    # Load existing posts
     existing_posts = load_existing_posts()
-    existing_ids = {p["id"] for p in existing_posts}
     print(f"[beacon] Found {len(existing_posts)} existing posts.")
 
-    # Fetch new articles from RSS
-    articles = fetch_articles()
+    # Separate successful posts from failed ones
+    successful_posts = [p for p in existing_posts if not _has_fallback_analysis(p)]
+    failed_urls = {p["original_url"] for p in existing_posts if _has_fallback_analysis(p)}
+
+    if failed_urls:
+        print(f"[beacon] Found {len(failed_urls)} posts with failed AI analysis, will retry.")
+
+    # existing_urls only includes successfully analyzed posts
+    # so fallback posts will be re-fetched from RSS
+    existing_urls = {p["original_url"] for p in successful_posts}
+
+    # Fetch new + retry articles from RSS
+    articles = fetch_articles(existing_urls)
     print(f"[beacon] Fetched {len(articles)} articles from RSS.")
 
     new_posts = []
 
     for article in articles:
-        article_id = article["id"]
-
-        # Skip if already processed
-        if article_id in existing_ids:
-            print(f"[beacon] Skipping existing article: {article_id}")
-            continue
-
-        print(f"[beacon] Processing article: {article_id} - {article['title'][:50]}...")
+        is_retry = article["original_url"] in failed_urls
+        action = "Retrying" if is_retry else "Processing"
+        print(f"[beacon] {action}: {article['title'][:60]}...")
 
         try:
-            # Process image
+            # Process image (skip re-upload if already exists)
             r2_image_url = ""
             base64_blur = ""
-            if article.get("image_url"):
-                result = process_image(article["image_url"], article_id)
+            if is_retry:
+                # Find existing post to reuse image
+                existing = next(
+                    (p for p in existing_posts if p["original_url"] == article["original_url"]),
+                    None,
+                )
+                if existing:
+                    r2_image_url = existing.get("r2_image_url", "")
+                    base64_blur = existing.get("base64_blur", "")
+
+            if not r2_image_url and article.get("image_url"):
+                result = process_image(article["image_url"], article["id"])
                 if result:
                     r2_image_url, base64_blur = result
 
@@ -72,16 +94,16 @@ def main() -> None:
                 ai_analysis = generate_analysis(article["title"], article["content_md"])
 
             if not ai_analysis:
-                print(f"[beacon] AI analysis failed for {article_id}, using fallback.")
+                print(f"[beacon] AI analysis failed for {article['id']}, will retry next run.")
                 ai_analysis = {
-                    "core_insight": "暂无分析数据",
+                    "core_insight": FALLBACK_INSIGHT,
                     "data_highlights": [],
                     "deep_dive": "内容暂不可用。",
                     "glossary": [],
                 }
 
             post = {
-                "id": article_id,
+                "id": article["id"],
                 "title": article["title"],
                 "original_url": article["original_url"],
                 "r2_image_url": r2_image_url,
@@ -91,17 +113,30 @@ def main() -> None:
             }
 
             new_posts.append(post)
-            print(f"[beacon] Successfully processed: {article_id}")
+            status = "retried" if is_retry else "processed"
+            print(f"[beacon] Successfully {status}: {article['id']}")
 
         except Exception as e:
-            print(f"[beacon] Error processing article {article_id}: {e}")
+            print(f"[beacon] Error processing article {article['id']}: {e}")
             continue
 
-    # Prepend new posts to existing posts
-    if new_posts:
-        all_posts = new_posts + existing_posts
-        save_posts(all_posts)
-        print(f"[beacon] Added {len(new_posts)} new posts. Total: {len(all_posts)}")
+    # Deduplicate by original_url, keep first occurrence (newest)
+    seen_urls: set[str] = set()
+    deduped_posts = []
+
+    for post in new_posts + existing_posts:
+        url = post["original_url"]
+        if url not in seen_urls:
+            seen_urls.add(url)
+            deduped_posts.append(post)
+
+    removed = len(new_posts) + len(existing_posts) - len(deduped_posts)
+    if removed > 0:
+        print(f"[beacon] Removed {removed} duplicate posts.")
+
+    if new_posts or removed > 0:
+        save_posts(deduped_posts)
+        print(f"[beacon] Total posts: {len(deduped_posts)}")
     else:
         print("[beacon] No new posts to add.")
 

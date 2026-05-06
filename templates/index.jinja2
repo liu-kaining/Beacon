@@ -32,6 +32,9 @@
         .blur-load.loaded { filter: none; }
         .modal-overlay { transition: opacity 0.3s ease; }
         .modal-content { transition: transform 0.3s ease, opacity 0.3s ease; }
+        .lightbox { transition: opacity 0.3s ease; }
+        .lightbox-img { max-width: 95vw; max-height: 95vh; object-fit: contain; cursor: zoom-out; }
+        .modal-img { cursor: zoom-in; }
         /* Custom scrollbar */
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: #1E293B; }
@@ -119,6 +122,14 @@
         </div>
     </div>
 
+    <!-- Lightbox (fullscreen image viewer) -->
+    <div id="lightbox" class="fixed inset-0 z-[60] bg-black/95 hidden lightbox opacity-0 flex items-center justify-center" onclick="closeLightbox()">
+        <button onclick="closeLightbox()" class="absolute top-4 right-4 z-10 w-10 h-10 rounded-full bg-white/10 backdrop-blur flex items-center justify-center text-white/70 hover:text-white hover:bg-white/20 transition-all">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+        <img id="lightbox-img" src="" alt="" class="lightbox-img rounded-lg shadow-2xl">
+    </div>
+
     <!-- Footer -->
     <footer class="border-t border-slate-800 mt-16 py-8">
         <div class="max-w-7xl mx-auto px-4 text-center text-slate-600 text-xs">
@@ -178,7 +189,7 @@
 
             body.innerHTML = `
                 <div class="space-y-6">
-                    <img src="${post.r2_image_url || post.base64_blur}" alt="${post.title}" class="w-full rounded-xl shadow-2xl">
+                    <img src="${post.r2_image_url || post.base64_blur}" alt="${post.title}" class="w-full rounded-xl shadow-2xl modal-img" onclick="openLightbox('${post.r2_image_url || post.base64_blur}')">
                     <div>
                         <h2 class="text-xl font-bold text-beacon-text mb-2">${post.title}</h2>
                         <a href="${post.original_url}" target="_blank" rel="noopener" class="text-xs text-slate-500 hover:text-beacon-accent transition-colors">View Original &rarr;</a>
@@ -235,9 +246,34 @@
             }, 300);
         }
 
-        // Close modal with Escape key
+        // Lightbox functions
+        function openLightbox(imgUrl) {
+            const lightbox = document.getElementById('lightbox');
+            const lbImg = document.getElementById('lightbox-img');
+            lbImg.src = imgUrl;
+            lightbox.classList.remove('hidden');
+            requestAnimationFrame(() => { lightbox.style.opacity = '1'; });
+        }
+
+        function closeLightbox() {
+            const lightbox = document.getElementById('lightbox');
+            lightbox.style.opacity = '0';
+            setTimeout(() => {
+                lightbox.classList.add('hidden');
+                document.getElementById('lightbox-img').src = '';
+            }, 300);
+        }
+
+        // Close with Escape key (lightbox first, then modal)
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeModal();
+            if (e.key === 'Escape') {
+                const lightbox = document.getElementById('lightbox');
+                if (!lightbox.classList.contains('hidden')) {
+                    closeLightbox();
+                } else {
+                    closeModal();
+                }
+            }
         });
     </script>
 </body>

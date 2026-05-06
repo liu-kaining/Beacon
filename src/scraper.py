@@ -1,5 +1,6 @@
 """RSS feed scraper for Visual Capitalist."""
 
+import hashlib
 import re
 
 import feedparser
@@ -18,14 +19,11 @@ def _table_to_markdown(table_tag: BeautifulSoup) -> str:
     if not rows:
         return ""
 
-    # Determine column count
     col_count = max(len(r) for r in rows)
-    # Pad short rows
     for r in rows:
         while len(r) < col_count:
             r.append("")
 
-    # First row as header
     header = rows[0]
     separator = ["---"] * col_count
     body = rows[1:]
@@ -66,7 +64,6 @@ def _extract_text_and_lists(html_content: str) -> str:
 
 def _get_image_url(entry) -> str | None:
     """Extract image URL from media:content or content:encoded."""
-    # Try media:content first
     media_content = entry.get("media_content")
     if media_content:
         for media in media_content:
@@ -74,7 +71,6 @@ def _get_image_url(entry) -> str | None:
             if url:
                 return url
 
-    # Fallback: extract first <img> from content:encoded
     content_encoded = entry.get("content", [{}])[0].get("value", "")
     if content_encoded:
         soup = BeautifulSoup(content_encoded, "html.parser")
@@ -85,36 +81,70 @@ def _get_image_url(entry) -> str | None:
     return None
 
 
-def fetch_articles() -> list[dict]:
-    """Parse RSS feed and return a list of raw article dicts."""
-    feed = feedparser.parse(FEED_URL)
-    articles = []
+def _generate_stable_id(url: str) -> str:
+    """Generate a stable article ID from the URL using MD5 hash."""
+    # Normalize URL: strip trailing slash and query params for stability
+    normalized = url.split("?")[0].rstrip("/")
+    return hashlib.md5(normalized.encode()).hexdigest()[:8]
 
-    for entry in feed.entries:
-        guid = entry.get("id", entry.get("link", ""))
-        # Extract numeric ID from guid or link
-        id_match = re.search(r"/(\d+)/?$", guid)
-        article_id = id_match.group(1) if id_match else str(abs(hash(guid)) % 10**8)
 
-        content_encoded = ""
-        if entry.get("content"):
-            content_encoded = entry["content"][0].get("value", "")
+MAX_PAGES = 10
 
-        tables_md = _extract_tables(content_encoded)
-        text_content = _extract_text_and_lists(content_encoded)
 
-        # Use tables if available, otherwise fall back to text/lists
-        extracted_content = tables_md if tables_md else text_content
+def _parse_entry(entry) -> dict:
+    """Parse a single feed entry into an article dict."""
+    url = entry.get("link", "")
+    article_id = _generate_stable_id(url)
 
-        image_url = _get_image_url(entry)
+    content_encoded = ""
+    if entry.get("content"):
+        content_encoded = entry["content"][0].get("value", "")
 
-        articles.append({
-            "id": article_id,
-            "title": entry.get("title", "Untitled"),
-            "original_url": entry.get("link", ""),
-            "pub_date": entry.get("published", ""),
-            "image_url": image_url,
-            "content_md": extracted_content,
-        })
+    tables_md = _extract_tables(content_encoded)
+    text_content = _extract_text_and_lists(content_encoded)
+    extracted_content = tables_md if tables_md else text_content
 
-    return articles
+    image_url = _get_image_url(entry)
+
+    return {
+        "id": article_id,
+        "title": entry.get("title", "Untitled"),
+        "original_url": url,
+        "pub_date": entry.get("published", ""),
+        "image_url": image_url,
+        "content_md": extracted_content,
+    }
+
+
+def fetch_articles(existing_urls: set[str] | None = None) -> list[dict]:
+    """Fetch articles from RSS, paginating until all new articles are collected.
+
+    Uses original_url for deduplication (stable across runs).
+    Stops when a page returns only articles already in existing_urls.
+    """
+    if existing_urls is None:
+        existing_urls = set()
+
+    all_articles = []
+    seen_urls: set[str] = set()
+
+    for page in range(1, MAX_PAGES + 1):
+        url = FEED_URL if page == 1 else f"{FEED_URL}?paged={page}"
+        feed = feedparser.parse(url)
+
+        if not feed.entries:
+            break
+
+        page_all_known = True
+        for entry in feed.entries:
+            article = _parse_entry(entry)
+            article_url = article["original_url"]
+            if article_url not in existing_urls and article_url not in seen_urls:
+                all_articles.append(article)
+                page_all_known = False
+            seen_urls.add(article_url)
+
+        if page_all_known:
+            break
+
+    return all_articles
