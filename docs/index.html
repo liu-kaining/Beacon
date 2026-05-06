@@ -53,7 +53,7 @@
                 </h1>
             </div>
             <div class="text-slate-500 text-sm">
-                0 Insights
+                10 Insights
             </div>
         </div>
     </header>
@@ -61,13 +61,288 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 py-8">
         
-        <div class="flex items-center justify-center h-96">
-            <div class="text-center">
-                <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-slate-800 flex items-center justify-center">
-                    <div class="w-3 h-3 rounded-full bg-beacon-accent animate-pulse"></div>
+        <div class="masonry">
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(0)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC3NHk1Jaw/NT5OtTWvWuVHKty4kfyiip1+7RVG5//Z"
+                            data-src="https://beacon-img.thetamind.ai/21640568.webp"
+                            alt="Ranked: Where Wages Go Furthest Around the World"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Ranked: Where Wages Go Furthest Around the World
+                        </h2>
+                        <p class="text-xs text-slate-500">Wed, 06 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
                 </div>
-                <p class="text-slate-500">No insights yet. The beacon is warming up...</p>
-            </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(1)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmhHirMRxQ4FNXrWSdzglqWg3FFRjpRTsZWP/Z"
+                            data-src="https://beacon-img.thetamind.ai/81565831.webp"
+                            alt="The $126T Global Economy in One Giant Chart"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            The $126T Global Economy in One Giant Chart
+                        </h2>
+                        <p class="text-xs text-slate-500">Wed, 06 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(2)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVY0w080lch0kZFFPNFID/2Q=="
+                            data-src="https://beacon-img.thetamind.ai/78920014.webp"
+                            alt="China Produces More Coal Than the Rest of the World Combined"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            China Produces More Coal Than the Rest of the World Combined
+                        </h2>
+                        <p class="text-xs text-slate-500">Tue, 05 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(3)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDumXFV5ZNoq5J0rMu+hoLiRNcjPWis5z8xoosb2P/Z"
+                            data-src="https://beacon-img.thetamind.ai/22024917.webp"
+                            alt="Charted: U.S. Debt Could Hit $182 Trillion by 2056"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Charted: U.S. Debt Could Hit $182 Trillion by 2056
+                        </h2>
+                        <p class="text-xs text-slate-500">Tue, 05 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(4)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDoZ5cVFFNlqZc1DB9+oTPS5VY2Ek+WioY/uCimZWP/2Q=="
+                            data-src="https://beacon-img.thetamind.ai/57771045.webp"
+                            alt="Mapped: Most Americans Can’t Afford New Homes"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Mapped: Most Americans Can’t Afford New Homes
+                        </h2>
+                        <p class="text-xs text-slate-500">Tue, 05 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(5)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnlWpMcUiU40NkQVyM9aKU9aKdyuVH/9k="
+                            data-src="https://beacon-img.thetamind.ai/71159298.webp"
+                            alt="Charted: The Global Fertility Divide"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Charted: The Global Fertility Divide
+                        </h2>
+                        <p class="text-xs text-slate-500">Mon, 04 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(6)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDQiWrka1Wiq7H0q7aGC3HAUU8dKKyNT//Z"
+                            data-src="https://beacon-img.thetamind.ai/55460320.webp"
+                            alt="Where Luxury Housing Prices Surged the Most in 2025"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Where Luxury Housing Prices Surged the Most in 2025
+                        </h2>
+                        <p class="text-xs text-slate-500">Mon, 04 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(7)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpbpuDVEP81W7vvWf/ABVg2dkYqxcV+KKiXpRSuPlR/9k="
+                            data-src="https://beacon-img.thetamind.ai/52804.webp"
+                            alt="Ranked: Where Emissions Are Rising Fastest"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Ranked: Where Emissions Are Rising Fastest
+                        </h2>
+                        <p class="text-xs text-slate-500">Mon, 04 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(8)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCggpzrxQlObpXXUkzzIK5VK80U89aKjmZr7NH/2Q=="
+                            data-src="https://beacon-img.thetamind.ai/18437390.webp"
+                            alt="Where the World’s $13T in Sovereign Wealth Is Held"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Where the World’s $13T in Sovereign Wealth Is Held
+                        </h2>
+                        <p class="text-xs text-slate-500">Mon, 04 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="masonry-item group cursor-pointer" onclick="openModal(9)">
+                <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
+                    <!-- Image -->
+                    <div class="relative overflow-hidden">
+                        <img
+                            src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUBpT0pq0/tXqSdmeCloREc0U49aK0UiLH/9k="
+                            data-src="https://beacon-img.thetamind.ai/85236544.webp"
+                            alt="Ranked: The U.S. Cities With the Most Sunshine"
+                            class="w-full blur-load lazy-image"
+                            loading="lazy"
+                        >
+                        <div class="absolute inset-0 bg-gradient-to-t from-beacon-card via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    <!-- Info -->
+                    <div class="p-4">
+                        <h2 class="text-sm font-semibold text-beacon-text leading-tight mb-2 group-hover:text-beacon-accent transition-colors duration-200">
+                            Ranked: The U.S. Cities With the Most Sunshine
+                        </h2>
+                        <p class="text-xs text-slate-500">Sun, 03 Ma</p>
+                        
+                        <p class="text-xs text-slate-400 mt-2 line-clamp-2">
+                            暂无分析数据
+                        </p>
+                        
+                    </div>
+                </div>
+            </article>
+            
         </div>
         
     </main>
@@ -97,7 +372,7 @@
 
     <script>
         // Posts data for modal
-        const posts = [];
+        const posts = [{"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC3NHk1Jaw/NT5OtTWvWuVHKty4kfyiip1+7RVG5//Z", "id": "21640568", "original_url": "https://www.visualcapitalist.com/ranked-where-wages-go-furthest-around-the-world/", "pub_date": "Wed, 06 May 2026 14:22:19 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/21640568.webp", "title": "Ranked: Where Wages Go Furthest Around the World"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmhHirMRxQ4FNXrWSdzglqWg3FFRjpRTsZWP/Z", "id": "81565831", "original_url": "https://www.visualcapitalist.com/the-126t-global-economy-in-one-chart/", "pub_date": "Wed, 06 May 2026 11:44:35 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/81565831.webp", "title": "The $126T Global Economy in One Giant Chart"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVY0w080lch0kZFFPNFID/2Q==", "id": "78920014", "original_url": "https://www.visualcapitalist.com/china-produces-more-coal-than-rest-of-world/", "pub_date": "Tue, 05 May 2026 16:19:57 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/78920014.webp", "title": "China Produces More Coal Than the Rest of the World Combined"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDumXFV5ZNoq5J0rMu+hoLiRNcjPWis5z8xoosb2P/Z", "id": "22024917", "original_url": "https://www.visualcapitalist.com/charted-u-s-debt-could-hit-182-trillion-by-2056/", "pub_date": "Tue, 05 May 2026 14:19:13 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/22024917.webp", "title": "Charted: U.S. Debt Could Hit $182 Trillion by 2056"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDoZ5cVFFNlqZc1DB9+oTPS5VY2Ek+WioY/uCimZWP/2Q==", "id": "57771045", "original_url": "https://www.visualcapitalist.com/americans-cant-afford-new-homes-map/", "pub_date": "Tue, 05 May 2026 11:51:18 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/57771045.webp", "title": "Mapped: Most Americans Can\u2019t Afford New Homes"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnlWpMcUiU40NkQVyM9aKU9aKdyuVH/9k=", "id": "71159298", "original_url": "https://www.visualcapitalist.com/global-fertility-rate-divide-by-region/", "pub_date": "Mon, 04 May 2026 16:46:35 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/71159298.webp", "title": "Charted: The Global Fertility Divide"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDQiWrka1Wiq7H0q7aGC3HAUU8dKKyNT//Z", "id": "55460320", "original_url": "https://www.visualcapitalist.com/sp/ter02-where-luxury-housing-prices-surged-the-most-in-2025/", "pub_date": "Mon, 04 May 2026 15:25:00 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/55460320.webp", "title": "Where Luxury Housing Prices Surged the Most in 2025"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpbpuDVEP81W7vvWf/ABVg2dkYqxcV+KKiXpRSuPlR/9k=", "id": "52804", "original_url": "https://www.visualcapitalist.com/ranked-where-emissions-are-rising-and-falling/", "pub_date": "Mon, 04 May 2026 14:11:56 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/52804.webp", "title": "Ranked: Where Emissions Are Rising Fastest"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCggpzrxQlObpXXUkzzIK5VK80U89aKjmZr7NH/2Q==", "id": "18437390", "original_url": "https://www.visualcapitalist.com/the-worlds-largest-sovereign-wealth-funds/", "pub_date": "Mon, 04 May 2026 11:52:33 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/18437390.webp", "title": "Where the World\u2019s $13T in Sovereign Wealth Is Held"}, {"ai_analysis": {"core_insight": "\u6682\u65e0\u5206\u6790\u6570\u636e", "data_highlights": [], "deep_dive": "\u5185\u5bb9\u6682\u4e0d\u53ef\u7528\u3002", "glossary": []}, "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUBpT0pq0/tXqSdmeCloREc0U49aK0UiLH/9k=", "id": "85236544", "original_url": "https://www.visualcapitalist.com/cp/us-cities-most-sunshine/", "pub_date": "Sun, 03 May 2026 13:22:07 +0000", "r2_image_url": "https://beacon-img.thetamind.ai/85236544.webp", "title": "Ranked: The U.S. Cities With the Most Sunshine"}];
 
         // Progressive image loading
         document.addEventListener('DOMContentLoaded', function() {
