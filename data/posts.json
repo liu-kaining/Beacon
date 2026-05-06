@@ -1,5 +1,65 @@
 [
   {
+    "id": "afc5954c",
+    "title": "Mapped: Which States Give More to Washington Than They Get Back",
+    "original_url": "https://www.visualcapitalist.com/mapped-which-states-give-more-to-washington-then-they-get-back/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/afc5954c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnoY81JJDhadb9asS/drHmdzr5FYyWT5qKmf71Fa3MeU//2Q==",
+    "pub_date": "Wed, 06 May 2026 16:31:46 +0000",
+    "ai_analysis": {
+      "core_insight": "美国各州对联邦财政贡献差异巨大，呈现显著的区域再分配特征。",
+      "data_highlights": [
+        "内布拉斯加州和明尼苏达州贡献最高，净贡献达州GDP的10%。",
+        "新墨西哥州、西弗吉尼亚州和密西西比州是最大的净受益方，净贡献为-22%至-21%。",
+        "贡献为正的州（18个）与贡献为负的州（33个）数量对比明显，显示多数州从联邦获得净转移支付。",
+        "经济大州如加利福尼亚州（7%）和纽约州（3%）均为净贡献方，而德克萨斯州（2%）贡献较低。"
+      ],
+      "deep_dive": "这份数据揭示了美国联邦财政体系内部深刻的区域再分配机制。净贡献为正的州，如内布拉斯加、明尼苏达、新泽西等，通常是经济结构多元、人均收入较高或特定产业（如农业、科技、金融）发达的地区，它们缴纳的联邦税远超其获得的联邦支出。相反，净贡献为负的州，如新墨西哥、西弗吉尼亚、密西西比等，往往经济相对落后，高度依赖联邦政府的转移支付，包括社会保障、医疗补助、军事基地开支及各类补贴。这种“抽肥补瘦”的模式是维系国家统一和区域平衡发展的重要工具，但也可能引发贡献州与受益州之间的政治张力。值得注意的是，一些传统“红州”如德克萨斯贡献较低，而一些“蓝州”如纽约、加州贡献较高，这为理解美国国内政治经济博弈提供了关键数据视角。",
+      "glossary": [
+        {
+          "term": "净联邦贡献",
+          "explanation": "指一个州向联邦政府缴纳的税收（如个人所得税、企业所得税等）与该州从联邦政府获得的支出（如社会保障、国防开支、补助金等）之间的差额。正值表示该州是净贡献者，负值表示该州是净受益者。"
+        },
+        {
+          "term": "州GDP",
+          "explanation": "指一个州在一定时期内生产的所有最终商品和服务的市场价值总和，是衡量该州经济规模的核心指标。净联邦贡献占州GDP的百分比，反映了该州对联邦财政的相对负担或依赖程度。"
+        },
+        {
+          "term": "区域再分配",
+          "explanation": "指通过联邦财政体系，将经济较发达或高收入地区的资源（税收）转移支付给经济欠发达或低收入地区，以实现全国范围内的公共服务均等化和区域平衡发展。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc01fecc",
+    "title": "Mapped: The World’s Most (and Least) Religiously Diverse Countries",
+    "original_url": "https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/dc01fecc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpjxSoeaGpE61xtnTFFkHiikXpRRcD/9k=",
+    "pub_date": "Sat, 02 May 2026 11:32:43 +0000",
+    "ai_analysis": {
+      "core_insight": "全球宗教多样性呈现显著地域差异，新加坡居首，中东及中亚国家普遍较低。",
+      "data_highlights": [
+        "新加坡以9.25的宗教多样性指数（RDI）得分位居全球第一，属于“非常高”多样性水平。",
+        "在2010-2020年间，智利的RDI得分增幅最大，从2.8升至5.1，增长了2.3点。",
+        "哈萨克斯坦的RDI得分降幅最大，从5.1降至4.1，下降了1.0点。",
+        "排名前八的国家（新加坡至贝宁）均属于“非常高”多样性水平，且得分均超过7.0。"
+      ],
+      "deep_dive": "这份全球宗教多样性地图揭示了深刻的社会结构差异。高多样性国家（RDI>6.0）主要分布在两类地区：一是以新加坡、台湾、韩国为代表的东亚及东南亚新兴经济体，其开放的社会环境和移民政策促进了多元信仰共存；二是以苏里南、毛里求斯、多哥等为代表的非洲及加勒比海国家，其历史上的殖民、贸易和人口流动塑造了复杂的宗教格局。相比之下，中东、北非及中亚地区（如也门、阿富汗、伊朗）的宗教多样性极低，这通常与单一宗教主导、政教合一或长期冲突有关。值得注意的是，部分国家的多样性在十年间发生了显著变化：智利、爱尔兰等国的快速增长可能反映了世俗化、移民增加或信仰自由度的提升；而哈萨克斯坦、叙利亚等国的下降则可能源于政治动荡、人口外流或宗教政策收紧。这种动态变化表明，宗教多样性并非静态，而是受到经济、政治和全球化力量的持续塑造。",
+      "glossary": [
+        {
+          "term": "宗教多样性指数（RDI）",
+          "explanation": "一个量化指标，用于衡量一个国家或地区内不同宗教信仰群体的分布均衡程度。得分越高，表示宗教构成越多元、越分散。"
+        },
+        {
+          "term": "世俗化",
+          "explanation": "指社会从以宗教为中心和主导，逐渐转向以理性、科学和非宗教价值观为基础的过程。这通常伴随着宗教对公共生活影响力的减弱。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ceb25abb",
     "title": "Ranked: Where Wages Go Furthest Around the World",
     "original_url": "https://www.visualcapitalist.com/ranked-where-wages-go-furthest-around-the-world/",
@@ -417,20 +477,6 @@
           "explanation": "指一国通过文化、政治价值观和外交政策等非强制手段吸引和影响他国的能力。"
         }
       ]
-    }
-  },
-  {
-    "id": "dc01fecc",
-    "title": "Mapped: The World’s Most (and Least) Religiously Diverse Countries",
-    "original_url": "https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/dc01fecc.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpjxSoeaGpE61xtnTFFkHiikXpRRcD/9k=",
-    "pub_date": "Sat, 02 May 2026 11:32:43 +0000",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
