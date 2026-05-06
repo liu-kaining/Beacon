@@ -1,5 +1,36 @@
 [
   {
+    "id": "1e302982",
+    "title": "Ranked: The Fastest-Growing Battery Materials Since 2020",
+    "original_url": "https://www.visualcapitalist.com/fastest-growing-battery-materials-since-2020/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1e302982.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDZlfmpbXk1Uk61dsuorJGjNNE+UUVKn3RRVmZ//9k=",
+    "pub_date": "Wed, 06 May 2026 20:02:05 +0000",
+    "ai_analysis": {
+      "core_insight": "锂资源供应增速远超其他电池材料，主导电池产业链扩张。",
+      "data_highlights": [
+        "锂供应量从2020年39.5万吨激增至2025年154.4万吨，增长291%，增速最快。",
+        "钴和锰供应增速分别为113%和93%，显著高于镍、石墨和磷等基础材料。",
+        "镍、石墨和磷的供应增速均在40%-44%区间，相对平稳。"
+      ],
+      "deep_dive": "数据显示，2020至2025年间，电池材料供应格局呈现显著分化。锂作为核心正极材料，其供应量增长近三倍，远超其他材料，这直接反映了全球电动汽车和储能市场对高能量密度电池的爆发性需求。钴和锰的快速增长（分别达113%和93%）则主要受三元锂电池技术路线驱动，尤其是高镍低钴化趋势下，钴的绝对需求仍在增长，但增速已低于锂。相比之下，镍、石墨和磷的供应增速较为温和（约40%-44%），表明其作为基础材料（如用于负极或磷酸铁锂正极）的产能扩张相对稳健，市场供需结构更为成熟。整体来看，供应增速的差异揭示了电池技术迭代与产业链投资热点：锂资源成为战略争夺焦点，而钴、锰的供应增长则映射出技术路线的多元化探索。",
+      "glossary": [
+        {
+          "term": "锂",
+          "explanation": "电池正极关键材料，用于提升能量密度，是电动汽车电池的核心元素。"
+        },
+        {
+          "term": "三元锂电池",
+          "explanation": "指正极材料包含镍、钴、锰（或铝）的锂电池，具有高能量密度特点。"
+        },
+        {
+          "term": "磷酸铁锂",
+          "explanation": "一种电池正极材料，成本较低、安全性高，广泛应用于储能和部分电动汽车。"
+        }
+      ]
+    }
+  },
+  {
     "id": "afc5954c",
     "title": "Mapped: Which States Give More to Washington Than They Get Back",
     "original_url": "https://www.visualcapitalist.com/mapped-which-states-give-more-to-washington-then-they-get-back/",
