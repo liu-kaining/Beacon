@@ -40,7 +40,7 @@ def generate_analysis(title: str, content_md: str) -> dict | None:
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model=os.environ.get("OPENAI_MODEL", "gpt-4o"),
             temperature=0.2,
             response_format={"type": "json_object"},
             messages=[
