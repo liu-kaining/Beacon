@@ -1,0 +1,11 @@
+.git
+__pycache__
+*.pyc
+.env
+.venv
+data/
+docs/
+spec/
+*.md
+.gitignore
+LICENSE
