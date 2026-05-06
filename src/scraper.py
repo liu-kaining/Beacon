@@ -62,8 +62,12 @@ def _extract_text_and_lists(html_content: str) -> str:
     return "\n".join(parts)
 
 
-def _get_image_url(entry) -> str | None:
-    """Extract image URL from media:content or content:encoded."""
+def _get_image_url(entry, article_url: str) -> str | None:
+    """Get the best image URL for an article.
+
+    Priority: RSS media:content (reliable hero image) > og:image from page.
+    """
+    # RSS media:content is the most reliable source for the article hero image
     media_content = entry.get("media_content")
     if media_content:
         for media in media_content:
@@ -71,12 +75,18 @@ def _get_image_url(entry) -> str | None:
             if url:
                 return url
 
-    content_encoded = entry.get("content", [{}])[0].get("value", "")
-    if content_encoded:
-        soup = BeautifulSoup(content_encoded, "html.parser")
-        img = soup.find("img")
-        if img and img.get("src"):
-            return img["src"]
+    # Fallback: fetch article page and try og:image
+    try:
+        resp = requests.get(article_url, timeout=15, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; BeaconBot/1.0)"
+        })
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        og_image = soup.find("meta", property="og:image")
+        if og_image and og_image.get("content"):
+            return og_image["content"]
+    except Exception as e:
+        print(f"[scraper] Failed to fetch og:image from {article_url}: {e}")
 
     return None
 
@@ -104,7 +114,7 @@ def _parse_entry(entry) -> dict:
     text_content = _extract_text_and_lists(content_encoded)
     extracted_content = tables_md if tables_md else text_content
 
-    image_url = _get_image_url(entry)
+    image_url = _get_image_url(entry, url)
 
     return {
         "id": article_id,
