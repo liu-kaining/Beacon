@@ -1,5 +1,100 @@
 [
   {
+    "id": "5c91e6df",
+    "title": "How Government Debt Has Diverged Across Major Economies (2005–2025)",
+    "original_url": "https://www.visualcapitalist.com/government-debt-diverged-across-major-economies-2005-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5c91e6df.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiMUGnYppFWIbRSEUUwLxhpjRVeNRPUmPMyl5VFWDRTHzH/9k=",
+    "image_version": 1778181742,
+    "pub_date": "Thu, 07 May 2026 17:19:04 +0000",
+    "ai_analysis": {
+      "core_insight": "全球政府债务普遍飙升，新兴经济体增速尤为迅猛。",
+      "data_highlights": [
+        "中国债务率从26%飙升至96%，增幅高达70个百分点，为全球主要经济体中最大。",
+        "日本债务率从175%升至230%，绝对水平仍为全球最高，但增幅（55个百分点）低于中国、英国和美国。",
+        "新兴市场整体债务率从41%升至73%，增幅（32个百分点）与发达经济体（34个百分点）接近，显示债务扩张已成全球性现象。",
+        "德国、荷兰、沙特、土耳其等少数经济体债务率逆势下降，其中土耳其降幅最大（-26个百分点）。"
+      ],
+      "deep_dive": "数据显示，2005年至2025年间，全球主要经济体的政府债务率普遍大幅攀升，世界平均水平从68%升至95%。这一趋势背后是金融危机、新冠疫情等冲击下各国财政扩张的共同选择。中国以70个百分点的增幅位居榜首，反映了其过去二十年快速城镇化、基建投资及近年应对经济下行压力的财政发力。发达经济体中，英美债务率均突破100%，而日本虽增幅相对温和，但230%的绝对水平仍构成独特的财政挑战。值得注意的是，新兴市场整体债务增幅（32个百分点）与发达经济体（34个百分点）几乎持平，打破了“债务问题仅限于发达国家”的刻板印象，表明新兴市场在追赶过程中也积累了显著的财政风险。少数债务率下降的国家，如土耳其，往往经历了剧烈的经济调整或依赖特殊收入（如石油）。总体而言，高债务已成为全球经济的常态，未来如何平衡财政可持续性与经济增长将是各国共同面临的核心课题。",
+      "glossary": [
+        {
+          "term": "政府债务率（Debt-to-GDP）",
+          "explanation": "衡量一国政府债务总额占其国内生产总值（GDP）的比例，是评估财政健康度和债务可持续性的核心指标。"
+        },
+        {
+          "term": "百分点（p.p.）",
+          "explanation": "用于表示两个百分比数值之间的绝对差值。例如，从26%到96%的变化是增加了70个百分点。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9708c14",
+    "title": "Mapped: The U.S. Is Split on Legal Marijuana—Here’s Where",
+    "original_url": "https://www.visualcapitalist.com/the-us-states-where-recreational-marijuana-is-legal/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d9708c14.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmlWmyLxUqUkvSszJFMjminHrRVFH/2Q==",
+    "image_version": null,
+    "pub_date": "Sat, 02 May 2026 16:21:48 +0000",
+    "ai_analysis": {
+      "core_insight": "美国大麻合法化呈现显著的地理与政治分裂，东西海岸及中西部部分州已合法化，而南部及内陆州多持保守立场。",
+      "data_highlights": [
+        "全美50个州及华盛顿特区中，已有24个州及华盛顿特区实现娱乐用大麻合法化，占比约47%。",
+        "合法化州主要集中在东西海岸及五大湖区域，如加州、纽约、伊利诺伊等人口与经济大州。",
+        "南部及内陆保守州（如得州、佛州、佐治亚等）普遍未合法化，形成明显的地理分界线。",
+        "合法化州数量自2012年科罗拉多和华盛顿州率先立法以来持续增长，但进程不均。"
+      ],
+      "deep_dive": "美国大麻合法化进程深刻反映了其联邦制下的州权差异与社会文化分裂。从数据看，合法化州多位于政治倾向自由的沿海及大湖区，这些地区通常拥有更开放的立法环境、更强的税收驱动（如加州、科罗拉多州通过大麻税收补充财政）以及更活跃的公民倡议运动。相反，南部及内陆保守州受宗教、传统价值观及对公共安全的担忧影响，立法阻力较大。这种分裂不仅体现在法律层面，更延伸至经济与社会领域：合法化州已形成规模化的产业链，创造就业与税收，而禁止州则面临执法成本与黑市并存的挑战。值得注意的是，联邦层面的大麻仍被列为一类管制物质，与州法的冲突持续存在，这增加了跨州商业与监管的复杂性。未来，随着更多州考虑立法及联邦政策可能的调整，这一分裂格局或将逐步演变，但短期内地域差异仍将主导美国大麻政策的版图。",
+      "glossary": [
+        {
+          "term": "娱乐用大麻",
+          "explanation": "指非医疗目的、供成年人个人消遣使用的大麻，其合法化通常伴随年龄限制、销售许可与税收监管框架。"
+        },
+        {
+          "term": "联邦制",
+          "explanation": "美国政治体制中，联邦政府与州政府分享权力，各州在联邦宪法未禁止的领域拥有立法自主权，导致大麻政策出现州际差异。"
+        },
+        {
+          "term": "一类管制物质",
+          "explanation": "美国《管制物质法》中的最高管制级别，指被认定具有高滥用潜力且无公认医疗用途的药物，联邦法律下大麻目前仍属此类。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc01fecc",
+    "title": "Mapped: The World’s Most (and Least) Religiously Diverse Countries",
+    "original_url": "https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/dc01fecc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpjxSoeaGpE61xtnTFFkHiikXpRRcD/9k=",
+    "image_version": null,
+    "pub_date": "Sat, 02 May 2026 11:32:43 +0000",
+    "ai_analysis": {
+      "core_insight": "全球宗教多样性呈现显著地域差异，新加坡居首，中东及非洲部分国家垫底。",
+      "data_highlights": [
+        "新加坡以9.25的宗教多样性指数（RDI）位居全球第一，属于“非常高”多样性水平。",
+        "在2010-2020年间，智利的RDI得分增幅最大，从2.8跃升至5.1，增长了2.3点。",
+        "哈萨克斯坦的RDI得分在十年间下降了1.0点，从5.1降至4.1，是降幅最大的国家。",
+        "排名前八的国家（新加坡至贝宁）均属于“非常高”多样性水平，且RDI得分均超过7.0。"
+      ],
+      "deep_dive": "这份数据揭示了全球宗教格局的深刻分化。一方面，以新加坡、苏里南、台湾为代表的国家和地区展现出极高的宗教共存水平，这通常与移民社会、历史殖民影响或多元文化政策密切相关。另一方面，也门、阿富汗、索马里等国的RDI得分接近于零，反映出高度单一的宗教结构，这往往与政教合一、社会封闭或长期冲突有关。值得注意的是，过去十年间，部分国家的宗教多样性发生了显著变化。智利、爱尔兰、马耳他等国的RDI大幅上升，可能源于移民增加、世俗化或社会开放度的提升。相反，哈萨克斯坦、叙利亚等国的RDI下降，则可能与政治动荡、宗教迫害或人口结构变化有关。这种动态变化表明，宗教多样性并非静态，而是受到经济、政治和社会因素的持续塑造。对于宏观经济分析师而言，宗教多样性是衡量社会稳定性、文化包容性和潜在市场风险的一个重要非经济指标。",
+      "glossary": [
+        {
+          "term": "宗教多样性指数（RDI）",
+          "explanation": "一个量化指标，用于衡量一个国家或地区内不同宗教信仰群体的分布均衡程度。得分越高，表示宗教构成越多元、越分散。"
+        },
+        {
+          "term": "世俗化",
+          "explanation": "指社会逐渐脱离宗教影响，宗教在公共生活和个人信仰中的作用减弱的过程。"
+        },
+        {
+          "term": "政教合一",
+          "explanation": "一种政治体制，其中国家政权与特定宗教紧密结合，宗教领袖或教义直接指导国家法律和政策。"
+        }
+      ]
+    }
+  },
+  {
     "id": "e0fe73fa",
     "title": "Ranked: The States Getting More From Education Dollars",
     "original_url": "https://www.visualcapitalist.com/ranked-states-getting-more-from-education-dollars/",
@@ -487,21 +582,6 @@
     }
   },
   {
-    "id": "d9708c14",
-    "title": "Mapped: The U.S. Is Split on Legal Marijuana—Here’s Where",
-    "original_url": "https://www.visualcapitalist.com/the-us-states-where-recreational-marijuana-is-legal/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/d9708c14.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmlWmyLxUqUkvSszJFMjminHrRVFH/2Q==",
-    "image_version": 1778168608,
-    "pub_date": "Sat, 02 May 2026 16:21:48 +0000",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "22e0f470",
     "title": "Ranked: The World’s Most Powerful Passports in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-most-powerful-passports-2026/",
@@ -532,21 +612,6 @@
           "explanation": "指一个国家通过文化、政治价值观和外交政策等非强制性方式吸引和影响他国的能力，与护照实力高度相关。"
         }
       ]
-    }
-  },
-  {
-    "id": "dc01fecc",
-    "title": "Mapped: The World’s Most (and Least) Religiously Diverse Countries",
-    "original_url": "https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/dc01fecc.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpjxSoeaGpE61xtnTFFkHiikXpRRcD/9k=",
-    "image_version": 1778168637,
-    "pub_date": "Sat, 02 May 2026 11:32:43 +0000",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
