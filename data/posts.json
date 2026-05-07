@@ -1,5 +1,37 @@
 [
   {
+    "id": "e0fe73fa",
+    "title": "Ranked: The States Getting More From Education Dollars",
+    "original_url": "https://www.visualcapitalist.com/ranked-states-getting-more-from-education-dollars/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e0fe73fa.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAkABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuGSmheamfiot3NYXKHbaKA1FPUYkrYquHyaZNMPWq6zDd1rRQOZ1NTQB4oqBZhjrRSsXzGdKx9agDHPWiitOhx9SYO2OtFFFSan//2Q==",
+    "image_version": 1778167492,
+    "pub_date": "Thu, 07 May 2026 14:12:19 +0000",
+    "ai_analysis": {
+      "core_insight": "教育投入与产出效率差异显著，部分州以较低投入实现高绩效。",
+      "data_highlights": [
+        "佛罗里达州效率差距最大（+23），以第47位的投入获得第24位的绩效。",
+        "阿拉斯加州效率差距最小（-30），以第19位的投入仅获第49位的绩效。",
+        "纽约州和亚利桑那州效率差距为0，投入与绩效排名完全匹配。"
+      ],
+      "deep_dive": "数据显示，教育资金投入与绩效产出之间并非简单的线性关系。效率差距（绩效排名减去资金排名）揭示了各州的教育投资效率。佛罗里达州、田纳西州和威斯康星州等效率差距为正且较大的州，表明它们能以相对较少的财政投入，取得远超预期的教育成果，这可能得益于更有效的资源配置、管理创新或特定的教育政策。相反，阿拉斯加州、俄勒冈州和新墨西哥州等效率差距为负且绝对值较大的州，尽管投入排名靠前，但绩效排名靠后，反映出可能存在资金使用效率低下、成本结构过高或面临独特的地理、人口挑战。纽约州和亚利桑那州效率差距为零，实现了投入与产出的精准匹配。这一分析强调了单纯增加教育支出并非提升绩效的万能钥匙，优化资金使用效率、因地制宜地制定政策同样至关重要。",
+      "glossary": [
+        {
+          "term": "效率差距",
+          "explanation": "指绩效排名与公共学校资金排名的差值。正值表示以较低投入获得较高绩效，负值则相反。"
+        },
+        {
+          "term": "绩效排名",
+          "explanation": "基于2025年数据对各州公立学校教育成果的综合评估排名。"
+        },
+        {
+          "term": "公共学校资金排名",
+          "explanation": "基于各州对公立学校的财政投入水平进行的排名。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ef2fccc1",
     "title": "Mapped: Where Housing Takes the Biggest Share of Income",
     "original_url": "https://www.visualcapitalist.com/mapped-housing-biggest-share-of-income-us-states/",
