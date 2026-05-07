@@ -58,6 +58,7 @@ def upload_to_r2(image_bytes: bytes, article_id: str) -> str:
         Key=key,
         Body=webp_bytes,
         ContentType="image/webp",
+        CacheControl="no-cache, max-age=0",
     )
 
     return f"https://{public_domain}/{key}"

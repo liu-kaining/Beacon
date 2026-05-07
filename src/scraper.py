@@ -21,17 +21,40 @@ def _pick_best_image_from_content_encoded(content_encoded: str) -> str | None:
         return None
 
     soup = BeautifulSoup(content_encoded, "html.parser")
-    imgs = []
-    for img in soup.find_all("img"):
-        src = img.get("src") or ""
-        if not src:
+    imgs: list[str] = []
+
+    # Prefer the RSS visualization block if present.
+    rss_block = soup.find("div", class_="rss-image")
+    roots = [rss_block] if rss_block else [soup]
+
+    deny_substrings = (
+        "voronoi",
+        "cropped-logo",
+        "logo",
+        "icon",
+        "app-store",
+        "google-play",
+        "webinar",
+        "register",
+        "banner",
+        "sponsor",
+        "doubleclick",
+        "adserver",
+    )
+
+    for root in roots:
+        if not root:
             continue
-        # Skip obvious non-visual assets (e.g. Voronoi icon, site logo)
-        if "voronoi" in src or "cropped-logo" in src:
-            continue
-        if "wp-content/uploads/" not in src:
-            continue
-        imgs.append(src)
+        for img in root.find_all("img"):
+            src = img.get("src") or ""
+            if not src:
+                continue
+            if "wp-content/uploads/" not in src:
+                continue
+            low = src.lower()
+            if any(bad in low for bad in deny_substrings):
+                continue
+            imgs.append(src)
 
     if not imgs:
         return None
@@ -43,6 +66,8 @@ def _pick_best_image_from_content_encoded(content_encoded: str) -> str | None:
             bonus += 100
         if "share" in uu:
             bonus -= 50
+        if any(k in uu for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
+            bonus -= 200
         # Prefer webp/png over jpg when otherwise equal
         if uu.endswith(".webp"):
             bonus += 5

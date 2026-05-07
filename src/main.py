@@ -2,6 +2,7 @@
 
 import json
 import os
+import time
 
 from dotenv import load_dotenv
 
@@ -87,6 +88,11 @@ def main() -> None:
                 result = process_image(article["image_url"], article["id"])
                 if result:
                     r2_image_url, base64_blur = result
+                    image_version = int(time.time())
+                else:
+                    image_version = None
+            else:
+                image_version = None
 
             # Generate AI analysis
             ai_analysis = None
@@ -108,6 +114,7 @@ def main() -> None:
                 "original_url": article["original_url"],
                 "r2_image_url": r2_image_url,
                 "base64_blur": base64_blur,
+                "image_version": image_version,
                 "pub_date": article["pub_date"],
                 "ai_analysis": ai_analysis,
             }

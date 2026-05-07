@@ -35,6 +35,8 @@ def _score_url(url: str) -> tuple[int, int]:
         score += 100
     if "share" in u:
         score -= 50
+    if any(k in u for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
+        score -= 200
     if u.endswith(".webp"):
         score += 5
     return (score, len(url))
@@ -45,24 +47,34 @@ def _pick_best_image_from_html(html: str) -> str | None:
 
     candidates: list[str] = []
 
-    # Prefer content images inside the article.
-    for img in soup.find_all("img"):
-        src = img.get("src") or ""
-        if not src:
-            continue
-        if "wp-content/uploads/" not in src:
-            continue
-        if "voronoi" in src or "cropped-logo" in src:
-            continue
-        candidates.append(src)
+    # Strong preference: rss-image block contains the intended visualization.
+    rss_block = soup.find("div", class_="rss-image")
+    search_roots = [rss_block] if rss_block else [soup]
 
-        # Also consider srcset (often contains higher-res variants)
-        srcset = img.get("srcset") or ""
-        if srcset:
-            for part in srcset.split(","):
-                url_part = part.strip().split(" ")[0]
-                if "wp-content/uploads/" in url_part:
-                    candidates.append(url_part)
+    # Prefer content images inside the article.
+    for root in search_roots:
+        if not root:
+            continue
+        for img in root.find_all("img"):
+            src = img.get("src") or ""
+            if not src:
+                continue
+            if "wp-content/uploads/" not in src:
+                continue
+            low = src.lower()
+            if any(k in low for k in ("voronoi", "cropped-logo", "logo", "icon", "app-store", "google-play")):
+                continue
+            if any(k in low for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
+                continue
+            candidates.append(src)
+
+            # Also consider srcset (often contains higher-res variants)
+            srcset = img.get("srcset") or ""
+            if srcset:
+                for part in srcset.split(","):
+                    url_part = part.strip().split(" ")[0]
+                    if "wp-content/uploads/" in url_part:
+                        candidates.append(url_part)
 
     if not candidates:
         # Fallback: og:image (often a share card)
@@ -198,6 +210,7 @@ def backfill(
         post["r2_image_url"] = r2_url
         post["base64_blur"] = blur
         post["source_image_url"] = best_image_url
+        post["image_version"] = int(time.time())
         updated += 1
 
         if updated % 10 == 0:
