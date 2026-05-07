@@ -1,0 +1,76 @@
+name: Backfill Images (Overwrite R2)
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Only process N posts (blank = all)"
+        required: false
+        default: ""
+      max_feed_pages:
+        description: "RSS pagination depth"
+        required: false
+        default: "12"
+      no_feed:
+        description: "Skip RSS mapping; fetch each article page directly"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t beacon-app .
+
+      - name: Backfill images (overwrite R2 objects)
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_PUBLIC_DOMAIN: ${{ secrets.R2_PUBLIC_DOMAIN }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ inputs.limit }}"
+          fi
+          if [ -n "${{ inputs.max_feed_pages }}" ]; then
+            ARGS="$ARGS --max-feed-pages ${{ inputs.max_feed_pages }}"
+          fi
+          if [ "${{ inputs.no_feed }}" = "true" ]; then
+            ARGS="$ARGS --no-feed"
+          fi
+
+          docker run \
+            -e R2_ACCESS_KEY_ID \
+            -e R2_SECRET_ACCESS_KEY \
+            -e R2_ENDPOINT_URL \
+            -e R2_BUCKET_NAME \
+            -e R2_PUBLIC_DOMAIN \
+            -v ${{ github.workspace }}/data:/app/data \
+            -v ${{ github.workspace }}/docs:/app/docs \
+            beacon-app \
+            uv run python src/backfill_images.py $ARGS
+
+      - name: Render site
+        run: |
+          docker run \
+            -v ${{ github.workspace }}/data:/app/data \
+            -v ${{ github.workspace }}/docs:/app/docs \
+            beacon-app \
+            uv run python -c "import sys; sys.path.insert(0,'src'); from renderer import render_site; render_site()"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "beacon: backfill full images"
+          file_pattern: "data/*.json docs/*.html"
+

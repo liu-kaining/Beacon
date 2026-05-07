@@ -1,13 +1,54 @@
 """RSS feed scraper for Visual Capitalist."""
 
 import hashlib
-import re
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 
 FEED_URL = "https://www.visualcapitalist.com/feed/"
+
+
+def _pick_best_image_from_content_encoded(content_encoded: str) -> str | None:
+    """Pick the best (largest) visualization image from RSS content:encoded HTML.
+
+    Visual Capitalist's feed often includes:
+    - a 1200x628 "SHARE" card in media:content/enclosure
+    - a larger "SITE/website" visualization image inside content:encoded
+    We prefer the SITE/website visualization when available.
+    """
+    if not content_encoded:
+        return None
+
+    soup = BeautifulSoup(content_encoded, "html.parser")
+    imgs = []
+    for img in soup.find_all("img"):
+        src = img.get("src") or ""
+        if not src:
+            continue
+        # Skip obvious non-visual assets (e.g. Voronoi icon, site logo)
+        if "voronoi" in src or "cropped-logo" in src:
+            continue
+        if "wp-content/uploads/" not in src:
+            continue
+        imgs.append(src)
+
+    if not imgs:
+        return None
+
+    def score(u: str) -> tuple[int, int]:
+        uu = u.lower()
+        bonus = 0
+        if "_site" in uu or "website" in uu:
+            bonus += 100
+        if "share" in uu:
+            bonus -= 50
+        # Prefer webp/png over jpg when otherwise equal
+        if uu.endswith(".webp"):
+            bonus += 5
+        return (bonus, len(u))
+
+    return sorted(imgs, key=score, reverse=True)[0]
 
 
 def _table_to_markdown(table_tag: BeautifulSoup) -> str:
@@ -65,8 +106,16 @@ def _extract_text_and_lists(html_content: str) -> str:
 def _get_image_url(entry, article_url: str) -> str | None:
     """Get the best image URL for an article.
 
-    Priority: RSS media:content (reliable hero image) > og:image from page.
+    Priority: content:encoded SITE/website img > RSS media:content (usually SHARE) > og:image from page.
     """
+    # Best source: content:encoded often includes the real visualization image (SITE/website)
+    content_encoded = ""
+    if entry.get("content"):
+        content_encoded = entry["content"][0].get("value", "")
+    best_from_content = _pick_best_image_from_content_encoded(content_encoded)
+    if best_from_content:
+        return best_from_content
+
     # RSS media:content is the most reliable source for the article hero image
     media_content = entry.get("media_content")
     if media_content:
@@ -141,6 +190,10 @@ def fetch_articles(existing_urls: set[str] | None = None) -> list[dict]:
     for page in range(1, MAX_PAGES + 1):
         url = FEED_URL if page == 1 else f"{FEED_URL}?paged={page}"
         feed = feedparser.parse(url)
+
+        if getattr(feed, "bozo", False):
+            err = getattr(feed, "bozo_exception", None)
+            print(f"[scraper] Feed parse warning on page {page}: {err}")
 
         if not feed.entries:
             break

@@ -1,9 +1,9 @@
 """Image processing and Cloudflare R2 storage."""
 
 import base64
-import hashlib
 import io
 import os
+import time
 
 import boto3
 import requests
@@ -44,6 +44,8 @@ def upload_to_r2(image_bytes: bytes, article_id: str) -> str:
 
     # Convert to WebP for better compression
     img = Image.open(io.BytesIO(image_bytes))
+    # Force full decode now so we don't upload partially decoded bytes.
+    img.load()
     buffer = io.BytesIO()
     img.convert("RGB").save(buffer, format="WEBP", quality=90)
     webp_bytes = buffer.getvalue()
@@ -63,13 +65,46 @@ def upload_to_r2(image_bytes: bytes, article_id: str) -> str:
 
 def download_image(url: str) -> bytes | None:
     """Download image from URL and return bytes."""
-    try:
-        resp = requests.get(url, timeout=30)
-        resp.raise_for_status()
-        return resp.content
-    except Exception as e:
-        print(f"[storage] Failed to download image from {url}: {e}")
-        return None
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; BeaconBot/1.0)"}
+    last_err: Exception | None = None
+
+    for attempt in range(1, 4):
+        try:
+            resp = requests.get(url, timeout=45, headers=headers, stream=True)
+            resp.raise_for_status()
+
+            expected_len = resp.headers.get("Content-Length")
+            buf = io.BytesIO()
+            for chunk in resp.iter_content(chunk_size=1024 * 128):
+                if chunk:
+                    buf.write(chunk)
+            data = buf.getvalue()
+
+            if expected_len is not None:
+                try:
+                    expected = int(expected_len)
+                    if expected > 0 and len(data) != expected:
+                        raise IOError(
+                            f"incomplete download: got {len(data)} bytes, expected {expected}"
+                        )
+                except ValueError:
+                    # Ignore invalid Content-Length
+                    pass
+
+            # Validate the image can be fully decoded (catches truncated files).
+            img = Image.open(io.BytesIO(data))
+            img.load()
+
+            return data
+
+        except Exception as e:
+            last_err = e
+            wait_s = 0.6 * attempt
+            print(f"[storage] Download attempt {attempt} failed for {url}: {e}")
+            time.sleep(wait_s)
+
+    print(f"[storage] Failed to download image from {url}: {last_err}")
+    return None
 
 
 def process_image(image_url: str, article_id: str) -> tuple[str, str] | None:

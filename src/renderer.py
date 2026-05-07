@@ -15,8 +15,17 @@ def render_site() -> None:
     output_dir = os.path.join(PROJECT_ROOT, "docs")
     output_path = os.path.join(output_dir, "index.html")
 
-    with open(data_path, "r", encoding="utf-8") as f:
-        posts = json.load(f)
+    try:
+        with open(data_path, "r", encoding="utf-8") as f:
+            posts = json.load(f)
+        if not isinstance(posts, list):
+            print(f"[renderer] Invalid posts format in {data_path}, expected list.")
+            posts = []
+    except FileNotFoundError:
+        posts = []
+    except json.JSONDecodeError as e:
+        print(f"[renderer] Failed to parse {data_path}: {e}")
+        posts = []
 
     env = Environment(loader=FileSystemLoader(template_dir))
     template = env.get_template("index.jinja2")
