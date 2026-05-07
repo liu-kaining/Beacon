@@ -1,5 +1,33 @@
 [
   {
+    "id": "ef2fccc1",
+    "title": "Mapped: Where Housing Takes the Biggest Share of Income",
+    "original_url": "https://www.visualcapitalist.com/mapped-housing-biggest-share-of-income-us-states/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ef2fccc1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrnbNPiPNQN1qaGvP5nc7ZRVi4p4opB0orS5hY/9k=",
+    "pub_date": "Thu, 07 May 2026 12:07:35 +0000",
+    "ai_analysis": {
+      "core_insight": "美国住房成本负担呈现显著地域差异，夏威夷和加州远超全国平均水平。",
+      "data_highlights": [
+        "夏威夷州住房成本占家庭月收入中位数的50.02%，位居全国首位，负担极重。",
+        "加利福尼亚州紧随其后，占比达43.00%，与夏威夷同属第一梯队。",
+        "排名前10的州中，有8个位于美国西部，显示西部地区住房压力普遍较大。",
+        "负担最轻的州为爱荷华州，占比仅为17.26%，与最重的夏威夷相差近33个百分点。"
+      ],
+      "deep_dive": "数据显示，美国住房成本负担存在巨大的地域鸿沟。以夏威夷和加利福尼亚为代表的西部及沿海州，住房支出占收入比例极高，远超30%的国际公认警戒线。这主要源于这些地区土地资源稀缺、人口持续流入、经济活力强劲以及严格的土地使用法规，共同推高了房价和租金。相比之下，中西部和南部的传统农业或工业州，如爱荷华、堪萨斯、西弗吉尼亚等，住房负担则轻得多，这通常与当地较低的生活成本、人口增长放缓以及相对充裕的住房供应有关。这种分化不仅反映了区域经济发展的不均衡，也对劳动力流动、企业选址和居民生活质量产生了深远影响。高住房成本地区的居民可支配收入被严重挤压，可能抑制消费和加剧社会不平等。",
+      "glossary": [
+        {
+          "term": "住房成本负担率",
+          "explanation": "指住房相关支出（如房贷、租金、税费、保险等）占家庭总收入的比例，是衡量住房可负担性的核心指标。通常认为超过30%即构成“成本负担”。"
+        },
+        {
+          "term": "家庭月收入中位数",
+          "explanation": "将所有家庭的月收入从低到高排列后，位于正中间的那个数值。它比平均数更能反映普通家庭的典型收入水平，避免被极高或极低收入者扭曲。"
+        }
+      ]
+    }
+  },
+  {
     "id": "1e302982",
     "title": "Ranked: The Fastest-Growing Battery Materials Since 2020",
     "original_url": "https://www.visualcapitalist.com/fastest-growing-battery-materials-since-2020/",
