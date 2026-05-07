@@ -2,6 +2,7 @@
 
 import hashlib
 
+import os
 import feedparser
 import requests
 from bs4 import BeautifulSoup
@@ -172,7 +173,7 @@ def _generate_stable_id(url: str) -> str:
     return hashlib.md5(normalized.encode()).hexdigest()[:8]
 
 
-MAX_PAGES = 10
+MAX_PAGES = int(os.environ.get("BEACON_MAX_PAGES", "30"))
 
 
 def _parse_entry(entry) -> dict:
