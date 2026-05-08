@@ -1,5 +1,66 @@
 [
   {
+    "id": "1be4d27a",
+    "title": "Ranked: The World’s 20 Busiest Ports",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-busiest-ports/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1be4d27a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsyafGajanR0i2iyDxRSDpRTJP/9k=",
+    "image_version": 1778256441,
+    "pub_date": "Fri, 08 May 2026 15:39:18 +0000",
+    "ai_analysis": {
+      "core_insight": "中国港口在全球航运格局中占据绝对主导地位。",
+      "data_highlights": [
+        "前20大港口中，中国占据11席，且包揽前6名中的5席。",
+        "上海港以51.5百万标准箱的吞吐量稳居全球第一，领先第二名新加坡港超10百万标准箱。",
+        "亚洲港口（含中东）占据前20名中的17席，凸显全球贸易重心。",
+        "美国仅有洛杉矶和长滩两港入围，且排名靠后，合计吞吐量不足20百万标准箱。"
+      ],
+      "deep_dive": "2024年全球前20大港口排名清晰地揭示了全球供应链与贸易流的地理重心。中国以压倒性优势主导榜单，其11个上榜港口的总吞吐量远超其他国家，这直接反映了中国作为“世界工厂”的制造业基础、庞大的内需市场以及高效的港口基础设施网络。上海港的领先地位尤为稳固，其吞吐量比肩新加坡与宁波舟山港之和，巩固了其作为全球航运枢纽的核心地位。值得注意的是，亚洲港口（包括东南亚、东北亚及中东）几乎垄断了榜单，这表明全球制造业和消费市场高度集中于亚太地区，跨太平洋和亚欧航线是全球贸易的主动脉。相比之下，欧美传统港口如鹿特丹、安特卫普-布鲁日虽仍位列前20，但增长相对平缓，而美国港口的排名和吞吐量则凸显了其在集装箱航运领域相对有限的全球份额。马来西亚的巴生港和丹戎帕拉帕斯港双双上榜，显示了马六甲海峡作为关键航运通道的战略价值。整体而言，这份榜单是观察全球实体经济活动、区域经济活力及地缘经济格局的一个关键窗口。",
+      "glossary": [
+        {
+          "term": "TEU",
+          "explanation": "标准箱，Twenty-foot Equivalent Unit的缩写，是衡量集装箱港口吞吐量的标准计量单位，通常指一个20英尺长的集装箱。"
+        },
+        {
+          "term": "吞吐量",
+          "explanation": "指在一定时期内，港口实际装卸货物的总量，是衡量港口规模和业务繁忙程度的核心指标。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e02ad1ba",
+    "title": "Ranked: The World’s Largest Oil Stockpiles",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-largest-oil-stockpiles-in-the-world/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e02ad1ba.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCjNJUSPk0k1Mj60y7FwHiimr0oqQsf/9k=",
+    "image_version": 1778256455,
+    "pub_date": "Fri, 08 May 2026 13:32:25 +0000",
+    "ai_analysis": {
+      "core_insight": "中国战略石油储备远超美国，全球能源安全格局深刻重塑。",
+      "data_highlights": [
+        "中国以13.97亿桶的预估储量位居全球第一，是第二名美国（4.13亿桶）的3.4倍。",
+        "亚洲主要经济体（中、日、韩、印）合计储量达17.6亿桶，占全球前九名总储量的近70%。",
+        "主要产油国沙特、伊朗、阿联酋的储备总和（1.87亿桶）远低于多数消费国，凸显其依赖即时产能而非库存缓冲。"
+      ],
+      "deep_dive": "这份2025年末的战略石油储备排名揭示了全球能源权力与安全逻辑的根本性转变。中国以压倒性的13.97亿桶储备量高居榜首，这不仅是其长期系统性能源安全战略的成果，更标志着其在全球能源市场中的影响力已从单纯的消费端向储备调控端延伸，具备了更强的供应冲击缓冲能力和潜在的价格影响力。相比之下，美国的储备量（4.13亿桶）虽仍居第二，但与中国差距悬殊，反映出两国在能源安全投入力度和战略优先级上的差异。值得注意的是，亚洲消费国集团（中日韩印）的储备总量占据绝对主导，表明该地区对稳定能源供应的集体焦虑与战略布局。而沙特、伊朗等传统产油国的储备量相对有限，这与其“生产者”角色相符，但也意味着在极端情况下，其调节全球市场的库存工具相对较少。整体来看，数据描绘了一个由消费大国，特别是中国，通过巨额储备来主导能源安全话语权的新时代。",
+      "glossary": [
+        {
+          "term": "战略石油储备",
+          "explanation": "一国政府为应对短期供应中断、平抑油价波动而持有的原油库存，是国家能源安全的核心保障。"
+        },
+        {
+          "term": "OECD欧洲",
+          "explanation": "经济合作与发展组织的欧洲成员国集合，是分析区域能源数据时常用的统计范畴。"
+        },
+        {
+          "term": "百万桶",
+          "explanation": "石油计量单位，1百万桶约合13.6万吨，是衡量国家或地区石油储备规模的标准单位。"
+        }
+      ]
+    }
+  },
+  {
     "id": "354a1894",
     "title": "Mapped: Where Young Americans Still Own Homes",
     "original_url": "https://www.visualcapitalist.com/where-young-americans-still-own-homes/",
