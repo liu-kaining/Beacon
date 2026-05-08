@@ -1,5 +1,34 @@
 [
   {
+    "id": "354a1894",
+    "title": "Mapped: Where Young Americans Still Own Homes",
+    "original_url": "https://www.visualcapitalist.com/where-young-americans-still-own-homes/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/354a1894.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDDjtT6US2xA6VpwBaLgLtrnjUdz0Gc+0XzdKKuOBvNFbcwE8cxFEs5I61EKjk6VKgrnN7RkbPlqKjPWitLIfOz/9k=",
+    "image_version": 1778245434,
+    "pub_date": "Fri, 08 May 2026 11:38:06 +0000",
+    "ai_analysis": {
+      "core_insight": "美国年轻群体住房拥有率呈现显著地域分化，中西部与南部州表现突出。",
+      "data_highlights": [
+        "明尼苏达州以50.8%的住房拥有率位居榜首，远高于全国平均水平。",
+        "夏威夷州住房拥有率最低（24.5%），但其平均房价高达82.99万美元，为全国最高。",
+        "西弗吉尼亚州房价最低（15.83万美元），但其年轻群体住房拥有率（49.9%）位列前三。",
+        "加利福尼亚州和纽约州住房拥有率均低于28%，与高房价和高收入形成鲜明对比。"
+      ],
+      "deep_dive": "数据显示，美国年轻群体（35岁以下）的住房拥有率与房价、收入并非简单的线性关系。高房价地区如夏威夷、加利福尼亚和纽约，住房拥有率均低于28%，表明房价是阻碍年轻人购房的主要壁垒。然而，高收入并未完全抵消这一影响，例如新泽西州收入最高（10.63万美元），但住房拥有率仅为38.7%。相反，中西部和南部的许多州，如明尼苏达、密歇根、西弗吉尼亚，凭借相对较低的房价（普遍低于30万美元）和适中的收入水平，实现了接近或超过49%的住房拥有率。这揭示了区域经济结构、生活成本与住房可负担性之间的深层关联。对于政策制定者而言，提升年轻人住房拥有率的关键可能在于控制房价、增加可负担住房供应，而非单纯追求收入增长。",
+      "glossary": [
+        {
+          "term": "住房拥有率",
+          "explanation": "指在特定年龄群体中，拥有自有住房的家庭户数占该群体总家庭户数的百分比。"
+        },
+        {
+          "term": "住房可负担性",
+          "explanation": "衡量普通家庭（尤其是中低收入家庭）购买或租赁住房的经济能力，通常与房价收入比相关。"
+        }
+      ]
+    }
+  },
+  {
     "id": "5c91e6df",
     "title": "How Government Debt Has Diverged Across Major Economies (2005–2025)",
     "original_url": "https://www.visualcapitalist.com/government-debt-diverged-across-major-economies-2005-2025/",
