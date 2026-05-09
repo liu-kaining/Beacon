@@ -1,5 +1,38 @@
 [
   {
+    "id": "c655a850",
+    "title": "Ranked: The Top Car Brand in 61 Countries",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-top-car-brand-in-61-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c655a850.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnraPOKuND8tQWfUVokfJW8loRT3Ml4fmoq04G40VznRY//9k=",
+    "image_version": 1778330780,
+    "pub_date": "Sat, 09 May 2026 11:52:13 +0000",
+    "ai_analysis": {
+      "core_insight": "丰田在全球61国中占据绝对主导，但区域市场呈现高度分化。",
+      "data_highlights": [
+        "丰田在28个国家（占比46%）位居销量榜首，覆盖亚洲、中东、非洲及美洲。",
+        "大众在德国、奥地利、瑞士、英国等欧洲核心市场领先，体现其本土优势。",
+        "中国品牌比亚迪在中国和新加坡市场登顶，越南品牌VinFast在本土市场领先，显示新兴市场本土品牌的崛起。",
+        "特斯拉在挪威成为最受欢迎品牌，凸显其在电动车渗透率最高市场的成功。"
+      ],
+      "deep_dive": "这份全球汽车品牌排名揭示了清晰的区域市场格局与竞争态势。丰田凭借其可靠性、燃油经济性和广泛的全球布局，在近半数国家中占据销量首位，尤其在亚洲、中东和非洲市场建立了强大壁垒。然而，市场并非铁板一块：欧洲市场由本土品牌主导，如大众在德国、雷诺在法国、菲亚特在意大利，体现了消费者对本土品牌的偏好和品牌忠诚度。新兴市场则呈现出有趣的分化，中国品牌比亚迪在中国和新加坡的成功，以及越南VinFast在本土的领先，表明在电动化转型和本土化战略下，新兴市场品牌正对传统巨头构成挑战。特斯拉在挪威的登顶，则是电动车政策与市场接受度共同作用的典型案例。整体来看，全球汽车市场是全球化品牌与区域化偏好交织的复杂战场。",
+      "glossary": [
+        {
+          "term": "市场渗透率",
+          "explanation": "指某一产品在特定市场中的销售量占该市场总潜在销售量的比例，用于衡量产品的市场接受程度。"
+        },
+        {
+          "term": "本土化战略",
+          "explanation": "企业为适应东道国市场环境，在产品设计、营销、供应链等方面进行的本地调整策略。"
+        },
+        {
+          "term": "品牌忠诚度",
+          "explanation": "消费者对特定品牌产生的持续偏好和重复购买行为，是品牌资产的重要组成部分。"
+        }
+      ]
+    }
+  },
+  {
     "id": "1be4d27a",
     "title": "Ranked: The World’s 20 Busiest Ports",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-busiest-ports/",
