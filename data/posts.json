@@ -1,5 +1,38 @@
 [
   {
+    "id": "896825a0",
+    "title": "Just One Lake on Earth Is Over a Mile Deep",
+    "original_url": "https://www.visualcapitalist.com/just-one-lake-on-earth-is-over-a-mile-deep/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/896825a0.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDBNznvSfaPeqAp1dqkzynTRc+0UVRNFVzMn2UT/9k=",
+    "image_version": 1778341171,
+    "pub_date": "Sat, 09 May 2026 14:44:00 +0000",
+    "ai_analysis": {
+      "core_insight": "贝加尔湖深度独占鳌头，是唯一深度超1英里的湖泊。",
+      "data_highlights": [
+        "贝加尔湖最大深度达1642米，是全球唯一深度超过1英里（1609米）的湖泊。",
+        "深度排名前五的湖泊中，贝加尔湖的深度比第二名的坦噶尼喀湖高出172米，优势显著。",
+        "榜单中深度超过1000米的湖泊仅贝加尔湖、坦噶尼喀湖、里海和沃斯托克湖四座。",
+        "深度排名第十的印尼马塔诺湖深度为590米，不及贝加尔湖的三分之一。"
+      ],
+      "deep_dive": "这份关于地球最深湖泊的排名揭示了一个极端的地理集中现象：贝加尔湖以1642米的惊人深度，在深度维度上形成了绝对的领先地位，是唯一深度突破1英里（约1609米）门槛的天然湖泊。其深度不仅远超排名第二的坦噶尼喀湖（1470米），甚至比排名第三的里海（1025米）深出超过600米，这在全球水体地貌中极为罕见。从地理分布看，深度超过1000米的顶级深湖仅分布在俄罗斯、东非大裂谷、南极洲等少数特定地质活跃区域，这强烈暗示了板块构造活动（如裂谷形成）是塑造这些超深湖泊的核心动力。例如，贝加尔湖和坦噶尼喀湖均位于大陆裂谷带。值得注意的是，榜单中也包含里海、沃斯托克湖等特殊水体，它们虽被冠以“湖”名，但前者为海迹湖，后者为南极冰下湖，其深度成因与常规构造湖有所不同。总体而言，这份排名不仅是简单的数据列表，更是解读地球板块运动历史和极端地貌形成机制的窗口。",
+      "glossary": [
+        {
+          "term": "最大深度",
+          "explanation": "指从湖泊水面到湖底最低点的垂直距离，是衡量湖泊水体体积和地貌特征的关键指标。"
+        },
+        {
+          "term": "大陆裂谷",
+          "explanation": "地壳板块拉张、断裂形成的巨大线状凹陷，常形成深水湖泊和峡谷，东非大裂谷和贝加尔湖裂谷是典型代表。"
+        },
+        {
+          "term": "海迹湖",
+          "explanation": "原为海洋的一部分，后因地质运动（如地壳抬升、沙洲封闭）与海洋分离而形成的湖泊，如里海和咸海。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c655a850",
     "title": "Ranked: The Top Car Brand in 61 Countries",
     "original_url": "https://www.visualcapitalist.com/ranked-the-top-car-brand-in-61-countries/",
