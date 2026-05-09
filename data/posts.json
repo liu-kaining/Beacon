@@ -1,5 +1,38 @@
 [
   {
+    "id": "a343a349",
+    "title": "Mapped: The States Paying the Most for Gas Relative to Income",
+    "original_url": "https://www.visualcapitalist.com/mapped-states-paying-most-for-gas-relative-to-income/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a343a349.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrJhio42w1WJxxVUferz2tTsT0LqyfLRUK9KK1Mz//2Q==",
+    "image_version": 1778352080,
+    "pub_date": "Sat, 09 May 2026 17:47:14 +0000",
+    "ai_analysis": {
+      "core_insight": "油价负担重且与收入严重不匹配的州多为美国中南部低收入地区。",
+      "data_highlights": [
+        "西弗吉尼亚州油价占收入比高达5.2%，位居全美首位。",
+        "印第安纳州最低工资收入者加满一箱油需花费近25%的周薪，负担最重。",
+        "加州虽油价最高（$6.10），但高收入使其负担率（4.5%）相对适中。",
+        "高收入州（如马萨诸塞州、新泽西州）油价负担率普遍低于3.5%。"
+      ],
+      "deep_dive": "这份数据揭示了美国各州居民在能源支出上面临的截然不同的经济压力。核心矛盾在于，油价的绝对水平与居民的实际购买力并不完全对应。负担最重的州（如西弗吉尼亚、俄亥俄、密歇根）并非油价最高的地区，而是那些中等油价与相对较低中位收入相结合的州。更关键的对比来自最低工资人群：在印第安纳州，以最低工资计算，加满一箱油竟占去周收入的近四分之一，这清晰地反映了低收入群体在通货膨胀下面临的生存压力。反之，在加州、纽约等高收入州，尽管汽油名义价格高昂，但占收入的比例却显著更低。这种分化凸显了美国区域经济发展不均衡的现实，能源成本的重担不成比例地落在了收入较低的州和最脆弱的劳动者身上，可能进一步加剧地区间的经济差距和社会不平等。",
+      "glossary": [
+        {
+          "term": "中位周收入",
+          "explanation": "指将某一州所有全职雇员的周收入按从低到高排序后，位于正中间位置的收入数值，比平均收入更能反映普通居民的典型收入水平。"
+        },
+        {
+          "term": "油价负担率",
+          "explanation": "指加满一箱汽油的费用占居民周收入的百分比，是衡量汽油价格对个人或家庭财务压力的核心相对指标。"
+        },
+        {
+          "term": "最低工资收入者",
+          "explanation": "指其收入恰好等于该州法定最低工资标准的劳动者。计算他们加满一箱油的成本占比，能极端地反映能源价格对低收入阶层的冲击。"
+        }
+      ]
+    }
+  },
+  {
     "id": "896825a0",
     "title": "Just One Lake on Earth Is Over a Mile Deep",
     "original_url": "https://www.visualcapitalist.com/just-one-lake-on-earth-is-over-a-mile-deep/",
