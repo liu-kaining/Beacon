@@ -1,5 +1,38 @@
 [
   {
+    "id": "cec664ff",
+    "title": "Ranked: Spotify’s Most-Streamed Songs Ever",
+    "original_url": "https://www.visualcapitalist.com/spotifys-most-streamed-songs-ranked/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/cec664ff.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjIBUsi/LUUFWW+7UnJ9ooMnNFTN1oqjY//9k=",
+    "image_version": 1778427659,
+    "pub_date": "Sun, 10 May 2026 14:26:38 +0000",
+    "ai_analysis": {
+      "core_insight": "流媒体时代，经典歌曲凭借长尾效应持续累积播放量，而病毒式新作能迅速跻身头部。",
+      "data_highlights": [
+        "前十名中有七首歌曲的发行年份早于2020年，体现了经典歌曲的持久生命力。",
+        "The Weeknd凭借《Blinding Lights》（53.8亿）和《Starboy》（44.9亿）两首歌曲进入前十，是个人累计播放量最高的艺人。",
+        "2024年新歌《BIRDS OF A FEATHER》与《Die With A Smile》已快速冲入前20，展现了新作强大的即时传播力。",
+        "前十名歌曲的平均播放量超过46亿次，且平均发行年份为2017年，表明歌曲需要一定时间才能达到顶级流量水平。"
+      ],
+      "deep_dive": "该榜单清晰地揭示了Spotify平台上的流量分布规律：头部内容由“常青树”与“现象级爆款”共同构成。一方面，2017年及更早发行的歌曲如《Shape of You》、《Sweater Weather》凭借多年来持续稳定的播放，积累了惊人的长尾流量，这反映了优秀作品超越时间周期的艺术吸引力以及算法推荐带来的持久曝光。另一方面，2022年发行的《As It Was》和2024年的新歌能迅速跻身前列，证明了当代社交媒体与流媒体生态结合下，病毒式传播能极大缩短爆款的诞生周期。值得注意的是，榜单中合作曲目占比显著，如《Starboy》、《STAY》，这体现了跨界合作是提升歌曲传播广度、触达不同粉丝群体的有效策略。整体来看，流媒体数据不仅是人气的直观体现，更成为了衡量音乐作品跨时代影响力与市场推广效果的核心指标。",
+      "glossary": [
+        {
+          "term": "长尾效应",
+          "explanation": "指由于互联网的普及和成本降低，那些需求不旺或销量不佳的产品所占据的市场份额总和，可以与少数主流产品的市场份额相当甚至更大。在音乐领域，指经典老歌能持续获得播放量的现象。"
+        },
+        {
+          "term": "病毒式传播",
+          "explanation": "描述信息像病毒一样，通过社交网络快速、大范围地复制和扩散的营销或传播现象。"
+        },
+        {
+          "term": "流媒体",
+          "explanation": "指通过网络实时传输音视频内容的技术和服务，用户无需下载即可在线收听或观看，Spotify是典型的音乐流媒体平台。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a146582a",
     "title": "Ranked: The World’s Largest Active Armies in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-largest-active-armies-in-2026/",
