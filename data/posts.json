@@ -1,5 +1,33 @@
 [
   {
+    "id": "a146582a",
+    "title": "Ranked: The World’s Largest Active Armies in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-largest-active-armies-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a146582a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC2sw9abJOPWqgJ9aZIT6159j3r6k5nGetFUSTnrRRYvmP/2Q==",
+    "image_version": 1778417226,
+    "pub_date": "Sun, 10 May 2026 11:51:11 +0000",
+    "ai_analysis": {
+      "core_insight": "军队规模与人口体量、地缘安全态势高度相关。",
+      "data_highlights": [
+        "中国以200万现役军人位居全球第一，比第二名印度多出60万。",
+        "朝鲜以2700万人口维持130万军队，军队人口比例高达近5%，远超其他国家。",
+        "乌克兰和台湾地区因直接地缘冲突或压力，军队规模分别位列第6和第19，远高于其人口排名。"
+      ],
+      "deep_dive": "2026年全球现役军队规模排名揭示了国家军事投入与人口、安全环境的复杂关联。中国凭借庞大的人口基数和国防需求，以200万人的规模稳居榜首。值得关注的是，朝鲜以极高的“军队人口比例”成为该榜单最突出的异常值，其高达4.8%的惊人比例，凸显了其“先军政治”国策和严峻的安全环境。与之对比，美国和俄罗斯作为传统军事大国，其军队规模（均为130万）与其全球或区域战略雄心相匹配。乌克兰和台湾地区则成为地缘政治压力的直接反映：乌克兰因持续冲突动员至第6位，而台湾地区在人口仅2300万的情况下维持了36.1万人的军队，规模位列第19，体现了其高度的防务紧迫感。整体来看，这份榜单不仅是军事力量的简单排序，更是各国（地区）安全战略、地缘政治处境和国家动员能力的综合写照。",
+      "glossary": [
+        {
+          "term": "现役军人",
+          "explanation": "指当前正在军队中服役、处于在编状态的军事人员，是衡量一个国家常备军力量的核心指标。"
+        },
+        {
+          "term": "军队人口比例",
+          "explanation": "指现役军人数量占该国总人口的比例，是衡量一个国家军事化程度或国防负担的相对指标。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a343a349",
     "title": "Mapped: The States Paying the Most for Gas Relative to Income",
     "original_url": "https://www.visualcapitalist.com/mapped-states-paying-most-for-gas-relative-to-income/",
