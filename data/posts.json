@@ -1,5 +1,38 @@
 [
   {
+    "id": "34467b75",
+    "title": "Ranked: The Animals That Kill the Most Humans",
+    "original_url": "https://www.visualcapitalist.com/ranked-animals-that-kill-the-most-humans/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/34467b75.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAeABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDilQ0rLgVcEQAqGYACuqoaU3Ypkc0UMeaKwsacyNQtxVWYk1bKVDIgreTucSmZ5BzRVkxjNFZlc5//2Q==",
+    "image_version": 1778438560,
+    "pub_date": "Sun, 10 May 2026 17:51:09 +0000",
+    "ai_analysis": {
+      "core_insight": "蚊子是头号杀手，人类暴力紧随其后，疾病是主要死因。",
+      "data_highlights": [
+        "蚊子每年造成约76万人死亡，远超其他动物，是绝对的第一杀手。",
+        "人类自身造成的死亡（凶杀）高居第二，年死亡人数达60万，仅次于蚊子。",
+        "蛇、狗、淡水螺等通过叮咬、疾病传播等机制，分别造成10万、4万和1.4万人的年死亡。",
+        "前十大致死动物中，绝大多数（8种）通过传播疾病间接导致人类死亡。"
+      ],
+      "deep_dive": "这份排名揭示了人类面临的主要生物威胁结构。排名第一的蚊子通过传播疟疾、登革热等疾病，每年夺走约76万条生命，凸显了在公共卫生领域，特别是热带和贫困地区，病媒控制的重要性。排名第二的人类自身（凶杀）造成60万死亡，这是一个严峻的社会和安全问题，其规模几乎与蚊子相当，说明暴力冲突和社会不稳定是巨大的生命代价来源。值得注意的是，排名前十中，除人类自身和蛇（毒液咬伤）外，其余8种动物均通过传播寄生虫或病毒等疾病间接致死，例如淡水螺传播的血吸虫病、采采蝇传播的昏睡病等。这强烈表明，传染病仍是全球范围内导致非正常死亡的主要因素之一。因此，应对策略应双管齐下：一方面加强疫苗研发、药物可及性和病媒防控（如蚊帐、杀虫剂）；另一方面需致力于减少社会暴力，改善治安与冲突调解机制。这份数据也间接反映了全球疾病负担的不均衡性，大部分死亡发生在医疗资源匮乏的地区。",
+      "glossary": [
+        {
+          "term": "血吸虫病",
+          "explanation": "由血吸虫引起的一种寄生虫病，通过接触含有尾蚴的疫水传播，可导致肝脾肿大、腹水等严重后果。"
+        },
+        {
+          "term": "恰加斯病",
+          "explanation": "由克氏锥虫引起，主要通过锥蝽（接吻虫）的粪便传播，是一种热带寄生虫病，可导致心脏和消化系统并发症。"
+        },
+        {
+          "term": "利什曼病",
+          "explanation": "由利什曼原虫引起，通过白蛉叮咬传播，是一种寄生虫病，可表现为皮肤溃疡或内脏感染。"
+        }
+      ]
+    }
+  },
+  {
     "id": "cec664ff",
     "title": "Ranked: Spotify’s Most-Streamed Songs Ever",
     "original_url": "https://www.visualcapitalist.com/spotifys-most-streamed-songs-ranked/",
