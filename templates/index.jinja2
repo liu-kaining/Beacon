@@ -73,17 +73,11 @@
                 </div>
             </div>
             {% if posts %}
-            <div class="flex flex-col lg:flex-row gap-3 lg:items-center">
+            <div class="flex flex-col sm:flex-row gap-3 sm:items-center">
                 <label class="sr-only" for="filter-q">搜索</label>
                 <input type="search" id="filter-q" autocomplete="off" placeholder="按标题或正文关键字搜索…"
-                    class="w-full lg:flex-1 rounded-lg bg-slate-900/80 border border-slate-700 px-3 py-2 text-sm text-slate-200 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-beacon-accent/40">
-                <div class="flex flex-wrap items-center gap-2 shrink-0">
-                    <label class="text-xs text-slate-500 whitespace-nowrap" for="filter-from">日期</label>
-                    <input type="date" id="filter-from" class="rounded-lg bg-slate-900/80 border border-slate-700 px-2 py-2 text-xs text-slate-200 focus:outline-none focus:ring-2 focus:ring-beacon-accent/40">
-                    <span class="text-slate-600 text-xs">—</span>
-                    <input type="date" id="filter-to" class="rounded-lg bg-slate-900/80 border border-slate-700 px-2 py-2 text-xs text-slate-200 focus:outline-none focus:ring-2 focus:ring-beacon-accent/40">
-                    <button type="button" id="filter-clear" class="rounded-lg border border-slate-600 px-3 py-2 text-xs text-slate-400 hover:bg-slate-800 hover:text-slate-200 transition-colors">清除筛选</button>
-                </div>
+                    class="w-full sm:flex-1 rounded-lg bg-slate-900/80 border border-slate-700 px-3 py-2 text-sm text-slate-200 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-beacon-accent/40">
+                <button type="button" id="filter-clear" class="shrink-0 rounded-lg border border-slate-600 px-3 py-2 text-xs text-slate-400 hover:bg-slate-800 hover:text-slate-200 transition-colors">清除搜索</button>
             </div>
             {% endif %}
         </div>
@@ -96,7 +90,6 @@
             {% for post in posts %}
             <article class="masonry-item post-card group cursor-pointer"
                 data-orig-index="{{ loop.index0 }}"
-                data-pub-date="{% if post.pub_date and post.pub_date|length >= 10 %}{{ post.pub_date[:10] }}{% endif %}"
                 data-search="{{ post.search_text | e }}"
                 onclick="openModal(Number(this.dataset.origIndex))">
                 <div class="bg-beacon-card rounded-xl overflow-hidden border border-slate-800 hover:border-beacon-accent/50 transition-all duration-300 hover:shadow-lg hover:shadow-beacon-accent/10">
@@ -192,17 +185,12 @@
 
         function applyPostFilters() {
             const q = (document.getElementById('filter-q')?.value || '').trim().toLowerCase();
-            const from = document.getElementById('filter-from')?.value || '';
-            const to = document.getElementById('filter-to')?.value || '';
             const cards = document.querySelectorAll('.post-card');
             let n = 0;
             cards.forEach(card => {
                 const hay = (card.dataset.search || '').toLowerCase();
-                const d = card.dataset.pubDate || '';
                 let ok = true;
                 if (q && !hay.includes(q)) ok = false;
-                if (ok && from && d && d < from) ok = false;
-                if (ok && to && d && d > to) ok = false;
                 card.classList.toggle('hidden', !ok);
                 if (ok) n++;
             });
@@ -234,14 +222,13 @@
             lazyImages.forEach(img => observer.observe(img));
 
             const fq = document.getElementById('filter-q');
-            const ff = document.getElementById('filter-from');
-            const ft = document.getElementById('filter-to');
             const clr = document.getElementById('filter-clear');
-            [fq, ff, ft].forEach(el => { if (el) el.addEventListener('input', applyPostFilters); if (el) el.addEventListener('change', applyPostFilters); });
+            if (fq) {
+                fq.addEventListener('input', applyPostFilters);
+                fq.addEventListener('change', applyPostFilters);
+            }
             if (clr) clr.addEventListener('click', () => {
                 if (fq) fq.value = '';
-                if (ff) ff.value = '';
-                if (ft) ft.value = '';
                 applyPostFilters();
             });
         });
