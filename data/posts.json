@@ -1,5 +1,147 @@
 [
   {
+    "id": "71d33fe9",
+    "title": "Ranked: The Biggest Social Media Platforms in 2026",
+    "original_url": "https://www.visualcapitalist.com/the-biggest-social-media-platforms-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/71d33fe9.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnETNLJHxT4qfJ0r2I6o5J6Mz2TmipW60VnYVz/9k=",
+    "image_version": 1778527428,
+    "pub_date": "Mon, 11 May 2026 17:18:38 +0000",
+    "content_md": "| Rank | Platform | Owner | Label |\n| --- | --- | --- | --- |\n| 1 | Facebook | Meta | 3.1B |\n| 2 | Instagram | Meta | 3B |\n| 3 | WhatsApp | Meta | 3B |\n| 4 | YouTube | Google | 2.5B |\n| 5 | TikTok | ByteDance | 2B |\n| 6 | WeChat | Tencent | 1.4B |\n| 7 | Messenger | Meta | 1B |\n| 8 | Telegram | Telegram | 1B |\n| 9 | Snapchat | Snap Inc. | 900M |\n| 10 | Reddit | Reddit Inc. | 850M |\n| 11 | Douyin | ByteDance | 755M |\n| 12 | X (Twitter) | X Corp. | 650M |\n| 13 | Pinterest | Pinterest Inc. | 578M |\n| 14 | Threads | Meta | 400M |\n| 15 | LinkedIn | Microsoft | 310M |",
+    "ai_analysis": {
+      "core_insight": "Meta系平台占据全球社交媒体格局主导地位，用户规模领先。",
+      "data_highlights": [
+        "Meta旗下四大平台（Facebook, Instagram, WhatsApp, Messenger）合计用户超10亿，占据前三甲。",
+        "短视频平台增长强劲，TikTok与YouTube（含Shorts）分列第四、第五，用户规模均超20亿。",
+        "中国互联网巨头腾讯（WeChat）和字节跳动（Douyin, TikTok）在全球市场占据重要份额。",
+        "新兴平台Threads凭借Meta生态迅速崛起至第14位，用户达4亿。",
+        "传统社交媒体如Twitter（现X）增长乏力，排名滑落至第12位。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Platform",
+            "Owner",
+            "Label"
+          ],
+          "rows": [
+            [
+              "1",
+              "Facebook",
+              "Meta",
+              "3.1B"
+            ],
+            [
+              "2",
+              "Instagram",
+              "Meta",
+              "3B"
+            ],
+            [
+              "3",
+              "WhatsApp",
+              "Meta",
+              "3B"
+            ],
+            [
+              "4",
+              "YouTube",
+              "Google",
+              "2.5B"
+            ],
+            [
+              "5",
+              "TikTok",
+              "ByteDance",
+              "2B"
+            ],
+            [
+              "6",
+              "WeChat",
+              "Tencent",
+              "1.4B"
+            ],
+            [
+              "7",
+              "Messenger",
+              "Meta",
+              "1B"
+            ],
+            [
+              "8",
+              "Telegram",
+              "Telegram",
+              "1B"
+            ],
+            [
+              "9",
+              "Snapchat",
+              "Snap Inc.",
+              "900M"
+            ],
+            [
+              "10",
+              "Reddit",
+              "Reddit Inc.",
+              "850M"
+            ],
+            [
+              "11",
+              "Douyin",
+              "ByteDance",
+              "755M"
+            ],
+            [
+              "12",
+              "X (Twitter)",
+              "X Corp.",
+              "650M"
+            ],
+            [
+              "13",
+              "Pinterest",
+              "Pinterest Inc.",
+              "578M"
+            ],
+            [
+              "14",
+              "Threads",
+              "Meta",
+              "400M"
+            ],
+            [
+              "15",
+              "LinkedIn",
+              "Microsoft",
+              "310M"
+            ]
+          ],
+          "caption": "2026年全球最大社交媒体平台排名（按用户数）"
+        }
+      ],
+      "deep_dive": "## 格局演变：Meta的生态帝国与挑战者\n\n2026年的社交媒体版图呈现出鲜明的“一超多强”态势。Meta公司凭借其产品矩阵（Facebook、Instagram、WhatsApp、Messenger及新锐Threads）构建了一个无与伦比的社交帝国，其总用户基数远超其他任何单一竞争对手。这种生态化布局不仅实现了用户在不同场景下的覆盖（即时通讯、图片分享、社交通讯），也极大地增强了其广告业务的协同效应和用户粘性。然而，这种优势也伴随着市场饱和与内部竞争的隐忧，如何让成熟平台保持增长活力，同时为新平台（如Threads）找到可持续的盈利模式，将是Meta面临的核心挑战。\n\n与之相对，以TikTok和YouTube为代表的**内容与兴趣平台**构成了强大的第二梯队。它们代表了用户注意力从“关系图谱”向“兴趣图谱”的迁移。YouTube作为视频内容基石，用户规模稳固；TikTok则彻底改变了内容消费的模式，其算法驱动的沉浸式体验吸引了全球年轻用户，并催生了“短视频+电商”的新商业形态。中国市场的双雄——微信和抖音（Douyin）——展示了在特定生态内构建“超级应用”的成功路径，其用户规模虽主要依托本土市场，但影响力不容小觑。\n\n## 暗流与趋势：新兴势力与衰退信号\n\n在头部格局之下，一些关键趋势值得深究：\n1.  **即时通讯的分化**：WhatsApp和微信作为通讯工具，其用户规模（30亿与14亿）本身就体现了巨大的平台价值，它们正从单纯的聊天工具向支付、电商、服务的入口演进。\n2.  **垂直社区的韧性**：Reddit和Pinterest等平台，虽然用户规模不及巨头，但其高度垂直、兴趣明确的社区氛围，构筑了独特的护城河，在广告市场中拥有不可替代的价值。\n3.  **增长乏力的警示**：X（原Twitter）的排名滑落（第12位，6.5亿用户）是一个明确的信号。在经历了动荡的所有权变更和产品方向争议后，其用户增长和平台活力已明显落后于竞争对手，若无根本性创新，恐将进一步边缘化。\n4.  **生态位竞争白热化**：Threads的快速崛起（第14位，4亿用户）直接反映了Meta对文本社交领域的反攻，其成功几乎完全依托Instagram的庞大用户导流，这凸显了在当前市场，依托既有超级应用进行横向扩张，是新平台获取初期用户最有效的策略之一。\n\n综上，社交媒体的战争已从单纯争夺用户数量，升级为对用户时间、注意力和消费场景的全方位争夺。平台的未来将更取决于其生态系统的完整性、商业模式的创新性以及对用户核心需求变化的响应速度。",
+      "glossary": [
+        {
+          "term": "超级应用 (Super App)",
+          "explanation": "指在一个应用内集成多种服务和功能（如社交、支付、购物、出行等），使用户无需离开应用即可满足多样需求的平台模式。微信是典型代表。"
+        },
+        {
+          "term": "用户规模 (User Base)",
+          "explanation": "指一个平台或服务拥有的活跃用户总数，是衡量其市场渗透率和商业潜力的关键指标。表中“Label”列即为此数据。"
+        },
+        {
+          "term": "生态化布局 (Ecosystem Strategy)",
+          "explanation": "指科技公司通过开发或收购一系列相互关联、可协同运作的产品或服务，形成一个封闭或半封闭的系统，以增强用户粘性、提高竞争壁垒并拓展收入来源。"
+        },
+        {
+          "term": "兴趣图谱 (Interest Graph)",
+          "explanation": "相对于基于现实社交关系的“社交图谱”，兴趣图谱是基于用户共同兴趣、偏好和行为数据构建的网络，是推荐算法（如TikTok、YouTube）的核心基础。"
+        }
+      ]
+    }
+  },
+  {
     "id": "375b9b4a",
     "title": "Ranked: The World’s Busiest Airports in 2025",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-busiest-airports/",
