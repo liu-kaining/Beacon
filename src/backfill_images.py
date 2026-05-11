@@ -16,74 +16,16 @@ from typing import Iterable
 
 import feedparser
 import requests
-from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from PIL import Image
 
+from image_pick import pick_best_image_url_from_html
 from storage import process_image
 
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_PATH = os.path.join(PROJECT_ROOT, "data", "posts.json")
 FEED_URL = "https://www.visualcapitalist.com/feed/"
-
-
-def _score_url(url: str) -> tuple[int, int]:
-    u = url.lower()
-    score = 0
-    if "_site" in u or "website" in u:
-        score += 100
-    if "share" in u:
-        score -= 50
-    if any(k in u for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
-        score -= 200
-    if u.endswith(".webp"):
-        score += 5
-    return (score, len(url))
-
-
-def _pick_best_image_from_html(html: str) -> str | None:
-    soup = BeautifulSoup(html, "html.parser")
-
-    candidates: list[str] = []
-
-    # Strong preference: rss-image block contains the intended visualization.
-    rss_block = soup.find("div", class_="rss-image")
-    search_roots = [rss_block] if rss_block else [soup]
-
-    # Prefer content images inside the article.
-    for root in search_roots:
-        if not root:
-            continue
-        for img in root.find_all("img"):
-            src = img.get("src") or ""
-            if not src:
-                continue
-            if "wp-content/uploads/" not in src:
-                continue
-            low = src.lower()
-            if any(k in low for k in ("voronoi", "cropped-logo", "logo", "icon", "app-store", "google-play")):
-                continue
-            if any(k in low for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
-                continue
-            candidates.append(src)
-
-            # Also consider srcset (often contains higher-res variants)
-            srcset = img.get("srcset") or ""
-            if srcset:
-                for part in srcset.split(","):
-                    url_part = part.strip().split(" ")[0]
-                    if "wp-content/uploads/" in url_part:
-                        candidates.append(url_part)
-
-    if not candidates:
-        # Fallback: og:image (often a share card)
-        og = soup.find("meta", property="og:image")
-        if og and og.get("content"):
-            return og["content"]
-        return None
-
-    return sorted(set(candidates), key=_score_url, reverse=True)[0]
 
 
 def _build_feed_image_map(max_pages: int, target_count: int | None = None) -> dict[str, str]:
@@ -107,7 +49,7 @@ def _build_feed_image_map(max_pages: int, target_count: int | None = None) -> di
             content_encoded = ""
             if entry.get("content"):
                 content_encoded = entry["content"][0].get("value", "")
-            best = _pick_best_image_from_html(content_encoded) if content_encoded else None
+            best = pick_best_image_url_from_html(content_encoded) if content_encoded else None
             if not best:
                 media_content = entry.get("media_content") or []
                 for media in media_content:
@@ -185,7 +127,7 @@ def backfill(
                     headers={"User-Agent": "Mozilla/5.0 (compatible; BeaconBot/1.0)"},
                 )
                 resp.raise_for_status()
-                best_image_url = _pick_best_image_from_html(resp.text)
+                best_image_url = pick_best_image_url_from_html(resp.text)
             except Exception as e:
                 print(f"[backfill] Failed to fetch page for {article_url}: {e}")
                 continue

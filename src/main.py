@@ -104,6 +104,7 @@ def main() -> None:
                 ai_analysis = {
                     "core_insight": FALLBACK_INSIGHT,
                     "data_highlights": [],
+                    "data_tables": [],
                     "deep_dive": "内容暂不可用。",
                     "glossary": [],
                 }
@@ -116,6 +117,7 @@ def main() -> None:
                 "base64_blur": base64_blur,
                 "image_version": image_version,
                 "pub_date": article["pub_date"],
+                "content_md": article.get("content_md") or "",
                 "ai_analysis": ai_analysis,
             }
 

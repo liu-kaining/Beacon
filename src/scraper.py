@@ -7,74 +7,9 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+from image_pick import pick_best_from_candidates, pick_best_image_url_from_html
+
 FEED_URL = "https://www.visualcapitalist.com/feed/"
-
-
-def _pick_best_image_from_content_encoded(content_encoded: str) -> str | None:
-    """Pick the best (largest) visualization image from RSS content:encoded HTML.
-
-    Visual Capitalist's feed often includes:
-    - a 1200x628 "SHARE" card in media:content/enclosure
-    - a larger "SITE/website" visualization image inside content:encoded
-    We prefer the SITE/website visualization when available.
-    """
-    if not content_encoded:
-        return None
-
-    soup = BeautifulSoup(content_encoded, "html.parser")
-    imgs: list[str] = []
-
-    # Prefer the RSS visualization block if present.
-    rss_block = soup.find("div", class_="rss-image")
-    roots = [rss_block] if rss_block else [soup]
-
-    deny_substrings = (
-        "voronoi",
-        "cropped-logo",
-        "logo",
-        "icon",
-        "app-store",
-        "google-play",
-        "webinar",
-        "register",
-        "banner",
-        "sponsor",
-        "doubleclick",
-        "adserver",
-    )
-
-    for root in roots:
-        if not root:
-            continue
-        for img in root.find_all("img"):
-            src = img.get("src") or ""
-            if not src:
-                continue
-            if "wp-content/uploads/" not in src:
-                continue
-            low = src.lower()
-            if any(bad in low for bad in deny_substrings):
-                continue
-            imgs.append(src)
-
-    if not imgs:
-        return None
-
-    def score(u: str) -> tuple[int, int]:
-        uu = u.lower()
-        bonus = 0
-        if "_site" in uu or "website" in uu:
-            bonus += 100
-        if "share" in uu:
-            bonus -= 50
-        if any(k in uu for k in ("webinar", "register", "banner", "sponsor", "doubleclick", "adserver")):
-            bonus -= 200
-        # Prefer webp/png over jpg when otherwise equal
-        if uu.endswith(".webp"):
-            bonus += 5
-        return (bonus, len(u))
-
-    return sorted(imgs, key=score, reverse=True)[0]
 
 
 def _table_to_markdown(table_tag: BeautifulSoup) -> str:
@@ -132,36 +67,42 @@ def _extract_text_and_lists(html_content: str) -> str:
 def _get_image_url(entry, article_url: str) -> str | None:
     """Get the best image URL for an article.
 
-    Priority: content:encoded SITE/website img > RSS media:content (usually SHARE) > og:image from page.
+    Priority: content:encoded (src + srcset, size-aware) > RSS media:content
+    > full article HTML (same heuristics as RSS block, beats og:image-only crops).
     """
-    # Best source: content:encoded often includes the real visualization image (SITE/website)
     content_encoded = ""
     if entry.get("content"):
         content_encoded = entry["content"][0].get("value", "")
-    best_from_content = _pick_best_image_from_content_encoded(content_encoded)
+    best_from_content = pick_best_image_url_from_html(content_encoded)
     if best_from_content:
         return best_from_content
 
-    # RSS media:content is the most reliable source for the article hero image
+    media_urls: list[str] = []
     media_content = entry.get("media_content")
     if media_content:
         for media in media_content:
             url = media.get("url")
             if url:
-                return url
+                media_urls.append(url)
+    best_media = pick_best_from_candidates(media_urls)
+    if best_media:
+        return best_media
+    if media_urls:
+        return media_urls[0]
 
-    # Fallback: fetch article page and try og:image
+    # Fallback: fetch article page and run the same visualization-first picker on full HTML.
     try:
-        resp = requests.get(article_url, timeout=15, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; BeaconBot/1.0)"
-        })
+        resp = requests.get(
+            article_url,
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; BeaconBot/1.0)"},
+        )
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-        og_image = soup.find("meta", property="og:image")
-        if og_image and og_image.get("content"):
-            return og_image["content"]
+        best_page = pick_best_image_url_from_html(resp.text)
+        if best_page:
+            return best_page
     except Exception as e:
-        print(f"[scraper] Failed to fetch og:image from {article_url}: {e}")
+        print(f"[scraper] Failed to fetch article page for image pick {article_url}: {e}")
 
     return None
 
