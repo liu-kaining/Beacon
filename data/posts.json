@@ -1,5 +1,350 @@
 [
   {
+    "id": "13f02ae8",
+    "title": "Who Owns the Most Satellites?",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-who-owns-the-most-satellites/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/13f02ae8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjlenl+KjVDQwOKOVC9owMnNFRkHNFPlQvasvBBSNHUi0rVNwaK3l0VNRTuQf/2Q==",
+    "image_version": 1778605305,
+    "pub_date": "Tue, 12 May 2026 15:17:00 +0000",
+    "content_md": "| Rank | Satellite Operator | Fleet Count |\n| --- | --- | --- |\n| 1 | SpaceX | 10,262 |\n| 2 | OneWeb | 632 |\n| 3 | National Reconnaissance Office | 285 |\n| 4 | US Military | 244 |\n| 5 | Chinese Military | 168 |\n| 6 | Planet Lab | 144 |\n| 7 | Russian Military | 107 |\n| 8 | NASA | 90 |\n| 9 | Iridium | 80 |\n| 10 | Globalstar | 26 |\n| -- | Other | 3,409 |",
+    "ai_analysis": {
+      "core_insight": "SpaceX以逾万颗卫星的数量遥遥领先，商业公司主导低轨卫星市场。",
+      "data_highlights": [
+        "SpaceX卫星数量（10,262颗）超过榜单上第2至第10名总和的三倍，处于绝对垄断地位。",
+        "美国实体（含商业、军事、政府机构）在榜单前十中占据七席，合计控制卫星超过11,000颗，主导地位明显。",
+        "商业航天公司（如SpaceX、OneWeb、Planet Lab）与政府/军事机构（如NRO、美军）并列为两大主要部署力量。",
+        "“其他”类别拥有3,409颗卫星，表明全球卫星部署呈现高度碎片化的“长尾”分布。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Satellite Operator",
+            "Fleet Count"
+          ],
+          "rows": [
+            [
+              "1",
+              "SpaceX",
+              "10,262"
+            ],
+            [
+              "2",
+              "OneWeb",
+              "632"
+            ],
+            [
+              "3",
+              "National Reconnaissance Office",
+              "285"
+            ],
+            [
+              "4",
+              "US Military",
+              "244"
+            ],
+            [
+              "5",
+              "Chinese Military",
+              "168"
+            ],
+            [
+              "6",
+              "Planet Lab",
+              "144"
+            ],
+            [
+              "7",
+              "Russian Military",
+              "107"
+            ],
+            [
+              "8",
+              "NASA",
+              "90"
+            ],
+            [
+              "9",
+              "Iridium",
+              "80"
+            ],
+            [
+              "10",
+              "Globalstar",
+              "26"
+            ],
+            [
+              "--",
+              "Other",
+              "3,409"
+            ]
+          ],
+          "caption": "全球主要卫星运营商卫星数量排名（Top 10及其它）"
+        }
+      ],
+      "deep_dive": "## 市场格局：商业力量颠覆传统，马斯克“星链”重塑版图\n\n这份数据清晰地揭示了当前卫星产业的根本性转变：由国家主导的精英化、高成本模式，正被商业公司主导的规模化、低成本模式所取代。SpaceX凭借其“星链”（Starlink）项目，以一己之力将卫星数量推升至五位数，这不仅是数量的碾压，更代表了卫星制造和发射成本的革命性降低。商业公司的成功，正迫使传统的政府和军事航天机构重新思考其采购与部署策略。\n\n## 大国博弈：美国全面领先，中国需加速布局\n\n从地缘战略视角看，数据凸显了美国的全方位优势。榜单前十中，美国实体（SpaceX、OneWeb美国部分、NRO、美军、NASA等）的卫星总数构成压倒性力量。这不仅是商业优势，更是技术、资本和产业生态的综合体现。中国军事机构位列第五，是除美国外排名最高的单一国家实体，表明中国在军事航天领域已具备一定实力，但面对美国商业与军事的“混合优势”，仍需在商业航天生态和低成本大规模部署能力上寻求突破。俄罗斯、欧洲等传统航天强国在此轮竞赛中相对滞后。\n\n## 产业启示与潜在挑战\n\n**启示：** 航天产业已进入“摩尔定律”式的发展阶段，规模化、低成本和快速迭代成为核心竞争力。商业创新是驱动产业进步的主要引擎。\n\n**挑战：**\n- **太空拥挤与可持续性：** 数万颗卫星集中在低地球轨道，带来了前所未有的碰撞风险、空间碎片问题和对天文观测的干扰，太空交通管理成为紧迫的全球性议题。\n- **战略安全：** 商业基础设施与军事、国家安全的深度绑定，使得商业星座可能成为未来冲突中的潜在目标，增加了战略复杂性。\n- **市场垄断风险：** 少数商业巨头可能凭借先发优势和规模效应，形成事实上的轨道和频谱资源垄断，影响市场公平竞争与全球接入。",
+      "glossary": [
+        {
+          "term": "星链（Starlink）",
+          "explanation": "由SpaceX运营的巨型低地球轨道（LEO）卫星互联网星座项目，旨在提供全球覆盖的高速宽带接入服务，是当前在轨卫星数量最多的项目。"
+        },
+        {
+          "term": "低地球轨道（LEO）",
+          "explanation": "通常指高度在2000公里以下的卫星轨道。此轨道信号延迟低、发射成本相对较低，是宽带通信、遥感和侦察卫星的常用轨道，但也最拥挤。"
+        },
+        {
+          "term": "太空交通管理",
+          "explanation": "类似于地面的空中交通管制，旨在协调在轨卫星和碎片的运行轨迹，预防碰撞，确保太空活动的安全、有序和可持续。随着卫星数量激增，其重要性日益凸显。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bc6b3d3",
+    "title": "Mapped: The States Banning Phones in Schools",
+    "original_url": "https://www.visualcapitalist.com/where-phones-are-banned-in-u-s-schools/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2bc6b3d3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmUjNSFKsJGKc6ACsfaGqgUStFTEc0VXMLlLajFNkPFPqKSo5FczVVkB60Uh60VpyoXOz/2Q==",
+    "image_version": 1778605355,
+    "pub_date": "Tue, 12 May 2026 12:07:55 +0000",
+    "content_md": "| State | Policy Category |\n| --- | --- |\n| Alabama | Ban |\n| Florida | Ban |\n| Georgia | Ban |\n| Hawaii | Ban |\n| Indiana | Ban |\n| Iowa | Ban |\n| Kansas | Ban |\n| Kentucky | Ban |\n| Louisiana | Ban |\n| Maine | Ban |\n| Michigan | Ban |\n| Missouri | Ban |\n| Nebraska | Ban |\n| Nevada | Ban |\n| New Hampshire | Ban |\n| New Jersey | Ban |\n| New York | Ban |\n| North Carolina | Ban |\n| North Dakota | Ban |\n| Ohio | Ban |\n| Oklahoma | Ban |\n| Oregon | Ban |\n| Rhode Island | Ban |\n| South Carolina | Ban |\n| Tennessee | Ban |\n| Texas | Ban |\n| Utah | Ban |\n| Vermont | Ban |\n| Virginia | Ban |\n| West Virginia | Ban |\n| Wisconsin | Ban |\n| Arizona | Classroom Limits |\n| Arkansas | Classroom Limits |\n| California | Classroom Limits |\n| Connecticut | Limits Encouraged |\n| Idaho | Limits Encouraged |\n| Montana | Limits Encouraged |\n| Washington | Limits Encouraged |\n| Delaware | None |\n| Illinois | None |\n| Massachusetts | None |\n| Mississippi | None |\n| Pennsylvania | None |\n| South Dakota | None |\n| Wyoming | None |\n| Alaska | Policy Required by District |\n| Colorado | Policy Required by District |\n| Maryland | Policy Required by District |\n| Minnesota | Policy Required by District |\n| New Mexico | Policy Required by District |",
+    "ai_analysis": {
+      "core_insight": "美国多数州已实施或正在推进校园手机禁令，趋势明显。",
+      "data_highlights": [
+        "超过半数的州（31个）已实施校园手机禁令。",
+        "另有4个州采取“课堂限制”措施，4个州“鼓励限制”。",
+        "仍有7个州未出台统一政策，但部分州要求学区自行制定。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Policy Category"
+          ],
+          "rows": [
+            [
+              "Alabama",
+              "Ban"
+            ],
+            [
+              "Florida",
+              "Ban"
+            ],
+            [
+              "Georgia",
+              "Ban"
+            ],
+            [
+              "Hawaii",
+              "Ban"
+            ],
+            [
+              "Indiana",
+              "Ban"
+            ],
+            [
+              "Iowa",
+              "Ban"
+            ],
+            [
+              "Kansas",
+              "Ban"
+            ],
+            [
+              "Kentucky",
+              "Ban"
+            ],
+            [
+              "Louisiana",
+              "Ban"
+            ],
+            [
+              "Maine",
+              "Ban"
+            ],
+            [
+              "Michigan",
+              "Ban"
+            ],
+            [
+              "Missouri",
+              "Ban"
+            ],
+            [
+              "Nebraska",
+              "Ban"
+            ],
+            [
+              "Nevada",
+              "Ban"
+            ],
+            [
+              "New Hampshire",
+              "Ban"
+            ],
+            [
+              "New Jersey",
+              "Ban"
+            ],
+            [
+              "New York",
+              "Ban"
+            ],
+            [
+              "North Carolina",
+              "Ban"
+            ],
+            [
+              "North Dakota",
+              "Ban"
+            ],
+            [
+              "Ohio",
+              "Ban"
+            ],
+            [
+              "Oklahoma",
+              "Ban"
+            ],
+            [
+              "Oregon",
+              "Ban"
+            ],
+            [
+              "Rhode Island",
+              "Ban"
+            ],
+            [
+              "South Carolina",
+              "Ban"
+            ],
+            [
+              "Tennessee",
+              "Ban"
+            ],
+            [
+              "Texas",
+              "Ban"
+            ],
+            [
+              "Utah",
+              "Ban"
+            ],
+            [
+              "Vermont",
+              "Ban"
+            ],
+            [
+              "Virginia",
+              "Ban"
+            ],
+            [
+              "West Virginia",
+              "Ban"
+            ],
+            [
+              "Wisconsin",
+              "Ban"
+            ],
+            [
+              "Arizona",
+              "Classroom Limits"
+            ],
+            [
+              "Arkansas",
+              "Classroom Limits"
+            ],
+            [
+              "California",
+              "Classroom Limits"
+            ],
+            [
+              "Connecticut",
+              "Limits Encouraged"
+            ],
+            [
+              "Idaho",
+              "Limits Encouraged"
+            ],
+            [
+              "Montana",
+              "Limits Encouraged"
+            ],
+            [
+              "Washington",
+              "Limits Encouraged"
+            ],
+            [
+              "Delaware",
+              "None"
+            ],
+            [
+              "Illinois",
+              "None"
+            ],
+            [
+              "Massachusetts",
+              "None"
+            ],
+            [
+              "Mississippi",
+              "None"
+            ],
+            [
+              "Pennsylvania",
+              "None"
+            ],
+            [
+              "South Dakota",
+              "None"
+            ],
+            [
+              "Wyoming",
+              "None"
+            ],
+            [
+              "Alaska",
+              "Policy Required by District"
+            ],
+            [
+              "Colorado",
+              "Policy Required by District"
+            ],
+            [
+              "Maryland",
+              "Policy Required by District"
+            ],
+            [
+              "Minnesota",
+              "Policy Required by District"
+            ],
+            [
+              "New Mexico",
+              "Policy Required by District"
+            ]
+          ],
+          "caption": "美国各州校园手机政策分类一览"
+        }
+      ],
+      "deep_dive": "## 政策分布与驱动因素\n美国各州的校园手机政策呈现出清晰的梯度分布。主导趋势是**全面禁令**，这反映了教育界对手机干扰教学、影响学生社交与心理健康（如网络欺凌、社交媒体成瘾）的普遍担忧。支持禁令的州多出于对提升课堂专注度和学业成绩的考量。\n\n其次，**课堂限制**和**鼓励限制**代表了更为温和的折中路径。这些州可能认识到手机在特定学习场景（如教学工具、紧急联络）中的价值，或希望在州级框架下保留更多灵活性，允许学校或教师根据实际情况进行管理。\n\n## 政策空白与地方分权\n值得注意的是，仍有相当数量的州（7个）未出台任何统一政策，形成了政策“空白区”。这并不意味着这些地区放任不管，而是反映了美国教育体系**高度分权**的特点。在这些州，具体的管理规则通常下放到学区甚至学校层面制定，以适应本地社区的不同需求和价值观。例如，表格中“Policy Required by District”类别的州（如科罗拉多、马里兰）就明确要求地方学区自行制定政策，体现了这种自上而下的要求与自下而上的执行相结合的模式。\n\n## 趋势启示与挑战\n整体来看，立法干预校园手机使用已成为一股不可忽视的潮流。这对教育管理者、教师和家长提出了新的挑战：如何有效执行禁令？如何平衡纪律管理与学生的合理需求？未来，政策的焦点可能会从“是否禁止”转向“如何科学管理”，例如利用手机存放设施、开发教育类App等。同时，政策效果（如对学生社交、学习成果的长期影响）也需要持续的跟踪评估。",
+      "glossary": [
+        {
+          "term": "校园手机禁令",
+          "explanation": "指州一级通过立法或政策，全面禁止学生在校园内（通常包括上课、课间及午餐时间）使用个人移动电话。"
+        },
+        {
+          "term": "课堂限制",
+          "explanation": "一种相对温和的政策，允许学生携带手机进入校园，但严格禁止在课堂上使用，通常要求学生将手机存放于指定位置。"
+        },
+        {
+          "term": "教育分权",
+          "explanation": "指教育管理的权力和责任主要由州和地方学区承担，联邦政府角色有限。这解释了为何各州乃至各学区政策存在显著差异。"
+        }
+      ]
+    }
+  },
+  {
     "id": "056832e7",
     "title": "Mapped: Where U.S. Troops Are Stationed in Europe",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-where-u-s-troops-are-stationed-in-europe/",
@@ -2274,7 +2619,10 @@
           "explanation": "英伟达为其GPU构建的并行计算平台和编程模型。强大的软件生态系统和开发者社区是英伟达在AI芯片市场保持领先的关键护城河之一。"
         }
       ]
-    }
+    },
+    "r2_image_url": "https://beacon-img.thetamind.ai/f2a01618.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDIjSnunFKhpznincixUKc0VIetFO4EqrSuOKkWmydKkjmKx60Up60Uyrn/2Q==",
+    "image_version": 1778605299
   },
   {
     "id": "aa9d4ac3",
@@ -2361,7 +2709,10 @@
           "explanation": "人工智能领域的一个经验性规律，指出模型的性能（如准确率）会随着模型参数数量、数据集大小和计算资源的增加而可预测地提升。"
         }
       ]
-    }
+    },
+    "r2_image_url": "https://beacon-img.thetamind.ai/aa9d4ac3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDLMJHaoZI62JIgBVGZQK6L3MFIzjHzRU5HNFKw+c15JMiqU5qdqrS1KZz3KxPNFIetFXcdz//Z",
+    "image_version": 1778605303
   },
   {
     "id": "257eb4bb",
