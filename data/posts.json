@@ -1,5 +1,246 @@
 [
   {
+    "id": "056832e7",
+    "title": "Mapped: Where U.S. Troops Are Stationed in Europe",
+    "original_url": "https://www.visualcapitalist.com/cp/mapped-where-u-s-troops-are-stationed-in-europe/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/056832e7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDozQBS0oqEQhNtFPopjP/Z",
+    "image_version": 1778565387,
+    "pub_date": "Tue, 12 May 2026 04:25:39 +0000",
+    "content_md": "| Rank | Country | Number of U.S. Troops |\n| --- | --- | --- |\n| 1 | Germany | 35,989 |\n| 2 | Italy | 12,571 |\n| 3 | United Kingdom | 10,071 |\n| 4 | Spain | 3,700 |\n| 5 | Turkey | 1,717 |\n| 6 | Belgium | 1,122 |\n| 7 | Netherlands | 420 |\n| 8 | Greece | 407 |\n| 9 | Poland | 342 |\n| 10 | Portugal | 236 |\n| 11 | Romania | 149 |\n| 12 | Hungary | 88 |\n| 13 | Norway | 84 |\n| 14 | France | 78 |\n| 15 | Austria | 24 |\n| 15 | Bulgaria | 24 |\n| 17 | Estonia | 23 |\n| 18 | Ukraine | 20 |\n| 19 | Finland | 19 |\n| 20 | Switzerland | 18 |\n| 21 | Denmark | 18 |\n| 22 | Sweden | 17 |\n| 22 | Slovakia | 17 |\n| 22 | Lithuania | 17 |\n| 22 | Latvia | 17 |\n| 26 | Bosnia and Herzegovina | 16 |\n| 27 | Czechia | 14 |\n| 27 | Serbia | 14 |\n| 27 | North Macedonia | 14 |\n| 30 | Croatia | 13 |\n| 30 | Moldova | 13 |\n| 32 | Ireland | 12 |\n| 32 | Malta | 12 |\n| 34 | Albania | 10 |\n| 34 | Slovenia | 10 |\n| 34 | Cyprus | 10 |\n| 37 | Luxembourg | 8 |\n| 38 | Montenegro | 6 |\n| 39 | Iceland | 2 |",
+    "ai_analysis": {
+      "core_insight": "美军在欧洲驻军高度集中于德国，呈现明显的梯队分布与地缘战略侧重。",
+      "data_highlights": [
+        "德国以近3.6万人独占鳌头，是第二名意大利的近3倍。",
+        "前四名（德、意、英、西）驻军总数超过6.2万，占表格所列总人数约95%。",
+        "东欧及北欧前线国家（如波兰、罗马尼亚、挪威）驻军人数极少，多在百人以下。",
+        "瑞士、奥地利等中立国也有少量美军驻扎。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Number of U.S. Troops"
+          ],
+          "rows": [
+            [
+              "1",
+              "Germany",
+              "35,989"
+            ],
+            [
+              "2",
+              "Italy",
+              "12,571"
+            ],
+            [
+              "3",
+              "United Kingdom",
+              "10,071"
+            ],
+            [
+              "4",
+              "Spain",
+              "3,700"
+            ],
+            [
+              "5",
+              "Turkey",
+              "1,717"
+            ],
+            [
+              "6",
+              "Belgium",
+              "1,122"
+            ],
+            [
+              "7",
+              "Netherlands",
+              "420"
+            ],
+            [
+              "8",
+              "Greece",
+              "407"
+            ],
+            [
+              "9",
+              "Poland",
+              "342"
+            ],
+            [
+              "10",
+              "Portugal",
+              "236"
+            ],
+            [
+              "11",
+              "Romania",
+              "149"
+            ],
+            [
+              "12",
+              "Hungary",
+              "88"
+            ],
+            [
+              "13",
+              "Norway",
+              "84"
+            ],
+            [
+              "14",
+              "France",
+              "78"
+            ],
+            [
+              "15",
+              "Austria",
+              "24"
+            ],
+            [
+              "15",
+              "Bulgaria",
+              "24"
+            ],
+            [
+              "17",
+              "Estonia",
+              "23"
+            ],
+            [
+              "18",
+              "Ukraine",
+              "20"
+            ],
+            [
+              "19",
+              "Finland",
+              "19"
+            ],
+            [
+              "20",
+              "Switzerland",
+              "18"
+            ],
+            [
+              "21",
+              "Denmark",
+              "18"
+            ],
+            [
+              "22",
+              "Sweden",
+              "17"
+            ],
+            [
+              "22",
+              "Slovakia",
+              "17"
+            ],
+            [
+              "22",
+              "Lithuania",
+              "17"
+            ],
+            [
+              "22",
+              "Latvia",
+              "17"
+            ],
+            [
+              "26",
+              "Bosnia and Herzegovina",
+              "16"
+            ],
+            [
+              "27",
+              "Czechia",
+              "14"
+            ],
+            [
+              "27",
+              "Serbia",
+              "14"
+            ],
+            [
+              "27",
+              "North Macedonia",
+              "14"
+            ],
+            [
+              "30",
+              "Croatia",
+              "13"
+            ],
+            [
+              "30",
+              "Moldova",
+              "13"
+            ],
+            [
+              "32",
+              "Ireland",
+              "12"
+            ],
+            [
+              "32",
+              "Malta",
+              "12"
+            ],
+            [
+              "34",
+              "Albania",
+              "10"
+            ],
+            [
+              "34",
+              "Slovenia",
+              "10"
+            ],
+            [
+              "34",
+              "Cyprus",
+              "10"
+            ],
+            [
+              "37",
+              "Luxembourg",
+              "8"
+            ],
+            [
+              "38",
+              "Montenegro",
+              "6"
+            ],
+            [
+              "39",
+              "Iceland",
+              "2"
+            ]
+          ],
+          "caption": "美军在欧洲各国驻军人数排名"
+        }
+      ],
+      "deep_dive": "## 驻军分布的核心逻辑：战略枢纽与盟友信任\n\n美军在欧洲的驻扎并非均匀分布，而是深刻反映了其战略优先次序和联盟政治的考量。\n\n- **德国的核心地位**：德国拥有近3.6万名美军，远超其他国家，这源于其作为北约在欧洲的**后勤、指挥和训练中枢**的历史角色。拉姆施泰因空军基地、陆军欧洲总部等关键设施均设于此，使其成为美军在欧洲投射力量的“心脏”。\n- **“老欧洲”盟友的稳固**：意大利、英国、西班牙等传统西欧盟友也拥有可观驻军。这些国家不仅拥有重要的军事基地（如意大利的那不勒斯海军基地），也体现了长期安全合作的信任深度。\n- **土耳其的特殊性**：作为北约成员但地处欧亚交界，土耳其驻军超过1700人，主要依托因吉利克空军基地等设施，服务于中东及黑海方向的战略存在。\n\n## “前线”与“象征”：东欧及小国驻军的深意\n\n表格后半段的数据揭示了另一层战略图景。\n\n- **东欧的“少量存在”**：波兰（342人）、罗马尼亚（149人）等靠近俄罗斯的北约东翼国家，驻军人数远低于德国，但并非“零存在”。这少量部队往往扮演**训练、联络和快速部署先锋**的角色，象征着美国对北约第五条款的承诺，具有重要的政治威慑意义。\n- **象征性驻军网络**：从瑞士（18人）、奥地利（24人）等中立国，到波黑（16人）、塞尔维亚（14人）等西巴尔干国家，甚至非北约成员如摩尔多瓦（13人），都有美军痕迹。这通常对应**武官处、联合训练项目或小规模合作办公室**，主要服务于情报交流、军事外交与能力建设，而非前沿防御。\n- **数据的局限性**：此数据很可能反映的是**长期常驻基地人员**，未包含为应对俄乌冲突等危机而临时轮换部署到东欧的数千名美军。因此，它更像是一张“欧洲驻军基础设施图”，而非实时兵力部署图。这种结构性分布表明，美国的欧洲安全架构依然建立在以德国为中心的、历经数十年发展形成的物理与制度基础之上。",
+      "glossary": [
+        {
+          "term": "北约第五条款",
+          "explanation": "即集体防御条款，规定对一个北约成员国的攻击视为对所有成员国的攻击。"
+        },
+        {
+          "term": "力量投射",
+          "explanation": "指一国将其军事力量（人员、装备、后勤）有效部署和维持到远离本土区域的能力。"
+        },
+        {
+          "term": "轮换部署",
+          "explanation": "指部队按计划周期性地部署到特定战区，并非永久性驻扎，任务结束后返回原驻地。"
+        }
+      ]
+    }
+  },
+  {
     "id": "71d33fe9",
     "title": "Ranked: The Biggest Social Media Platforms in 2026",
     "original_url": "https://www.visualcapitalist.com/the-biggest-social-media-platforms-2026/",
