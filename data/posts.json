@@ -1,22 +1,5 @@
 [
   {
-    "id": "2bc6b3d3",
-    "title": "Mapped: The States Banning Phones in Schools",
-    "original_url": "https://www.visualcapitalist.com/where-phones-are-banned-in-u-s-schools/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/2bc6b3d3.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmUjNSFKsJGKc6ACsfaGqgUStFTEc0VXMLlLajFNkPFPqKSo5FczVVkB60Uh60VpyoXOz/2Q==",
-    "image_version": 1778592690,
-    "pub_date": "Tue, 12 May 2026 12:07:55 +0000",
-    "content_md": "| State | Policy Category |\n| --- | --- |\n| Alabama | Ban |\n| Florida | Ban |\n| Georgia | Ban |\n| Hawaii | Ban |\n| Indiana | Ban |\n| Iowa | Ban |\n| Kansas | Ban |\n| Kentucky | Ban |\n| Louisiana | Ban |\n| Maine | Ban |\n| Michigan | Ban |\n| Missouri | Ban |\n| Nebraska | Ban |\n| Nevada | Ban |\n| New Hampshire | Ban |\n| New Jersey | Ban |\n| New York | Ban |\n| North Carolina | Ban |\n| North Dakota | Ban |\n| Ohio | Ban |\n| Oklahoma | Ban |\n| Oregon | Ban |\n| Rhode Island | Ban |\n| South Carolina | Ban |\n| Tennessee | Ban |\n| Texas | Ban |\n| Utah | Ban |\n| Vermont | Ban |\n| Virginia | Ban |\n| West Virginia | Ban |\n| Wisconsin | Ban |\n| Arizona | Classroom Limits |\n| Arkansas | Classroom Limits |\n| California | Classroom Limits |\n| Connecticut | Limits Encouraged |\n| Idaho | Limits Encouraged |\n| Montana | Limits Encouraged |\n| Washington | Limits Encouraged |\n| Delaware | None |\n| Illinois | None |\n| Massachusetts | None |\n| Mississippi | None |\n| Pennsylvania | None |\n| South Dakota | None |\n| Wyoming | None |\n| Alaska | Policy Required by District |\n| Colorado | Policy Required by District |\n| Maryland | Policy Required by District |\n| Minnesota | Policy Required by District |\n| New Mexico | Policy Required by District |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "056832e7",
     "title": "Mapped: Where U.S. Troops Are Stationed in Europe",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-where-u-s-troops-are-stationed-in-europe/",
@@ -2229,9 +2212,6 @@
     "id": "f2a01618",
     "title": "Ranked: The Companies That Sell the Most AI Chips",
     "original_url": "https://www.visualcapitalist.com/ranked-the-companies-that-sell-the-most-ai-chips/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/f2a01618.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAACABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjx0pj0UV7lHcuZHRRRXaYn//Z",
-    "image_version": null,
     "pub_date": "Thu, 23 Apr 2026 13:36:05 +0000",
     "content_md": "| Rank | Manufacturer | Q4 2025 Chip Sales (H100 equivalents) |\n| --- | --- | --- |\n| 1 | Nvidia | 2,957,362 |\n| 2 | Google | 976,313 |\n| 3 | AMD | 226,485 |\n| 4 | Amazon | 221,354 |\n| 5 | Huawei | 131,964 |",
     "ai_analysis": {
@@ -2300,9 +2280,6 @@
     "id": "aa9d4ac3",
     "title": "Charted: Compute Costs More Than Talent in AI",
     "original_url": "https://www.visualcapitalist.com/visualized-the-costs-of-ai-companies/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/aa9d4ac3.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAACABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjx0pj0UV7lHcuZHRRRXaYn//Z",
-    "image_version": null,
     "pub_date": "Tue, 21 Apr 2026 16:28:26 +0000",
     "content_md": "| Costs Category | Anthropic | Minimax | Z.ai |\n| --- | --- | --- | --- |\n| R&D Compute (Billions, USD) | 4.10 | 0.14 | 0.18 |\n| Inference Compute (Billions, USD) | 2.70 | 0.04 | 0.01 |\n| Staff and Other (Billions, USD) | 2.90 | 0.14 | 0.12 |\n| Total (Billions, USD) | 9.70 | 0.32 | 0.31 |\n| R&D Compute Share | 42% | 44% | 58% |\n| Inference Compute Share | 28% | 13% | 3% |\n| Staff and Other Share | 30% | 44% | 39% |",
     "ai_analysis": {
@@ -28989,23 +28966,6 @@
     }
   },
   {
-    "id": "85c3f475",
-    "title": "Mapped: America’s Most Visited States by Tourists",
-    "original_url": "https://www.visualcapitalist.com/mapped-most-visited-states-by-tourists/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/85c3f475.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnVtiO1OMJA6VoALTJQAK6rmXKZpj5oqZiM0UibEiSmkkkJFMFNfpWdyFNkTMc0U09aKdx3P/Z",
-    "image_version": 1778511065,
-    "pub_date": "Fri, 03 Apr 2026 13:38:42 +0000",
-    "content_md": "| Rank | State or Territory | Number of overseas visitors, 2024 |\n| --- | --- | --- |\n| 1 | New York | 9,802,000 |\n| 2 | Florida | 8,860,000 |\n| 3 | California | 6,954,000 |\n| 4 | Nevada | 2,644,000 |\n| 5 | Texas | 2,088,000 |\n| 6 | Hawaii | 1,976,000 |\n| 7 | Massachusetts | 1,501,000 |\n| 8 | Illinois | 1,410,000 |\n| 9 | New Jersey | 1,227,000 |\n| 10 | Arizona | 1,160,000 |\n| 11 | Georgia | 1,069,000 |\n| 12 | Washington | 858,000 |\n| 13 | Pennsylvania | 805,000 |\n| 14 | Guam | 802,000 |\n| 15 | Utah | 640,000 |\n| 16 | Virginia | 548,000 |\n| 17 | Tennessee | 524,000 |\n| 18 | North Carolina | 510,000 |\n| 19 | Colorado | 461,000 |\n| 20 | Maryland | 425,000 |\n| 21 | Michigan | 418,000 |\n| 22 | Louisiana | 387,000 |\n| 23 | Ohio | 369,000 |\n| 24 | Connecticut | 320,000 |\n| 25 | South Carolina | 299,000 |\n| 26 | Minnesota | 232,000 |\n| 27 | Indiana | 222,000 |\n| 28 | Oregon | 218,000 |\n| 29 | Wyoming | 204,000 |\n| 30 | Wisconsin | 193,000 |\n| 31 | Missouri | 165,000 |\n| 32 | Puerto Rico | 148,000 |\n| 33 | Alaska | 137,000 |\n| 34 | Kentucky | 130,000 |\n| 35 | Maine | 127,000 |\n| 36 | Alabama | 109,000 |\n| 37 | Rhode Island | 105,000 |\n| 38 | Idaho | 95,000 |\n| 39 | New Mexico | 95,000 |\n| 40 | New Hampshire | 81,000 |\n| 41 | Oklahoma | 77,000 |\n| 42 | Vermont | 77,000 |\n| 43 | Arkansas | 74,000 |\n| 44 | Iowa | 67,000 |\n| 45 | Kansas | 63,000 |\n| 46 | Montana | 56,000 |\n| 47 | South Dakota | 53,000 |\n| 48 | Mississippi | 49,000 |\n| 49 | Nebraska | 49,000 |\n| 50 | Delaware | 42,000 |\n| 51 | West Virginia | n/a |\n| 52 | North Dakota | n/a |\n| -- | Total | 48,925,000 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "e202e81c",
     "title": "Ranked: The World’s Largest Armies in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-worlds-largest-armies-in-2026/",
@@ -29558,23 +29518,6 @@
     }
   },
   {
-    "id": "2832c59e",
-    "title": "Countries Losing Trust in the U.S.",
-    "original_url": "https://www.visualcapitalist.com/sp/ig02-countries-losing-trust-in-the-u-s/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/2832c59e.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmZJM1Vk5o3k00811OVypyuREc0U/FFZ2MbgDTs1GtONNjDdRUdFO4rH//2Q==",
-    "image_version": 1778511199,
-    "pub_date": "Thu, 02 Apr 2026 15:31:00 +0000",
-    "content_md": "| Country | Trust in the United States (% change in perception) |\n| --- | --- |\n| United Kingdom | -13 |\n| Italy | -21 |\n| France | -17 |\n| Japan | -16 |\n| Brazil | -20 |\n| India | -10 |\n| Canada | -52 |\n| Germany | -15 |\n| South Africa | -21 |\n| China | -9 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "969ebb65",
     "title": "Ranked: The U.S. States Building the Most Data Centers",
     "original_url": "https://www.visualcapitalist.com/ranked-us-states-data-center-hotspots/",
@@ -29975,23 +29918,6 @@
           "explanation": "指因网络连通性、能源供应、市场需求等因素，数据中心高度集聚的特定地理区域，如美国弗吉尼亚州北部。"
         }
       ]
-    }
-  },
-  {
-    "id": "f062f755",
-    "title": "Half of U.S. Exports Come From Just 6 States",
-    "original_url": "https://www.visualcapitalist.com/half-of-u-s-exports-come-from-6-states/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/f062f755.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnYIM1NJb4XpU9vgVPKV210ODOZsxWh+airb43UU7GfMSRkinSOcU1aSTpWnMTcrsxzRSN1oqbjP/Z",
-    "image_version": 1778511255,
-    "pub_date": "Thu, 02 Apr 2026 12:05:59 +0000",
-    "content_md": "| Rank | State | Share of Total | Value | Change2024-2025 |\n| --- | --- | --- | --- | --- |\n| 1 | Texas | 21.8% | $450.3B | -1% |\n| 2 | California | 9.1% | $188.4B | 2% |\n| 3 | New York | 7.4% | $153.1B | 63% |\n| 4 | Louisiana | 4.5% | $93.4B | 8% |\n| 5 | Illinois | 3.9% | $80.0B | -2% |\n| 6 | Florida | 3.8% | $78.9B | 9% |\n| 7 | Indiana | 3.3% | $68.8B | 14% |\n| 8 | Washington | 3.2% | $65.3B | 13% |\n| 9 | Georgia | 2.9% | $60.3B | 13% |\n| 10 | Michigan | 2.8% | $58.3B | -7% |\n| 11 | Ohio | 2.7% | $55.9B | -3% |\n| 12 | Pennsylvania | 2.5% | $52.2B | -2% |\n| 13 | Kentucky | 2.5% | $50.6B | 6% |\n| 14 | Arizona | 2.2% | $44.4B | 37% |\n| 15 | New Jersey | 2.1% | $44.2B | 2% |\n| 16 | North Carolina | 2.1% | $43.8B | 2% |\n| 17 | Massachusetts | 1.9% | $38.8B | 11% |\n| 18 | South Carolina | 1.9% | $38.5B | 1% |\n| 19 | Tennessee | 1.8% | $37.7B | -4% |\n| 20 | Oregon | 1.4% | $28.0B | -17% |\n| 21 | Wisconsin | 1.3% | $27.1B | -2% |\n| 22 | Alabama | 1.1% | $23.7B | -12% |\n| 23 | Minnesota | 1.1% | $23.5B | -13% |\n| 24 | Utah | 1.1% | $22.4B | 23% |\n| 25 | Virginia | 0.9% | $19.0B | -12% |\n| 26 | Missouri | 0.9% | $18.7B | -3% |\n| 27 | Connecticut | 0.9% | $17.7B | 2% |\n| 28 | Maryland | 0.8% | $16.5B | -8% |\n| 29 | Iowa | 0.8% | $16.2B | -5% |\n| 30 | New Mexico | 0.7% | $15.3B | 27% |\n| 31 | Kansas | 0.7% | $14.6B | 1% |\n| 32 | Mississippi | 0.7% | $14.2B | 3% |\n| 33 | Nevada | 0.6% | $12.7B | 22% |\n| 34 | Colorado | 0.5% | $11.0B | 4% |\n| 35 | North Dakota | 0.4% | $8.6B | 26% |\n| 36 | Nebraska | 0.4% | $7.8B | -5% |\n| 37 | Oklahoma | 0.4% | $7.5B | -4% |\n| 38 | New Hampshire | 0.3% | $7.2B | 1% |\n| 39 | Alaska | 0.3% | $6.7B | 13% |\n| 40 | Arkansas | 0.3% | $6.6B | -4% |\n| 41 | Delaware | 0.3% | $5.5B | 15% |\n| 42 | West Virginia | 0.2% | $4.6B | -5% |\n| 43 | Idaho | 0.2% | $4.6B | 7% |\n| 44 | Rhode Island | 0.2% | $4.2B | 36% |\n| 45 | Dist of Columbia | 0.2% | $3.7B | N/A |\n| 46 | Maine | 0.2% | $3.2B | 2% |\n| 47 | Montana | 0.1% | $2.1B | -12% |\n| 48 | Vermont | 0.1% | $2.1B | 9% |\n| 49 | Wyoming | 0.1% | $2.0B | -4% |\n| 50 | South Dakota | 0.1% | $1.9B | -13% |\n| 51 | Hawaii | 0.0% | $0.4B | -14% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -31084,23 +31010,6 @@
           "explanation": "来自自然补给源的能源，如太阳能、风能、水能等。数据中心行业大力采用以降低碳足迹和长期能源成本。"
         }
       ]
-    }
-  },
-  {
-    "id": "2d65d0a5",
-    "title": "Ranked: The Fastest-Growing Major Economies in 2025 & 2026",
-    "original_url": "https://www.visualcapitalist.com/sp/hf07-fastest-growing-economies-2025-2026/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/2d65d0a5.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDv5ZMVAJ+aZck81VTcXqbD5jTWTiioUB2iiiwcw+WPdUaQYNXDTcVVxWGquBRT6KQ7H//Z",
-    "image_version": 1778511448,
-    "pub_date": "Tue, 31 Mar 2026 15:36:00 +0000",
-    "content_md": "| Country | Real GDP Growth 2025 (%) | Real GDP Growth 2026 (%) |\n| --- | --- | --- |\n| India | 6.6 | 6.2 |\n| Indonesia | 4.9 | 4.9 |\n| China | 4.8 | 4.2 |\n| Brazil | 2.4 | 1.9 |\n| U.S. | 2.0 | 2.1 |\n| UK | 1.3 | 1.3 |\n| Japan | 1.1 | 0.6 |\n| France | 0.7 | 0.9 |\n| Russia | 0.6 | 1.0 |\n| Germany | 0.2 | 0.9 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -34943,23 +34852,6 @@
     }
   },
   {
-    "id": "e2752f64",
-    "title": "Charted: U.S. War Support Hits Record Lows",
-    "original_url": "https://www.visualcapitalist.com/how-american-support-for-war-has-changed-since-wwii/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/e2752f64.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrpXpkbc0ktJF1rBvU6UtC4p4opFPFFUZlF3pqSYNRtTO9K2pmqjsXROMUVTFFXYnmZ//Z",
-    "image_version": 1778512013,
-    "pub_date": "Thu, 26 Mar 2026 21:16:12 +0000",
-    "content_md": "| Conflict | Initial Public Support forU.S. Military Intervention | Year | President |\n| --- | --- | --- | --- |\n| Iran War | 41% | 2026 | Donald Trump |\n| Libya Intervention | 47% | 2011 | Barack Obama |\n| Iraq War | 76% | 2003 | George W. Bush |\n| Afghanistan War | 92% | 2001 | George W. Bush |\n| Kosovo | 58% | 1999 | Bill Clinton |\n| Persian Gulf War | 82% | 1991 | George H. W. Bush |\n| Panama | 80% | 1989 | George H. W. Bush |\n| Grenada | 53% | 1983 | Ronald Reagan |\n| Korean War | 75% | 1950 | Harry S. Truman |\n| World War II | 97% | 1941 | Franklin D. Roosevelt |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "83f45fbe",
     "title": "Mapped: Where $200K Incomes Are Most Common in America",
     "original_url": "https://www.visualcapitalist.com/where-200k-households-are-most-common-in-america/",
@@ -36158,23 +36050,6 @@
           "explanation": "指在技术或经济上相对落后的国家或地区，可以直接引进、吸收和利用先进国家已有的成熟技术与经验，从而实现更快的发展，避免重复研发和试错成本。"
         }
       ]
-    }
-  },
-  {
-    "id": "02973c51",
-    "title": "Charted: America’s Oil Reversal, From Import Giant to Net Exporter",
-    "original_url": "https://www.visualcapitalist.com/america-oil-reversal-net-exporter-chart/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/02973c51.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDfnnAHWqy3Q3dazry7wDzWcl2TJ1rOxspHXJcjb1orDjujsHNFFhcxn3QJzVNIyHrSnqsPvVZyqbJo8hRRTl6UUFczP//Z",
-    "image_version": 1778512307,
-    "pub_date": "Tue, 24 Mar 2026 14:22:02 +0000",
-    "content_md": "| Year | Petroleum Imports (kbd) | Petroleum Exports (kbd) | Petroleum Net Imports (kbd) |\n| --- | --- | --- | --- |\n| 1973 | 6257.614 | 231.539 | 6026.075 |\n| 1974 | 6106.949 | 220.265 | 5886.684 |\n| 1975 | 6055.197 | 209.565 | 5845.632 |\n| 1976 | 7311.529 | 223.28 | 7088.249 |\n| 1977 | 8814.514 | 242.658 | 8571.856 |\n| 1978 | 8362.208 | 361.029 | 8001.178 |\n| 1979 | 8453.347 | 470.964 | 7982.384 |\n| 1980 | 6911.935 | 544.532 | 6367.402 |\n| 1981 | 5999.857 | 593.926 | 5405.931 |\n| 1982 | 5111.942 | 814.49 | 4297.453 |\n| 1983 | 5043.856 | 740.314 | 4303.542 |\n| 1984 | 5438.21 | 721.176 | 4717.033 |\n| 1985 | 5060.696 | 782.09 | 4278.606 |\n| 1986 | 6213.924 | 785.022 | 5428.903 |\n| 1987 | 6672.683 | 765.416 | 5907.267 |\n| 1988 | 7401.561 | 815.046 | 6586.514 |\n| 1989 | 8060.731 | 858.868 | 7201.864 |\n| 1990 | 8017.638 | 856.542 | 7161.096 |\n| 1991 | 7622.212 | 1002.777 | 6619.435 |\n| 1992 | 7883.437 | 948.991 | 6934.447 |\n| 1993 | 8616.414 | 1002.479 | 7613.935 |\n| 1994 | 8994.387 | 941.311 | 8053.076 |\n| 1995 | 8834.999 | 949.963 | 7885.036 |\n| 1996 | 9472.205 | 981.164 | 8491.041 |\n| 1997 | 10158.571 | 1003.038 | 9155.533 |\n| 1998 | 10703.784 | 944.744 | 9759.04 |\n| 1999 | 10850.785 | 938.782 | 9912.002 |\n| 2000 | 11459.382 | 1039.443 | 10419.939 |\n| 2001 | 11870.427 | 970.794 | 10899.632 |\n| 2002 | 11527.177 | 984.977 | 10542.2 |\n| 2003 | 12256.572 | 1026.663 | 11229.91 |\n| 2004 | 13142.334 | 1048.12 | 12094.213 |\n| 2005 | 13714.677 | 1165.508 | 12549.168 |\n| 2006 | 13706.889 | 1317.28 | 12389.609 |\n| 2007 | 13458.883 | 1432.116 | 12026.767 |\n| 2008 | 12912.598 | 1801.117 | 11111.481 |\n| 2009 | 11693.961 | 2022.106 | 9671.856 |\n| 2010 | 11790.625 | 2350.714 | 9439.911 |\n| 2011 | 11430.549 | 2983.525 | 8447.024 |\n| 2012 | 10598.179 | 3204.324 | 7393.856 |\n| 2013 | 9854.258 | 3618.423 | 6235.835 |\n| 2014 | 9239.236 | 4170.894 | 5068.342 |\n| 2015 | 9446.34 | 4738.298 | 4708.042 |\n| 2016 | 10055.718 | 5260.039 | 4795.679 |\n| 2017 | 10142.516 | 6377.687 | 3764.829 |\n| 2018 | 9941.025 | 7598.088 | 2342.936 |\n| 2019 | 9134.983 | 8470.696 | 664.287 |\n| 2020 | 7864.611 | 8498.974 | -634.363 |\n| 2021 | 8470.182 | 8528.14 | -57.958 |\n| 2022 | 8329.658 | 9516.77 | -1187.112 |\n| 2023 | 8530.77 | 10229.419 | -1698.649 |\n| 2024 | 8437.117 | 10711.516 | -2274.399 |\n| 2025 | 7885.292 | 10702.822 | -2817.53 |\n| 2026 (incl. Jan. only) | 8004.452 | 11114.258 | -3109.806 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -37451,23 +37326,6 @@
     }
   },
   {
-    "id": "9d5e05a2",
-    "title": "Charted: How Powerful Is Iran in the Middle East?",
-    "original_url": "https://www.visualcapitalist.com/cp/iran-vs-middle-eastern-countries/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/9d5e05a2.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDLNRMKkNRtXqJHMRkUUpoq7iLJFRsKmNRtWdyLkJFFKaKdwuf/2Q==",
-    "image_version": 1778512578,
-    "pub_date": "Sun, 22 Mar 2026 12:03:48 +0000",
-    "content_md": "| Country | Population (2026) | Area (sq. mi) | GDP $B (2025) | GDP per Capita $ (2025) |\n| --- | --- | --- | --- | --- |\n| Iran | 93,168,497 | 636,372 | 356.51 | 4,074 |\n| Bahrain | 1,675,572 | 300 | 47.39 | 29,253 |\n| Iraq | 48,007,437 | 169,235 | 265.45 | 5,832 |\n| Israel | 9,647,689 | 8,470 | 610.75 | 60,009 |\n| Jordan | 11,589,532 | 34,485 | 56.16 | 4,908 |\n| Kuwait | 5,102,773 | 6,880 | 157.47 | 30,805 |\n| Lebanon | 5,897,467 | 4,036 | 28.28 | 5,282 |\n| Oman | 5,671,458 | 119,498 | 105.19 | 19,119 |\n| Qatar | 3,173,559 | 4,474 | 222.12 | 71,441 |\n| Saudi Arabia | 35,165,787 | 830,000 | 1270 | 35,231 |\n| Syria | 26,472,497 | 71,499 | 19.99 | 847 |\n| UAE | 11,574,682 | 32,279 | 569.1 | 51,348 |\n\n| Country | Oil Prod., bpd (2024) | Oil Reserves, barrels (2025) |\n| --- | --- | --- |\n| Iran | 4,626,733 | 208,600,000,000 |\n| Bahrain | 186,982 | 169,900,000 |\n| Iraq | 4,505,283 | 145,019,000,000 |\n| Israel | 23,674 | 12,730,000 |\n| Jordan | 330 | 1,000,000 |\n| Kuwait | 2,776,206 | 101,500,000,000 |\n| Lebanon | no data | no data |\n| Oman | 1,001,970 | 4,971,000,000 |\n| Qatar | 1,852,417 | 25,244,000,000 |\n| Saudi Arabia | 10,872,023 | 267,230,000,000 |\n| Syria | 60,365 | 2,500,000,000 |\n| UAE | 4,514,224 | 113,000,000,000 |\n\n| Country | Active Military Personnel (2026) | Military Exp., $B (2024) |\n| --- | --- | --- |\n| Iran | 610,000 | 7.9 |\n| Bahrain | 8,200 | 1.4 |\n| Iraq | 193,000 | 6.2 |\n| Israel | 169,500 | 46.5 |\n| Jordan | 100,500 | 2.6 |\n| Kuwait | 17,500 | 7.8 |\n| Lebanon | 60,000 | 0.6 |\n| Oman | 42,600 | 6.0 |\n| Qatar | 16,500 | 15.4 |\n| Saudi Arabia | 257,000 | 80.3 |\n| Syria | no data | 2.5 |\n| UAE | 63,000 | 22.8* |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "0ad85b51",
     "title": "Mapped: Which Gulf States Depend Most on Tourism?",
     "original_url": "https://www.visualcapitalist.com/cp/tourism-dependence-in-gulf-arab-states/",
@@ -38548,23 +38406,6 @@
     }
   },
   {
-    "id": "f5e3375c",
-    "title": "Where the World’s Population Falls on the Happiness Scale in 2026",
-    "original_url": "https://www.visualcapitalist.com/global-happiness-by-population-in-2026/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/f5e3375c.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnYYqmeL5afAtSy421dznbMto/moqZx81FVcq5bip0nSiiszIpt96iiiqKP//Z",
-    "image_version": 1778512811,
-    "pub_date": "Thu, 19 Mar 2026 12:43:59 +0000",
-    "content_md": "| Rank | Country | Happiness Score | Population | Region |\n| --- | --- | --- | --- | --- |\n| 1 | Finland | 7.8 | 5.6M | Europe |\n| 2 | Iceland | 7.5 | 398K | Europe |\n| 3 | Denmark | 7.5 | 6.0M | Europe |\n| 4 | Costa Rica | 7.4 | 5.2M | North America |\n| 5 | Sweden | 7.3 | 10.7M | Europe |\n| 6 | Norway | 7.2 | 5.6M | Europe |\n| 7 | Netherlands | 7.2 | 18.3M | Europe |\n| 8 | Israel | 7.2 | 9.5M | Asia |\n| 9 | Luxembourg | 7.1 | 680K | Europe |\n| 10 | Switzerland | 7.0 | 9.0M | Europe |\n| 11 | New Zealand | 7.0 | 5.3M | Oceania |\n| 12 | Mexico | 7.0 | 131.9M | North America |\n| 13 | Ireland | 6.9 | 5.3M | Europe |\n| 14 | Belgium | 6.9 | 11.8M | Europe |\n| 15 | Australia | 6.9 | 27.0M | Oceania |\n| 16 | Kosovo | 6.9 | 1.7M | Europe |\n| 17 | Germany | 6.9 | 84.1M | Europe |\n| 18 | Slovenia | 6.9 | 2.1M | Europe |\n| 19 | Austria | 6.8 | 9.1M | Europe |\n| 20 | Czechia | 6.8 | 11.3M | Europe |\n| 21 | United Arab Emirates | 6.8 | 10.6M | Asia |\n| 22 | Saudi Arabia | 6.8 | 34.6M | Asia |\n| 23 | United States | 6.8 | 347.3M | North America |\n| 24 | Poland | 6.8 | 38.1M | Europe |\n| 25 | Canada | 6.7 | 40.1M | North America |\n| 26 | Taiwan | 6.7 | 23.1M | Asia |\n| 27 | Belize | 6.7 | 423K | North America |\n| 28 | Lithuania | 6.7 | 2.8M | Europe |\n| 29 | United Kingdom | 6.7 | 69.6M | Europe |\n| 30 | Serbia | 6.7 | 6.7M | Europe |\n| 31 | Uruguay | 6.6 | 3.4M | South America |\n| 32 | Brazil | 6.6 | 212.8M | South America |\n| 33 | Kazakhstan | 6.6 | 20.8M | Asia |\n| 34 | Romania | 6.6 | 18.9M | Europe |\n| 35 | France | 6.6 | 66.7M | Europe |\n| 36 | Singapore | 6.6 | 5.9M | Asia |\n| 37 | El Salvador | 6.6 | 6.4M | North America |\n| 38 | Italy | 6.6 | 59.1M | Europe |\n| 39 | Panama | 6.5 | 4.6M | North America |\n| 40 | Kuwait | 6.5 | 5.0M | Asia |\n| 41 | Spain | 6.5 | 47.9M | Europe |\n| 42 | Guatemala | 6.5 | 18.7M | North America |\n| 43 | Malta | 6.4 | 545K | Europe |\n| 44 | Argentina | 6.4 | 45.9M | South America |\n| 45 | Viet Nam | 6.4 | 101.6M | Asia |\n| 46 | Estonia | 6.4 | 1.3M | Europe |\n| 47 | Bosnia and Herzegovina | 6.4 | 3.1M | Europe |\n| 48 | Latvia | 6.4 | 1.9M | Europe |\n| 49 | Jamaica | 6.3 | 2.8M | North America |\n| 50 | Chile | 6.3 | 19.9M | South America |\n| 51 | Nicaragua | 6.3 | 7.0M | North America |\n| 52 | Thailand | 6.3 | 71.6M | Asia |\n| 53 | Uzbekistan | 6.3 | 37.1M | Asia |\n| 54 | Slovakia | 6.3 | 5.5M | Europe |\n| 55 | Bahrain | 6.3 | 1.6M | Asia |\n| 56 | Philippines | 6.2 | 116.8M | Asia |\n| 57 | Paraguay | 6.2 | 7.0M | South America |\n| 58 | Oman | 6.2 | 5.5M | Asia |\n| 59 | Ecuador | 6.1 | 18.3M | South America |\n| 60 | Montenegro | 6.1 | 633K | Europe |\n| 61 | Japan | 6.1 | 123.1M | Asia |\n| 62 | Cyprus | 6.1 | 1.4M | Europe |\n| 63 | Honduras | 6.1 | 11.0M | North America |\n| 64 | Dominican Republic | 6.1 | 11.5M | North America |\n| 65 | China | 6.1 | 1.42B | Asia |\n| 66 | Kyrgyzstan | 6.0 | 7.3M | Asia |\n| 67 | Republic of Korea | 6.0 | 53.4M | Asia |\n| 68 | Colombia | 6.0 | 51.7M | South America |\n| 69 | Portugal | 6.0 | 10.4M | Europe |\n| 70 | Croatia | 6.0 | 3.8M | Europe |\n| 71 | Malaysia | 6.0 | 36.0M | Asia |\n| 72 | Peru | 6.0 | 34.6M | South America |\n| 73 | Mauritius | 5.9 | 1.3M | Africa |\n| 74 | Hungary | 5.9 | 9.6M | Europe |\n| 75 | Mongolia | 5.9 | 3.5M | Asia |\n| 76 | Trinidad and Tobago | 5.9 | 1.5M | North America |\n| 77 | Republic of Moldova | 5.9 | 3.0M | Europe |\n| 78 | Bolivia | 5.8 | 12.6M | South America |\n| 79 | Russian Federation | 5.8 | 144.0M | Europe |\n| 80 | Venezuela | 5.8 | 28.5M | South America |\n| 81 | Libya | 5.7 | 7.5M | Africa |\n| 82 | North Macedonia | 5.7 | 1.8M | Europe |\n| 83 | Algeria | 5.7 | 47.4M | Africa |\n| 84 | Bulgaria | 5.7 | 6.7M | Europe |\n| 85 | Greece | 5.7 | 9.9M | Europe |\n| 86 | Albania | 5.7 | 2.8M | Europe |\n| 87 | Indonesia | 5.6 | 285.7M | Asia |\n| 88 | Tajikistan | 5.6 | 10.8M | Asia |\n| 89 | Armenia | 5.6 | 3.0M | Asia |\n| 90 | Hong Kong SAR | 5.6 | 7.4M | Asia |\n| 91 | Georgia | 5.5 | 3.8M | Asia |\n| 92 | Lao PDR | 5.5 | 7.9M | Asia |\n| 93 | Mozambique | 5.3 | 35.6M | Africa |\n| 94 | Türkiye | 5.3 | 87.7M | Asia |\n| 95 | Iraq | 5.2 | 47.0M | Asia |\n| 96 | Gabon | 5.2 | 2.6M | Africa |\n| 97 | Iran | 5.2 | 92.4M | Asia |\n| 98 | Côte d’Ivoire | 5.1 | 32.7M | Africa |\n| 99 | Nepal | 5.1 | 29.6M | Asia |\n| 100 | Cameroon | 5.1 | 29.9M | Africa |\n| 101 | South Africa | 5.0 | 64.7M | Africa |\n| 102 | Azerbaijan | 5.0 | 10.4M | Asia |\n| 103 | Niger | 4.9 | 27.9M | Africa |\n| 104 | Pakistan | 4.9 | 255.2M | Asia |\n| 105 | Tunisia | 4.8 | 12.3M | Africa |\n| 106 | Nigeria | 4.8 | 237.5M | Africa |\n| 107 | Senegal | 4.8 | 18.9M | Africa |\n| 108 | Namibia | 4.8 | 3.1M | Africa |\n| 109 | State of Palestine | 4.7 | 5.6M | Asia |\n| 110 | Kenya | 4.7 | 57.5M | Africa |\n| 111 | Ukraine | 4.7 | 39.0M | Europe |\n| 112 | Morocco | 4.6 | 38.4M | Africa |\n| 113 | Guinea | 4.6 | 15.1M | Africa |\n| 114 | Mali | 4.6 | 25.2M | Africa |\n| 115 | Ghana | 4.6 | 35.1M | Africa |\n| 116 | India | 4.5 | 1.46B | Asia |\n| 117 | Somalia | 4.5 | 19.7M | Africa |\n| 118 | Uganda | 4.5 | 51.4M | Africa |\n| 119 | Jordan | 4.5 | 11.5M | Asia |\n| 120 | Mauritania | 4.5 | 5.3M | Africa |\n| 121 | Cambodia | 4.5 | 17.8M | Asia |\n| 122 | Congo | 4.5 | 6.5M | Africa |\n| 123 | Burkina Faso | 4.5 | 24.1M | Africa |\n| 124 | Benin | 4.4 | 14.8M | Africa |\n| 125 | Chad | 4.4 | 21.0M | Africa |\n| 126 | Lesotho | 4.4 | 2.4M | Africa |\n| 127 | Bangladesh | 4.3 | 175.7M | Asia |\n| 128 | Gambia | 4.3 | 21.9M | Africa |\n| 129 | Myanmar | 4.3 | 54.9M | Asia |\n| 130 | Liberia | 4.3 | 5.7M | Africa |\n| 131 | Togo | 4.3 | 9.7M | Africa |\n| 132 | Madagascar | 4.2 | 32.7M | Africa |\n| 133 | Zambia | 4.1 | 21.9M | Africa |\n| 134 | Sri Lanka | 4.0 | 23.2M | Asia |\n| 135 | Ethiopia | 4.0 | 135.5M | Africa |\n| 136 | Comoros | 3.9 | 883K | Africa |\n| 137 | Eswatini | 3.9 | 1.3M | Africa |\n| 138 | Tanzania | 3.9 | 70.5M | Africa |\n| 139 | Egypt | 3.9 | 118.4M | Africa |\n| 140 | DR Congo | 3.8 | 112.8M | Africa |\n| 141 | Lebanon | 3.7 | 5.8M | Asia |\n| 142 | Yemen | 3.5 | 41.8M | Asia |\n| 143 | Botswana | 3.5 | 2.6M | Africa |\n| 144 | Zimbabwe | 3.3 | 17.0M | Africa |\n| 145 | Malawi | 3.3 | 22.2M | Africa |\n| 146 | Sierra Leone | 3.3 | 8.8M | Africa |\n| 147 | Afghanistan | 1.4 | 43.8M | Asia |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "9b40122a",
     "title": "How AI Could Add $600B to India’s Economy by 2035",
     "original_url": "https://www.visualcapitalist.com/sp/adb01-how-ai-could-add-600b-to-indias-economy-by-2035/",
@@ -39143,40 +38984,6 @@
           "explanation": "指社会网络、互惠规范和由此产生的信任。高水平的社会资本意味着更强的社区凝聚力、合作意愿和集体行动能力，被认为是影响社区乃至国家幸福感的重要因素。"
         }
       ]
-    }
-  },
-  {
-    "id": "732680a7",
-    "title": "U.S. States Winning and Losing Data Center Market Share",
-    "original_url": "https://www.visualcapitalist.com/sp/u-s-states-winning-and-losing-data-center-market-share/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/732680a7.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAMABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsUaplaqy1Ip5rIC0DxRTB0opjP//Z",
-    "image_version": 1778512950,
-    "pub_date": "Wed, 18 Mar 2026 15:55:00 +0000",
-    "content_md": "| U.S. State | Expected Change (%) |\n| --- | --- |\n| Texas | 142 |\n| Georgia | 75 |\n| Rest of U.S. | 21 |\n| Arizona | 0 |\n| Ohio | -17 |\n| Illinois | -25 |\n| Virginia | -35 |\n| California | -50 |\n| Iowa | -60 |\n| Oregon | -67 |\n| Nebraska | -75 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
-    "id": "d376e7f3",
-    "title": "Mapped: Life Expectancy by U.S. State",
-    "original_url": "https://www.visualcapitalist.com/mapped-us-life-expectancy-by-state/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/d376e7f3.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAYABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC+EpfKzU2ypUjzXp8xuUvIPpRWoIRiilzhcaUFKvFFFcnMzl52SBxRRRSuw5mf/9k=",
-    "image_version": 1778512981,
-    "pub_date": "Wed, 18 Mar 2026 14:35:32 +0000",
-    "content_md": "| Rank | State | Life Expectancy (Years) |\n| --- | --- | --- |\n| 1 | Hawaii | 80.0 |\n| 2 | Massachusetts | 79.8 |\n| 3 | New Jersey | 79.6 |\n| 4 | New York | 79.5 |\n| 5 | Connecticut | 79.4 |\n| 6 | California | 79.3 |\n| 7 | Minnesota | 79.3 |\n| 8 | Rhode Island | 79.2 |\n| 9 | Utah | 79.0 |\n| 10 | New Hampshire | 78.7 |\n| 11 | Colorado | 78.5 |\n| 12 | Idaho | 78.4 |\n| 13 | Washington | 78.4 |\n| 14 | Nebraska | 78.3 |\n| 15 | Vermont | 78.3 |\n| 16 | Wisconsin | 78.1 |\n| 17 | North Dakota | 77.9 |\n| 18 | Iowa | 77.9 |\n| 19 | Florida | 77.9 |\n| 20 | Maryland | 77.8 |\n| 21 | Oregon | 77.7 |\n| 22 | Illinois | 77.5 |\n| 23 | Virginia | 77.5 |\n| 24 | Pennsylvania | 77.3 |\n| 25 | South Dakota | 77.3 |\n| 26 | Montana | 77.3 |\n| 27 | Texas | 77.1 |\n| 28 | Wyoming | 76.8 |\n| 29 | Michigan | 76.8 |\n| 30 | Arizona | 76.7 |\n| 31 | Maine | 76.6 |\n| 32 | District of Columbia | 76.6 |\n| 33 | Delaware | 76.5 |\n| 34 | Kansas | 76.5 |\n| 35 | Nevada | 76.4 |\n| 36 | Georgia | 75.9 |\n| 37 | North Carolina | 75.9 |\n| 38 | Alaska | 75.8 |\n| 39 | Ohio | 75.6 |\n| 40 | Indiana | 75.4 |\n| 41 | Missouri | 75.2 |\n| 42 | South Carolina | 75.1 |\n| 43 | New Mexico | 74.5 |\n| 44 | Arkansas | 73.9 |\n| 45 | Oklahoma | 73.8 |\n| 46 | Tennessee | 73.8 |\n| 47 | Alabama | 73.8 |\n| 48 | Louisiana | 73.8 |\n| 49 | Kentucky | 73.6 |\n| 50 | Mississippi | 72.6 |\n| 51 | West Virginia | 72.2 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -40616,23 +40423,6 @@
     }
   },
   {
-    "id": "14e8a46e",
-    "title": "Mapped: The Income Needed to Be Middle Class in Each State",
-    "original_url": "https://www.visualcapitalist.com/mapped-the-income-needed-to-be-middle-class-in-each-state/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/14e8a46e.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrmmB70qSZNZ6uSasxE15jru9jblLwfiioR0orT2jFYoBcVKjAUykpulG5h7RlkSiiqtFa+zQc7P/Z",
-    "image_version": 1778513241,
-    "pub_date": "Mon, 16 Mar 2026 12:02:23 +0000",
-    "content_md": "| Rank | State | Lower bound for middle class income |\n| --- | --- | --- |\n| 1 | Massachusetts | $69.9K |\n| 2 | New Jersey | $69.5K |\n| 3 | Maryland | $68.6K |\n| 4 | Hawaii | $67.2K |\n| 5 | California | $66.8K |\n| 6 | New Hampshire | $66.5K |\n| 7 | Washington | $66.3K |\n| 8 | Colorado | $64.7K |\n| 9 | Utah | $64.4K |\n| 10 | Connecticut | $64.0K |\n| 11 | Alaska | $63.8K |\n| 12 | Virginia | $61.4K |\n| 13 | Delaware | $58.4K |\n| 14 | Minnesota | $58.1K |\n| 15 | New York | $57.2K |\n| 16 | Oregon | $56.8K |\n| 17 | Rhode Island | $55.7K |\n| 18 | Illinois | $55.5K |\n| 19 | Vermont | $55.2K |\n| 20 | Arizona | $54.3K |\n| 21 | Idaho | $54.1K |\n| 22 | Nevada | $54.1K |\n| 23 | Georgia | $53.3K |\n| 24 | Texas | $53.1K |\n| 25 | North Dakota | $51.9K |\n| 26 | Florida | $51.8K |\n| 27 | Pennsylvania | $51.7K |\n| 28 | Wisconsin | $51.7K |\n| 29 | South Dakota | $51.3K |\n| 30 | Maine | $51.0K |\n| 31 | Nebraska | $50.9K |\n| 32 | Wyoming | $50.4K |\n| 33 | Kansas | $50.3K |\n| 34 | Iowa | $50.3K |\n| 35 | Montana | $50.2K |\n| 36 | North Carolina | $49.3K |\n| 37 | Michigan | $48.3K |\n| 38 | South Carolina | $48.2K |\n| 39 | Ohio | $48.1K |\n| 40 | Tennessee | $48.0K |\n| 41 | Indiana | $48.0K |\n| 42 | Missouri | $47.7K |\n| 43 | New Mexico | $45.2K |\n| 44 | Alabama | $44.4K |\n| 45 | Oklahoma | $44.1K |\n| 46 | Kentucky | $43.0K |\n| 47 | Arkansas | $41.4K |\n| 48 | Louisiana | $40.7K |\n| 49 | West Virginia | $40.5K |\n| 50 | Mississippi | $39.4K |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "4ebbda6c",
     "title": "Ranked: Americans’ Favorite News Sites",
     "original_url": "https://www.visualcapitalist.com/ranked-americans-favorite-news-sites/",
@@ -41848,40 +41638,6 @@
     }
   },
   {
-    "id": "14e3dbb7",
-    "title": "Ranked: The Most Common Website Languages on the Internet",
-    "original_url": "https://www.visualcapitalist.com/ranked-the-most-common-website-languages-on-the-internet/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/14e3dbb7.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDPhiqWSHK9KsRoKm2AitZKxnJWMVrY7ulFa5iXNFZ3MyONqlL4FVoqe/3auTKlJsDPzRVRvvUVmZ3P/9k=",
-    "image_version": 1778513476,
-    "pub_date": "Sat, 14 Mar 2026 14:15:06 +0000",
-    "content_md": "| Language | Share of global URLs | Native speakers share of population |\n| --- | --- | --- |\n| English | 45% | 4.6% |\n| German | 7% | 0.9% |\n| Russian | 6% | 1.8% |\n| Chinese | 5% | 16.3% |\n| Japanese | 5% | 1.5% |\n| Spanish | 4% | 5.9% |\n| French | 4% | 1.0% |\n| Other languages | 21% | 68.1% |\n| Unknown | 3% | NA |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
-    "id": "a4ce777f",
-    "title": "Ranked: The Flattest States in America",
-    "original_url": "https://www.visualcapitalist.com/the-flattest-states-in-america/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/a4ce777f.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAVABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDs5ZcVEtwM9ahuW4qkJDurnTMHLU21mGKKzkl+XrRVlcw2Y5FUz96iikjHqSKxxRRRVFH/2Q==",
-    "image_version": 1778513502,
-    "pub_date": "Sat, 14 Mar 2026 12:04:05 +0000",
-    "content_md": "| Rank | State | Elevation Range (ft) |\n| --- | --- | --- |\n| 1 | Florida | 345 |\n| 2 | Delaware | 448 |\n| 3 | Louisiana | 543 |\n| 4 | Mississippi | 806 |\n| 5 | Rhode Island | 812 |\n| 6 | Indiana | 937 |\n| 7 | Illinois | 956 |\n| 8 | Ohio | 1,095 |\n| 9 | Iowa | 1,190 |\n| 10 | Wisconsin | 1,372 |\n| 11 | Michigan | 1,408 |\n| 12 | Missouri | 1,542 |\n| 13 | Minnesota | 1,700 |\n| 14 | New Jersey | 1,803 |\n| 15 | Connecticut | 2,380 |\n| 16 | Alabama | 2,407 |\n| 17 | Arkansas | 2,698 |\n| 18 | North Dakota | 2,756 |\n| 19 | Pennsylvania | 3,213 |\n| 20 | Kansas | 3,360 |\n| 21 | Maryland | 3,360 |\n| 22 | Massachusetts | 3,491 |\n| 23 | South Carolina | 3,560 |\n| 24 | Kentucky | 3,888 |\n| 25 | Vermont | 4,298 |\n| 26 | Nebraska | 4,584 |\n| 27 | West Virginia | 4,623 |\n| 28 | Oklahoma | 4,684 |\n| 29 | Georgia | 4,784 |\n| 30 | Maine | 5,268 |\n| 31 | New York | 5,344 |\n| 32 | Virginia | 5,729 |\n| 33 | South Dakota | 6,276 |\n| 34 | New Hampshire | 6,288 |\n| 35 | Tennessee | 6,465 |\n| 36 | North Carolina | 6,684 |\n| 37 | Texas | 8,749 |\n| 38 | New Mexico | 10,319 |\n| 39 | Wyoming | 10,705 |\n| 40 | Montana | 10,999 |\n| 41 | Colorado | 11,118 |\n| 42 | Oregon | 11,239 |\n| 43 | Utah | 11,528 |\n| 44 | Idaho | 11,952 |\n| 45 | Arizona | 12,563 |\n| 46 | Nevada | 12,661 |\n| 47 | Hawaii | 13,796 |\n| 48 | Washington | 14,411 |\n| 49 | California | 14,776 |\n| 50 | Alaska | 20,320 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "529f3923",
     "title": "Charted: The Energy Mix of the World’s 10 Largest Economies",
     "original_url": "https://www.visualcapitalist.com/energy-mix-of-worlds-10-largest-economies/",
@@ -42322,23 +42078,6 @@
     }
   },
   {
-    "id": "e924bdfa",
-    "title": "Ranked: The Brands That Gained the Most Value Last Year",
-    "original_url": "https://www.visualcapitalist.com/brands-that-gained-the-most-value-last-year/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/e924bdfa.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnbaLmrjR4WmWwFWpPuV6ahodCRmuvzUU9/vGio5RWJbfirEh+WooxTpOlNVNCecqv96ikbrRUc4uc/9k=",
-    "image_version": 1778513614,
-    "pub_date": "Fri, 13 Mar 2026 11:36:47 +0000",
-    "content_md": "| Rank | Company | Brand Value 2025 | Brand Value 2026 | Annual Increase |\n| --- | --- | --- | --- | --- |\n| 1 | Microsoft | $461B | $565B | $104B |\n| 2 | Nvidia | $88B | $184B | $96B |\n| 3 | TikTok | $106B | $154B | $48B |\n| 4 | Apple | $575B | $608B | $33B |\n| 5 | Google | $413B | $433B | $20B |\n| 6 | American Express | $40B | $57B | $18B |\n| 7 | State Grid (China) | $86B | $102B | $17B |\n| 8 | Facebook | $91B | $107B | $16B |\n| 9 | WeChat | $33B | $48B | $15B |\n| 10 | Amazon | $356B | $370B | $13B |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "a77b02af",
     "title": "Mapped: Gas Prices by State Right Now",
     "original_url": "https://www.visualcapitalist.com/mapped-gas-prices-by-state-march-2026/",
@@ -42590,23 +42329,6 @@
           "explanation": "州和联邦政府对每加仑汽油征收的消费税，是汽油终端零售价格的重要组成部分。各州税率差异很大，是导致州际价差的直接原因之一。"
         }
       ]
-    }
-  },
-  {
-    "id": "9c60a5b4",
-    "title": "Where $2.6T in Daily Cross-Border Currency Trades Happen",
-    "original_url": "https://www.visualcapitalist.com/sp/pla02-where-2-6t-in-daily-cross-border-currency-trades-happen/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/9c60a5b4.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsHnA71D9pGetZc90QOtU/tbbutJMzdzoxcDHWisFbo460VdiRZoGNVvszZ6Vuui+lReWuelQjaRmC3OOlFamxfSiqMz//2Q==",
-    "image_version": 1778513679,
-    "pub_date": "Thu, 12 Mar 2026 19:37:08 +0000",
-    "content_md": "| Country | Cross-Border FX Total ($ billions) |\n| --- | --- |\n| UK | 957 |\n| U.S. | 653 |\n| Singapore | 336 |\n| Hong Kong | 149 |\n| Switzerland | 85 |\n| Germany | 74 |\n| Japan | 71 |\n| Australia | 40 |\n| France | 27 |\n| Canada | 24 |\n| Other | 154 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -43766,57 +43488,6 @@
           "explanation": "市场因基本面或预期变化，对某项资产（如公司品牌）的内在价值进行重新评估和定价的过程。"
         }
       ]
-    }
-  },
-  {
-    "id": "6083a67d",
-    "title": "Mapped: Which U.S. States Gained the Most Residents in 2025",
-    "original_url": "https://www.visualcapitalist.com/mapped-which-u-s-states-gained-the-most-residents-in-2025/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/6083a67d.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAYABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqJJs0xJOartmhCc0WBpGisnFFVweKKLE2REwpg4NFFCMXJkgfiiiimHMz/9k=",
-    "image_version": 1778513899,
-    "pub_date": "Mon, 09 Mar 2026 14:26:45 +0000",
-    "content_md": "| Rank | State | Net migration (per 10,000 residents) |\n| --- | --- | --- |\n| 1 | South Carolina | 79.7 |\n| 2 | Idaho | 63.2 |\n| 3 | Delaware | 54.5 |\n| 4 | Tennessee | 43.6 |\n| 5 | Alabama | 36.6 |\n| 6 | Maine | 35.7 |\n| 7 | Arkansas | 33.3 |\n| 8 | North Carolina | 29.2 |\n| 9 | Oklahoma | 26.4 |\n| 10 | Wyoming | 26 |\n| 11 | Montana | 23.4 |\n| 12 | Texas | 23 |\n| 13 | West Virginia | 19.3 |\n| 14 | New Hampshire | 18.8 |\n| 15 | Mississippi | 17.9 |\n| 16 | Georgia | 13.4 |\n| 17 | Minnesota | 12.5 |\n| 18 | South Dakota | 9.3 |\n| 19 | Utah | 7.3 |\n| 20 | Wisconsin | 7.2 |\n| 21 | Arizona | 7.1 |\n| 22 | Kentucky | 7 |\n| 23 | Florida | 6.9 |\n| 24 | Nevada | 6.5 |\n| 25 | New Mexico | 6 |\n| 26 | Indiana | 5.3 |\n| 27 | Louisiana | 3 |\n| 28 | North Dakota | -0.1 |\n| 29 | Vermont | -1.7 |\n| 30 | Hawaii | -2.3 |\n| 31 | Iowa | -3.3 |\n| 32 | Ohio | -4.1 |\n| 33 | Colorado | -4.6 |\n| 34 | Missouri | -5 |\n| 35 | Michigan | -5.5 |\n| 36 | Connecticut | -7.9 |\n| 37 | Oregon | -9 |\n| 38 | Washington | -10.7 |\n| 39 | Pennsylvania | -11.1 |\n| 40 | Nebraska | -13.3 |\n| 41 | Virginia | -13.7 |\n| 42 | Rhode Island | -14 |\n| 43 | Illinois | -14.5 |\n| 44 | Alaska | -16.9 |\n| 45 | New Jersey | -17.6 |\n| 46 | Kansas | -19.6 |\n| 47 | California | -25.1 |\n| 48 | Maryland | -27.4 |\n| 49 | New York | -28.2 |\n| 50 | Massachusetts | -37.9 |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
-    "id": "5dfd61e4",
-    "title": "Ranked: The Top Buyers of U.S. Oil in 2025",
-    "original_url": "https://www.visualcapitalist.com/ranked-top-buyers-u-s-oil-2025/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/5dfd61e4.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhAtBWrRhI7Unle1ArlXbRVjyqKB3NJlHpUZUUUUGIzaKKKKBn/9k=",
-    "image_version": 1778513941,
-    "pub_date": "Mon, 09 Mar 2026 12:06:56 +0000",
-    "content_md": "| Rank | Country | Region | Total Imports (Millions of Barrels 2025) | Share of Total |\n| --- | --- | --- | --- | --- |\n| 1 | Netherlands | Europe | 419 | 10.7% |\n| 2 | Mexico | North America | 398 | 10.2% |\n| 3 | Canada | North America | 324 | 8.3% |\n| 4 | South Korea | Asia-Pacific | 257 | 6.6% |\n| 5 | Japan | Asia-Pacific | 247 | 6.3% |\n| 6 | China | Asia-Pacific | 238 | 6.1% |\n| 7 | India | Asia-Pacific | 221 | 5.7% |\n| 8 | Brazil | Central & South America | 133 | 3.4% |\n| 9 | United Kingdom | Europe | 124 | 3.2% |\n| 10 | Spain | Europe | 95 | 2.4% |\n| 11 | Taiwan | Asia-Pacific | 82 | 2.1% |\n| 12 | France | Europe | 71 | 1.8% |\n| 13 | Chile | Central & South America | 69 | 1.8% |\n| 14 | Singapore | Asia-Pacific | 65 | 1.7% |\n| 15 | Ecuador | Central & South America | 63 | 1.6% |\n| 16 | Peru | Central & South America | 63 | 1.6% |\n| 17 | Thailand | Asia-Pacific | 60 | 1.5% |\n| 18 | Indonesia | Asia-Pacific | 57 | 1.5% |\n| 19 | Panama | Central & South America | 48 | 1.2% |\n| 20 | Italy | Europe | 48 | 1.2% |\n| 21 | Nigeria | Africa | 48 | 1.2% |\n| 22 | Colombia | Central & South America | 46 | 1.2% |\n| 23 | Guatemala | Central & South America | 45 | 1.2% |\n| 24 | Dominican Republic | Central & South America | 43 | 1.1% |\n| 25 | Sweden | Europe | 43 | 1.1% |\n| 26 | Germany | Europe | 42 | 1.1% |\n| 27 | Belgium | Europe | 41 | 1.0% |\n| 28 | Morocco | Africa | 38 | 1.0% |\n| 29 | Honduras | Central & South America | 30 | 0.8% |\n| 30 | Norway | Europe | 30 | 0.8% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
-    "id": "fe26dc31",
-    "title": "Timeline: A Century of White House Renovation Costs",
-    "original_url": "https://www.visualcapitalist.com/cp/timeline-white-house-renovation-costs/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/fe26dc31.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAfABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvhHTlTFTYpKQDcUUuaKAHE1GTSk00imITNFLiigD/2Q==",
-    "image_version": 1778513971,
-    "pub_date": "Sun, 08 Mar 2026 20:21:16 +0000",
-    "content_md": "| Year | Project | Type | Funding |\n| --- | --- | --- | --- |\n| 2008 | East & West Wings renovation | Federal | $561M |\n| 2025 | Ballroom addition | Private | $200M - $400M |\n| 1949 | Residence renovation | Federal | $72M |\n| 1927 | Residence roof renovation | Federal | $6.9M |\n| 2004 | East & West Wings upgrades | Federal | $6M |\n| 2006 | Situation Room upgrades | Federal | $5.3M |\n| 1930 | West Wing reconstruction | Federal | $3.8M |\n| 1933 | Indoor swimming pool addition | Private | $561K |\n| 1973 | Bowling alley addition | Private | $299K |\n| 1948 | Truman balcony | Federal | $202K |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -45058,23 +44729,6 @@
     }
   },
   {
-    "id": "4f865755",
-    "title": "Visualized: Exploring Space and Humanity’s Future",
-    "original_url": "https://www.visualcapitalist.com/sp/dff02-visualized-exploring-space-and-humanitys-future/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/4f865755.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDj4hzVxI8iqcRwavROMV0nPIQwUVPvFFBF2ZKHmp1bAquuakHAoN7EvmH1oqEmimLlJUip7RcVJEwqY4IpIZnmM5oq0QM0UWGVY3NTiTiqamn7uKaHGxOZKKrF6KovQRVNP2HFWkg9qe0HHShRMLmeVNFWzFz0oosVdl1CKecEVUQn1qwpOKnmKSAoM0U6ip52Vyn/2Q==",
-    "image_version": 1778514213,
-    "pub_date": "Sat, 07 Mar 2026 16:16:00 +0000",
-    "content_md": "| Country | Human Space Flight | Interplanetary Probe Capability | Space Programme Acronym |\n| --- | --- | --- | --- |\n| United States | Yes | Yes | NASA, USSF |\n| China | Yes | Yes | CNSA |\n| Russia | Yes | Yes | ROSCOSMOS |\n| India |  | Yes | ISRO |\n| Pakistan |  | Yes | SUPARCO |\n| Japan |  | Yes | JAXA |\n| South Korea |  | Yes | KARI, KASI |\n| United Arab Emirates |  | Yes | UAESA |\n| Brazil |  |  | AEB |\n| Iran |  |  | ISA |\n| United Kingdom |  |  | UKSA |\n| France |  |  | CNES |\n| Italy |  |  | ASI |\n| Argentina |  |  | CONAE |\n| Canada |  |  | CSA/ASC |\n| Ukraine |  |  | SSAU |\n| Poland |  |  | POLSA |\n| Australia |  |  | ASA and NSP |\n| Sweden |  |  | SNSA |\n| Israel |  |  | ISA |\n| New Zealand |  |  | NZSA |\n| Indonesia |  |  | LAPAN |\n| Nigeria |  |  | NASRDA |\n| Bangladesh |  |  | SPARRSO |\n| Ethiopia |  |  | ESSTI |\n| Mexico |  |  | AEM |\n| Egypt |  |  | EgSA, NARSS, EASRT-RSC |\n| Philippines |  |  | PhilSA |\n| Vietnam |  |  | TTVTVN or VNSC, VAST-VNSC |\n| Turkey |  |  | TUA |\n| Germany |  |  | DLR |\n| Thailand |  |  | GISTDA |\n| South Africa |  |  | SANSA |\n| Kenya |  |  | KSA |\n| Colombia |  |  | CCE |\n| Spain |  |  | AEE |\n| Algeria |  |  | ASAL |\n| Angola |  |  | GGPEN |\n| Morocco |  |  | CRTS |\n| Malaysia |  |  | MYSA |\n| Ghana |  |  | GSSTI |\n| Peru |  |  | CONIDA |\n| Saudi Arabia |  |  | SSA |\n| Venezuela |  |  | ABAE |\n| North Korea |  |  | NATA |\n| Taiwan |  |  | TASA |\n| Kazakhstan |  |  | KazCosmos |\n| Chile |  |  | CSA |\n| Romania |  |  | ASR, ROSA |\n| Netherlands |  |  | SRON |\n| Rwanda |  |  | RSA |\n| Tunisia |  |  | CNCT |\n| Azerbaijan |  |  | Azercosmos |\n| Greece |  |  | HSC |\n| Hungary |  |  | HSO |\n| Austria |  |  | ASAL |\n| Switzerland |  |  | SSO |\n| Turkmenistan |  |  | TNSA |\n| Paraguay |  |  | AEP |\n| Bulgaria |  |  | SRI-BAS, STIL-BAS |\n| Denmark |  |  | DNSC, DTU Space |\n| Singapore |  |  | CRISP |\n| Norway |  |  | NRSNSC |\n| Mongolia |  |  | NRSC |\n| Lithuania |  |  | LSA |\n| Bahrain |  |  | BSA |\n| Uzbekistan |  |  | Uzbekspace agency |\n| Syria |  |  | SSA |\n| Bolivia |  |  | ABE |\n| Belgium |  |  | BIRA, IASB, BISA |\n| Portugal |  |  | PTSPACE |\n| Belarus |  |  | BSA |\n| El Salvador |  |  | ESAI |\n| Costa Rica |  |  | AEC |\n| Luxembourg |  |  | LSA |\n\n| Name | Flag | Entity | Program | Launch Date |\n| --- | --- | --- | --- | --- |\n| International Space Station | US | NASA, RosCosmos, ESA, CSA, JAXA | Government | 1998 |\n| Tiangong Space Station | China | CMSA | Government | 2021 |\n| Haven-1 | US | Vast | Commercial | 2026 |\n| Axiom Station | US | Axiom Space | Commercial | 2027 |\n| Lunar Gateway | US |  | Government | 2027 |\n| Orbital Reef | US | Blue Origin, Sierra Space | Commercial | 2027 |\n| Russian Orbital Service Station | Russia | Roscosmos | Government | 2027 |\n| Bharatiya Antariksh Station | India | ISRO | Government | 2028 |\n| Starlab | US | NanoRacks, Voyager Space, Airbus, MDA Space, Mitsubishi | Commercial | 2029 |\n| Haven-2 | US | Vast | Commercial | 2028 |\n| Lunar Orbital Station | Russia | Roscosmos | Government | 2028 |\n| Artificial Gravity Station | US | Vast | Commercial | 2035 |\n\n| Sector | Value ($ Billions) |\n| --- | --- |\n| Commercial Space Products and Services | 343 |\n| Commercial Infrastructure and Support Industries | 137 |\n| U.S. Government Space Budgets | 77 |\n| Non-U.S Government Space Budgets | 55 |\n| Global Space Economy, 2024 | $613 Billion |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "e1d28f75",
     "title": "Mapped: The Best-Selling Vehicle in Every U.S. State",
     "original_url": "https://www.visualcapitalist.com/mapped-the-best-selling-vehicle-in-every-u-s-state/",
@@ -45325,23 +44979,6 @@
           "explanation": "指特定地区的政府法规（如补贴、排放标准、充电设施建设）、消费者偏好和商业环境共同作用，形成有利于某种技术或产品发展的市场环境。"
         }
       ]
-    }
-  },
-  {
-    "id": "5464d2cd",
-    "title": "Ranked: The Hardest U.S. Colleges to Get Into",
-    "original_url": "https://www.visualcapitalist.com/cp/us-colleges-hardest-to-get-into/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/5464d2cd.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAARABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqHvB60+G5BPWsNpDnrU9vIQaGTzI6NZxtorMWc7etFIfMjFbrU0PWiimzEtr0ooopDP/Z",
-    "image_version": 1778514295,
-    "pub_date": "Fri, 06 Mar 2026 19:25:23 +0000",
-    "content_md": "| Educational Institution | Acceptance Rate |\n| --- | --- |\n| California Institute Of Technology (Caltech) | 3% |\n| Columbia University | 4% |\n| Harvard University | 4% |\n| Stanford University | 4% |\n| University of Chicago | 4% |\n| Yale University | 4% |\n| Brown University | 5% |\n| Curtis Institute of Music | 5% |\n| Dartmouth College | 5% |\n| Massachusetts Institute of Technology (MIT) | 5% |\n| Northeastern University | 5% |\n| Princeton University | 5% |\n| University of Pennsylvania | 5% |\n| Duke University | 6% |\n| Johns Hopkins University | 6% |\n| Vanderbilt University | 6% |\n| Bowdoin College | 7% |\n| Colby College | 7% |\n| Pomona College | 7% |\n| Swarthmore College | 7% |\n| Cornell University | 8% |\n| Northwestern University | 8% |\n| Rice University | 8% |\n| Williams College | 8% |\n| Amherst College | 9% |\n| Barnard College | 9% |\n| Juilliard School | 9% |\n| New York University | 9% |\n| United States Naval Academy | 9% |\n| University of California, Los Angeles | 9% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -47964,23 +47601,6 @@
           "explanation": "海军支援活动基地，通常指为美国海军第五舰队提供支援的军事设施，如位于巴林的NSA Bahrain。"
         }
       ]
-    }
-  },
-  {
-    "id": "bff6460a",
-    "title": "Mapped: America’s Fastest-Growing and Fastest-Shrinking States (2020–2025)",
-    "original_url": "https://www.visualcapitalist.com/mapped-americas-fastest-growing-and-fastest-shrinking-states-2020-2025/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/bff6460a.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrGOKcj02UYpiHmouMuA8UUxTxRVXAryPmog+DQ9QnrSsY87LYm4oqpRTsPmZ//9k=",
-    "image_version": 1778514738,
-    "pub_date": "Tue, 03 Mar 2026 13:06:39 +0000",
-    "content_md": "| Rank | State | Population change (2020-2025) | Percent change |\n| --- | --- | --- | --- |\n| 1 | Texas | 2,560,323 | 8.8% |\n| 2 | Florida | 1,924,311 | 8.9% |\n| 3 | North Carolina | 756,576 | 7.2% |\n| 4 | Georgia | 588,887 | 5.5% |\n| 5 | Arizona | 465,714 | 6.5% |\n| 6 | South Carolina | 452,024 | 8.8% |\n| 7 | Tennessee | 402,757 | 5.8% |\n| 8 | Washington | 293,501 | 3.8% |\n| 9 | Utah | 267,303 | 8.2% |\n| 10 | New Jersey | 259,191 | 2.8% |\n| 11 | Virginia | 248,688 | 2.9% |\n| 12 | Colorado | 237,235 | 4.1% |\n| 13 | Idaho | 190,610 | 10.4% |\n| 14 | Indiana | 186,728 | 2.8% |\n| 15 | Nevada | 176,595 | 5.7% |\n| 16 | Alabama | 167,651 | 3.3% |\n| 17 | Oklahoma | 163,934 | 4.1% |\n| 18 | Minnesota | 123,672 | 2.2% |\n| 19 | Massachusetts | 120,972 | 1.7% |\n| 20 | Missouri | 115,628 | 1.9% |\n| 21 | Arkansas | 103,261 | 3.4% |\n| 22 | Ohio | 101,065 | 0.9% |\n| 23 | Kentucky | 100,577 | 2.2% |\n| 24 | Maryland | 83,707 | 1.4% |\n| 25 | Connecticut | 80,746 | 2.2% |\n| 26 | Wisconsin | 78,464 | 1.3% |\n| 27 | Delaware | 70,002 | 7.1% |\n| 28 | Montana | 60,473 | 5.6% |\n| 29 | Pennsylvania | 56,679 | 0.4% |\n| 30 | Nebraska | 56,026 | 2.9% |\n| 31 | Maine | 51,656 | 3.8% |\n| 32 | Michigan | 48,522 | 0.5% |\n| 33 | South Dakota | 48,438 | 5.5% |\n| 34 | Iowa | 47,805 | 1.5% |\n| 35 | Kansas | 39,234 | 1.3% |\n| 36 | New Hampshire | 37,769 | 2.7% |\n| 37 | Oregon | 36,304 | 0.9% |\n| 38 | North Dakota | 20,222 | 2.6% |\n| 39 | Rhode Island | 17,164 | 1.6% |\n| 40 | Wyoming | 11,881 | 2.1% |\n| 41 | New Mexico | 8,006 | 0.4% |\n| 42 | District of Columbia | 4,101 | 0.6% |\n| 43 | Alaska | 3,887 | 0.5% |\n| 44 | Vermont | 1,586 | 0.2% |\n| 45 | Mississippi | -7,104 | -0.2% |\n| 46 | Hawaii | -22,447 | -1.5% |\n| 47 | West Virginia | -27,612 | -1.5% |\n| 48 | Louisiana | -39,705 | -0.9% |\n| 49 | Illinois | -102,600 | -0.8% |\n| 50 | California | -200,394 | -0.5% |\n| 51 | New York | -201,269 | -1.0% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -51383,23 +51003,6 @@
     }
   },
   {
-    "id": "f99561cd",
-    "title": "Visualized: Exploring the Future of the Mind",
-    "original_url": "https://www.visualcapitalist.com/sp/dff02-visualized-exploring-the-future-of-the-mind/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/f99561cd.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCABjABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDTimyauxvkVjxkg1dikwK7fZWL57l3NFVvOorSzC6M4cU4Piot1BNU7oyRL5hoqHNFO4yPdS7qhDU4tVuxkmP3UVFuop8ocxCHpd9Vw9Luo0M1cl30VDuoq7oNSDJFG41Za2PpTfsx9K57mvKQZNFWfs59KKeorGwYlpPJWqn2wetOW6z3rm9ob8pZ8laKiFwPWin7UXIYQY+tTRk+tFFZMtE4Jx1oooqRn//Z",
-    "image_version": 1778515188,
-    "pub_date": "Sat, 28 Feb 2026 16:08:00 +0000",
-    "content_md": "| Year | Market Value (Billions $USD) |\n| --- | --- |\n| 2025 | 2.83 |\n| 2033 | 8.73 |\n| CAGR | 15.13% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "4a897e68",
     "title": "Ranked: The World’s Most Powerful Countries by Soft Power in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-powerful-countries-by-soft-power-in-2026/",
@@ -52595,40 +52198,6 @@
           "explanation": "劳动者因投资于教育、培训等形成的知识和技能而在劳动力市场上获得的额外报酬。"
         }
       ]
-    }
-  },
-  {
-    "id": "e15fc65a",
-    "title": "Ranked: The 25 Best Countries to Retire in 2025",
-    "original_url": "https://www.visualcapitalist.com/best-countries-to-retire-in-2025/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/e15fc65a.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo5pcUyKf5qjuKihB3VscprLJ8tFRIPlFFIRnzvTIXAamTVHH96ouCZrJMNtFVF+7RTuI//9k=",
-    "image_version": 1778515370,
-    "pub_date": "Fri, 27 Feb 2026 13:01:03 +0000",
-    "content_md": "| Rank | Country | Score |\n| --- | --- | --- |\n| 1 | Norway | 83% |\n| 2 | Ireland | 82% |\n| 3 | Switzerland | 81% |\n| 4 | Iceland | 79% |\n| 5 | Denmark | 79% |\n| 6 | Netherlands | 79% |\n| 7 | Australia | 77% |\n| 8 | Germany | 76% |\n| 9 | Luxembourg | 75% |\n| 10 | Slovenia | 75% |\n| 11 | Czechia | 74% |\n| 12 | New Zealand | 73% |\n| 13 | Singapore | 73% |\n| 14 | UK | 72% |\n| 15 | Austria | 72% |\n| 16 | Israel | 72% |\n| 17 | Belgium | 71% |\n| 18 | Sweden | 71% |\n| 19 | Malta | 70% |\n| 20 | Canada | 70% |\n| 21 | U.S. | 70% |\n| 22 | South Korea | 69% |\n| 23 | Finland | 66% |\n| 24 | Slovakia | 66% |\n| 25 | Cyprus | 66% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
-    "id": "db96e338",
-    "title": "Ranked: The 20 Most Visited Websites in the World in 2026",
-    "original_url": "https://www.visualcapitalist.com/ranked-the-20-most-visited-websites-in-the-world-in-2026/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/db96e338.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDonnHrTFnGetZrTH1pUlJNdssMrHOqhricYorPDnHWisfq5r7QpMKE6096avWt3UZyIsKeKKYOlFRzss//2Q==",
-    "image_version": 1778515394,
-    "pub_date": "Thu, 26 Feb 2026 17:53:58 +0000",
-    "content_md": "| Rank | Website | Visits | Country of Origin |\n| --- | --- | --- | --- |\n| 1 | google.com | 94.8B | United States |\n| 2 | youtube.com | 49.7B | United States |\n| 3 | facebook.com | 9.5B | United States |\n| 4 | instagram.com | 6.1B | United States |\n| 5 | chatgpt.com | 5.5B | United States |\n| 6 | reddit.com | 5.1B | United States |\n| 7 | wikipedia.org | 4.3B | United States |\n| 8 | pornhub.com | 3.8B | Canada |\n| 9 | x.com | 3.8B | United States |\n| 10 | whatsapp.com | 2.7B | United States |\n| 11 | xvideos.com | 2.5B | France |\n| 12 | amazon.com | 2.5B | United States |\n| 13 | yahoo.com | 2.3B | United States |\n| 14 | tiktok.com | 2.2B | China |\n| 15 | bing.com | 1.9B | United States |\n| 16 | yahoo.co.jp | 1.8B | Japan |\n| 17 | duckduckgo.com | 1.8B | United States |\n| 18 | temu.com | 1.6B | China |\n| 19 | weather.com | 1.6B | United States |\n| 20 | netflix.com | 1.5B | United States |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {
@@ -55429,23 +54998,6 @@
     }
   },
   {
-    "id": "ae044a8a",
-    "title": "Charted: Who Believes in Aliens, Bigfoot, and the Chupacabra?",
-    "original_url": "https://www.visualcapitalist.com/cp/who-believes-in-aliens-bigfoot-and-the-chupacabra/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/ae044a8a.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAATABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDTa6A70i3Yz1rJkkao1lbPWuflCEk2dALoY60VjrM2OtFPlN9COQVCBzRRVHDDclHSiiimdB//2Q==",
-    "image_version": 1778515837,
-    "pub_date": "Sun, 22 Feb 2026 18:43:28 +0000",
-    "content_md": "| Entity | Definitely Exists | Probably Exists | Probably Does Not Exist | Definitely Does Not Exist | Not Sure |\n| --- | --- | --- | --- | --- | --- |\n| Aliens | 18% | 38% | 16% | 15% | 14% |\n| Bigfoot | 4% | 24% | 27% | 33% | 12% |\n| The Yeti | 3% | 20% | 28% | 32% | 17% |\n| Chupacabra | 3% | 13% | 29% | 31% | 24% |\n| Loch Ness Monster | 3% | 19% | 29% | 35% | 14% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "e7936363",
     "title": "Mapped: Where Food Insecurity Is Highest, State by State",
     "original_url": "https://www.visualcapitalist.com/food-security-is-highest-state-by-state/",
@@ -56953,23 +56505,6 @@
     }
   },
   {
-    "id": "e2ae67cd",
-    "title": "Ranked: The World’s 50 Largest Economies, Including U.S. States",
-    "original_url": "https://www.visualcapitalist.com/worlds-largest-economies-including-u-s-states/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/e2ae67cd.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsGNND80khqMHmrSMWy0H4oqEHiinYLkbvUW/BpGqI0kzO5YEtFVqKLjuf/9k=",
-    "image_version": 1778516129,
-    "pub_date": "Fri, 20 Feb 2026 12:47:15 +0000",
-    "content_md": "| Rank | Country/ State | Entity Type | GDP 2025 |\n| --- | --- | --- | --- |\n| 1 | United States | Country | $30.62T |\n| 2 | China | Country | $19.40T |\n| 3 | Germany | Country | $5.01T |\n| 4 | California | U.S. State | $4.30T |\n| 5 | Japan | Country | $4.28T |\n| 6 | India | Country | $4.13T |\n| 7 | United Kingdom | Country | $3.96T |\n| 8 | France | Country | $3.36T |\n| 9 | Texas | U.S. State | $2.94T |\n| 10 | Italy | Country | $2.54T |\n| 11 | Russia | Country | $2.54T |\n| 12 | New York | U.S. State | $2.50T |\n| 13 | Canada | Country | $2.28T |\n| 14 | Brazil | Country | $2.26T |\n| 15 | Spain | Country | $1.89T |\n| 16 | Mexico | Country | $1.86T |\n| 17 | South Korea | Country | $1.86T |\n| 18 | Florida | U.S. State | $1.85T |\n| 19 | Australia | Country | $1.83T |\n| 20 | Türkiye | Country | $1.57T |\n| 21 | Indonesia | Country | $1.44T |\n| 22 | Netherlands | Country | $1.32T |\n| 23 | Saudi Arabia | Country | $1.27T |\n| 24 | Illinois | U.S. State | $1.22T |\n| 25 | Pennsylvania | U.S. State | $1.07T |\n| 26 | Poland | Country | $1.04T |\n| 27 | Switzerland | Country | $1.00T |\n| 28 | Ohio | U.S. State | $979.1B |\n| 29 | Georgia | U.S. State | $935.8B |\n| 30 | North Carolina | U.S. State | $905.2B |\n| 31 | Washington | U.S. State | $903.7B |\n| 32 | New Jersey | U.S. State | $896.4B |\n| 33 | Taiwan | Country | $884.4B |\n| 34 | Massachusetts | U.S. State | $828.3B |\n| 35 | Virginia | U.S. State | $807.3B |\n| 36 | Michigan | U.S. State | $738.3B |\n| 37 | Belgium | Country | $717.0B |\n| 38 | Ireland | Country | $708.8B |\n| 39 | Argentina | Country | $683.4B |\n| 40 | Sweden | Country | $662.3B |\n| 41 | Israel | Country | $610.8B |\n| 42 | Arizona | U.S. State | $604.3B |\n| 43 | Tennessee | U.S. State | $596.6B |\n| 44 | Colorado | U.S. State | $589.9B |\n| 45 | Maryland | U.S. State | $574.4B |\n| 46 | Singapore | Country | $574.2B |\n| 47 | UAE | Country | $569.1B |\n| 48 | Austria | Country | $566.5B |\n| 49 | Thailand | Country | $558.6B |\n| 50 | Indiana | U.S. State | $551.8B |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
-    }
-  },
-  {
     "id": "b3c736e9",
     "title": "Charted: The Escalating Destruction of U.S. Wildfires",
     "original_url": "https://www.visualcapitalist.com/sp/ig01-charted-the-escalating-destruction-of-u-s-wildfires/",
@@ -58269,23 +57804,6 @@
           "explanation": "指经济总量巨大的地区，即使其增长率相对较低，由于基数庞大，其增长的绝对量仍然非常可观，对整体经济有显著影响。"
         }
       ]
-    }
-  },
-  {
-    "id": "fceded09",
-    "title": "Ranked: The Biggest Buyers and Sellers of U.S. Debt (2025)",
-    "original_url": "https://www.visualcapitalist.com/whos-buying-and-selling-americas-debt-2025/",
-    "r2_image_url": "https://beacon-img.thetamind.ai/fceded09.webp",
-    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDg0FS9qYgqYLxXoKRMoER60U8rzRRzEchIsJHan7MCruwelRyKK51I3cimRRUpAzRTuTc//9k=",
-    "image_version": 1778516339,
-    "pub_date": "Wed, 18 Feb 2026 18:22:51 +0000",
-    "content_md": "| Rank | Country | Change in U.S. Treasury Holdings (Millions, Nov 2024 - Nov 2025) | Percentage Change |\n| --- | --- | --- | --- |\n| 1 | United Kingdom | $121,613 | 16% |\n| 2 | Belgium | $119,704 | 33% |\n| 3 | Japan | $115,528 | 11% |\n| 4 | Canada | $99,835 | 27% |\n| 5 | Norway | $56,335 | 35% |\n| 6 | France | $43,538 | 13% |\n| 7 | United Arab Emirates | $30,335 | 41% |\n| 8 | Taiwan | $26,539 | 9% |\n| 9 | Cayman Islands | $22,131 | 5% |\n| 10 | Israel | $20,265 | 23% |\n| 11 | Singapore | $19,934 | 8% |\n| 12 | Spain | $17,619 | 27% |\n| 13 | South Korea | $17,605 | 14% |\n| 14 | Kuwait | $13,643 | 27% |\n| 15 | Saudi Arabia | $13,283 | 10% |\n| 16 | Bermuda | $12,883 | 14% |\n| 17 | Thailand | $10,061 | 14% |\n| 18 | Germany | $9,699 | 10% |\n| 19 | Luxembourg | $7,811 | 2% |\n| 20 | Australia | $7,158 | 11% |\n\n| Rank | Country | Change in U.S. Treasury Holdings (Millions, Nov 2024 - Nov 2025) | Percentage Change |\n| --- | --- | --- | --- |\n| 1 | China | -$85,960 | -11% |\n| 2 | Brazil | -$60,847 | -27% |\n| 3 | India | -$47,517 | -20% |\n| 4 | British Virgin Islands | -$38,956 | -32% |\n| 5 | Bahamas | -$13,822 | -35% |\n| 6 | Mexico | -$13,320 | -13% |\n| 7 | Hong Kong | -$9,821 | -4% |\n| 8 | South Africa | -$6,356 | -39% |\n| 9 | Indonesia | -$4,865 | -14% |\n| 10 | Netherlands | -$4,750 | -6% |\n| 11 | Portugal | -$3,959 | -66% |\n| 12 | Ireland | -$2,876 | -1% |\n| 13 | Denmark | -$2,663 | -21% |\n| 14 | Philippines | -$2,246 | -3% |\n| 15 | Colombia | -$1,780 | -4% |\n| 16 | Ecuador | -$647 | -35% |\n| 17 | Sweden | -$637 | -1% |\n| 18 | Austria | -$361 | -5% |\n| 19 | Barbados | -$257 | -8% |\n| 20 | Trinidad and Tobago | -$249 | -6% |",
-    "ai_analysis": {
-      "core_insight": "暂无分析数据",
-      "data_highlights": [],
-      "data_tables": [],
-      "deep_dive": "内容暂不可用。",
-      "glossary": []
     }
   },
   {

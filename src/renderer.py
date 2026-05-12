@@ -17,6 +17,25 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 _MD_EXTENSIONS = ["tables", "fenced_code", "nl2br"]
 
+# Placeholder when AI analysis fails; such posts must not be persisted or rendered.
+INVALID_AI_CORE_INSIGHT = "暂无分析数据"
+
+
+def has_valid_ai_analysis(post: dict) -> bool:
+    """True if the post has real AI content (not the pipeline failure placeholder)."""
+    ai = post.get("ai_analysis") or {}
+    return (ai.get("core_insight") or "") != INVALID_AI_CORE_INSIGHT
+
+
+def has_valid_hero_image(post: dict) -> bool:
+    """True if the post has an R2 hero chart URL (posts without one stay in JSON but are not shown)."""
+    return bool((post.get("r2_image_url") or "").strip())
+
+
+def is_post_visible(post: dict) -> bool:
+    """Shown on the site and RSS only when analysis and hero image are both present."""
+    return has_valid_ai_analysis(post) and has_valid_hero_image(post)
+
 
 def _markdown_to_html(text: str) -> str:
     if not (text or "").strip():
@@ -76,7 +95,11 @@ def render_site() -> None:
         print(f"[renderer] Failed to parse {data_path}: {e}")
         posts = []
 
-    posts = [_enrich_post(p) for p in posts if isinstance(p, dict)]
+    posts = [
+        _enrich_post(p)
+        for p in posts
+        if isinstance(p, dict) and is_post_visible(p)
+    ]
 
     env = Environment(loader=FileSystemLoader(template_dir))
     template = env.get_template("index.jinja2")
@@ -145,7 +168,7 @@ def render_rss() -> None:
         return dt if dt else datetime.min.replace(tzinfo=timezone.utc)
 
     sorted_posts = sorted(
-        (p for p in posts if isinstance(p, dict)),
+        (p for p in posts if isinstance(p, dict) and is_post_visible(p)),
         key=sort_key,
         reverse=True,
     )[:50]
@@ -158,7 +181,7 @@ def render_rss() -> None:
 
         # Build description from AI analysis
         desc_parts: list[str] = []
-        if core_insight and core_insight != "暂无分析数据":
+        if core_insight and core_insight != INVALID_AI_CORE_INSIGHT:
             desc_parts.append(f"**{core_insight}**")
         if highlights:
             desc_parts.append("\n".join(f"- {h}" for h in highlights))

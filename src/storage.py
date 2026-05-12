@@ -9,6 +9,27 @@ import boto3
 import requests
 from PIL import Image, ImageFilter
 
+# Reject tiny assets (thumbnails / icons); full VC charts are almost always larger.
+_MIN_HERO_WIDTH = 640
+_MIN_HERO_HEIGHT = 320
+
+
+def _decoded_image_meets_hero_minimum(image_bytes: bytes) -> bool:
+    try:
+        img = Image.open(io.BytesIO(image_bytes))
+        img.load()
+        w, h = img.size
+        if w < _MIN_HERO_WIDTH or h < _MIN_HERO_HEIGHT:
+            print(
+                f"[storage] Rejecting image: {w}×{h}px "
+                f"(min {_MIN_HERO_WIDTH}×{_MIN_HERO_HEIGHT})"
+            )
+            return False
+        return True
+    except Exception as e:
+        print(f"[storage] Could not measure image dimensions: {e}")
+        return False
+
 
 def generate_blur_base64(image_bytes: bytes) -> str:
     """Compress image to 20px wide with Gaussian blur, return as base64 data URI."""
@@ -115,6 +136,9 @@ def process_image(image_url: str, article_id: str) -> tuple[str, str] | None:
     """
     image_bytes = download_image(image_url)
     if not image_bytes:
+        return None
+
+    if not _decoded_image_meets_hero_minimum(image_bytes):
         return None
 
     base64_blur = generate_blur_base64(image_bytes)
