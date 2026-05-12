@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from scraper import fetch_articles
 from storage import process_image
 from ai_processor import generate_analysis
-from renderer import render_site
+from renderer import render_rss, render_site
 
 DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "posts.json")
 
@@ -149,8 +149,9 @@ def main() -> None:
     else:
         print("[beacon] No new posts to add.")
 
-    # Render the static site
+    # Render the static site and RSS feed
     render_site()
+    render_rss()
     print("[beacon] Pipeline complete!")
 
 

@@ -46,4 +46,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "beacon: auto-update data and site"
-          file_pattern: "data/*.json docs/*.html"
+          file_pattern: "data/*.json docs/*.html docs/feed.xml"
