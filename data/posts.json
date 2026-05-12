@@ -1,5 +1,398 @@
 [
   {
+    "id": "ba098f1c",
+    "title": "Which Countries Use the Most Electricity?",
+    "original_url": "https://www.visualcapitalist.com/which-countries-use-the-most-electricity/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ba098f1c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkEenGTiqymlJOK60YOJKZKKrknNFK4cpOsRpTEatqopxUYqrE85nmI0VdKiilyhzn/9k=",
+    "image_version": 1778613947,
+    "pub_date": "Tue, 12 May 2026 17:14:38 +0000",
+    "content_md": "| Rank | Country | Electricity Demand (TWh) |\n| --- | --- | --- |\n| 1 | China | 10,573 |\n| 2 | United States | 4,536 |\n| 3 | India | 2,083 |\n| 4 | Russia | 1,176 |\n| 5 | Japan | 1,030 |\n| 6 | Brazil | 762 |\n| 7 | Canada | 646 |\n| 8 | South Korea | 625 |\n| 9 | Germany | 520 |\n| 10 | France | 477 |\n\n| Rank | Country | Electricity Demand Per Capita (MWh, 2025) |\n| --- | --- | --- |\n| 1 | Canada | 16.1 |\n| 2 | United States | 13.1 |\n| 3 | South Korea | 12.1 |\n| 4 | Japan | 8.4 |\n| 5 | Russia | 8.2 |\n| 6 | China | 7.5 |\n| 7 | France | 7.2 |\n| 8 | Germany | 6.2 |\n| 9 | Brazil | 3.6 |\n| 10 | India | 1.4 |\n| -- | World | 3.9 |",
+    "ai_analysis": {
+      "core_insight": "中国总用电量全球第一，但人均用电量远低于发达国家，凸显发展差异。",
+      "data_highlights": [
+        "中国以10,573 TWh的电力需求断层领先，占前10国总需求超半数。",
+        "美国总用电量居全球第二，但人均用电量高达13.1 MWh，位列全球第二。",
+        "印度总用电量全球第三，但人均仅1.4 MWh，远低于世界平均水平。",
+        "加拿大人均用电量（16.1 MWh）高居榜首，但其总需求仅排第七。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity Demand (TWh)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "10,573"
+            ],
+            [
+              "2",
+              "United States",
+              "4,536"
+            ],
+            [
+              "3",
+              "India",
+              "2,083"
+            ],
+            [
+              "4",
+              "Russia",
+              "1,176"
+            ],
+            [
+              "5",
+              "Japan",
+              "1,030"
+            ],
+            [
+              "6",
+              "Brazil",
+              "762"
+            ],
+            [
+              "7",
+              "Canada",
+              "646"
+            ],
+            [
+              "8",
+              "South Korea",
+              "625"
+            ],
+            [
+              "9",
+              "Germany",
+              "520"
+            ],
+            [
+              "10",
+              "France",
+              "477"
+            ]
+          ],
+          "caption": "2025年全球主要国家总电力需求排名（TWh）"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity Demand Per Capita (MWh, 2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Canada",
+              "16.1"
+            ],
+            [
+              "2",
+              "United States",
+              "13.1"
+            ],
+            [
+              "3",
+              "South Korea",
+              "12.1"
+            ],
+            [
+              "4",
+              "Japan",
+              "8.4"
+            ],
+            [
+              "5",
+              "Russia",
+              "8.2"
+            ],
+            [
+              "6",
+              "China",
+              "7.5"
+            ],
+            [
+              "7",
+              "France",
+              "7.2"
+            ],
+            [
+              "8",
+              "Germany",
+              "6.2"
+            ],
+            [
+              "9",
+              "Brazil",
+              "3.6"
+            ],
+            [
+              "10",
+              "India",
+              "1.4"
+            ],
+            [
+              "--",
+              "World",
+              "3.9"
+            ]
+          ],
+          "caption": "2025年全球主要国家人均电力需求排名（MWh）"
+        }
+      ],
+      "deep_dive": "## 总用电量：规模驱动与经济结构映射\n全球电力需求呈现高度集中的格局，中国以超过10,000 TWh的绝对优势位居榜首，其规模是第二名美国的两倍以上。这主要源于中国庞大的工业制造基础、持续的城镇化进程以及巨大的人口基数。美国作为第二大经济体，其用电需求反映了其高度发达的服务业、数据中心集群以及居民的高消费水平。印度位列第三，表明其快速推进的工业化与城市化正产生巨大的能源需求增量。值得关注的是，前10名国家占据了全球电力消费的绝大部分，这凸显了全球能源转型与减排行动中，主要经济体的关键责任。\n\n## 人均用电量：发展水平与生活品质的镜像\n人均数据揭示了与总量截然不同的图景。加拿大、美国、韩国等发达国家人均用电量远超世界平均水平（3.9 MWh），这与其高纬度地区供暖需求、庞大的工业与住宅能耗、以及较高的生活水平密切相关。中国虽然总量第一，但人均用电量仅为7.5 MWh，低于多数上榜发达国家，这既反映了其人口规模效应，也表明其能源利用效率和人均生活能耗仍有提升空间。印度人均仅1.4 MWh的极低水平，则与其仍处于工业化早期阶段、大量人口尚未充分享受现代电气化生活有关。这种“总量巨人、人均追赶”的现象，是理解新兴经济体与发达经济体能源发展阶段差异的核心钥匙。\n\n## 对比启示与未来展望\n1.  **发展悖论**：中国、印度等国面临“满足发展需求”与“控制排放总量”的双重挑战。其人均能耗的上升是发展的必然，如何在此过程中实现能源结构的清洁化是关键。\n2.  **效率标杆**：德国、法国、日本等国在保持较高人均生活水平的同时，人均用电量相对低于北美，可能体现了其更高的能效标准、紧凑的城市布局或产业结构特点，可为其他地区提供借鉴。\n3.  **数据局限**：人均数据受人口规模、气候条件、产业结构（如高耗能产业占比）等因素影响，不能直接等同于居民生活能耗。例如，加拿大高人均值部分源于其铝冶炼等能源密集型产业。未来分析需结合能源结构、终端消费细分等数据，才能更全面评估各国的能源使用效率和可持续性。",
+      "glossary": [
+        {
+          "term": "TWh",
+          "explanation": "太瓦时，电力能量单位。1 TWh = 10亿千瓦时，常用于衡量国家级或区域级的年电力消耗总量。"
+        },
+        {
+          "term": "人均电力需求",
+          "explanation": "指一个国家或地区在一定时期内（通常为一年）的总电力消费量除以同期平均人口数，单位常为兆瓦时（MWh）。该指标用于比较不同人口规模地区的生活与生产用电水平。"
+        },
+        {
+          "term": "能源强度",
+          "explanation": "指单位GDP（国内生产总值）所消耗的能源量，是衡量一个经济体能源利用效率的核心指标。能源强度越低，意味着经济增长对能源消耗的依赖程度越低，效率越高。"
+        },
+        {
+          "term": "电力需求弹性",
+          "explanation": "指电力需求量变化百分比与GDP变化百分比之间的比率。该系数可以反映经济增长对电力需求的拉动强度，是分析电力需求与宏观经济关联性的重要工具。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c66bca46",
+    "title": "Ranked: America’s Most Reliable Companies",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-30-most-reliable-companies-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c66bca46.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqpJcUkc/NVZmqJGO6tLaCSZsLNx1oqkrnFFRylWK0pzUKnBp8lQ96tGKmy0JOKKriigrnZ//Z",
+    "image_version": 1778613973,
+    "pub_date": "Tue, 12 May 2026 14:09:03 +0000",
+    "content_md": "| Rank | Name | Score | Sector |\n| --- | --- | --- | --- |\n| 1 | Microsoft | 91.5 | Tech |\n| 2 | IBM | 89.6 | Tech |\n| 3 | Amazon | 89.2 | Tech |\n| 4 | Google | 88.8 | Tech |\n| 5 | McAfee | 88.7 | Tech |\n| 6 | Apple | 87.7 | Tech |\n| 7 | Capital One | 87.2 | Finance |\n| 8 | AT&T | 86.8 | Telecom |\n| 9 | Bank of America | 86.7 | Finance |\n| 10 | Oracle | 86.7 | Tech |\n| 11 | Toptal | 86.5 | Tech |\n| 12 | Adobe | 86.4 | Tech |\n| 13 | Salesforce | 86.3 | Tech |\n| 14 | Charles Schwab | 86.2 | Finance |\n| 15 | Cisco | 86.1 | Tech |\n| 16 | Fortinet | 85.8 | Tech |\n| 17 | Grainger | 85.8 | Industrial |\n| 18 | Dell Technologies | 85.6 | Tech |\n| 19 | American Express | 85.6 | Finance |\n| 20 | BASF | 85.5 | Industrial |\n| 21 | AppleOne Employment Services | 85.5 | Professional Services |\n| 22 | CWT | 85.4 | Professional Services |\n| 23 | Digital Silk | 85.4 | Professional Services |\n| 24 | Boston Consulting Group | 85.4 | Professional Services |\n| 25 | JPMorgan Chase | 85.2 | Finance |\n| 26 | Sysco | 85.1 | Other |\n| 27 | Goodwin | 85.0 | Professional Services |\n| 28 | Vistaprint | 84.9 | Professional Services |\n| 29 | Staples | 84.9 | Professional Services |\n| 30 | Nvidia | 84.9 | Tech |",
+    "ai_analysis": {
+      "core_insight": "美国最可靠公司榜单被科技巨头主导，前六名均为科技企业。",
+      "data_highlights": [
+        "科技行业在榜单前六名中占据绝对主导地位。",
+        "微软以91.5的得分高居榜首，领先优势明显。",
+        "金融与专业服务行业紧随其后，成为榜单的重要组成。",
+        "工业及其他行业也有代表性公司进入榜单。",
+        "前30名公司的可靠性得分均高于84.8，整体水平较高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Name",
+            "Score",
+            "Sector"
+          ],
+          "rows": [
+            [
+              "1",
+              "Microsoft",
+              "91.5",
+              "Tech"
+            ],
+            [
+              "2",
+              "IBM",
+              "89.6",
+              "Tech"
+            ],
+            [
+              "3",
+              "Amazon",
+              "89.2",
+              "Tech"
+            ],
+            [
+              "4",
+              "Google",
+              "88.8",
+              "Tech"
+            ],
+            [
+              "5",
+              "McAfee",
+              "88.7",
+              "Tech"
+            ],
+            [
+              "6",
+              "Apple",
+              "87.7",
+              "Tech"
+            ],
+            [
+              "7",
+              "Capital One",
+              "87.2",
+              "Finance"
+            ],
+            [
+              "8",
+              "AT&T",
+              "86.8",
+              "Telecom"
+            ],
+            [
+              "9",
+              "Bank of America",
+              "86.7",
+              "Finance"
+            ],
+            [
+              "10",
+              "Oracle",
+              "86.7",
+              "Tech"
+            ],
+            [
+              "11",
+              "Toptal",
+              "86.5",
+              "Tech"
+            ],
+            [
+              "12",
+              "Adobe",
+              "86.4",
+              "Tech"
+            ],
+            [
+              "13",
+              "Salesforce",
+              "86.3",
+              "Tech"
+            ],
+            [
+              "14",
+              "Charles Schwab",
+              "86.2",
+              "Finance"
+            ],
+            [
+              "15",
+              "Cisco",
+              "86.1",
+              "Tech"
+            ],
+            [
+              "16",
+              "Fortinet",
+              "85.8",
+              "Tech"
+            ],
+            [
+              "17",
+              "Grainger",
+              "85.8",
+              "Industrial"
+            ],
+            [
+              "18",
+              "Dell Technologies",
+              "85.6",
+              "Tech"
+            ],
+            [
+              "19",
+              "American Express",
+              "85.6",
+              "Finance"
+            ],
+            [
+              "20",
+              "BASF",
+              "85.5",
+              "Industrial"
+            ],
+            [
+              "21",
+              "AppleOne Employment Services",
+              "85.5",
+              "Professional Services"
+            ],
+            [
+              "22",
+              "CWT",
+              "85.4",
+              "Professional Services"
+            ],
+            [
+              "23",
+              "Digital Silk",
+              "85.4",
+              "Professional Services"
+            ],
+            [
+              "24",
+              "Boston Consulting Group",
+              "85.4",
+              "Professional Services"
+            ],
+            [
+              "25",
+              "JPMorgan Chase",
+              "85.2",
+              "Finance"
+            ],
+            [
+              "26",
+              "Sysco",
+              "85.1",
+              "Other"
+            ],
+            [
+              "27",
+              "Goodwin",
+              "85.0",
+              "Professional Services"
+            ],
+            [
+              "28",
+              "Vistaprint",
+              "84.9",
+              "Professional Services"
+            ],
+            [
+              "29",
+              "Staples",
+              "84.9",
+              "Professional Services"
+            ],
+            [
+              "30",
+              "Nvidia",
+              "84.9",
+              "Tech"
+            ]
+          ],
+          "caption": "美国最可靠公司排名前30"
+        }
+      ],
+      "deep_dive": "## 行业分布与格局：科技企业的压倒性优势\n从榜单数据来看，科技行业不仅占据了前十名中的六个席位（第1至6名），更在前30名中拥有16家公司，占比超过一半。这揭示了**科技公司在建立和维护品牌可靠性方面的系统性优势**。这种优势可能源于其产品/服务的可扩展性、持续迭代的能力以及强大的数据驱动文化，这些都有助于在用户体验、系统稳定性和透明度方面赢得信任。相比之下，金融和专业服务行业也表现不俗，各有5家和7家公司上榜，表明在信息处理、咨询等知识密集型领域，可靠性同样是核心竞争力。\n\n## 可靠性得分分析：高门槛与梯度差异\n榜单的可靠性得分（Score）呈现出清晰的梯度格局。\n- **第一梯队（88分以上）**：主要由最顶尖的科技公司构成，如微软、IBM、亚马逊等。它们的高分可能反映了其在云计算、企业服务或消费电子领域建立的长期、稳定的市场领导地位和品牌声誉。\n- **第二梯队（85-88分）**：这是榜单的主体部分，包含了更多科技、金融及专业服务公司。它们之间的分差非常小（例如第7名Capital One的87.2分到第20名BASF的85.5分），竞争激烈。\n- **准入门槛**：第30名Nvidia的得分为84.9，这表明了进入该榜单具有相当高的门槛，上榜企业均在各自领域内代表了卓越的可靠性标准。\n\n## 启示与局限性思考\n该排名为企业管理者和投资者提供了重要参考。它表明，在当今经济中，**可靠性是跨行业的重要资产**，而科技行业的运营模式可能更易于系统化地构建这一资产。对于其他行业而言，研究科技公司的做法（如透明沟通、稳定的服务交付、快速的问题响应）或有裨益。\n然而，解读此排名时也需注意其局限性：\n1.  **定义与方法未知**：报告未说明“可靠性”的具体定义和评分标准，这直接影响排名的解读。是基于客户调查、运营数据，还是第三方评估？\n2.  **样本偏差**：榜单似乎更侧重于在B2B或具有广泛消费者触达的知名公司，一些可能在细分领域极具可靠性但知名度较低的企业可能未被纳入。\n3.  **静态快照**：这是一个时点排名，无法反映公司的动态变化和长期趋势。\n总之，该榜单凸显了科技企业在塑造现代商业可靠性标杆上的领导地位，但对其方法论保持审慎是进行深入分析的前提。",
+      "glossary": [
+        {
+          "term": "可靠性",
+          "explanation": "在商业语境中，通常指企业持续、稳定地提供承诺的产品、服务或信息的能力，涵盖质量一致性、可信赖度和危机应对韧性。"
+        },
+        {
+          "term": "品牌声誉",
+          "explanation": "公众对企业形象、产品质量、诚信度和价值观的综合认知与评价，是长期积累的无形资产，直接影响客户忠诚度和市场竞争力。"
+        },
+        {
+          "term": "B2B",
+          "explanation": "即企业对企业商业模式，指一家企业向另一家企业销售产品或服务，而非直接面向最终消费者。"
+        }
+      ]
+    }
+  },
+  {
     "id": "13f02ae8",
     "title": "Who Owns the Most Satellites?",
     "original_url": "https://www.visualcapitalist.com/sp/gx04-who-owns-the-most-satellites/",
