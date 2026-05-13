@@ -1,5 +1,316 @@
 [
   {
+    "id": "508735e2",
+    "title": "Mapped: Where Young Americans Earn the Most",
+    "original_url": "https://www.visualcapitalist.com/where-young-households-earn-the-most-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/508735e2.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAWABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrZJKgD5NEhpqda5uZ3FcmHSilGMUVpcLld2pgbFFFKxjceJDRRRVjuf/Z",
+    "image_version": 1778700482,
+    "pub_date": "Wed, 13 May 2026 18:26:01 +0000",
+    "content_md": "| Rank | State | Median Household Income 2024(Ages 25-44) |\n| --- | --- | --- |\n| 1 | Massachusetts | $123,206 |\n| 2 | District of Columbia | $122,917 |\n| 3 | New Jersey | $118,481 |\n| 4 | New Hampshire | $114,924 |\n| 5 | Washington | $112,374 |\n| 6 | California | $110,732 |\n| 7 | Colorado | $109,174 |\n| 8 | Maryland | $108,041 |\n| 9 | Connecticut | $105,621 |\n| 10 | Utah | $101,756 |\n| 11 | New York | $101,393 |\n| 12 | Minnesota | $101,311 |\n| 13 | Virginia | $101,267 |\n| 14 | Alaska | $101,155 |\n| 15 | Hawaii | $101,085 |\n| 16 | Oregon | $98,287 |\n| 17 | Vermont | $97,695 |\n| 18 | Delaware | $96,154 |\n| 19 | Rhode Island | $95,063 |\n| 20 | Maine | $93,626 |\n| 21 | Illinois | $92,743 |\n| 22 | North Dakota | $92,180 |\n| 23 | Idaho | $92,066 |\n| 24 | Arizona | $91,212 |\n| 25 | Wisconsin | $91,202 |\n| 26 | Pennsylvania | $90,401 |\n| 27 | Nebraska | $88,672 |\n| 28 | Montana | $88,441 |\n| 29 | Nevada | $87,394 |\n| 30 | Kansas | $87,035 |\n| 31 | Georgia | $86,411 |\n| 32 | Florida | $85,890 |\n| 33 | Iowa | $85,436 |\n| 34 | Texas | $85,373 |\n| 35 | North Carolina | $84,527 |\n| 36 | Wyoming | $84,372 |\n| 37 | South Dakota | $84,351 |\n| 38 | Missouri | $82,996 |\n| 39 | Ohio | $82,241 |\n| 40 | Michigan | $82,236 |\n| 41 | South Carolina | $82,010 |\n| 42 | Tennessee | $81,377 |\n| 43 | Indiana | $80,602 |\n| 44 | Kentucky | $77,680 |\n| 45 | Alabama | $75,634 |\n| 46 | New Mexico | $75,190 |\n| 47 | Oklahoma | $74,976 |\n| 48 | West Virginia | $73,003 |\n| 49 | Arkansas | $71,747 |\n| 50 | Louisiana | $70,700 |\n| 51 | Mississippi | $65,978 |\n| -- | U.S. State Average | $91,928 |",
+    "ai_analysis": {
+      "core_insight": "美国年轻家庭收入呈现显著的地理梯度，东北部与西海岸领先，南部州相对滞后。",
+      "data_highlights": [
+        "马萨诸塞州以12.3万美元的中位收入位列全美第一，紧随其后的华盛顿特区仅相差约300美元。",
+        "收入前五名均为东北部或西海岸州，前八名收入均超过10.8万美元。",
+        "收入后五名均为南部州，最低的密西西比州仅约6.6万美元，不及第一名的一半。",
+        "全美各州（含特区）平均中位收入约为9.2万美元，有21个州高于此平均线。",
+        "收入排名与常见的人口、经济结构高度相关，科技、金融、高等教育聚集地收入普遍更高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Median Household Income 2024 (Ages 25-44)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Massachusetts",
+              "$123,206"
+            ],
+            [
+              "2",
+              "District of Columbia",
+              "$122,917"
+            ],
+            [
+              "3",
+              "New Jersey",
+              "$118,481"
+            ],
+            [
+              "4",
+              "New Hampshire",
+              "$114,924"
+            ],
+            [
+              "5",
+              "Washington",
+              "$112,374"
+            ],
+            [
+              "6",
+              "California",
+              "$110,732"
+            ],
+            [
+              "7",
+              "Colorado",
+              "$109,174"
+            ],
+            [
+              "8",
+              "Maryland",
+              "$108,041"
+            ],
+            [
+              "9",
+              "Connecticut",
+              "$105,621"
+            ],
+            [
+              "10",
+              "Utah",
+              "$101,756"
+            ],
+            [
+              "11",
+              "New York",
+              "$101,393"
+            ],
+            [
+              "12",
+              "Minnesota",
+              "$101,311"
+            ],
+            [
+              "13",
+              "Virginia",
+              "$101,267"
+            ],
+            [
+              "14",
+              "Alaska",
+              "$101,155"
+            ],
+            [
+              "15",
+              "Hawaii",
+              "$101,085"
+            ],
+            [
+              "16",
+              "Oregon",
+              "$98,287"
+            ],
+            [
+              "17",
+              "Vermont",
+              "$97,695"
+            ],
+            [
+              "18",
+              "Delaware",
+              "$96,154"
+            ],
+            [
+              "19",
+              "Rhode Island",
+              "$95,063"
+            ],
+            [
+              "20",
+              "Maine",
+              "$93,626"
+            ],
+            [
+              "21",
+              "Illinois",
+              "$92,743"
+            ],
+            [
+              "22",
+              "North Dakota",
+              "$92,180"
+            ],
+            [
+              "23",
+              "Idaho",
+              "$92,066"
+            ],
+            [
+              "24",
+              "Arizona",
+              "$91,212"
+            ],
+            [
+              "25",
+              "Wisconsin",
+              "$91,202"
+            ],
+            [
+              "26",
+              "Pennsylvania",
+              "$90,401"
+            ],
+            [
+              "27",
+              "Nebraska",
+              "$88,672"
+            ],
+            [
+              "28",
+              "Montana",
+              "$88,441"
+            ],
+            [
+              "29",
+              "Nevada",
+              "$87,394"
+            ],
+            [
+              "30",
+              "Kansas",
+              "$87,035"
+            ],
+            [
+              "31",
+              "Georgia",
+              "$86,411"
+            ],
+            [
+              "32",
+              "Florida",
+              "$85,890"
+            ],
+            [
+              "33",
+              "Iowa",
+              "$85,436"
+            ],
+            [
+              "34",
+              "Texas",
+              "$85,373"
+            ],
+            [
+              "35",
+              "North Carolina",
+              "$84,527"
+            ],
+            [
+              "36",
+              "Wyoming",
+              "$84,372"
+            ],
+            [
+              "37",
+              "South Dakota",
+              "$84,351"
+            ],
+            [
+              "38",
+              "Missouri",
+              "$82,996"
+            ],
+            [
+              "39",
+              "Ohio",
+              "$82,241"
+            ],
+            [
+              "40",
+              "Michigan",
+              "$82,236"
+            ],
+            [
+              "41",
+              "South Carolina",
+              "$82,010"
+            ],
+            [
+              "42",
+              "Tennessee",
+              "$81,377"
+            ],
+            [
+              "43",
+              "Indiana",
+              "$80,602"
+            ],
+            [
+              "44",
+              "Kentucky",
+              "$77,680"
+            ],
+            [
+              "45",
+              "Alabama",
+              "$75,634"
+            ],
+            [
+              "46",
+              "New Mexico",
+              "$75,190"
+            ],
+            [
+              "47",
+              "Oklahoma",
+              "$74,976"
+            ],
+            [
+              "48",
+              "West Virginia",
+              "$73,003"
+            ],
+            [
+              "49",
+              "Arkansas",
+              "$71,747"
+            ],
+            [
+              "50",
+              "Louisiana",
+              "$70,700"
+            ],
+            [
+              "51",
+              "Mississippi",
+              "$65,978"
+            ],
+            [
+              "--",
+              "U.S. State Average",
+              "$91,928"
+            ]
+          ],
+          "caption": "2024年美国各州（25-44岁）家庭中位收入排名"
+        }
+      ],
+      "deep_dive": "## 收入地理格局：产业升级与人才聚集的映射\n这份数据清晰地勾勒出美国年轻家庭收入的“地理鸿沟”。收入高地主要集中在东北部的“波士顿-华盛顿”走廊、西海岸的科技中心（加州、华盛顿州）以及科罗拉多等新兴知识经济州。这些地区通常拥有顶尖的高校集群（如马萨诸塞州的哈佛、MIT）、发达的金融服务业（纽约、康涅狄格）或前沿的科技产业（加州硅谷、华盛顿州西雅图）。高附加值产业吸引了大量高学历、高技能的年轻人，推高了当地的生活成本和工资水平，形成了“高收入-高生活成本”的循环。\n\n相比之下，收入排名靠后的州多位于美国南部（如密西西比、路易斯安那、阿肯色）和部分中西部传统工业州（如西弗吉尼亚）。这些地区的经济结构相对传统，依赖农业、能源开采或中低端制造业，能提供的高薪岗位有限，导致年轻劳动力外流，进一步抑制了收入增长。值得注意的是，犹他州（第10）和明尼苏达州（第12）等一些并非传统“明星”的州也进入了前列，这可能与当地独特的产业结构（如犹他州的“硅坡”科技集群）和治理模式有关。\n\n## 数据解读的启示与局限\n首先，这份数据对于理解美国的区域经济差异、人才流动趋势以及房地产市场分化具有极高价值。它揭示了年轻人“用脚投票”的结果：他们倾向于向机会更多、收入更高的地区迁移。其次，对于企业和政策制定者而言，这份报告指出了人才竞争的地理前沿。\n\n然而，解读时必须注意两个关键局限：\n- **生活成本差异**：收入数字是名义值。在加州、纽约等地，高昂的住房、交通和税收会侵蚀高收入带来的购买力。而在收入较低的南部州，较低的物价可能意味着实际生活质量差距小于收入数字显示的差距。\n- **家庭结构与人口基数**：该数据为“家庭”中位收入，未区分单身、双职工家庭。此外，各州年轻人口基数不同，也会影响排名的稳定性。\n\n总之，这张收入地图不仅是经济状况的快照，更是产业布局、人口迁移和社会政策综合作用的结果，其背后的故事远比排名本身更为复杂。",
+      "glossary": [
+        {
+          "term": "中位数收入",
+          "explanation": "指将所有家庭按收入从低到高排序后，位于正中间的那个家庭的收入数值。它比平均数更能避免极端高值或低值的扭曲，反映典型家庭的收入水平。"
+        },
+        {
+          "term": "生活成本",
+          "explanation": "维持一定生活水准所需支出的费用，主要包括住房、食品、交通、医疗、教育等。高收入地区通常伴随高生活成本，名义收入与实际购买力可能脱节。"
+        },
+        {
+          "term": "地理鸿沟",
+          "explanation": "指不同地区在经济发展水平、收入、机会等方面存在的显著且持续的差距。在美国语境下，常指东北部、西海岸与中西部、南部之间的结构性差异。"
+        },
+        {
+          "term": "人才聚集效应",
+          "explanation": "高技能人才倾向于向特定地区（通常是大都市圈）集中，这会吸引更多企业投资和创新活动，进一步创造高薪岗位，形成正向循环。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a16f2d21",
     "title": "Mapped: Fraud Vulnerability by Country in 2025",
     "original_url": "https://www.visualcapitalist.com/sp/ig02-mapped-fraud-vulnerability-by-country/",
