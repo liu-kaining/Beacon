@@ -1,5 +1,178 @@
 [
   {
+    "id": "93fac37e",
+    "title": "Charted: India’s Internet Use Surged 5x in a Decade",
+    "original_url": "https://www.visualcapitalist.com/cp/india-internet-use-surged-5x-decade/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/93fac37e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0bFOFBoFFguOooooA/9k=",
+    "image_version": 1778652930,
+    "pub_date": "Wed, 13 May 2026 05:50:59 +0000",
+    "content_md": "| Year | India – Share of People Using the Internet |\n| --- | --- |\n| 1995 | 0.02% |\n| 1996 | 0.04% |\n| 1997 | 0.07% |\n| 1998 | 0.13% |\n| 1999 | 0.27% |\n| 2000 | 0.52% |\n| 2001 | 0.66% |\n| 2002 | 1.2% |\n| 2003 | 1.4% |\n| 2004 | 1.6% |\n| 2005 | 1.9% |\n| 2006 | 2.2% |\n| 2007 | 3.5% |\n| 2008 | 3.8% |\n| 2009 | 4.5% |\n| 2010 | 7.5% |\n| 2011 | 10.5% |\n| 2012 | 11.0% |\n| 2013 | 12.3% |\n| 2014 | 13.5% |\n| 2015 | 15.0% |\n| 2016 | 16.5% |\n| 2017 | 18.0% |\n| 2018 | 20.0% |\n| 2019 | 29.0% |\n| 2020 | 43.0% |\n| 2021 | 49.2% |\n| 2022 | 56.0% |\n| 2023 | 60.2% |\n| 2024 | 64.9% |\n| 2025 | 70.0% |",
+    "ai_analysis": {
+      "core_insight": "印度互联网普及率在十年内增长五倍，数字鸿沟快速弥合。",
+      "data_highlights": [
+        "1995年互联网普及率仅为0.02%，2024年已跃升至64.9%。",
+        "2010年后进入高速增长期，十年内普及率从7.5%飙升至约43%。",
+        "2019年成为关键转折点，普及率突破29%后加速上升。",
+        "2020年普及率单年跃升14个百分点，疫情成为强力催化剂。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "India – Share of People Using the Internet"
+          ],
+          "rows": [
+            [
+              "1995",
+              "0.02%"
+            ],
+            [
+              "1996",
+              "0.04%"
+            ],
+            [
+              "1997",
+              "0.07%"
+            ],
+            [
+              "1998",
+              "0.13%"
+            ],
+            [
+              "1999",
+              "0.27%"
+            ],
+            [
+              "2000",
+              "0.52%"
+            ],
+            [
+              "2001",
+              "0.66%"
+            ],
+            [
+              "2002",
+              "1.2%"
+            ],
+            [
+              "2003",
+              "1.4%"
+            ],
+            [
+              "2004",
+              "1.6%"
+            ],
+            [
+              "2005",
+              "1.9%"
+            ],
+            [
+              "2006",
+              "2.2%"
+            ],
+            [
+              "2007",
+              "3.5%"
+            ],
+            [
+              "2008",
+              "3.8%"
+            ],
+            [
+              "2009",
+              "4.5%"
+            ],
+            [
+              "2010",
+              "7.5%"
+            ],
+            [
+              "2011",
+              "10.5%"
+            ],
+            [
+              "2012",
+              "11.0%"
+            ],
+            [
+              "2013",
+              "12.3%"
+            ],
+            [
+              "2014",
+              "13.5%"
+            ],
+            [
+              "2015",
+              "15.0%"
+            ],
+            [
+              "2016",
+              "16.5%"
+            ],
+            [
+              "2017",
+              "18.0%"
+            ],
+            [
+              "2018",
+              "20.0%"
+            ],
+            [
+              "2019",
+              "29.0%"
+            ],
+            [
+              "2020",
+              "43.0%"
+            ],
+            [
+              "2021",
+              "49.2%"
+            ],
+            [
+              "2022",
+              "56.0%"
+            ],
+            [
+              "2023",
+              "60.2%"
+            ],
+            [
+              "2024",
+              "64.9%"
+            ],
+            [
+              "2025",
+              "70.0%"
+            ]
+          ],
+          "caption": "印度互联网普及率历史数据 (1995-2025)"
+        }
+      ],
+      "deep_dive": "## 增长阶段与驱动机制\n\n印度互联网普及率的指数级增长并非线性，而是呈现出清晰的三个阶段。**初始萌芽期（1995-2009）**，普及率长期低于5%，增长缓慢，受限于高昂的终端设备与网络接入成本。**加速渗透期（2010-2018）**，普及率从7.5%稳步增长至20%，关键驱动力是低价智能手机的普及与电信资费竞争（尤其是Jio在2016年后的入局），以及“数字印度”等国家战略的推动。**爆发式增长期（2019年至今）**，普及率从29%飙升至2024年的64.9%，**2020年的单年14个百分点的跃升尤为惊人**，这表明新冠疫情导致的远程办公、在线教育及数字经济需求激增，成为最强效的短期催化剂。这一阶段的增长已从城市向农村、从年轻群体向全年龄段渗透，体现了网络效应的爆发。\n\n## 机遇、挑战与未来启示\n\n当前超过60%的普及率意味着印度已跨越“早期多数”阶段，进入了数字经济发展的黄金期。这为电子商务、金融科技、在线服务和数字支付创造了海量用户基础，是全球数字企业的关键市场。然而，挑战依然存在。**首先，数字鸿沟并未消失，而是从“接入鸿沟”转向了“使用鸿沟”**。尽管基础接入率高，但数字素养、高速网络覆盖（特别是农村地区）以及有价值的本地化内容与服务仍存在差距。其次，快速增长对网络基础设施和数据安全提出了更高要求。未来，增长的焦点将从“普及率”转向“使用深度”与“数字价值创造”，即如何将庞大的用户基数转化为高质量、可持续的数字经济生态，避免陷入“有连接无赋能”的陷阱。",
+      "glossary": [
+        {
+          "term": "互联网普及率",
+          "explanation": "指一个国家或地区中使用互联网的人口占总人口的百分比，是衡量数字基础设施渗透程度的核心指标。"
+        },
+        {
+          "term": "数字鸿沟",
+          "explanation": "指不同社会经济群体在获取和使用信息通信技术（ICT）方面的差距，本案例中从“接入”差距演变为“使用与技能”差距。"
+        },
+        {
+          "term": "网络效应",
+          "explanation": "指一个产品或服务的价值随着用户数量的增加而增加的现象。在互联网领域，用户越多，平台对每位用户的价值越大，从而加速普及。"
+        },
+        {
+          "term": "数字印度",
+          "explanation": "印度政府于2015年推出的旗舰计划，旨在通过加强数字基础设施、提升数字素养和推动政府服务数字化来转型国家。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ba098f1c",
     "title": "Which Countries Use the Most Electricity?",
     "original_url": "https://www.visualcapitalist.com/which-countries-use-the-most-electricity/",
