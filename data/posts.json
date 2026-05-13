@@ -1,5 +1,280 @@
 [
   {
+    "id": "f9da0b1a",
+    "title": "Ranked: The World’s Most Indebted Households in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-where-households-carry-the-most-debt-per-capita-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f9da0b1a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAjABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC01OSkpyirOZEoPFFJg0UFEaip0TNRqKmRgKyczRRQ8RUU8SDFFLnK5EVBRmiioIQZNFFFIs//2Q==",
+    "image_version": 1778680797,
+    "pub_date": "Wed, 13 May 2026 11:57:04 +0000",
+    "content_md": "| Rank | Country | Household Debt Per CapitaQ1 2026 | Total Household DebtQ1 2026 |\n| --- | --- | --- | --- |\n| 1 | Switzerland | $149.5K | $1.3T |\n| 2 | Luxembourg | $96.0K | $66B |\n| 3 | Norway | $87.9K | $497B |\n| 4 | Australia | $83.1K | $2.3T |\n| 5 | Denmark | $71.4K | $430B |\n| 6 | Netherlands | $68.6K | $1.3T |\n| 7 | U.S. | $60.6K | $21.2T |\n| 8 | Canada | $58.8K | $2.4T |\n| 9 | Sweden | $56.0K | $599B |\n| 10 | Hong Kong | $49.6K | $366B |\n| 11 | Singapore | $46.6K | $275B |\n| 12 | New Zealand | $44.3K | $234B |\n| 13 | UK | $42.6K | $3.0T |\n| 14 | Belgium | $35.8K | $421B |\n| 15 | Finland | $35.6K | $200B |\n| 16 | Ireland | $33.2K | $178B |\n| 17 | France | $30.3K | $2.0T |\n| 18 | South Korea | $30.0K | $1.5T |\n| 19 | Germany | $29.9K | $2.5T |\n| 20 | Israel | $29.7K | $287B |\n| 21 | Austria | $27.1K | $247B |\n| 22 | Malta | $25.5K | $14B |\n| 23 | Japan | $20.5K | $2.5T |\n| 24 | Portugal | $18.6K | $193B |\n| 25 | Spain | $17.5K | $835B |\n| 26 | Cyprus | $15.9K | $22B |\n| 27 | Italy | $15.9K | $934B |\n| 28 | UAE | $13.8K | $160B |\n| 29 | Estonia | $13.5K | $18B |\n| 30 | Kuwait | $12.9K | $66B |\n| 31 | Slovakia | $12.7K | $69B |\n| 32 | Czechia | $12.2K | $128B |\n| 33 | Saudi Arabia | $11.5K | $404B |\n| 34 | Greece | $10.8K | $107B |\n| 35 | Slovenia | $9.9K | $21B |\n| 36 | Malaysia | $9.7K | $353B |\n| 37 | Croatia | $8.9K | $34B |\n| 38 | China | $8.7K | $12.3T |",
+    "ai_analysis": {
+      "core_insight": "2026年全球家庭债务高度集中于发达经济体，瑞士人均负债远超他国。",
+      "data_highlights": [
+        "瑞士以人均14.95万美元高居榜首，人均债务是第38名中国的17倍以上。",
+        "美国以21.2万亿美元的总债务规模位居全球第一，是第二名加拿大的近9倍。",
+        "人均债务排名前10的国家/地区全部为发达经济体，集中于欧洲和亚太。",
+        "人均债务与总债务规模并不完全匹配，例如日本人均债务较低但总债务庞大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Household Debt Per Capita (Q1 2026)",
+            "Total Household Debt (Q1 2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Switzerland",
+              "$149.5K",
+              "$1.3T"
+            ],
+            [
+              "2",
+              "Luxembourg",
+              "$96.0K",
+              "$66B"
+            ],
+            [
+              "3",
+              "Norway",
+              "$87.9K",
+              "$497B"
+            ],
+            [
+              "4",
+              "Australia",
+              "$83.1K",
+              "$2.3T"
+            ],
+            [
+              "5",
+              "Denmark",
+              "$71.4K",
+              "$430B"
+            ],
+            [
+              "6",
+              "Netherlands",
+              "$68.6K",
+              "$1.3T"
+            ],
+            [
+              "7",
+              "U.S.",
+              "$60.6K",
+              "$21.2T"
+            ],
+            [
+              "8",
+              "Canada",
+              "$58.8K",
+              "$2.4T"
+            ],
+            [
+              "9",
+              "Sweden",
+              "$56.0K",
+              "$599B"
+            ],
+            [
+              "10",
+              "Hong Kong",
+              "$49.6K",
+              "$366B"
+            ],
+            [
+              "11",
+              "Singapore",
+              "$46.6K",
+              "$275B"
+            ],
+            [
+              "12",
+              "New Zealand",
+              "$44.3K",
+              "$234B"
+            ],
+            [
+              "13",
+              "UK",
+              "$42.6K",
+              "$3.0T"
+            ],
+            [
+              "14",
+              "Belgium",
+              "$35.8K",
+              "$421B"
+            ],
+            [
+              "15",
+              "Finland",
+              "$35.6K",
+              "$200B"
+            ],
+            [
+              "16",
+              "Ireland",
+              "$33.2K",
+              "$178B"
+            ],
+            [
+              "17",
+              "France",
+              "$30.3K",
+              "$2.0T"
+            ],
+            [
+              "18",
+              "South Korea",
+              "$30.0K",
+              "$1.5T"
+            ],
+            [
+              "19",
+              "Germany",
+              "$29.9K",
+              "$2.5T"
+            ],
+            [
+              "20",
+              "Israel",
+              "$29.7K",
+              "$287B"
+            ],
+            [
+              "21",
+              "Austria",
+              "$27.1K",
+              "$247B"
+            ],
+            [
+              "22",
+              "Malta",
+              "$25.5K",
+              "$14B"
+            ],
+            [
+              "23",
+              "Japan",
+              "$20.5K",
+              "$2.5T"
+            ],
+            [
+              "24",
+              "Portugal",
+              "$18.6K",
+              "$193B"
+            ],
+            [
+              "25",
+              "Spain",
+              "$17.5K",
+              "$835B"
+            ],
+            [
+              "26",
+              "Cyprus",
+              "$15.9K",
+              "$22B"
+            ],
+            [
+              "27",
+              "Italy",
+              "$15.9K",
+              "$934B"
+            ],
+            [
+              "28",
+              "UAE",
+              "$13.8K",
+              "$160B"
+            ],
+            [
+              "29",
+              "Estonia",
+              "$13.5K",
+              "$18B"
+            ],
+            [
+              "30",
+              "Kuwait",
+              "$12.9K",
+              "$66B"
+            ],
+            [
+              "31",
+              "Slovakia",
+              "$12.7K",
+              "$69B"
+            ],
+            [
+              "32",
+              "Czechia",
+              "$12.2K",
+              "$128B"
+            ],
+            [
+              "33",
+              "Saudi Arabia",
+              "$11.5K",
+              "$404B"
+            ],
+            [
+              "34",
+              "Greece",
+              "$10.8K",
+              "$107B"
+            ],
+            [
+              "35",
+              "Slovenia",
+              "$9.9K",
+              "$21B"
+            ],
+            [
+              "36",
+              "Malaysia",
+              "$9.7K",
+              "$353B"
+            ],
+            [
+              "37",
+              "Croatia",
+              "$8.9K",
+              "$34B"
+            ],
+            [
+              "38",
+              "China",
+              "$8.7K",
+              "$12.3T"
+            ]
+          ],
+          "caption": "2026年第一季度全球家庭人均负债排名（前38位）"
+        }
+      ],
+      "deep_dive": "## 人均债务水平：发达经济体的“双刃剑”\n\n人均家庭债务排名揭示了发达经济体普遍的高负债特征。位居榜首的瑞士（14.95万美元）是典型代表，其高负债与高房价、发达的消费信贷市场以及高生活成本密切相关。前10名全部由欧洲、北美和亚太的发达经济体构成，这反映了其成熟的金融体系在支撑消费和房产投资的同时，也可能带来更高的金融脆弱性。高人均债务既是经济活力的体现（如信贷可得性高），也可能在利率上升或经济下行时成为抑制消费和引发金融风险的导火索。\n\n## 总债务规模：中美两国的庞然大物\n\n与人均指标不同，总债务规模凸显了人口基数庞大的经济体的影响力。美国以21.2万亿美元的总债务遥遥领先，这与其庞大的中产阶级规模、高度依赖消费信贷的经济模式以及高昂的房价直接相关。值得注意的是，中国虽然人均债务仅排第38位（8700美元），但凭借其庞大的人口基数，总债务高达12.3万亿美元，位居全球第二。这种“人均低、总量高”的格局，表明家庭债务风险在中国的分布可能不均，部分城市和群体的债务压力可能远高于平均水平。\n\n## 风险启示与局限\n\n*   **风险集中度**：全球家庭债务风险高度集中于发达经济体，特别是美国、加拿大、澳大利亚、英国等国，其债务绝对规模巨大。一旦这些经济体出现系统性风险，将产生广泛的全球溢出效应。\n*   **结构性差异**：日本是另一个典型案例。其人均债务仅2.05万美元（排名第23），但总债务高达2.5万亿美元（与德国相当），这与其人口老龄化和长期低增长环境下的债务积累模式有关，风险性质与欧美不同。\n*   **数据局限**：此数据为预测值，且未包含债务结构（如房贷、消费贷占比）、利率环境、居民收入或资产净值等关键信息。单纯的人均和总债务排名无法完整评估风险。例如，高债务若伴随高资产净值（如瑞士、挪威），其风险缓冲能力可能更强。",
+      "glossary": [
+        {
+          "term": "Household Debt Per Capita",
+          "explanation": "人均家庭债务，指一个国家或地区所有家庭债务总额除以总人口得出的平均值，用于横向比较不同人口规模经济体的负债压力。"
+        },
+        {
+          "term": "Total Household Debt",
+          "explanation": "家庭债务总额，衡量一个经济体中所有家庭未偿还债务的存量总和，是评估宏观经济中家庭部门杠杆率的重要指标。"
+        },
+        {
+          "term": "Financial Vulnerability",
+          "explanation": "金融脆弱性，指家庭或整个金融体系在面对利率上升、收入下降或资产价格下跌等冲击时，出现偿债困难或系统性风险的可能性。"
+        }
+      ]
+    }
+  },
+  {
     "id": "93fac37e",
     "title": "Charted: India’s Internet Use Surged 5x in a Decade",
     "original_url": "https://www.visualcapitalist.com/cp/india-internet-use-surged-5x-decade/",
