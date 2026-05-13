@@ -1,5 +1,41 @@
 [
   {
+    "id": "585a69b0",
+    "title": "Fraud in Data is Back at Visual Capitalist!",
+    "original_url": "https://www.visualcapitalist.com/fraud-in-data-is-back-at-visual-capitalist/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/585a69b0.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmJoNtRxybDWhedDWQ/wB6mYmit1x1orPB4ooA/9k=",
+    "image_version": 1778709772,
+    "pub_date": "Wed, 13 May 2026 11:45:00 +0000",
+    "content_md": "Deception that used to be easier to spot is now becoming increasingly difficult to detect. With AI accelerating the scale, speed, and sophistication of fraud, the line between legitimate and malicious activity is blurring fast.\nIn our second year coveringFraud in Data, we’re digging into how these risks are evolving—and what the data reveals about where threats are emerging next.\nFraud in Data is a special editorial series from Visual Capitalist, in partnership withInigo, exploring the shifting landscape of fraud across companies, technologies, and geographies.\nEvery other weekday, we’ll publish a new visual or data story unpacking a critical piece of the fraud puzzle. From May 13–25, we’ll break down the data behind:\n- Which countries are most and least vulnerable to fraud\n- How social engineering attacks work, with real-life examples\n- The largest employee embezzlement cases of the past year\n- The most common ways hackers are stealing crypto\n- The largest crypto hacks since 2025\n- What businesses predict for the future of fraud\nSenior corporate leaders, insurance brokers, and anyone looking to better understand how fraud is evolving—and where risks may be hiding in plain sight.\nFraud in Data is an editorial partnership between Visual Capitalist andInigo, a global specialty insurance and reinsurance company. Inigo uses data to turn analysis into insight, and insight into action, so their clients get a clearer view of the risks Inigo can take and the decisions Inigo stands behind.\nVisual Capitalist editorial weeks bring together data-driven storytelling and a global audience of over 100 million investors, executives, and decision-makers.\nAs a sponsor, your brand gains exclusive visibility during our largest editorial pushes—from homepage takeovers and dedicated newsletters to high-impact distribution across our social channels. If you want your brand’s name in lights, check out our fullcontent calendarto see what’s available for 2026.",
+    "ai_analysis": {
+      "core_insight": "AI驱动的欺诈风险升级，正以前所未有的速度、规模和复杂性模糊合法与恶意的边界。",
+      "data_highlights": [
+        "AI正加速欺诈的规模化、速度化和复杂化，使其更难被察觉。",
+        "本次分析将聚焦于欺诈风险演变及未来威胁的热点区域。",
+        "报告将深入剖析多国欺诈脆弱性、社交工程攻击、内部挪用及加密货币盗窃等关键议题。",
+        "该系列报告旨在为高管、保险经纪人等提供对欺诈演变的深入洞察。",
+        "合作方Inigo致力于将数据分析转化为可执行的商业决策。"
+      ],
+      "data_tables": [],
+      "deep_dive": "## 技术驱动下的欺诈风险演变\n人工智能技术已成为欺诈领域的核心加速器。它不仅提升了欺诈活动的执行效率，更在根本上改变了欺诈的形态。传统的、模式固定的欺诈手段因易于识别而逐渐被淘汰，取而代之的是由AI生成的、高度个性化且不断自我优化的攻击策略。这导致了“合法性”与“恶意性”之间的界限变得前所未有地模糊，给企业风控和监管带来了严峻挑战。本次研究通过剖析具体案例和数据，旨在揭示这一演变过程的具体表现和内在机制。\n\n## 聚焦新兴威胁与地域脆弱性\n报告特别关注了欺诈风险的地理分布与新兴载体。一方面，它将评估不同国家在面对欺诈时的脆弱性差异，这有助于识别系统性风险较高的区域市场。另一方面，随着数字经济的深化，加密货币领域已成为欺诈活动的新温床。从黑客攻击手法到内部员工挪用，报告将通过具体数据展示这些风险如何在新的技术环境中滋生和蔓延。这种深度的地域和领域分析，对于全球化经营的企业和投资者制定精准的风险对冲与防范策略至关重要，超越了泛泛而谈的风险预警。",
+      "glossary": [
+        {
+          "term": "Social Engineering",
+          "explanation": "一种通过心理操纵而非技术漏洞，诱使人们泄露机密信息或执行特定行动的欺诈手段。"
+        },
+        {
+          "term": "Employee Embezzlement",
+          "explanation": "指公司内部员工利用职务之便，非法挪用或侵吞公司资金或资产的行为。"
+        },
+        {
+          "term": "Crypto Hacks",
+          "explanation": "针对加密货币交易所、钱包或区块链项目实施的网络攻击，旨在窃取数字资产。"
+        }
+      ]
+    }
+  },
+  {
     "id": "508735e2",
     "title": "Mapped: Where Young Americans Earn the Most",
     "original_url": "https://www.visualcapitalist.com/where-young-households-earn-the-most-in-america/",
