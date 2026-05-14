@@ -1,5 +1,251 @@
 [
   {
+    "id": "c5351764",
+    "title": "Ranked: The World’s Most Prosperous Countries",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-prosperous-countries-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c5351764.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAiABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCii09k4p8a09l4rudTU4UimV5oqYrzRV+0CxKlOY8VGDikZuKwcdRpoQnmioy3NFXYLktMeiiggiPWiiiqGf/Z",
+    "image_version": 1778777739,
+    "pub_date": "Thu, 14 May 2026 14:11:04 +0000",
+    "content_md": "| Rank | Country | 2026 Prosperity Index |\n| --- | --- | --- |\n| 1 | Norway | 91.6 |\n| 2 | Iceland | 90.1 |\n| 3 | Denmark | 90.0 |\n| 4 | Sweden | 89.4 |\n| 5 | Ireland | 89.1 |\n| 6 | Switzerland | 88.9 |\n| 7 | Belgium | 88.7 |\n| 8 | Finland | 88.4 |\n| 9 | Netherlands | 88.1 |\n| 10 | Slovenia | 87.9 |\n| 11 | Luxembourg | 87.3 |\n| 12 | Czechia | 87.2 |\n| 13 | Germany | 87.1 |\n| 14 | Australia | 86.7 |\n| 15 | New Zealand | 85.9 |\n| 16 | Malta | 85.6 |\n| 17 | Austria | 85.3 |\n| 18 | Singapore | 84.7 |\n| 19 | Cyprus | 84.3 |\n| 20 | Canada | 84.2 |\n| 21 | Estonia | 84.2 |\n| 22 | Spain | 84.0 |\n| 23 | France | 83.7 |\n| 24 | Japan | 83.6 |\n| 25 | Slovakia | 83.5 |\n| 26 | South Korea | 83.1 |\n| 27 | Lithuania | 82.8 |\n| 28 | Taiwan | 82.7 |\n| 29 | United Kingdom | 82.7 |\n| 30 | Italy | 82.6 |\n| 31 | Portugal | 82 |\n| 32 | Latvia | 81.7 |\n| 33 | Greece | 81.5 |\n| 34 | Poland | 80.8 |\n| 35 | UAE | 80.0 |\n| 36 | Croatia | 79.9 |\n| 37 | Israel | 79.9 |\n| 38 | U.S. | 79.8 |\n| 39 | Hungary | 79.0 |\n| 40 | Uruguay | 79.0 |",
+    "ai_analysis": {
+      "core_insight": "北欧国家在繁荣指数上占据绝对主导地位，凸显其社会经济模式的优越性。",
+      "data_highlights": [
+        "前四名被北欧国家包揽，挪威以91.6分高居榜首。",
+        "欧洲国家占据绝对优势，前20名中仅有澳大利亚、新西兰、新加坡和加拿大四个非欧洲国家。",
+        "美国排名第38位，得分仅为79.8，远低于多个欧洲及亚洲发达经济体。",
+        "亚洲表现亮眼，新加坡、日本、韩国、台湾等均进入前30名。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Prosperity Index"
+          ],
+          "rows": [
+            [
+              "1",
+              "Norway",
+              "91.6"
+            ],
+            [
+              "2",
+              "Iceland",
+              "90.1"
+            ],
+            [
+              "3",
+              "Denmark",
+              "90.0"
+            ],
+            [
+              "4",
+              "Sweden",
+              "89.4"
+            ],
+            [
+              "5",
+              "Ireland",
+              "89.1"
+            ],
+            [
+              "6",
+              "Switzerland",
+              "88.9"
+            ],
+            [
+              "7",
+              "Belgium",
+              "88.7"
+            ],
+            [
+              "8",
+              "Finland",
+              "88.4"
+            ],
+            [
+              "9",
+              "Netherlands",
+              "88.1"
+            ],
+            [
+              "10",
+              "Slovenia",
+              "87.9"
+            ],
+            [
+              "11",
+              "Luxembourg",
+              "87.3"
+            ],
+            [
+              "12",
+              "Czechia",
+              "87.2"
+            ],
+            [
+              "13",
+              "Germany",
+              "87.1"
+            ],
+            [
+              "14",
+              "Australia",
+              "86.7"
+            ],
+            [
+              "15",
+              "New Zealand",
+              "85.9"
+            ],
+            [
+              "16",
+              "Malta",
+              "85.6"
+            ],
+            [
+              "17",
+              "Austria",
+              "85.3"
+            ],
+            [
+              "18",
+              "Singapore",
+              "84.7"
+            ],
+            [
+              "19",
+              "Cyprus",
+              "84.3"
+            ],
+            [
+              "20",
+              "Canada",
+              "84.2"
+            ],
+            [
+              "21",
+              "Estonia",
+              "84.2"
+            ],
+            [
+              "22",
+              "Spain",
+              "84.0"
+            ],
+            [
+              "23",
+              "France",
+              "83.7"
+            ],
+            [
+              "24",
+              "Japan",
+              "83.6"
+            ],
+            [
+              "25",
+              "Slovakia",
+              "83.5"
+            ],
+            [
+              "26",
+              "South Korea",
+              "83.1"
+            ],
+            [
+              "27",
+              "Lithuania",
+              "82.8"
+            ],
+            [
+              "28",
+              "Taiwan",
+              "82.7"
+            ],
+            [
+              "29",
+              "United Kingdom",
+              "82.7"
+            ],
+            [
+              "30",
+              "Italy",
+              "82.6"
+            ],
+            [
+              "31",
+              "Portugal",
+              "82"
+            ],
+            [
+              "32",
+              "Latvia",
+              "81.7"
+            ],
+            [
+              "33",
+              "Greece",
+              "81.5"
+            ],
+            [
+              "34",
+              "Poland",
+              "80.8"
+            ],
+            [
+              "35",
+              "UAE",
+              "80.0"
+            ],
+            [
+              "36",
+              "Croatia",
+              "79.9"
+            ],
+            [
+              "37",
+              "Israel",
+              "79.9"
+            ],
+            [
+              "38",
+              "U.S.",
+              "79.8"
+            ],
+            [
+              "39",
+              "Hungary",
+              "79.0"
+            ],
+            [
+              "40",
+              "Uruguay",
+              "79.0"
+            ]
+          ],
+          "caption": "2026年全球繁荣指数排名（前40名）"
+        }
+      ],
+      "deep_dive": "## 北欧模式的全面胜利：繁荣的密码是什么？\n\n本次排名最引人注目的现象是北欧国家的集体霸榜。前四名被挪威、冰岛、丹麦和瑞典包揽，芬兰也位列第八。这并非偶然，而是其独特的“北欧模式”长期运行的必然结果。该模式的核心在于**高水平的再分配政策、强大的社会福利体系、高度的社会信任与廉洁的公共治理**。\n- **社会安全网**：从教育、医疗到养老，覆盖全民的福利体系极大降低了社会个体的风险，提升了整体生活质量和人力资本水平。\n- **高效治理**：政府透明度高、腐败率极低，确保了公共资源的有效配置和社会政策的顺利执行。\n- **均衡发展**：这些国家通常基尼系数较低，贫富差距小，社会凝聚力强，为长期稳定繁荣奠定了基础。\n\n## 地理格局与意外发现：欧洲主导，美国位次引人深思\n\n从地理分布看，繁荣指数呈现鲜明的**欧洲中心特征**。前20名中，有16个是欧洲国家，显示出欧洲整体在制度、经济和社会发展上的成熟度。非欧洲国家中，仅澳大利亚、新西兰、新加坡和加拿大成功跻身。\n\n**美国的位次（第38位）是一个关键对比点**。作为全球最大的经济体，美国的繁荣指数得分（79.8）远低于许多体量更小的欧洲国家，甚至落后于斯洛文尼亚、捷克等中东欧国家。这深刻地揭示了繁荣的多维性：高GDP并不直接等同于高繁荣。美国在人均收入、科技创新等方面领先，但在**收入不平等、社会安全网覆盖、医疗可及性与成本、社会信任度**等指标上的短板，严重拖累了其整体繁荣指数。\n\n**亚洲的亮点**同样值得关注。新加坡（第18位）作为城市国家表现出色，体现了其高效的治理和优越的商业环境。日本（第24位）、韩国（第26位）等发达经济体也稳定在列，但其得分与顶尖欧洲国家仍有差距，可能反映了其在工作生活平衡、社会福利压力等方面面临的独特挑战。\n\n总体而言，该指数提醒我们，真正的繁荣是经济实力、社会公平、环境可持续和公民福祉的综合体。北欧国家提供了当前最接近这一理想的范本。",
+      "glossary": [
+        {
+          "term": "Prosperity Index (繁荣指数)",
+          "explanation": "一个综合衡量国家整体福祉的多维指标，通常涵盖经济质量、商业环境、治理、教育、健康、安全、个人自由、社会资本和自然环境等多个子维度。"
+        },
+        {
+          "term": "北欧模式 (Nordic Model)",
+          "explanation": "指丹麦、芬兰、冰岛、挪威和瑞典等国实行的一套社会经济体系，特点是结合了市场经济、全面的社会福利保障和高度的社会共识与合作。"
+        },
+        {
+          "term": "基尼系数 (Gini coefficient)",
+          "explanation": "衡量一个国家或地区收入或财富分配不平等程度的指标，数值在0到1之间，越接近0表示分配越平均，越接近1表示分配越不平均。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d2252687",
     "title": "Ranked: The World’s Biggest Electricity Sources",
     "original_url": "https://www.visualcapitalist.com/worlds-biggest-electricity-sources/",
