@@ -1,5 +1,91 @@
 [
   {
+    "id": "d2252687",
+    "title": "Ranked: The World’s Biggest Electricity Sources",
+    "original_url": "https://www.visualcapitalist.com/worlds-biggest-electricity-sources/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d2252687.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDz6FMmrqWxK9KitV+YVswKuzmrirmmiRlG0OelFa7KuaKrlM7mdDBtNXAxVaEpJOlOLsYubGGU5oqFutFFwuf/2Q==",
+    "image_version": 1778765053,
+    "pub_date": "Thu, 14 May 2026 11:44:54 +0000",
+    "content_md": "| Rank | Source | Value (%) |\n| --- | --- | --- |\n| 1 | Coal | 32.97 |\n| 2 | Natural Gas | 21.77 |\n| 3 | Hydro | 14.00 |\n| 4 | Nuclear | 8.85 |\n| 5 | Solar | 8.70 |\n| 6 | Wind | 8.50 |\n| -- | Other Fossil | 2.65 |\n| -- | Other Renewables | 2.50 |",
+    "ai_analysis": {
+      "core_insight": "化石能源仍主导全球电力结构，但可再生能源增速迅猛。",
+      "data_highlights": [
+        "煤炭以32.97%的占比位居全球第一大电力来源，天然气紧随其后占21.77%。",
+        "可再生能源（水电、太阳能、风能及其他）合计占比已超过30%，接近化石能源份额。",
+        "核能占比8.85%，位列第四，是重要的低碳基荷电源。",
+        "太阳能（8.70%）和风能（8.50%）增速快，两者合计占比已超越水电（14.00%）的三分之二。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Source",
+            "Value (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Coal",
+              "32.97"
+            ],
+            [
+              "2",
+              "Natural Gas",
+              "21.77"
+            ],
+            [
+              "3",
+              "Hydro",
+              "14.00"
+            ],
+            [
+              "4",
+              "Nuclear",
+              "8.85"
+            ],
+            [
+              "5",
+              "Solar",
+              "8.70"
+            ],
+            [
+              "6",
+              "Wind",
+              "8.50"
+            ],
+            [
+              "--",
+              "Other Fossil",
+              "2.65"
+            ],
+            [
+              "--",
+              "Other Renewables",
+              "2.50"
+            ]
+          ],
+          "caption": "全球主要电力来源占比排名"
+        }
+      ],
+      "deep_dive": "## 化石能源的“压舱石”地位与结构性挑战\n尽管全球能源转型加速，但以煤炭和天然气为代表的化石能源依然是电力系统的“压舱石”，两者合计占比高达54.74%。这一结构揭示了当前能源转型的艰巨性：\n- **路径依赖与基础设施锁定**：庞大的现有煤电、气电资产及其配套电网，形成了巨大的转型惯性，淘汰过程涉及复杂的社会经济成本。\n- **区域发展不平衡**：发达国家与发展中国家在能源结构上差异巨大，后者对煤炭的依赖往往更深，转型面临能源安全与经济发展的双重压力。\n\n## 可再生能源的崛起与未来格局\n可再生能源（水电、太阳能、风能及其他）合计占比已达33.7%，并展现出强劲的增长动能：\n- **风光成为增长主力**：太阳能与风能合计占比17.2%，已显著超过单一传统水电份额，且技术成本仍在下降，是未来增量的核心。\n- **系统性挑战凸显**：风光的间歇性对电网稳定性、储能技术和灵活调节电源提出了更高要求，也使得核能（8.85%）作为稳定低碳电源的价值更加突出。\n- **“其他”类别潜力待挖**：表格中“Other Renewables”（2.50%）可能包含地热、生物质能等，其发展取决于技术创新与政策支持，未来可能成为重要补充。\n总体而言，全球电力结构正处于从“化石主导”向“可再生主导”过渡的转折期，但这一转型是渐进的、非均衡的，且面临技术、经济和政治的多重考验。",
+      "glossary": [
+        {
+          "term": "基荷电源",
+          "explanation": "指能够持续、稳定提供电力的基础电源，通常要求高可靠性和高容量因子，如煤电、核电和大型水电。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指能源体系从以化石燃料为主，向以可再生能源和低碳能源为主的根本性、长期性结构转变过程。"
+        },
+        {
+          "term": "间歇性电源",
+          "explanation": "指发电输出受自然条件（如日照、风速）影响而波动的电源，如太阳能和风能，其大规模并网对电网平衡构成挑战。"
+        }
+      ]
+    }
+  },
+  {
     "id": "585a69b0",
     "title": "Fraud in Data is Back at Visual Capitalist!",
     "original_url": "https://www.visualcapitalist.com/fraud-in-data-is-back-at-visual-capitalist/",
