@@ -1,5 +1,356 @@
 [
   {
+    "id": "0130659e",
+    "title": "Mapped: America’s Gender Earnings Gap by State",
+    "original_url": "https://www.visualcapitalist.com/gender-earnings-gap-by-state-map/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0130659e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDNit89qbPb4HStCADHSm3QG08Vye1fMdPs1ymE0fzUVO4+c0V1KbOflP/Z",
+    "image_version": 1778786723,
+    "pub_date": "Thu, 14 May 2026 18:21:07 +0000",
+    "content_md": "| Rank | State | Median earnings gap ($) | Earnings Gap (%) |\n| --- | --- | --- | --- |\n| 1 | Utah | 18,740 | 35.9 |\n| 2 | Louisiana | 16,746 | 36.7 |\n| 3 | Idaho | 16,147 | 32.2 |\n| 4 | Washington | 14,534 | 21.6 |\n| 5 | West Virginia | 14,392 | 31.2 |\n| 6 | New Jersey | 14,374 | 21.6 |\n| 7 | Alabama | 14,301 | 30.4 |\n| 8 | North Dakota | 14,013 | 27.1 |\n| 9 | New Hampshire | 13,955 | 22.7 |\n| 10 | Michigan | 13,739 | 26.2 |\n| 11 | District of Columbia | 13,661 | 13.9 |\n| 12 | Connecticut | 13,605 | 20.6 |\n| 13 | Ohio | 13,524 | 26.1 |\n| 14 | Virginia | 12,721 | 20.8 |\n| 15 | Wisconsin | 12,518 | 23.5 |\n| 16 | Wyoming | 12,317 | 24.6 |\n| 17 | Georgia | 12,313 | 23.7 |\n| 18 | Iowa | 12,227 | 23.9 |\n| 19 | Pennsylvania | 11,939 | 21.4 |\n| 20 | Illinois | 11,893 | 20.0 |\n| 21 | Colorado | 11,668 | 17.8 |\n| 22 | Indiana | 11,257 | 22.0 |\n| 23 | Texas | 11,148 | 21.7 |\n| 24 | Missouri | 10,927 | 21.6 |\n| 25 | Oklahoma | 10,923 | 23.8 |\n| 26 | Minnesota | 10,913 | 17.9 |\n| 27 | Kansas | 10,962 | 21.5 |\n| 28 | Alaska | 10,798 | 17.7 |\n| 29 | South Carolina | 10,615 | 21.1 |\n| 30 | Montana | 10,589 | 20.9 |\n| 31 | South Dakota | 10,558 | 20.8 |\n| 32 | Nebraska | 10,452 | 20.3 |\n| 33 | Nevada | 10,426 | 20.7 |\n| 34 | Tennessee | 10,388 | 20.6 |\n| 35 | North Carolina | 10,159 | 19.6 |\n| 36 | Arkansas | 10,097 | 22.4 |\n| 37 | Oregon | 10,095 | 16.7 |\n| 38 | New Mexico | 10,070 | 20.1 |\n| 39 | Arizona | 9,969 | 18.7 |\n| 40 | Mississippi | 9,914 | 22.7 |\n| 41 | Kentucky | 9,888 | 20.1 |\n| 42 | Massachusetts | 9,784 | 13.5 |\n| 43 | Florida | 9,638 | 19.1 |\n| 44 | Maine | 8,712 | 15.5 |\n| 45 | California | 8,390 | 13.2 |\n| 46 | Maryland | 8,317 | 11.7 |\n| 47 | Delaware | 7,985 | 14.0 |\n| 48 | Hawaii | 7,608 | 13.8 |\n| 49 | New York | 6,228 | 9.5 |\n| 50 | Vermont | 6,048 | 9.9 |",
+    "ai_analysis": {
+      "core_insight": "美国各州性别收入差距显著，犹他州和路易斯安那州差距最大。",
+      "data_highlights": [
+        "犹他州性别收入差距高达18,740美元，位居全美第一。",
+        "纽约州和佛蒙特州的收入差距最小，均低于6,500美元。",
+        "路易斯安那州的收入差距百分比最高，达36.7%。",
+        "差距最大的五个州中，有三个位于西部和南部地区。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Median earnings gap ($)",
+            "Earnings Gap (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Utah",
+              "18,740",
+              "35.9"
+            ],
+            [
+              "2",
+              "Louisiana",
+              "16,746",
+              "36.7"
+            ],
+            [
+              "3",
+              "Idaho",
+              "16,147",
+              "32.2"
+            ],
+            [
+              "4",
+              "Washington",
+              "14,534",
+              "21.6"
+            ],
+            [
+              "5",
+              "West Virginia",
+              "14,392",
+              "31.2"
+            ],
+            [
+              "6",
+              "New Jersey",
+              "14,374",
+              "21.6"
+            ],
+            [
+              "7",
+              "Alabama",
+              "14,301",
+              "30.4"
+            ],
+            [
+              "8",
+              "North Dakota",
+              "14,013",
+              "27.1"
+            ],
+            [
+              "9",
+              "New Hampshire",
+              "13,955",
+              "22.7"
+            ],
+            [
+              "10",
+              "Michigan",
+              "13,739",
+              "26.2"
+            ],
+            [
+              "11",
+              "District of Columbia",
+              "13,661",
+              "13.9"
+            ],
+            [
+              "12",
+              "Connecticut",
+              "13,605",
+              "20.6"
+            ],
+            [
+              "13",
+              "Ohio",
+              "13,524",
+              "26.1"
+            ],
+            [
+              "14",
+              "Virginia",
+              "12,721",
+              "20.8"
+            ],
+            [
+              "15",
+              "Wisconsin",
+              "12,518",
+              "23.5"
+            ],
+            [
+              "16",
+              "Wyoming",
+              "12,317",
+              "24.6"
+            ],
+            [
+              "17",
+              "Georgia",
+              "12,313",
+              "23.7"
+            ],
+            [
+              "18",
+              "Iowa",
+              "12,227",
+              "23.9"
+            ],
+            [
+              "19",
+              "Pennsylvania",
+              "11,939",
+              "21.4"
+            ],
+            [
+              "20",
+              "Illinois",
+              "11,893",
+              "20.0"
+            ],
+            [
+              "21",
+              "Colorado",
+              "11,668",
+              "17.8"
+            ],
+            [
+              "22",
+              "Indiana",
+              "11,257",
+              "22.0"
+            ],
+            [
+              "23",
+              "Texas",
+              "11,148",
+              "21.7"
+            ],
+            [
+              "24",
+              "Missouri",
+              "10,927",
+              "21.6"
+            ],
+            [
+              "25",
+              "Oklahoma",
+              "10,923",
+              "23.8"
+            ],
+            [
+              "26",
+              "Minnesota",
+              "10,913",
+              "17.9"
+            ],
+            [
+              "27",
+              "Kansas",
+              "10,962",
+              "21.5"
+            ],
+            [
+              "28",
+              "Alaska",
+              "10,798",
+              "17.7"
+            ],
+            [
+              "29",
+              "South Carolina",
+              "10,615",
+              "21.1"
+            ],
+            [
+              "30",
+              "Montana",
+              "10,589",
+              "20.9"
+            ],
+            [
+              "31",
+              "South Dakota",
+              "10,558",
+              "20.8"
+            ],
+            [
+              "32",
+              "Nebraska",
+              "10,452",
+              "20.3"
+            ],
+            [
+              "33",
+              "Nevada",
+              "10,426",
+              "20.7"
+            ],
+            [
+              "34",
+              "Tennessee",
+              "10,388",
+              "20.6"
+            ],
+            [
+              "35",
+              "North Carolina",
+              "10,159",
+              "19.6"
+            ],
+            [
+              "36",
+              "Arkansas",
+              "10,097",
+              "22.4"
+            ],
+            [
+              "37",
+              "Oregon",
+              "10,095",
+              "16.7"
+            ],
+            [
+              "38",
+              "New Mexico",
+              "10,070",
+              "20.1"
+            ],
+            [
+              "39",
+              "Arizona",
+              "9,969",
+              "18.7"
+            ],
+            [
+              "40",
+              "Mississippi",
+              "9,914",
+              "22.7"
+            ],
+            [
+              "41",
+              "Kentucky",
+              "9,888",
+              "20.1"
+            ],
+            [
+              "42",
+              "Massachusetts",
+              "9,784",
+              "13.5"
+            ],
+            [
+              "43",
+              "Florida",
+              "9,638",
+              "19.1"
+            ],
+            [
+              "44",
+              "Maine",
+              "8,712",
+              "15.5"
+            ],
+            [
+              "45",
+              "California",
+              "8,390",
+              "13.2"
+            ],
+            [
+              "46",
+              "Maryland",
+              "8,317",
+              "11.7"
+            ],
+            [
+              "47",
+              "Delaware",
+              "7,985",
+              "14.0"
+            ],
+            [
+              "48",
+              "Hawaii",
+              "7,608",
+              "13.8"
+            ],
+            [
+              "49",
+              "New York",
+              "6,228",
+              "9.5"
+            ],
+            [
+              "50",
+              "Vermont",
+              "6,048",
+              "9.9"
+            ]
+          ],
+          "caption": "美国各州性别收入差距排名（中位数收入差距）"
+        }
+      ],
+      "deep_dive": "## 区域与经济结构差异显著\n美国各州的性别收入差距呈现出明显的区域集聚特征。差距最大的州集中在西部山区和南部地区，如犹他州、爱达荷州、路易斯安那州和阿拉巴马州。这些州的差距百分比均超过30%，绝对金额也排名前列。这可能与这些地区产业结构相对单一（如依赖能源、农业或传统制造业）、女性劳动力参与率较低以及职业隔离现象更严重有关。相比之下，差距最小的州主要分布在东北部（如纽约州、马萨诸塞州、佛蒙特州）和一些经济多元化的州（如加利福尼亚州、马里兰州）。这些地区通常拥有更强的知识经济、更完善的家庭支持政策（如带薪育儿假）以及更高的女性受教育水平，这些因素共同作用，缩小了薪酬差距。\n\n## 绝对差距与百分比差距的启示\n分析数据时需要同时关注绝对差距（美元）和相对差距（百分比）两个维度，两者可能揭示不同的信息。例如，犹他州的绝对差距（18,740美元）和百分比差距（35.9%）都位居前列，表明其差距问题非常突出。而特区虽然绝对差距（13,661美元）排名中游，但其百分比差距（13.9%）却相对较小，这暗示特区的女性中位数收入水平可能较高，从而缩小了相对差距。类似地，纽约州的绝对差距最小（6,228美元），百分比也最低（9.5%），这与其作为经济和金融中心、高薪服务业岗位众多且女性参与度高的特征相符。这种差异提示政策制定者，缩小差距的策略需要因地制宜：在绝对差距大的地区，可能需要提升女性整体收入水平；而在百分比差距大的地区，则可能需要重点解决职业晋升的“玻璃天花板”效应。\n\n## 政策与社会文化的潜在影响\n各州差距的差异很可能受到州层面政策与社会文化规范的深刻影响。拥有更严格同工同酬法律、更慷慨的带薪家庭假和育儿支持政策的州，往往能为女性，尤其是职业母亲，提供更友好的工作环境，从而有助于缩小收入差距。例如，加州、纽约州和马萨诸塞州都有相对完善的薪酬透明和反歧视法规。另一方面，社会文化因素，如传统性别角色观念的强弱，也会影响女性的教育选择、职业规划和家庭责任分配。犹他州等差距较大的州，传统家庭观念可能仍然较强，影响女性的全职工作参与率和职业发展。理解这些深层次机制，对于设计有效的全国性及地方性薪酬平等倡议至关重要。",
+      "glossary": [
+        {
+          "term": "中位数收入差距",
+          "explanation": "指男性和女性收入中位数之间的绝对差值（以美元计）。它比平均数更能抵御极端值的影响，反映典型个体的差距水平。"
+        },
+        {
+          "term": "收入差距百分比",
+          "explanation": "指男性与女性收入中位数的差额占男性收入中位数的百分比。它提供了一个相对尺度，便于在不同收入水平的州之间进行比较。"
+        },
+        {
+          "term": "职业隔离",
+          "explanation": "指不同性别在职业和行业分布上的不均衡现象。垂直隔离指女性在低薪、低职位中比例过高；水平隔离指女性集中在特定（通常收入较低）的行业。"
+        },
+        {
+          "term": "玻璃天花板",
+          "explanation": "指那些阻碍女性及少数群体晋升到组织高层职位的、看不见却真实存在的障碍。它是导致高层职位性别薪酬差距扩大的一个重要因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c5351764",
     "title": "Ranked: The World’s Most Prosperous Countries",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-prosperous-countries-in-2026/",
