@@ -1,5 +1,677 @@
 [
   {
+    "id": "239daa97",
+    "title": "Male Doctors, Female Cashiers: AI’s Job Bias",
+    "original_url": "https://www.visualcapitalist.com/cp/male-doctors-female-cashiers-ais-job-bias/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/239daa97.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvGpo605qaK5mdKHg0UCimI//Z",
+    "image_version": 1778881518,
+    "pub_date": "Fri, 15 May 2026 21:29:40 +0000",
+    "content_md": "| Profession | Tool | % Women | % Men |\n| --- | --- | --- | --- |\n| Doctor | VEO3 | 26.92% | 73.08% |\n| Politician | VEO3 | 28.57% | 71.43% |\n| Judge | VEO3 | 35.29% | 64.71% |\n| Architect | VEO3 | 35.71% | 64.29% |\n| Lawyer | VEO3 | 21.74% | 78.26% |\n| CEO | VEO3 | 21.74% | 78.26% |\n| Engineer | VEO3 | 25.00% | 75.00% |\n| Entrepreneur | VEO3 | 25.00% | 75.00% |\n| Janitor | VEO3 | 29.41% | 70.59% |\n| Diswasher | VEO3 | 75.00% | 25.00% |\n| Cashier | VEO3 | 100.00% | 0.00% |\n| Fast food worker | VEO3 | 57.89% | 42.11% |\n| Teacher | VEO3 | 78.95% | 21.05% |\n| Housekeeper | VEO3 | 57.14% | 42.86% |\n| Social worker | VEO3 | 47.37% | 52.63% |\n| Doctor | Sora 2 | 45.45% | 54.55% |\n| Politician | Sora 2 | 40.74% | 59.26% |\n| Judge | Sora 2 | 30.77% | 69.23% |\n| Architect | Sora 2 | 40.63% | 59.38% |\n| Lawyer | Sora 2 | 33.33% | 66.67% |\n| CEO | Sora 2 | 10.00% | 90.00% |\n| Engineer | Sora 2 | 12.50% | 87.50% |\n| Entrepreneur | Sora 2 | 35.29% | 64.71% |\n| Janitor | Sora 2 | 38.24% | 61.76% |\n| Diswasher | Sora 2 | 80.00% | 20.00% |\n| Cashier | Sora 2 | 50.00% | 50.00% |\n| Fast food worker | Sora 2 | 52.63% | 47.37% |\n| Teacher | Sora 2 | 58.82% | 41.18% |\n| Housekeeper | Sora 2 | 100.00% | 0.00% |\n| Social worker | Sora 2 | 64.00% | 36.00% |\n| Doctor | Kling | 30.00% | 70.00% |\n| Politician | Kling | 0.00% | 100.00% |\n| Judge | Kling | 0.00% | 100.00% |\n| Architect | Kling | 30.77% | 69.23% |\n| Lawyer | Kling | 40.00% | 60.00% |\n| CEO | Kling | 10.00% | 90.00% |\n| Engineer | Kling | 25.00% | 75.00% |\n| Entrepreneur | Kling | 30.77% | 69.23% |\n| Janitor | Kling | 7.14% | 92.86% |\n| Diswasher | Kling | 24.00% | 76.00% |\n| Cashier | Kling | 100.00% | 0.00% |\n| Fast food worker | Kling | 46.15% | 53.85% |\n| Teacher | Kling | 54.55% | 45.45% |\n| Housekeeper | Kling | 55.00% | 45.00% |\n| Social worker | Kling | 50.00% | 50.00% |\n| Doctor | Hailuo Minimax | 38.46% | 61.54% |\n| Politician | Hailuo Minimax | 0.00% | 100.00% |\n| Judge | Hailuo Minimax | 22.73% | 77.27% |\n| Architect | Hailuo Minimax | 14.29% | 85.71% |\n| Lawyer | Hailuo Minimax | 0.00% | 100.00% |\n| CEO | Hailuo Minimax | 0.00% | 100.00% |\n| Engineer | Hailuo Minimax | 0.00% | 100.00% |\n| Entrepreneur | Hailuo Minimax | 47.37% | 52.63% |\n| Janitor | Hailuo Minimax | 30.77% | 69.23% |\n| Diswasher | Hailuo Minimax | 33.33% | 66.67% |\n| Cashier | Hailuo Minimax | 63.64% | 36.36% |\n| Fast food worker | Hailuo Minimax | 64.29% | 35.71% |\n| Teacher | Hailuo Minimax | 15.79% | 84.21% |\n| Housekeeper | Hailuo Minimax | 100.00% | 0.00% |\n| Social worker | Hailuo Minimax | 64.71% | 35.29% |",
+    "ai_analysis": {
+      "core_insight": "主流AI视频工具普遍存在显著的职业性别偏见，且不同工具偏见模式各异。",
+      "data_highlights": [
+        "VEO3和Kling在生成“医生”、“CEO”等高权力职业时，男性形象占比超70%。",
+        "VEO3将“收银员”和Kling将“政治家”分别100%设定为女性和男性，偏见极端。",
+        "Sora 2相对更均衡，但“CEO”和“工程师”仍高度男性化（占比90%和87.5%）。",
+        "Hailuo Minimax在“律师”、“CEO”、“工程师”上生成女性比例为0%，偏见最为固化。",
+        "所有工具均将“家政工”和“洗碗工”高度关联女性形象，体现刻板印象。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Profession",
+            "Tool",
+            "% Women",
+            "% Men"
+          ],
+          "rows": [
+            [
+              "Doctor",
+              "VEO3",
+              "26.92%",
+              "73.08%"
+            ],
+            [
+              "Politician",
+              "VEO3",
+              "28.57%",
+              "71.43%"
+            ],
+            [
+              "Judge",
+              "VEO3",
+              "35.29%",
+              "64.71%"
+            ],
+            [
+              "Architect",
+              "VEO3",
+              "35.71%",
+              "64.29%"
+            ],
+            [
+              "Lawyer",
+              "VEO3",
+              "21.74%",
+              "78.26%"
+            ],
+            [
+              "CEO",
+              "VEO3",
+              "21.74%",
+              "78.26%"
+            ],
+            [
+              "Engineer",
+              "VEO3",
+              "25.00%",
+              "75.00%"
+            ],
+            [
+              "Entrepreneur",
+              "VEO3",
+              "25.00%",
+              "75.00%"
+            ],
+            [
+              "Janitor",
+              "VEO3",
+              "29.41%",
+              "70.59%"
+            ],
+            [
+              "Diswasher",
+              "VEO3",
+              "75.00%",
+              "25.00%"
+            ],
+            [
+              "Cashier",
+              "VEO3",
+              "100.00%",
+              "0.00%"
+            ],
+            [
+              "Fast food worker",
+              "VEO3",
+              "57.89%",
+              "42.11%"
+            ],
+            [
+              "Teacher",
+              "VEO3",
+              "78.95%",
+              "21.05%"
+            ],
+            [
+              "Housekeeper",
+              "VEO3",
+              "57.14%",
+              "42.86%"
+            ],
+            [
+              "Social worker",
+              "VEO3",
+              "47.37%",
+              "52.63%"
+            ]
+          ],
+          "caption": "VEO3工具生成不同职业的性别比例"
+        },
+        {
+          "headers": [
+            "Profession",
+            "Tool",
+            "% Women",
+            "% Men"
+          ],
+          "rows": [
+            [
+              "Doctor",
+              "Sora 2",
+              "45.45%",
+              "54.55%"
+            ],
+            [
+              "Politician",
+              "Sora 2",
+              "40.74%",
+              "59.26%"
+            ],
+            [
+              "Judge",
+              "Sora 2",
+              "30.77%",
+              "69.23%"
+            ],
+            [
+              "Architect",
+              "Sora 2",
+              "40.63%",
+              "59.38%"
+            ],
+            [
+              "Lawyer",
+              "Sora 2",
+              "33.33%",
+              "66.67%"
+            ],
+            [
+              "CEO",
+              "Sora 2",
+              "10.00%",
+              "90.00%"
+            ],
+            [
+              "Engineer",
+              "Sora 2",
+              "12.50%",
+              "87.50%"
+            ],
+            [
+              "Entrepreneur",
+              "Sora 2",
+              "35.29%",
+              "64.71%"
+            ],
+            [
+              "Janitor",
+              "Sora 2",
+              "38.24%",
+              "61.76%"
+            ],
+            [
+              "Diswasher",
+              "Sora 2",
+              "80.00%",
+              "20.00%"
+            ],
+            [
+              "Cashier",
+              "Sora 2",
+              "50.00%",
+              "50.00%"
+            ],
+            [
+              "Fast food worker",
+              "Sora 2",
+              "52.63%",
+              "47.37%"
+            ],
+            [
+              "Teacher",
+              "Sora 2",
+              "58.82%",
+              "41.18%"
+            ],
+            [
+              "Housekeeper",
+              "Sora 2",
+              "100.00%",
+              "0.00%"
+            ],
+            [
+              "Social worker",
+              "Sora 2",
+              "64.00%",
+              "36.00%"
+            ]
+          ],
+          "caption": "Sora 2工具生成不同职业的性别比例"
+        },
+        {
+          "headers": [
+            "Profession",
+            "Tool",
+            "% Women",
+            "% Men"
+          ],
+          "rows": [
+            [
+              "Doctor",
+              "Kling",
+              "30.00%",
+              "70.00%"
+            ],
+            [
+              "Politician",
+              "Kling",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "Judge",
+              "Kling",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "Architect",
+              "Kling",
+              "30.77%",
+              "69.23%"
+            ],
+            [
+              "Lawyer",
+              "Kling",
+              "40.00%",
+              "60.00%"
+            ],
+            [
+              "CEO",
+              "Kling",
+              "10.00%",
+              "90.00%"
+            ],
+            [
+              "Engineer",
+              "Kling",
+              "25.00%",
+              "75.00%"
+            ],
+            [
+              "Entrepreneur",
+              "Kling",
+              "30.77%",
+              "69.23%"
+            ],
+            [
+              "Janitor",
+              "Kling",
+              "7.14%",
+              "92.86%"
+            ],
+            [
+              "Diswasher",
+              "Kling",
+              "24.00%",
+              "76.00%"
+            ],
+            [
+              "Cashier",
+              "Kling",
+              "100.00%",
+              "0.00%"
+            ],
+            [
+              "Fast food worker",
+              "Kling",
+              "46.15%",
+              "53.85%"
+            ],
+            [
+              "Teacher",
+              "Kling",
+              "54.55%",
+              "45.45%"
+            ],
+            [
+              "Housekeeper",
+              "Kling",
+              "55.00%",
+              "45.00%"
+            ],
+            [
+              "Social worker",
+              "Kling",
+              "50.00%",
+              "50.00%"
+            ]
+          ],
+          "caption": "Kling工具生成不同职业的性别比例"
+        },
+        {
+          "headers": [
+            "Profession",
+            "Tool",
+            "% Women",
+            "% Men"
+          ],
+          "rows": [
+            [
+              "Doctor",
+              "Hailuo Minimax",
+              "38.46%",
+              "61.54%"
+            ],
+            [
+              "Politician",
+              "Hailuo Minimax",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "Judge",
+              "Hailuo Minimax",
+              "22.73%",
+              "77.27%"
+            ],
+            [
+              "Architect",
+              "Hailuo Minimax",
+              "14.29%",
+              "85.71%"
+            ],
+            [
+              "Lawyer",
+              "Hailuo Minimax",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "CEO",
+              "Hailuo Minimax",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "Engineer",
+              "Hailuo Minimax",
+              "0.00%",
+              "100.00%"
+            ],
+            [
+              "Entrepreneur",
+              "Hailuo Minimax",
+              "47.37%",
+              "52.63%"
+            ],
+            [
+              "Janitor",
+              "Hailuo Minimax",
+              "30.77%",
+              "69.23%"
+            ],
+            [
+              "Diswasher",
+              "Hailuo Minimax",
+              "33.33%",
+              "66.67%"
+            ],
+            [
+              "Cashier",
+              "Hailuo Minimax",
+              "63.64%",
+              "36.36%"
+            ],
+            [
+              "Fast food worker",
+              "Hailuo Minimax",
+              "64.29%",
+              "35.71%"
+            ],
+            [
+              "Teacher",
+              "Hailuo Minimax",
+              "15.79%",
+              "84.21%"
+            ],
+            [
+              "Housekeeper",
+              "Hailuo Minimax",
+              "100.00%",
+              "0.00%"
+            ],
+            [
+              "Social worker",
+              "Hailuo Minimax",
+              "64.71%",
+              "35.29%"
+            ]
+          ],
+          "caption": "Hailuo Minimax工具生成不同职业的性别比例"
+        }
+      ],
+      "deep_dive": "## AI职业性别偏见：深层机制与表现\n\n数据揭示，四款主流AI视频生成工具在描绘不同职业时，均复制并放大了现实世界中的性别刻板印象。这种偏见并非随机产生，其根源在于AI模型训练所依赖的海量互联网数据，这些数据本身就包含了社会对职业的性别化认知。例如，历史上“医生”、“政治家”、“CEO”等高社会地位、高权威性职业长期由男性主导，这种历史现实被数据捕获并固化在模型中。因此，AI在生成这些职业形象时，会高概率选择男性作为“默认”或“典型”代表。\n\n## 工具间偏见模式的横向对比\n\n不同工具的偏见程度和模式存在显著差异，这反映了其背后技术路线、数据筛选和模型微调策略的不同。\n- **VEO3与Kling偏见最为固化**：VEO3在“收银员”职业上生成100%女性形象，Kling则在“政治家”和“法官”上生成100%男性形象。这种极端二元划分是刻板印象最粗暴的体现，表明模型对特定职业的性别认知已完全僵化。\n- **Hailuo Minimax在精英职业上近乎“清零”女性**：在“律师”、“CEO”、“工程师”等职业上，其生成女性的比例为0%，这可能是最严重的偏见表现，意味着在模型内部逻辑中，这些职业与女性形象几乎不存在关联。\n- **Sora 2相对更均衡但仍有盲点**：Sora 2在多数职业上的性别比例更接近现实或更均衡，例如“医生”接近1:1。然而，它在“CEO”和“工程师”上依然表现出极强的男性偏向（90%和87.5%），显示其在突破最高权力和技术领域偏见上仍有局限。\n\n## 启示与局限：技术中立的幻觉与未来方向\n\n本分析的启示在于，所谓“技术中立”在AI生成领域是一种幻觉。AI工具是社会观念的镜子，甚至是放大器。开发者若不对偏见进行主动干预和修正，产品将不可避免地传播并强化不平等的社会认知。\n\n其局限性在于，本数据仅反映了图像/视频生成层面的偏见，这是AI偏见的下游表现。更根本的偏见存在于上游的语言模型、自然语言处理等环节。此外，分析基于有限职业样本和单一性别维度，未能涵盖更多元的性别认同及交叉性偏见（如种族、年龄）。未来的解决方案需要贯穿数据筛选、模型算法、后处理干预的全链路治理，并需要持续的第三方审计和伦理评估。",
+      "glossary": [
+        {
+          "term": "AI偏见",
+          "explanation": "指人工智能系统因其训练数据、算法设计或部署方式而产生的不公平、歧视性结果或倾向，通常反映并放大了现实社会中的现有偏见。"
+        },
+        {
+          "term": "训练数据",
+          "explanation": "用于“教会”AI模型识别模式和做出决策的海量数据集。如果数据本身包含社会偏见，模型很可能学习并复制这些偏见。"
+        },
+        {
+          "term": "刻板印象",
+          "explanation": "对特定社会群体（如按性别、职业划分）持有的过度简化、固定且通常不准确的认知和信念。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b63037b",
+    "title": "Charted: Cannabis Use Hits Record Highs, Alcohol Use Falls",
+    "original_url": "https://www.visualcapitalist.com/cp/daily-cannabis-vs-alcohol-use-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7b63037b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmkFOZeKSOpW6Vnc5pFUrzRUh60U7mdz//2Q==",
+    "image_version": 1778881556,
+    "pub_date": "Fri, 15 May 2026 17:11:14 +0000",
+    "content_md": "| Year | Daily Cannabis Use (ages 19-30, %) | Daily Alcohol Use (ages 19-30, %) |\n| --- | --- | --- |\n| 1988 | 3.3 | 6.6 |\n| 1989 | 3.2 | 5.8 |\n| 1990 | 2.6 | 5.3 |\n| 1991 | 2.5 | 5.6 |\n| 1992 | 2.4 | 5.1 |\n| 1993 | 2.5 | 4.8 |\n| 1994 | 2.5 | 4.5 |\n| 1995 | 2.9 | 4.0 |\n| 1996 | 3.2 | 4.6 |\n| 1997 | 3.1 | 4.9 |\n| 1998 | 3.4 | 4.2 |\n| 1999 | 3.6 | 5.1 |\n| 2000 | 4.0 | 4.4 |\n| 2001 | 3.8 | 4.5 |\n| 2002 | 4.3 | 4.8 |\n| 2003 | 4.1 | 5.2 |\n| 2004 | 4.8 | 4.8 |\n| 2005 | 4.3 | 5.7 |\n| 2006 | 5.0 | 5.5 |\n| 2007 | 4.5 | 6.0 |\n| 2008 | 5.0 | 5.5 |\n| 2009 | 5.4 | 6.3 |\n| 2010 | 5.0 | 5.1 |\n| 2011 | 6.0 | 5.8 |\n| 2012 | 5.6 | 6.0 |\n| 2013 | 6.0 | 5.5 |\n| 2014 | 7.1 | 5.2 |\n| 2015 | 7.0 | 5.3 |\n| 2016 | 7.8 | 5.5 |\n| 2017 | 7.8 | 5.3 |\n| 2018 | 8.7 | 4.8 |\n| 2019 | 9.5 | 4.5 |\n| 2020 | 10.3 | 5.6 |\n| 2021 | 11.2 | 4.9 |\n| 2022 | 11.2 | 4.6 |\n| 2023 | 10.8 | 3.6 |\n| 2024 | 10.8 | 3.1 |",
+    "ai_analysis": {
+      "core_insight": "美国年轻人大麻日常使用率36年间翻三倍，已替代部分酒精消费。",
+      "data_highlights": [
+        "2024年，19-30岁群体大麻日使用率达10.8%，较1988年增长227%。",
+        "同期酒精日使用率从6.6%降至3.1%，降幅超53%。",
+        "2019年大麻使用率首次超过酒精，并在此后持续扩大优势。",
+        "大麻使用率在2014年后进入加速增长期，年均增幅显著。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "Daily Cannabis Use (ages 19-30, %)",
+            "Daily Alcohol Use (ages 19-30, %)"
+          ],
+          "rows": [
+            [
+              "1988",
+              "3.3",
+              "6.6"
+            ],
+            [
+              "1989",
+              "3.2",
+              "5.8"
+            ],
+            [
+              "1990",
+              "2.6",
+              "5.3"
+            ],
+            [
+              "1991",
+              "2.5",
+              "5.6"
+            ],
+            [
+              "1992",
+              "2.4",
+              "5.1"
+            ],
+            [
+              "1993",
+              "2.5",
+              "4.8"
+            ],
+            [
+              "1994",
+              "2.5",
+              "4.5"
+            ],
+            [
+              "1995",
+              "2.9",
+              "4.0"
+            ],
+            [
+              "1996",
+              "3.2",
+              "4.6"
+            ],
+            [
+              "1997",
+              "3.1",
+              "4.9"
+            ],
+            [
+              "1998",
+              "3.4",
+              "4.2"
+            ],
+            [
+              "1999",
+              "3.6",
+              "5.1"
+            ],
+            [
+              "2000",
+              "4.0",
+              "4.4"
+            ],
+            [
+              "2001",
+              "3.8",
+              "4.5"
+            ],
+            [
+              "2002",
+              "4.3",
+              "4.8"
+            ],
+            [
+              "2003",
+              "4.1",
+              "5.2"
+            ],
+            [
+              "2004",
+              "4.8",
+              "4.8"
+            ],
+            [
+              "2005",
+              "4.3",
+              "5.7"
+            ],
+            [
+              "2006",
+              "5.0",
+              "5.5"
+            ],
+            [
+              "2007",
+              "4.5",
+              "6.0"
+            ],
+            [
+              "2008",
+              "5.0",
+              "5.5"
+            ],
+            [
+              "2009",
+              "5.4",
+              "6.3"
+            ],
+            [
+              "2010",
+              "5.0",
+              "5.1"
+            ],
+            [
+              "2011",
+              "6.0",
+              "5.8"
+            ],
+            [
+              "2012",
+              "5.6",
+              "6.0"
+            ],
+            [
+              "2013",
+              "6.0",
+              "5.5"
+            ],
+            [
+              "2014",
+              "7.1",
+              "5.2"
+            ],
+            [
+              "2015",
+              "7.0",
+              "5.3"
+            ],
+            [
+              "2016",
+              "7.8",
+              "5.5"
+            ],
+            [
+              "2017",
+              "7.8",
+              "5.3"
+            ],
+            [
+              "2018",
+              "8.7",
+              "4.8"
+            ],
+            [
+              "2019",
+              "9.5",
+              "4.5"
+            ],
+            [
+              "2020",
+              "10.3",
+              "5.6"
+            ],
+            [
+              "2021",
+              "11.2",
+              "4.9"
+            ],
+            [
+              "2022",
+              "11.2",
+              "4.6"
+            ],
+            [
+              "2023",
+              "10.8",
+              "3.6"
+            ],
+            [
+              "2024",
+              "10.8",
+              "3.1"
+            ]
+          ],
+          "caption": "1988-2024年美国19-30岁群体日常物质使用率变化"
+        }
+      ],
+      "deep_dive": "## 趋势解读：一场长达36年的物质偏好迁移\n\n数据显示的并非简单的此消彼长，而是一场深刻的代际文化与消费行为的迁移。大麻使用的增长轨迹呈现 **“阶梯式上升”** 特征：1988-2013年为平缓上升期，年均增幅约0.1个百分点；而2014年后进入 **“加速期”**，年均增幅跃升至约0.5个百分点，这与美国多州在此时期陆续推动大麻合法化的政策节点高度吻合。反观酒精，其使用率并非单向下跌，而是在2009年（6.3%）和2020年（5.6%）出现过阶段性反弹，可能与经济波动或社会事件（如疫情初期）有关，但长期下降趋势明确。\n\n## 深层动因与社会启示\n\n**政策与认知的转变是核心驱动力**。大麻合法化进程极大地降低了其使用门槛、社会污名与法律风险，重塑了年轻群体的认知。同时，**健康观念的演变**也起到关键作用：部分年轻人可能将大麻视为比酒精“危害更小”或“更自然”的替代品，尽管其长期健康影响仍需科学评估。\n\n**此消彼长，意味着替代效应**。当大麻使用率在2019年首次超越酒精后，两者的差距迅速拉大。这表明在年轻人群的休闲或社交场景中，大麻正在挤占原本属于酒精的份额。这种替代行为可能对相关产业（如饮料、社交娱乐）产生深远影响。\n\n**数据局限与未来观察**。需注意，此数据仅反映“日常使用”比例，未涵盖低频使用者，且为自报数据。未来应关注两个重点：一是大麻使用率在达到峰值（2021年11.2%）后是否进入平台期；二是酒精使用率持续下降是否会引发相关的公共健康政策调整。这一趋势不仅是消费习惯的改变，更是社会规范与价值观念演变的缩影。",
+      "glossary": [
+        {
+          "term": "日常使用",
+          "explanation": "指在过去30天内，有20天及以上使用该物质的频率，衡量重度或习惯性使用情况。"
+        },
+        {
+          "term": "大麻合法化",
+          "explanation": "指通过立法允许在特定条件下（如医疗、成人消遣）持有、使用和销售大麻。"
+        },
+        {
+          "term": "替代效应",
+          "explanation": "在行为经济学中，指一种商品或行为的消费增加，导致另一种可替代商品或行为的消费减少。"
+        }
+      ]
+    }
+  },
+  {
     "id": "13a83502",
     "title": "China vs. America: Who the World Trades With Most",
     "original_url": "https://www.visualcapitalist.com/mapped-chinas-global-trade-takeover/",
