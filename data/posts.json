@@ -1,5 +1,177 @@
 [
   {
+    "id": "0b423e47",
+    "title": "Mapped: The World’s Most Tourism-Dependent Economies",
+    "original_url": "https://www.visualcapitalist.com/cp/mapped-the-worlds-most-tourism-dependent-economies/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0b423e47.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDZaOmCPmrLU0da3UmZoFj4oqdelFHMyj//2Q==",
+    "image_version": 1778843435,
+    "pub_date": "Fri, 15 May 2026 09:21:15 +0000",
+    "content_md": "| Rank | Country | Receipts (USD, Billions) | Receipts as Share of GDP |\n| --- | --- | --- | --- |\n| 1 | Andorra | 2.9 | 71.8 |\n| 2 | Aruba | 3.0 | 70.3 |\n| 3 | Macao SAR | 34.6 | 70.0 |\n| 4 | Maldives | 48.0 | 68.0 |\n| 5 | Seychelles | 1.2 | 55.4 |\n| 6 | Saint Lucia | 1.3 | 51.0 |\n| 7 | Antigua and Barbuda | 0.9 | 39.9 |\n| 8 | Bahamas | 5.4 | 34.1 |\n| 9 | Cabo Verde | 0.8 | 27.9 |\n| 10 | Grenada | 0.4 | 26.2 |\n| 11 | Belize | 0.8 | 25.9 |\n| 12 | Samoa | 0.2 | 20.4 |\n| 13 | Albania | 5.4 | 20.0 |\n| 14 | St. Vincent and the Grenadines | 43.0 | 19.9 |\n| 15 | Jamaica | 1.6 | 19.5 |\n| 16 | Montenegro | 14.0 | 19.4 |\n| 17 | Barbados | 11.0 | 18.7 |\n| 18 | Fiji | 0.4 | 18.4 |\n| 19 | Gambia | 16.2 | 18.3 |\n| 20 | Croatia | 0.2 | 17.4 |\n| 21 | St. Kitts and Nevis | 46.0 | 16.9 |\n| 22 | Lebanon | 2.2 | 16.3 |\n| 23 | Mauritius | 78.0 | 14.7 |\n| 24 | Jordan | 47.0 | 14.6 |\n| 25 | Georgia | 0.1 | 13.8 |\n| 26 | Dominica | 5.4 | 13.1 |\n| 27 | Iceland | 4.0 | 10.8 |\n| 28 | Cyprus | 37.0 | 10.6 |\n| 29 | El Salvador | 27.0 | 10.5 |\n| 30 | Armenia | 57.0 | 10.4 |\n| 31 | UAE | 0.1 | 10.3 |\n| 32 | Tonga | 30.0 | 10.2 |\n| 33 | Portugal | 14.8 | 9.6 |\n| 34 | Morocco | 23.4 | 9.2 |\n| 35 | Dominican Republic | 0.1 | 9.1 |\n| 36 | Sao Tome and Principe | 44.8 | 8.5 |\n| 37 | Thailand | 75.0 | 8.5 |\n| 38 | Luxembourg | 1.3 | 8.0 |\n| 39 | Laos | 3.6 | 7.9 |\n| 40 | Cambodia | 66.0 | 7.8 |\n| 41 | Panama | 2.0 | 7.6 |\n| 42 | Bosnia and Herzegovina | 0.2 | 6.8 |\n| 43 | Bhutan | 106.5 | 6.7 |\n| 44 | Spain | 25.8 | 6.2 |\n| 45 | Malaysia | 24.7 | 6.1 |\n| 46 | Timor-Leste | 5.6 | 5.9 |\n| 47 | Costa Rica | 2.9 | 5.9 |\n| 48 | Tunisia | 44.0 | 5.7 |\n| 49 | Tanzania | 1.0 | 5.6 |\n| 50 | Kyrgyz Republic | 1.0 | 5.5 |\n| 51 | Singapore | 275.0 | 5.0 |\n| 52 | Slovenia | 3.6 | 4.9 |\n| 53 | Austria | 0.2 | 4.9 |\n| 54 | Egypt | 26.3 | 4.6 |\n| 55 | Turkiye | 18.0 | 4.4 |\n| 56 | Zambia | 60.0 | 4.4 |\n| 57 | Bulgaria | 11.0 | 4.2 |\n| 58 | Namibia | 48.0 | 4.2 |\n| 59 | Hungary | 0.6 | 4.1 |\n| 60 | Uzbekistan | 9.2 | 4.1 |\n| 61 | Rwanda | 47.0 | 4.1 |\n| 62 | North Macedonia | 0.6 | 4.0 |\n| 63 | New Zealand | 0.7 | 3.8 |\n| 64 | Qatar | 10.0 | 3.8 |\n| 65 | Estonia | 8.4 | 3.7 |\n| 66 | Serbia | 1.6 | 3.7 |\n| 67 | Uganda | 0.9 | 3.5 |\n| 68 | Saudi Arabia | 19.0 | 3.4 |\n| 69 | Sri Lanka | 42.6 | 3.2 |\n| 70 | Latvia | 3.2 | 3.2 |\n| 71 | Australia | 1.4 | 3.2 |\n| 72 | Uruguay | 55.4 | 3.1 |\n| 73 | Mongolia | 2.5 | 3.1 |\n| 74 | Botswana | 0.7 | 3.0 |\n| 75 | Denmark | 0.6 | 2.9 |\n| 76 | Czechia | 12.4 | 2.9 |\n| 77 | Paraguay | 10.1 | 2.7 |\n| 78 | Azerbaijan | 1.2 | 2.7 |\n| 79 | Iraq | 2.0 | 2.7 |\n| 80 | Nicaragua | 74.0 | 2.6 |\n| 81 | Vietnam | 0.5 | 2.6 |\n| 82 | Switzerland | 12.2 | 2.5 |\n| 83 | Italy | 23.4 | 2.5 |\n| 84 | France | 58.7 | 2.4 |\n| 85 | United Kingdom | 77.0 | 2.4 |\n| 86 | Oman | 89.6 | 2.4 |\n| 87 | Lithuania | 2.6 | 2.4 |\n| 88 | Canada | 2.0 | 2.3 |\n| 89 | Colombia | 51.3 | 2.2 |\n| 90 | Honduras | 9.4 | 2.1 |\n| 91 | Sweden | 0.8 | 2.1 |\n| 92 | Norway | 12.4 | 2.0 |\n| 93 | Moldova | 95.0 | 1.9 |\n| 94 | Solomon Islands | 0.0 | 1.9 |\n| 95 | Mexico | 35.0 | 1.9 |\n| 96 | Philippines | 87.0 | 1.9 |\n| 97 | Netherlands | 22.6 | 1.9 |\n| 98 | Trinidad and Tobago | 0.4 | 1.7 |\n| 99 | South Africa | 68.0 | 1.7 |\n| 100 | Poland | 15.5 | 1.7 |\n| 101 | Japan | 64.0 | 1.6 |\n| 102 | Guatemala | 17.0 | 1.5 |\n| 103 | Romania | 5.7 | 1.5 |\n| 104 | Nepal | 0.6 | 1.5 |\n| 105 | Bahrain | 28.0 | 1.5 |\n| 106 | Ghana | 1.2 | 1.5 |\n| 107 | Ecuador | 1.8 | 1.4 |\n| 108 | Kuwait | 2.3 | 1.4 |\n| 109 | Bolivia | 0.8 | 1.4 |\n| 110 | Finland | 42.0 | 1.4 |\n| 111 | Belgium | 9.4 | 1.4 |\n| 112 | Peru | 4.0 | 1.4 |\n| 113 | Indonesia | 18.3 | 1.3 |\n| 114 | Ireland | 79.0 | 1.3 |\n| 115 | Slovakia | 17.0 | 1.2 |\n| 116 | Malta | 3.6 | 1.2 |\n| 117 | Djibouti | 0.1 | 1.2 |\n| 118 | Mozambique | 0.3 | 1.2 |\n| 119 | South Korea | 22.2 | 1.2 |\n| 120 | Chile | 3.8 | 1.2 |\n| 121 | Kazakhstan | 2.9 | 1.0 |\n| 122 | Palestine | 0.1 | 1.0 |\n| 123 | Germany | 411.0 | 0.9 |\n| 124 | Brunei Darussalam | 0.1 | 0.9 |\n| 125 | Ethiopia | 1.2 | 0.8 |\n| 126 | India | 31.4 | 0.8 |\n| 127 | Argentina | 49.0 | 0.8 |\n| 128 | United States | 213.0 | 0.7 |\n| 129 | Suriname | 0.0 | 0.7 |\n| 130 | Ukraine | 1.2 | 0.6 |\n| 131 | Israel | 3.2 | 0.6 |\n| 132 | Cuba | 1.3 | 0.5 |\n| 133 | Zimbabwe | 0.2 | 0.5 |\n| 134 | Lesotho | 0.0 | 0.4 |\n| 135 | Russia | 9.0 | 0.4 |\n| 136 | Eswatini | 0.0 | 0.4 |\n| 137 | Niger | 0.1 | 0.4 |\n| 138 | Brazil | 79.0 | 0.4 |\n| 139 | China | 55.2 | 0.3 |\n| 140 | Pakistan | 8.0 | 0.2 |\n| 141 | Haiti | 0.0 | 0.2 |\n| 142 | Tajikistan | 0.0 | 0.1 |\n| 143 | Nigeria | 0.3 | 0.1 |\n| 144 | Algeria | 0.1 | 0.1 |\n| 145 | Mauritania | 0.0 | 0.0 |\n| 146 | Kiribati | 0.0 | 0.0 |\n| 147 | Papua New Guinea | 0.0 | 0.0 |",
+    "ai_analysis": {
+      "core_insight": "全球旅游业依赖度两极分化，小型岛屿经济体对旅游收入高度敏感。",
+      "data_highlights": [
+        "安道尔、阿鲁巴、澳门等小型经济体旅游业占GDP比重超70%，经济支柱单一。",
+        "前10名中，有8个是岛屿或小国，其经济高度依赖国际游客消费。",
+        "大型经济体如中国、美国、德国，旅游业占GDP比重均低于1%，经济结构更多元。",
+        "马尔代夫以480亿美元旅游收入位居前列，而安道尔收入仅29亿但依赖度最高。",
+        "依赖度超过20%的国家有12个，主要集中在加勒比海、地中海及太平洋地区。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Receipts (USD, Billions)",
+            "Receipts as Share of GDP"
+          ],
+          "rows": [
+            [
+              "1",
+              "Andorra",
+              "2.9",
+              "71.8"
+            ],
+            [
+              "2",
+              "Aruba",
+              "3.0",
+              "70.3"
+            ],
+            [
+              "3",
+              "Macao SAR",
+              "34.6",
+              "70.0"
+            ],
+            [
+              "4",
+              "Maldives",
+              "48.0",
+              "68.0"
+            ],
+            [
+              "5",
+              "Seychelles",
+              "1.2",
+              "55.4"
+            ],
+            [
+              "6",
+              "Saint Lucia",
+              "1.3",
+              "51.0"
+            ],
+            [
+              "7",
+              "Antigua and Barbuda",
+              "0.9",
+              "39.9"
+            ],
+            [
+              "8",
+              "Bahamas",
+              "5.4",
+              "34.1"
+            ],
+            [
+              "9",
+              "Cabo Verde",
+              "0.8",
+              "27.9"
+            ],
+            [
+              "10",
+              "Grenada",
+              "0.4",
+              "26.2"
+            ],
+            [
+              "11",
+              "Belize",
+              "0.8",
+              "25.9"
+            ],
+            [
+              "12",
+              "Samoa",
+              "0.2",
+              "20.4"
+            ],
+            [
+              "13",
+              "Albania",
+              "5.4",
+              "20.0"
+            ],
+            [
+              "14",
+              "St. Vincent and the Grenadines",
+              "43.0",
+              "19.9"
+            ],
+            [
+              "15",
+              "Jamaica",
+              "1.6",
+              "19.5"
+            ],
+            [
+              "16",
+              "Montenegro",
+              "14.0",
+              "19.4"
+            ],
+            [
+              "17",
+              "Barbados",
+              "11.0",
+              "18.7"
+            ],
+            [
+              "18",
+              "Fiji",
+              "0.4",
+              "18.4"
+            ],
+            [
+              "19",
+              "Gambia",
+              "16.2",
+              "18.3"
+            ],
+            [
+              "20",
+              "Croatia",
+              "0.2",
+              "17.4"
+            ]
+          ],
+          "caption": "全球旅游业依赖度最高的20个经济体"
+        }
+      ],
+      "deep_dive": "## 经济结构单一性与脆弱性\n全球旅游业依赖度排名揭示了不同经济体结构的深刻差异。排名靠前的安道尔、阿鲁巴、澳门等，其旅游收入占GDP比重均超过70%，这暴露了其经济支柱的单一性。这些经济体通常是小型岛屿或特别行政区，地理范围有限，本土产业基础薄弱，难以发展大规模制造业或金融业，因此不得不高度依赖外部游客消费来驱动增长。这种高度依赖性也意味着它们极易受到全球性冲击（如疫情、地缘冲突、经济衰退）的影响，旅游收入的波动会直接、剧烈地传导至整体经济，形成“繁荣与萧条”的显著周期。相比之下，中国、美国、德国等大型经济体，旅游业占比均低于1%，这表明其经济结构更为多元和稳固，拥有强大的内需市场和多样化的产业支撑，抗风险能力显著更强。\n\n## 地域分布与发展启示\n从地域分布看，旅游业高度依赖的经济体主要集中在三个区域：加勒比海（如安提瓜和巴布达、圣卢西亚）、地中海（如阿尔巴尼亚、黑山、克罗地亚）以及印度洋/太平洋（如马尔代夫、塞舌尔、斐济）。这些地区往往拥有独特的自然景观或文化遗产，旅游业是其参与全球价值链的核心方式。对于此类国家，发展旅游业是基于比较优势的理性选择，但如何在享受旅游红利的同时，实现产业多元化、提升经济韧性，是其长期发展的关键课题。这可能涉及发展关联产业（如会展、高端度假地产）、投资人力资本、或适度向海洋经济、可再生能源等领域拓展。\n\n## 数据解读与潜在局限\n在解读数据时需注意一些细节。例如，表中“Receipts”列显示的数字（如St. Vincent and the Grenadines为43.0，Gambia为16.2）与通常认知中的旅游业收入规模可能存在较大出入，这可能是数据来源、统计口径或单位（可能包含更广泛的旅行相关收入）差异所致。此外，“依赖度”高并不直接等同于旅游业绝对收入高。例如，美国的旅游收入绝对值巨大，但由于其庞大的GDP基数，占比仅0.7%；而安道尔收入29亿美元，占比却高达71.8%。这提醒我们，在评估一个国家旅游业的重要性时，必须结合绝对规模和相对占比两个维度。对于政策制定者而言，高依赖度意味着需要建立旅游收入稳定基金、加强危机管理预案，并积极推动产业升级以降低单一风险。",
+      "glossary": [
+        {
+          "term": "Receipts as Share of GDP",
+          "explanation": "旅游收入占国内生产总值的百分比，是衡量一个经济体对旅游业依赖程度的核心指标。占比越高，说明旅游业在该国经济中的支柱地位越突出。"
+        },
+        {
+          "term": "旅游收入（Receipts）",
+          "explanation": "通常指国际旅游收支中的旅行收入，即外国游客在目的地国家/地区的消费支出总和，是服务贸易的重要组成部分。"
+        },
+        {
+          "term": "经济韧性",
+          "explanation": "指经济体在遭受外部冲击（如金融危机、疫情、自然灾害）后，能够抵御、适应并快速恢复其基本功能和发展路径的能力。经济结构多元化是提高韧性的关键。"
+        },
+        {
+          "term": "支柱产业",
+          "explanation": "在国民经济中占据重要地位、对经济增长和就业有显著贡献的产业。一个国家若有单一产业作为支柱，其经济稳定性容易受到该产业波动的影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "0130659e",
     "title": "Mapped: America’s Gender Earnings Gap by State",
     "original_url": "https://www.visualcapitalist.com/gender-earnings-gap-by-state-map/",
