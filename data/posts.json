@@ -1,5 +1,286 @@
 [
   {
+    "id": "30fe753a",
+    "title": "Ranked: The World’s Biggest Gold Producers",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-gold-producers/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/30fe753a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDQ24qKRsVKzDFVJ2rndTU1URDJzRVYsc0VXOTymhkmo3TNSClPSs2tS0yqYaKsUVdibn//2Q==",
+    "image_version": 1778851392,
+    "pub_date": "Fri, 15 May 2026 11:34:32 +0000",
+    "content_md": "| Rank | Country | 2024 Gold Production (tonnes) |\n| --- | --- | --- |\n| 1 | China | 380.2 |\n| 2 | Russia | 330.0 |\n| 3 | Australia | 284.0 |\n| 4 | Canada | 202.1 |\n| 5 | United States | 158.0 |\n| 6 | Ghana | 140.6 |\n| 7 | Mexico | 140.3 |\n| 8 | Indonesia | 140.1 |\n| 9 | Peru | 136.9 |\n| 10 | Uzbekistan | 129.1 |\n| 11 | Mali | 100.0 |\n| 12 | South Africa | 98.9 |\n| 13 | Burkina Faso | 94.4 |\n| 14 | Kazakhstan | 87.0 |\n| 15 | Brazil | 83.7 |\n| 16 | Sudan | 73.8 |\n| 17 | Guinea | 68.0 |\n| 18 | Colombia | 65.8 |\n| 19 | Côte d'Ivoire | 58.0 |\n| 20 | Tanzania | 51.8 |\n| 21 | Zimbabwe | 50.9 |\n| 22 | Papua New Guinea | 49.8 |\n| 23 | DRC | 42.3 |\n| 24 | Argentina | 39.7 |\n| 25 | Philippines | 38.8 |\n| 26 | Chile | 34.8 |\n| 27 | Niger | 33.6 |\n| 28 | Venezuela | 30.6 |\n| 29 | Turkey | 30.6 |\n| 30 | Suriname | 27.7 |\n| 31 | Bolivia | 26.5 |\n| 32 | Ecuador | 24.3 |\n| 33 | Kyrgyz Republic | 23.6 |\n| 34 | Mauritania | 21.9 |\n| 35 | Liberia | 20.3 |\n| 36 | Dominican Republic | 18.4 |\n| 37 | Madagascar | 16.2 |\n| 38 | Senegal | 15.3 |\n| 39 | Guyana | 13.5 |\n| 40 | Mongolia | 12.6 |\n| 41 | Laos | 9.9 |\n| 42 | Bulgaria | 8.6 |\n| 43 | Finland | 8.5 |\n| 44 | Sweden | 6.8 |\n| -- | Other | 233.3 |\n| -- | Total | 3,661.2 |",
+    "ai_analysis": {
+      "core_insight": "全球黄金生产高度集中，中国、俄罗斯、澳大利亚三国占据近半壁江山。",
+      "data_highlights": [
+        "2024年全球黄金总产量约3661.2吨。",
+        "前三甲（中俄澳）合计产量占比全球近29%。",
+        "前十名国家贡献了全球约65%的黄金产量。",
+        "前二十名国家之后，其余国家的产量断崖式下降。",
+        "非洲与拉丁美洲是主要的新兴产金区，多国进入前二十。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2024 Gold Production (tonnes)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "380.2"
+            ],
+            [
+              "2",
+              "Russia",
+              "330.0"
+            ],
+            [
+              "3",
+              "Australia",
+              "284.0"
+            ],
+            [
+              "4",
+              "Canada",
+              "202.1"
+            ],
+            [
+              "5",
+              "United States",
+              "158.0"
+            ],
+            [
+              "6",
+              "Ghana",
+              "140.6"
+            ],
+            [
+              "7",
+              "Mexico",
+              "140.3"
+            ],
+            [
+              "8",
+              "Indonesia",
+              "140.1"
+            ],
+            [
+              "9",
+              "Peru",
+              "136.9"
+            ],
+            [
+              "10",
+              "Uzbekistan",
+              "129.1"
+            ],
+            [
+              "11",
+              "Mali",
+              "100.0"
+            ],
+            [
+              "12",
+              "South Africa",
+              "98.9"
+            ],
+            [
+              "13",
+              "Burkina Faso",
+              "94.4"
+            ],
+            [
+              "14",
+              "Kazakhstan",
+              "87.0"
+            ],
+            [
+              "15",
+              "Brazil",
+              "83.7"
+            ],
+            [
+              "16",
+              "Sudan",
+              "73.8"
+            ],
+            [
+              "17",
+              "Guinea",
+              "68.0"
+            ],
+            [
+              "18",
+              "Colombia",
+              "65.8"
+            ],
+            [
+              "19",
+              "Côte d'Ivoire",
+              "58.0"
+            ],
+            [
+              "20",
+              "Tanzania",
+              "51.8"
+            ],
+            [
+              "21",
+              "Zimbabwe",
+              "50.9"
+            ],
+            [
+              "22",
+              "Papua New Guinea",
+              "49.8"
+            ],
+            [
+              "23",
+              "DRC",
+              "42.3"
+            ],
+            [
+              "24",
+              "Argentina",
+              "39.7"
+            ],
+            [
+              "25",
+              "Philippines",
+              "38.8"
+            ],
+            [
+              "26",
+              "Chile",
+              "34.8"
+            ],
+            [
+              "27",
+              "Niger",
+              "33.6"
+            ],
+            [
+              "28",
+              "Venezuela",
+              "30.6"
+            ],
+            [
+              "29",
+              "Turkey",
+              "30.6"
+            ],
+            [
+              "30",
+              "Suriname",
+              "27.7"
+            ],
+            [
+              "31",
+              "Bolivia",
+              "26.5"
+            ],
+            [
+              "32",
+              "Ecuador",
+              "24.3"
+            ],
+            [
+              "33",
+              "Kyrgyz Republic",
+              "23.6"
+            ],
+            [
+              "34",
+              "Mauritania",
+              "21.9"
+            ],
+            [
+              "35",
+              "Liberia",
+              "20.3"
+            ],
+            [
+              "36",
+              "Dominican Republic",
+              "18.4"
+            ],
+            [
+              "37",
+              "Madagascar",
+              "16.2"
+            ],
+            [
+              "38",
+              "Senegal",
+              "15.3"
+            ],
+            [
+              "39",
+              "Guyana",
+              "13.5"
+            ],
+            [
+              "40",
+              "Mongolia",
+              "12.6"
+            ],
+            [
+              "41",
+              "Laos",
+              "9.9"
+            ],
+            [
+              "42",
+              "Bulgaria",
+              "8.6"
+            ],
+            [
+              "43",
+              "Finland",
+              "8.5"
+            ],
+            [
+              "44",
+              "Sweden",
+              "6.8"
+            ],
+            [
+              "--",
+              "Other",
+              "233.3"
+            ],
+            [
+              "--",
+              "Total",
+              "3,661.2"
+            ]
+          ],
+          "caption": "2024年全球主要黄金生产国排名"
+        }
+      ],
+      "deep_dive": "## 生产格局：寡头主导与梯队分明\n\n2024年的全球黄金生产版图呈现出极其清晰的金字塔结构。\n\n- **第一梯队：中俄澳三巨头**。中国（380.2吨）、俄罗斯（330.0吨）和澳大利亚（284.0吨）稳居前三，合计产量约994.2吨，占全球总产量的27.2%。这三国拥有庞大的资源储量、成熟的开采技术以及国家层面的战略支持，构成了全球黄金供应的“压舱石”。\n- **第二梯队：传统与新兴强国**。从第四名的加拿大（202.1吨）到第十名的乌兹别克斯坦（129.1吨），组成了一个产量在130-200吨区间的核心生产圈。这其中既包含美国、加拿大等传统矿业强国，也涵盖了加纳、墨西哥、秘鲁等新兴产金国。\n- **长尾梯队：非洲与拉美的崛起**。从第十一名的马里（100.0吨）开始，产量迅速滑落至百吨以下，并进入了以非洲和拉丁美洲国家为主的“长尾区”。这些国家如苏丹、哥伦比亚、科特迪瓦等，虽然单个体量不大，但数量众多，共同构成了全球黄金生产的“第二极”，其总和不容小觑。\n\n## 地缘与经济启示\n\n黄金生产的分布远非简单的资源禀赋问题，它深刻反映了地缘政治、经济结构与资本流向。\n\n- **资源民族主义与供应链安全**：前十大生产国中，俄罗斯、中国、乌兹别克斯坦等国均存在较强的资源管控倾向。在当前地缘政治紧张背景下，黄金作为关键战略资源，其生产集中度高企（前十占比超65%）对全球供应链稳定性构成潜在风险。\n- **非洲大陆：机遇与挑战并存**：非洲多国（马里、南非、布基纳法索等）集体出现在榜单前列，反映了该大陆未开发的巨大资源潜力。然而，这也伴随着政治不稳定、基础设施落后和“资源诅咒”等挑战，投资风险与回报并存。\n- **传统产金国的转型压力**：南非曾长期主导全球黄金生产，但如今仅位列第12（98.9吨），产量持续萎缩，这标志着全球黄金生产中心从南非向俄罗斯、澳大利亚及西非等地的历史性转移。同样，美国、加拿大等国虽位居前列，但也面临品位下降、环保法规趋严和成本上升的压力。\n- **“其他”类别的意义**：表格中“Other”类别产量高达233.3吨，占总产量的6.4%，表明全球仍有大量中小型产金国分散在全球各地，它们共同保障了黄金供应的多元化，避免了生产完全被前几个国家垄断。",
+      "glossary": [
+        {
+          "term": "黄金产量",
+          "explanation": "指一个国家在特定年份内（此处为2024年）新开采并提炼出的黄金总重量，通常以吨为单位。"
+        },
+        {
+          "term": "生产集中度",
+          "explanation": "衡量某一行业产量集中于少数几个主要生产者（国家或企业）程度的指标。高集中度意味着供应链可能更脆弱，易受个别国家政策或事件影响。"
+        },
+        {
+          "term": "资源民族主义",
+          "explanation": "指一国政府通过立法、政策等手段，强化对本国自然资源（如黄金、石油）控制，限制外资参与或提高税收，以确保资源收益更多服务于本国利益。"
+        },
+        {
+          "term": "资源诅咒",
+          "explanation": "一种经济学悖论，指一些自然资源丰富的国家，其经济发展反而长期落后于资源贫乏的国家，常与制度薄弱、腐败、经济结构单一和冲突有关。"
+        }
+      ]
+    }
+  },
+  {
     "id": "0b423e47",
     "title": "Mapped: The World’s Most Tourism-Dependent Economies",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-the-worlds-most-tourism-dependent-economies/",
