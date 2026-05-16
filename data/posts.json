@@ -1,5 +1,176 @@
 [
   {
+    "id": "459dba1a",
+    "title": "Ranked: Countries With the Highest Water Use Per Person",
+    "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/459dba1a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwAiOKnL4FV0pXJxT5iOUGk5oqsxOaKXMXyn/9k=",
+    "image_version": 1778957117,
+    "pub_date": "Sat, 16 May 2026 17:15:48 +0000",
+    "content_md": "| Rank | Country | Cubic feet per capita |\n| --- | --- | --- |\n| 1 | Turkmenistan | 128,228 |\n| 2 | Montenegro | 125,155 |\n| 3 | New Zealand | 68,652 |\n| 4 | Guyana | 61,907 |\n| 5 | U.S. | 46,969 |\n| 6 | Uruguay | 46,969 |\n| 7 | Azerbaijan | 45,379 |\n| 8 | Kazakhstan | 44,002 |\n| 9 | Uzbekistan | 43,366 |\n| 10 | North Macedonia | 41,848 |\n| 11 | Kyrgyzstan | 39,023 |\n| 12 | Tajikistan | 36,763 |\n| 13 | Iran | 36,657 |\n| 14 | Armenia | 36,515 |\n| 15 | Suriname | 35,138 |\n| 16 | Lao PDR | 34,326 |\n| 17 | Greece | 34,008 |\n| 18 | Iraq | 34,008 |\n| 19 | Canada | 32,772 |\n| 20 | Estonia | 31,677 |\n| 21 | Eswatini | 31,006 |\n| 22 | Timor-Leste | 30,159 |\n| 23 | Bulgaria | 29,700 |\n| 24 | Argentina | 29,311 |\n| 25 | Vietnam | 28,993 |",
+    "ai_analysis": {
+      "core_insight": "人均水资源消耗与水资源丰度不完全正相关，中亚及部分小国高居榜首。",
+      "data_highlights": [
+        "中亚国家占据半壁江山，土库曼斯坦以12.8万立方英尺人均用水量遥遥领先。",
+        "乌拉圭与美国人均用水量完全相同，均为4.7万立方英尺，并列第五。",
+        "榜单前10名中，中亚五国（土库曼、哈萨克、乌兹别克、吉尔吉斯、塔吉克）全部入选。",
+        "新西兰作为发达国家，人均用水量高达6.9万立方英尺，位列第三，远高于许多工业化国家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Cubic feet per capita"
+          ],
+          "rows": [
+            [
+              "1",
+              "Turkmenistan",
+              "128,228"
+            ],
+            [
+              "2",
+              "Montenegro",
+              "125,155"
+            ],
+            [
+              "3",
+              "New Zealand",
+              "68,652"
+            ],
+            [
+              "4",
+              "Guyana",
+              "61,907"
+            ],
+            [
+              "5",
+              "U.S.",
+              "46,969"
+            ],
+            [
+              "6",
+              "Uruguay",
+              "46,969"
+            ],
+            [
+              "7",
+              "Azerbaijan",
+              "45,379"
+            ],
+            [
+              "8",
+              "Kazakhstan",
+              "44,002"
+            ],
+            [
+              "9",
+              "Uzbekistan",
+              "43,366"
+            ],
+            [
+              "10",
+              "North Macedonia",
+              "41,848"
+            ],
+            [
+              "11",
+              "Kyrgyzstan",
+              "39,023"
+            ],
+            [
+              "12",
+              "Tajikistan",
+              "36,763"
+            ],
+            [
+              "13",
+              "Iran",
+              "36,657"
+            ],
+            [
+              "14",
+              "Armenia",
+              "36,515"
+            ],
+            [
+              "15",
+              "Suriname",
+              "35,138"
+            ],
+            [
+              "16",
+              "Lao PDR",
+              "34,326"
+            ],
+            [
+              "17",
+              "Greece",
+              "34,008"
+            ],
+            [
+              "18",
+              "Iraq",
+              "34,008"
+            ],
+            [
+              "19",
+              "Canada",
+              "32,772"
+            ],
+            [
+              "20",
+              "Estonia",
+              "31,677"
+            ],
+            [
+              "21",
+              "Eswatini",
+              "31,006"
+            ],
+            [
+              "22",
+              "Timor-Leste",
+              "30,159"
+            ],
+            [
+              "23",
+              "Bulgaria",
+              "29,700"
+            ],
+            [
+              "24",
+              "Argentina",
+              "29,311"
+            ],
+            [
+              "25",
+              "Vietnam",
+              "28,993"
+            ]
+          ],
+          "caption": "全球人均用水量TOP25国家排名"
+        }
+      ],
+      "deep_dive": "## 榜单结构解读：地理集中与意外之客\n该榜单揭示了全球人均水资源消耗的显著地域性特征与若干反直觉现象。最突出的是中亚国家的集体上榜，土库曼斯坦、哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦和塔吉克斯坦五国全部进入前十，构成了榜单的“核心集团”。这与其内陆干旱/半干旱气候下，依赖大规模灌溉农业（如棉花种植）的产业模式密切相关。然而，高消耗并不等同于高浪费，其中可能包含了大量生产性用水。\n\n另一方面，新西兰、加拿大等水资源相对丰沛的发达国家也位列前茅，这主要源于其较高的生活水平、农业灌溉需求以及人均工业用水量。而黑山（Montenegro）和圭亚那（Guyana）等国的高排名则更值得探究：黑山可能与其旅游业（酒店、度假村）的快速增长及统计口径有关；圭亚那则可能源于其种植园农业或采矿业的高耗水特性。这些案例表明，人均用水量是自然条件、经济结构、生活习惯和统计方法共同作用的结果。\n\n## 机制与启示：超越数字的思考\n高人均用水量的背后，主要有三大驱动机制：一是**农业主导型用水**，如中亚的灌溉农业；二是**工业与生活标准驱动**，如美国、新西兰等发达国家；三是**特定资源开采型经济**，如圭亚那等国的农业或矿业。\n\n本排名带来的核心启示是：水资源管理政策不能“一刀切”。对于中亚等农业用水大国，提升灌溉效率、推广节水技术是关键；对于新西兰等水资源丰富但消耗高的国家，则需关注消费模式与生态足迹，平衡发展与保护；对于像黑山这样的快速增长经济体，需提前规划水资源基础设施。此外，该数据主要反映取水量，未区分水资源再生与消耗性损失，也未体现水质退化与水生态压力，因此需结合水资源压力指数等更综合的指标进行评估。",
+      "glossary": [
+        {
+          "term": "人均用水量 (Cubic feet per capita)",
+          "explanation": "指一个国家或地区在特定时期内（通常为一年）总取水量除以常住人口数，单位为立方英尺。它衡量的是水资源的抽取强度，而非实际消耗或污染量。"
+        },
+        {
+          "term": "灌溉农业 (Irrigation Agriculture)",
+          "explanation": "指通过人工方式（如渠道、喷灌、滴灌）向农田供水的农业模式。这是全球最大的淡水使用部门，尤其在干旱半干旱地区，是导致高人均用水量的主要原因之一。"
+        },
+        {
+          "term": "水资源压力指数 (Water Stress Index)",
+          "explanation": "衡量一个地区可用水资源与水需求之间平衡关系的指标。当总取水量超过可再生淡水总量的一定比例（如20%、40%）时，即被视为处于水资源压力或短缺状态，它比单纯用水量更能反映可持续性挑战。"
+        }
+      ]
+    }
+  },
+  {
     "id": "90c46a2a",
     "title": "Ranked: The World’s Largest Deserts",
     "original_url": "https://www.visualcapitalist.com/the-worlds-largest-deserts/",
