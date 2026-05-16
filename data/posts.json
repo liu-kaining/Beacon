@@ -1,5 +1,545 @@
 [
   {
+    "id": "90c46a2a",
+    "title": "Ranked: The World’s Largest Deserts",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-largest-deserts/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/90c46a2a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtXeoGlpZKrPWXMU0TedRVU0UczFY//9k=",
+    "image_version": 1778946306,
+    "pub_date": "Sat, 16 May 2026 14:09:18 +0000",
+    "content_md": "| Desert | Location | Type | Area in sq. miles | Area in sq. kilometers |\n| --- | --- | --- | --- | --- |\n| Antarctic | Antarctica | Polar | 5,500,000 | 14,200,000 |\n| Arctic | CanadaGreenlandIcelandNorwaySwedenFinlandRussia | Polar | 5,400,000 | 13,900,000 |\n| Sahara | Western SaharaAlgeriaLibyaEgyptMauritaniaMaliNigerChadSudan | Subtropical | 3,500,000 | 9,000,000 |\n| Arabian | JordanIraqSaudi ArabiaUAEOmanYemen | Subtropical | 1,000,000 | 2,600,000 |\n| Gobi | ChinaMongolia | Cold winter | 500,000 | 1,300,000 |\n| Patagonian | Argentina | Cold winter | 260,000 | 670,000 |\n| Great Victoria | Australia | Subtropical | 250,000 | 650,000 |\n| Kalahari | NamibiaBotswanaSouth Africa | Subtropical | 220,000 | 560,000 |\n| Great Basin | U.S. | Cold winter | 190,000 | 490,000 |\n| Syrian | SyriaJordanSaudi ArabiaIraq | Subtropical | 190,000 | 490,000 |",
+    "ai_analysis": {
+      "core_insight": "全球最大的沙漠并非炎热，而是两极冰冷的极地沙漠。",
+      "data_highlights": [
+        "南极洲沙漠以1420万平方公里位居榜首，是撒哈拉沙漠的1.6倍。",
+        "前十大沙漠中，极地沙漠占据前两位，总面积超过其他沙漠之和。",
+        "撒哈拉是最大的非极地沙漠，面积达900万平方公里，几乎覆盖整个北非。",
+        "沙漠类型多样，包括极地沙漠、亚热带沙漠和冷冬沙漠，分布广泛。",
+        "戈壁沙漠是最大的冷冬沙漠，横跨中国和蒙古，面积130万平方公里。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Desert",
+            "Location",
+            "Type",
+            "Area in sq. miles",
+            "Area in sq. kilometers"
+          ],
+          "rows": [
+            [
+              "1",
+              "Antarctic",
+              "Antarctica",
+              "Polar",
+              "5,500,000",
+              "14,200,000"
+            ],
+            [
+              "2",
+              "Arctic",
+              "Canada, Greenland, Iceland, Norway, Sweden, Finland, Russia",
+              "Polar",
+              "5,400,000",
+              "13,900,000"
+            ],
+            [
+              "3",
+              "Sahara",
+              "Western Sahara, Algeria, Libya, Egypt, Mauritania, Mali, Niger, Chad, Sudan",
+              "Subtropical",
+              "3,500,000",
+              "9,000,000"
+            ],
+            [
+              "4",
+              "Arabian",
+              "Jordan, Iraq, Saudi Arabia, UAE, Oman, Yemen",
+              "Subtropical",
+              "1,000,000",
+              "2,600,000"
+            ],
+            [
+              "5",
+              "Gobi",
+              "China, Mongolia",
+              "Cold winter",
+              "500,000",
+              "1,300,000"
+            ],
+            [
+              "6",
+              "Patagonian",
+              "Argentina",
+              "Cold winter",
+              "260,000",
+              "670,000"
+            ],
+            [
+              "7",
+              "Great Victoria",
+              "Australia",
+              "Subtropical",
+              "250,000",
+              "650,000"
+            ],
+            [
+              "8",
+              "Kalahari",
+              "Namibia, Botswana, South Africa",
+              "Subtropical",
+              "220,000",
+              "560,000"
+            ],
+            [
+              "9",
+              "Great Basin",
+              "U.S.",
+              "Cold winter",
+              "190,000",
+              "490,000"
+            ],
+            [
+              "10",
+              "Syrian",
+              "Syria, Jordan, Saudi Arabia, Iraq",
+              "Subtropical",
+              "190,000",
+              "490,000"
+            ]
+          ],
+          "caption": "全球十大最大沙漠排名"
+        }
+      ],
+      "deep_dive": "## 重新定义“沙漠”：干旱并非唯一标准\n公众普遍将沙漠等同于炎热、干旱的沙丘景观，但科学定义的核心在于“年降水量极低且蒸发量大”。这一数据颠覆了传统认知：全球最大的两个沙漠——南极洲和北极圈——是覆盖着冰雪的极地沙漠。这表明，衡量沙漠的关键指标是水分收支平衡，而非温度。极地地区虽然被冰雪覆盖，但其降水（主要以雪的形式）极其稀少，且低温环境下的蒸发量极低，导致整体水分亏缺，因此被归类为沙漠。这种分类拓宽了我们对地球干旱生态系统的理解。\n\n## 规模与类型：从极地到温带的广谱分布\n从数据看，十大沙漠在面积、类型和分布上呈现鲜明特点：\n- **规模断层**：前两大极地沙漠的面积（均超过1300万平方公里）远超排名第三的撒哈拉（900万平方公里），形成了巨大的规模断层。两者合计约占十大沙漠总面积的70%。\n- **类型主导**：亚热带沙漠（如撒哈拉、阿拉伯、大维多利亚）在数量和面积上均占主导，体现了副热带高压带对干旱气候的控制力。冷冬沙漠（如戈壁、巴塔哥尼亚）则分布在中纬度内陆，因远离海洋且受大陆性气候影响形成。\n- **地理集中**：沙漠广泛分布于各大洲，包括南极洲、非洲、亚洲、大洋洲和美洲。其中，亚非大陆是沙漠最集中的区域，这与全球大气环流和地形格局密切相关。\n\n## 启示与思考：生态系统与人类活动的边界\n如此广袤的沙漠区域对地球系统和人类社会具有深远影响：\n- **气候调节**：极地沙漠是巨大的冰雪库，其反射率对全球能量平衡至关重要。亚热带沙漠则通过尘埃输送影响海洋生态和全球碳循环。\n- **资源与挑战**：沙漠区域蕴藏着丰富的矿产和能源资源，但其脆弱的生态环境和极端气候也给人类开发和居住带来巨大挑战。例如，戈壁和撒哈拉沙漠的扩张直接威胁周边地区的粮食安全和生态稳定。\n- **认知局限**：需注意，表格中的“Location”为国家列表，这暗示了沙漠的政治经济边界复杂性。许多大型沙漠跨越多国，其管理需要国际合作，但这也常引发水资源分配和环境保护的争端。理解沙漠的物理分布是制定有效跨境环境政策的基础。",
+      "glossary": [
+        {
+          "term": "极地沙漠 (Polar Desert)",
+          "explanation": "一种沙漠类型，特征为低温、覆盖冰雪、年降水量极低（通常少于250毫米），且水分主要以固态形式存在。"
+        },
+        {
+          "term": "亚热带沙漠 (Subtropical Desert)",
+          "explanation": "位于南北纬20°-30°附近，受副热带高压带控制，终年炎热干燥，昼夜温差大的沙漠类型。"
+        },
+        {
+          "term": "冷冬沙漠 (Cold Winter Desert)",
+          "explanation": "也称中纬度沙漠或温带沙漠，位于大陆内部，夏季温暖干燥，冬季寒冷，年降水量少且季节分布不均。"
+        },
+        {
+          "term": "水分收支平衡",
+          "explanation": "指一个区域水分的收入（主要为降水）与支出（主要为蒸发和蒸腾）之间的关系，是定义干旱和沙漠的核心指标。"
+        },
+        {
+          "term": "副热带高压带",
+          "explanation": "位于南北纬30°附近的高气压带，气流下沉，导致天气晴朗干燥，是形成世界主要亚热带沙漠的主要原因。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "401f2b00",
+    "title": "Ranked: The World’s Happiest Cities in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-happiest-cities-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/401f2b00.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDEVMiopouKsxDNPlQYqefU6TJaPmirTIN1FXzjuW4hipJPu0iCiTpWfLqc/tCo33qKVutFaWK9of/Z",
+    "image_version": 1778946336,
+    "pub_date": "Sat, 16 May 2026 11:37:44 +0000",
+    "content_md": "| Rank | City | Country | Continent | Total Points |\n| --- | --- | --- | --- | --- |\n| 1 | Copenhagen | Denmark | Europe | 6954 |\n| 2 | Helsinki | Finland | Europe | 6919 |\n| 3 | Geneva | Switzerland | Europe | 6882 |\n| 4 | Uppsala | Sweden | Europe | 6846 |\n| 5 | Tokyo | Japan | Asia | 6788 |\n| 6 | Trondheim | Norway | Europe | 6755 |\n| 7 | Bern | Switzerland | Europe | 6746 |\n| 8 | Malmö | Sweden | Europe | 6705 |\n| 9 | Munich | Germany | Europe | 6691 |\n| 10 | Aarhus | Denmark | Europe | 6685 |\n| 11 | Zurich | Switzerland | Europe | 6683 |\n| 12 | Barcelona | Spain | Europe | 6668 |\n| 13 | Espoo | Finland | Europe | 6668 |\n| 14 | Oslo | Norway | Europe | 6623 |\n| 15 | The Hague | Netherlands | Europe | 6563 |\n| 16 | Ballarat | Australia | Oceania | 6546 |\n| 17 | Aalborg | Denmark | Europe | 6538 |\n| 18 | Yokohama | Japan | Asia | 6526 |\n| 19 | Lugano | Switzerland | Europe | 6521 |\n| 20 | Reykjavik | Iceland | Europe | 6514 |\n| 21 | Jönköping | Sweden | Europe | 6514 |\n| 22 | Singapore | Singapore | Asia | 6504 |\n| 23 | Grenoble | France | Europe | 6502 |\n| 24 | Stuttgart | Germany | Europe | 6502 |\n| 25 | Paris | France | Europe | 6493 |\n| 26 | Seoul | South Korea | Asia | 6487 |\n| 27 | Bremen | Germany | Europe | 6482 |\n| 28 | Stockholm | Sweden | Europe | 6479 |\n| 29 | Leiden | Netherlands | Europe | 6477 |\n| 30 | Antwerp | Belgium | Europe | 6475 |\n| 31 | Bergen | Norway | Europe | 6473 |\n| 32 | Warsaw | Poland | Europe | 6473 |\n| 33 | Vienna | Austria | Europe | 6461 |\n| 34 | Nijmegen | Netherlands | Europe | 6459 |\n| 35 | Maitland | Australia | Oceania | 6453 |\n| 36 | Berlin | Germany | Europe | 6435 |\n| 37 | Stavanger | Norway | Europe | 6432 |\n| 38 | Gothenburg | Sweden | Europe | 6427 |\n| 39 | Vancouver | Canada | North America | 6426 |\n| 40 | Klagenfurt | Austria | Europe | 6420 |\n| 41 | Turku | Finland | Europe | 6411 |\n| 42 | Ghent | Belgium | Europe | 6408 |\n| 43 | Amsterdam | Netherlands | Europe | 6402 |\n| 44 | New Taipei City | Taiwan | Asia | 6400 |\n| 45 | San Francisco | United States | North America | 6395 |\n| 46 | Taipei City | Taiwan | Asia | 6383 |\n| 47 | Edinburgh | United Kingdom | Europe | 6379 |\n| 48 | London | United Kingdom | Europe | 6366 |\n| 49 | Incheon | South Korea | Asia | 6362 |\n| 50 | Cambridge | United Kingdom | Europe | 6358 |",
+    "ai_analysis": {
+      "core_insight": "2026年全球幸福城市榜单被欧洲城市主导，哥本哈根夺冠。",
+      "data_highlights": [
+        "欧洲城市占据前50名中的43席，占比高达86%，呈现绝对主导地位。",
+        "哥本哈根以6954分位列榜首，与第二名赫尔辛基（6919分）差距微小。",
+        "亚洲代表城市如东京（第5）、新加坡（第22）、首尔（第26）均进入榜单。",
+        "北美地区仅温哥华（第39）和旧金山（第45）两个城市入围。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "City",
+            "Country",
+            "Continent",
+            "Total Points"
+          ],
+          "rows": [
+            [
+              "1",
+              "Copenhagen",
+              "Denmark",
+              "Europe",
+              "6954"
+            ],
+            [
+              "2",
+              "Helsinki",
+              "Finland",
+              "Europe",
+              "6919"
+            ],
+            [
+              "3",
+              "Geneva",
+              "Switzerland",
+              "Europe",
+              "6882"
+            ],
+            [
+              "4",
+              "Uppsala",
+              "Sweden",
+              "Europe",
+              "6846"
+            ],
+            [
+              "5",
+              "Tokyo",
+              "Japan",
+              "Asia",
+              "6788"
+            ],
+            [
+              "6",
+              "Trondheim",
+              "Norway",
+              "Europe",
+              "6755"
+            ],
+            [
+              "7",
+              "Bern",
+              "Switzerland",
+              "Europe",
+              "6746"
+            ],
+            [
+              "8",
+              "Malmö",
+              "Sweden",
+              "Europe",
+              "6705"
+            ],
+            [
+              "9",
+              "Munich",
+              "Germany",
+              "Europe",
+              "6691"
+            ],
+            [
+              "10",
+              "Aarhus",
+              "Denmark",
+              "Europe",
+              "6685"
+            ],
+            [
+              "11",
+              "Zurich",
+              "Switzerland",
+              "Europe",
+              "6683"
+            ],
+            [
+              "12",
+              "Barcelona",
+              "Spain",
+              "Europe",
+              "6668"
+            ],
+            [
+              "13",
+              "Espoo",
+              "Finland",
+              "Europe",
+              "6668"
+            ],
+            [
+              "14",
+              "Oslo",
+              "Norway",
+              "Europe",
+              "6623"
+            ],
+            [
+              "15",
+              "The Hague",
+              "Netherlands",
+              "Europe",
+              "6563"
+            ],
+            [
+              "16",
+              "Ballarat",
+              "Australia",
+              "Oceania",
+              "6546"
+            ],
+            [
+              "17",
+              "Aalborg",
+              "Denmark",
+              "Europe",
+              "6538"
+            ],
+            [
+              "18",
+              "Yokohama",
+              "Japan",
+              "Asia",
+              "6526"
+            ],
+            [
+              "19",
+              "Lugano",
+              "Switzerland",
+              "Europe",
+              "6521"
+            ],
+            [
+              "20",
+              "Reykjavik",
+              "Iceland",
+              "Europe",
+              "6514"
+            ],
+            [
+              "21",
+              "Jönköping",
+              "Sweden",
+              "Europe",
+              "6514"
+            ],
+            [
+              "22",
+              "Singapore",
+              "Singapore",
+              "Asia",
+              "6504"
+            ],
+            [
+              "23",
+              "Grenoble",
+              "France",
+              "Europe",
+              "6502"
+            ],
+            [
+              "24",
+              "Stuttgart",
+              "Germany",
+              "Europe",
+              "6502"
+            ],
+            [
+              "25",
+              "Paris",
+              "France",
+              "Europe",
+              "6493"
+            ],
+            [
+              "26",
+              "Seoul",
+              "South Korea",
+              "Asia",
+              "6487"
+            ],
+            [
+              "27",
+              "Bremen",
+              "Germany",
+              "Europe",
+              "6482"
+            ],
+            [
+              "28",
+              "Stockholm",
+              "Sweden",
+              "Europe",
+              "6479"
+            ],
+            [
+              "29",
+              "Leiden",
+              "Netherlands",
+              "Europe",
+              "6477"
+            ],
+            [
+              "30",
+              "Antwerp",
+              "Belgium",
+              "Europe",
+              "6475"
+            ],
+            [
+              "31",
+              "Bergen",
+              "Norway",
+              "Europe",
+              "6473"
+            ],
+            [
+              "32",
+              "Warsaw",
+              "Poland",
+              "Europe",
+              "6473"
+            ],
+            [
+              "33",
+              "Vienna",
+              "Austria",
+              "Europe",
+              "6461"
+            ],
+            [
+              "34",
+              "Nijmegen",
+              "Netherlands",
+              "Europe",
+              "6459"
+            ],
+            [
+              "35",
+              "Maitland",
+              "Australia",
+              "Oceania",
+              "6453"
+            ],
+            [
+              "36",
+              "Berlin",
+              "Germany",
+              "Europe",
+              "6435"
+            ],
+            [
+              "37",
+              "Stavanger",
+              "Norway",
+              "Europe",
+              "6432"
+            ],
+            [
+              "38",
+              "Gothenburg",
+              "Sweden",
+              "Europe",
+              "6427"
+            ],
+            [
+              "39",
+              "Vancouver",
+              "Canada",
+              "North America",
+              "6426"
+            ],
+            [
+              "40",
+              "Klagenfurt",
+              "Austria",
+              "Europe",
+              "6420"
+            ],
+            [
+              "41",
+              "Turku",
+              "Finland",
+              "Europe",
+              "6411"
+            ],
+            [
+              "42",
+              "Ghent",
+              "Belgium",
+              "Europe",
+              "6408"
+            ],
+            [
+              "43",
+              "Amsterdam",
+              "Netherlands",
+              "Europe",
+              "6402"
+            ],
+            [
+              "44",
+              "New Taipei City",
+              "Taiwan",
+              "Asia",
+              "6400"
+            ],
+            [
+              "45",
+              "San Francisco",
+              "United States",
+              "North America",
+              "6395"
+            ],
+            [
+              "46",
+              "Taipei City",
+              "Taiwan",
+              "Asia",
+              "6383"
+            ],
+            [
+              "47",
+              "Edinburgh",
+              "United Kingdom",
+              "Europe",
+              "6379"
+            ],
+            [
+              "48",
+              "London",
+              "United Kingdom",
+              "Europe",
+              "6366"
+            ],
+            [
+              "49",
+              "Incheon",
+              "South Korea",
+              "Asia",
+              "6362"
+            ],
+            [
+              "50",
+              "Cambridge",
+              "United Kingdom",
+              "Europe",
+              "6358"
+            ]
+          ],
+          "caption": "2026年全球最幸福城市TOP50"
+        }
+      ],
+      "deep_dive": "## 一、榜单格局：欧洲主导，北欧领跑\n\n2026年全球最幸福城市榜单清晰地揭示了地理分布上的极度不均衡。在前50名中，**欧洲城市占据了43个席位（86%）**，形成了压倒性的优势。这种集中度并非偶然，其背后反映了这些城市在**社会保障、经济稳定性、自然环境和公共服务**等方面长期形成的综合优势。\n\n- **北欧四国（丹麦、芬兰、瑞典、挪威）** 表现尤为突出，包揽了前四名中的三席（哥本哈根、赫尔辛基、乌普萨拉），并贡献了榜单中的大量城市。这指向了**高福利、高信任度、工作与生活平衡**的社会模式对居民幸福感的深远影响。\n- **瑞士和德国** 紧随其后，凭借强大的经济实力、精密的基础设施和高质量的教育医疗体系，占据了多个席位。瑞士的日内瓦、伯尔尼、苏黎世均位列前十五，展示了小国大幸福的特点。\n- **其他欧洲国家** 如荷兰、法国、奥地利、英国等也有多城上榜，显示了幸福感的广泛分布，但整体分数略低于北欧和瑞士。\n\n## 二、亚洲与北美：亮眼个体，整体弱势\n\n与欧洲的集团优势相比，其他大洲仅有个别城市表现突出，凸显了全球幸福地理的差异性。\n\n- **亚洲：技术与效率驱动下的高分个体**。东京（第5）是亚洲的领头羊，体现了高度发达的城市治理、安全秩序和高效服务对幸福的贡献。新加坡（第22）、首尔（第26）以及中国台北的新北市（第44）和台北市（第46）也成功入围，这些城市普遍以**高度城市化、经济活力和技术应用**见长，但其高密度、高压力的生活环境可能是影响更高排名的因素。\n- **北美：代表性不足**。仅有加拿大的温哥华（第39）和美国的旧金山（第45）两个城市入选，且排名相对靠后。这可能与北美大城市普遍面临的**高昂生活成本、社会分化、治安压力**等挑战有关，这些因素抵消了经济机会带来的优势。\n- **大洋洲与非洲**。澳大利亚的巴拉瑞特（第16）和梅特兰（第35）作为非一线城市的代表入选，或许揭示了**中小城市在宜居性上的潜力**。非洲及拉丁美洲城市则无一上榜，反映出该榜单可能更侧重于衡量经济社会发展水平较高的地区。\n\n## 三、启示与思考\n\n这份榜单不仅是一次排名，更是一面镜子，折射出城市治理的不同路径。\n1.  **幸福感的“欧洲模式”**：高税收支撑的高福利、对环境保护的重视、公共空间的充裕以及社会契约精神，共同构成了欧洲城市幸福的基石。这为全球城市化发展提供了另一种范式参考。\n2.  **规模并非决定因素**：榜单中既有东京、伦敦这样的超级大都市，也有乌普萨拉、特隆赫姆等中小城市。这表明，幸福与否的关键在于**治理的质量和资源的公平分配**，而非单纯的城市规模或GDP总量。\n3.  **榜单的局限性**：需注意，“幸福”是一个复杂的综合概念，此类排名通常基于可量化的客观指标（如收入、健康、环境等），可能难以完全捕捉主观的文化心理、社区归属感等软性因素。此外，数据来源和方法论的差异也会影响结果。\n\n综上所述，2026年的幸福城市版图描绘了一个由欧洲，特别是北欧国家定义的“幸福高地”。这提醒我们，城市的终极发展目标，或许应从追逐经济增长，转向构建一个更加公平、包容和可持续的社会生态系统。",
+      "glossary": [
+        {
+          "term": "Total Points",
+          "explanation": "榜单的综合评分，通常由多个维度的指标（如经济、健康、环境、社会联系等）加权计算得出，是城市幸福程度的量化总分。"
+        },
+        {
+          "term": "北欧模式",
+          "explanation": "指北欧国家（如丹麦、瑞典、挪威）普遍实行的高税收、高福利、强调社会公平与合作的社会经济制度，常被认为是高幸福感的制度基础。"
+        },
+        {
+          "term": "城市治理",
+          "explanation": "指政府、机构及市民为规划、管理和发展城市所进行的决策与实践过程，其效能直接影响居民的生活质量与幸福感。"
+        },
+        {
+          "term": "宜居性",
+          "explanation": "衡量一个城市或地区是否适宜居住的综合标准，通常包括环境质量、基础设施、公共服务、安全、文化活力等多方面因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "239daa97",
     "title": "Male Doctors, Female Cashiers: AI’s Job Bias",
     "original_url": "https://www.visualcapitalist.com/cp/male-doctors-female-cashiers-ais-job-bias/",
