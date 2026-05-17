@@ -1,5 +1,102 @@
 [
   {
+    "id": "2ce48111",
+    "title": "The Fertility Rate of Every Country in the World",
+    "original_url": "https://www.visualcapitalist.com/fertility-rate-of-world-populations/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2ce48111.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC/OuahSPBqy9MFZHtLYcF4opwooA//2Q==",
+    "image_version": 1779043777,
+    "pub_date": "Sun, 17 May 2026 14:47:08 +0000",
+    "content_md": "| Country | Population (thousands) | Total Fertility Rate (TFR) |\n| --- | --- | --- |\n| India | 1,460,000 | 1.94 |\n| China | 1,420,000 | 1.02 |\n| United States | 347,300 | 1.62 |\n| Indonesia | 285,700 | 2.10 |\n| Pakistan | 255,200 | 3.50 |\n| Nigeria | 237,500 | 4.30 |\n| Brazil | 212,800 | 1.60 |\n| Bangladesh | 175,700 | 2.11 |\n| Russia | 144,000 | 1.46 |\n| Ethiopia | 135,500 | 3.81 |\n| Mexico | 131,900 | 1.87 |\n| Japan | 123,100 | 1.23 |\n| Egypt | 118,400 | 2.71 |\n| Philippines | 116,800 | 1.88 |\n| DR Congo | 112,800 | 5.90 |\n| Vietnam | 101,600 | 1.88 |\n| Iran | 92,400 | 1.67 |\n| Turkey | 87,700 | 1.62 |\n| Germany | 84,100 | 1.46 |\n| Thailand | 71,600 | 1.19 |\n| Tanzania | 70,500 | 4.47 |\n| United Kingdom | 69,500 | 1.54 |\n| France | 66,700 | 1.64 |\n| South Africa | 64,800 | 2.19 |\n| Italy | 59,100 | 1.21 |\n| Kenya | 57,500 | 3.12 |\n| Myanmar | 54,900 | 2.08 |\n| Colombia | 53,400 | 1.62 |\n| South Korea | 51,700 | 0.75 |\n| Sudan | 51,700 | 4.19 |\n| Uganda | 51,400 | 4.06 |\n| Spain | 47,900 | 1.23 |\n| Algeria | 47,400 | 2.67 |\n| Iraq | 47,000 | 3.17 |\n| Argentina | 45,900 | 1.50 |\n| Afghanistan | 43,800 | 4.66 |\n| Yemen | 41,800 | 4.41 |\n| Canada | 40,100 | 1.33 |\n| Angola | 39,000 | 4.95 |\n| Ukraine | 39,000 | 1.00 |\n| Morocco | 38,400 | 2.18 |\n| Poland | 38,100 | 1.31 |\n| Uzbekistan | 37,000 | 3.45 |\n| Malaysia | 36,000 | 1.53 |\n| Mozambique | 35,600 | 4.62 |\n| Ghana | 35,100 | 3.30 |\n| Peru | 34,600 | 1.94 |\n| Saudi Arabia | 34,600 | 2.29 |\n| Madagascar | 32,700 | 3.84 |\n| Ivory Coast | 32,700 | 4.17 |\n| Cameroon | 29,900 | 4.19 |\n| Nepal | 29,600 | 1.94 |\n| Venezuela | 28,500 | 2.06 |\n| Niger | 27,900 | 5.79 |\n| Australia | 27,000 | 1.64 |\n| Dem. People's Republic of Korea | 26,600 | 1.77 |\n| Syria | 25,600 | 2.66 |\n| Mali | 25,200 | 5.42 |\n| Burkina Faso | 24,100 | 4.00 |\n| Sri Lanka | 23,200 | 1.94 |\n| Taiwan | 23,100 | 0.86 |\n| Malawi | 22,200 | 3.53 |\n| Zambia | 21,900 | 3.97 |\n| Chad | 21,000 | 5.94 |\n| Kazakhstan | 20,800 | 2.95 |\n| Chile | 19,900 | 1.13 |\n| Somalia | 19,600 | 5.91 |\n| Senegal | 18,900 | 3.71 |\n| Romania | 18,900 | 1.71 |\n| Guatemala | 18,700 | 2.26 |\n| Netherlands | 18,400 | 1.44 |\n| Ecuador | 18,300 | 1.79 |\n| Cambodia | 17,900 | 2.51 |\n| Zimbabwe | 16,900 | 3.62 |\n| Guinea | 15,100 | 4.04 |\n| Benin | 14,800 | 4.42 |\n| Rwanda | 14,600 | 3.59 |\n| Burundi | 14,400 | 4.68 |\n| Bolivia | 12,600 | 2.50 |\n| Tunisia | 12,300 | 1.80 |\n| South Sudan | 12,200 | 3.71 |\n| Haiti | 11,900 | 2.59 |\n| Belgium | 11,800 | 1.39 |\n| Jordan | 11,500 | 2.57 |\n| Dominican Republic | 11,500 | 2.19 |\n| United Arab Emirates | 11,300 | 1.21 |\n| Honduras | 11,000 | 2.45 |\n| Cuba | 10,900 | 1.45 |\n| Tajikistan | 10,800 | 2.99 |\n| Papua New Guinea | 10,800 | 3.03 |\n| Sweden | 10,700 | 1.44 |\n| Czechia | 10,600 | 1.47 |\n| Portugal | 10,400 | 1.52 |\n| Azerbaijan | 10,400 | 1.66 |\n| Greece | 9,900 | 1.34 |\n| Togo | 9,700 | 4.07 |\n| Hungary | 9,600 | 1.50 |\n| Israel | 9,500 | 2.75 |\n| Austria | 9,100 | 1.33 |\n| Belarus | 9,000 | 1.22 |\n| Switzerland | 9,000 | 1.44 |\n| Sierra Leone | 8,800 | 3.61 |\n| Laos | 7,900 | 2.36 |\n| Turkmenistan | 7,600 | 2.63 |\n| Libya | 7,500 | 2.25 |\n| Hong Kong | 7,400 | 0.74 |\n| Kyrgyzstan | 7,300 | 2.75 |\n| Paraguay | 7,000 | 2.39 |\n| Nicaragua | 7,000 | 2.18 |\n| Bulgaria | 6,700 | 1.74 |\n| Serbia | 6,700 | 1.50 |\n| Congo | 6,500 | 4.05 |\n| El Salvador | 6,400 | 1.75 |\n| Denmark | 6,000 | 1.52 |\n| Singapore | 5,900 | 0.96 |\n| Lebanon | 5,800 | 2.21 |\n| Liberia | 5,700 | 3.79 |\n| Finland | 5,600 | 1.30 |\n| Norway | 5,600 | 1.42 |\n| Palestine | 5,600 | 3.19 |\n| Central African Republic | 5,500 | 5.81 |\n| Oman | 5,500 | 2.48 |\n| Slovakia | 5,500 | 1.57 |\n| Mauritania | 5,300 | 4.56 |\n| Ireland | 5,300 | 1.60 |\n| New Zealand | 5,200 | 1.65 |\n| Costa Rica | 5,200 | 1.31 |\n| Kuwait | 5,000 | 1.50 |\n| Panama | 4,600 | 2.09 |\n| Croatia | 3,900 | 1.47 |\n| Georgia | 3,800 | 1.79 |\n| Eritrea | 3,600 | 3.61 |\n| Mongolia | 3,500 | 2.58 |\n| Uruguay | 3,400 | 1.39 |\n| Puerto Rico | 3,200 | 0.94 |\n| Bosnia and Herzegovina | 3,100 | 1.50 |\n| Qatar | 3,100 | 1.70 |\n| Namibia | 3,100 | 3.17 |\n| Moldova | 3,000 | 1.72 |\n| Armenia | 3,000 | 1.71 |\n| Jamaica | 2,800 | 1.34 |\n| Lithuania | 2,800 | 1.22 |\n| Gambia | 2,800 | 3.80 |\n| Albania | 2,800 | 1.33 |\n| Gabon | 2,600 | 3.54 |\n| Botswana | 2,600 | 2.66 |\n| Lesotho | 2,400 | 2.64 |\n| Guinea-Bissau | 2,200 | 3.68 |\n| Slovenia | 2,100 | 1.58 |\n| Equatorial Guinea | 1,900 | 4.04 |\n| Latvia | 1,900 | 1.35 |\n| North Macedonia | 1,800 | 1.47 |\n| Kosovo (under UNSC res. 1244) | 1,700 | 1.53 |\n| Bahrain | 1,600 | 1.78 |\n| Trinidad and Tobago | 1,500 | 1.52 |\n| Timor-Leste | 1,400 | 2.56 |\n| Cyprus | 1,400 | 1.37 |\n| Estonia | 1,300 | 1.37 |\n| Mauritius | 1,300 | 1.21 |\n| Eswatini | 1,300 | 2.68 |\n| Djibouti | 1,200 | 2.58 |\n| Fiji | 930 | 2.25 |\n| Comoros | 880 | 3.76 |\n| Réunion | 880 | 2.13 |\n| Solomon Islands | 840 | 3.47 |\n| Guyana | 840 | 2.37 |\n| Bhutan | 800 | 1.44 |\n| Macao | 720 | 0.69 |\n| Luxembourg | 680 | 1.40 |\n| Suriname | 640 | 2.21 |\n| Montenegro | 630 | 1.80 |\n| Western Sahara | 600 | 2.15 |\n| Malta | 550 | 1.11 |\n| Maldives | 530 | 1.55 |\n| Cape Verde | 530 | 1.50 |\n| Brunei | 470 | 1.71 |\n| Belize | 420 | 2.01 |\n| Bahamas | 400 | 1.36 |\n| Iceland | 400 | 1.50 |\n| Guadeloupe | 370 | 2.05 |\n| Martinique | 340 | 1.97 |\n| Mayotte | 340 | 4.50 |\n| Vanuatu | 340 | 3.53 |\n| French Guiana | 310 | 3.29 |\n| New Caledonia | 300 | 1.95 |\n| Barbados | 280 | 1.70 |\n| French Polynesia | 280 | 1.48 |\n| Sao Tome and Principe | 240 | 3.53 |\n| Samoa | 220 | 3.75 |\n| Curacao | 190 | 1.07 |\n| St. Lucia | 180 | 1.38 |\n| Guam | 170 | 2.71 |\n| Kiribati | 140 | 3.09 |\n| Seychelles | 130 | 2.08 |\n| Grenada | 120 | 1.46 |\n| Micronesia | 110 | 2.71 |\n| Aruba | 110 | 1.61 |\n| Jersey | 100 | 1.38 |\n| Tonga | 100 | 3.07 |\n| St. Vincent & Grenadines | 100 | 1.75 |\n| Antigua and Barbuda | 90 | 1.58 |\n| United States Virgin Islands | 80 | 2.07 |\n| Isle of Man | 80 | 1.53 |\n| Andorra | 80 | 1.10 |\n| Cayman Islands | 80 | 1.51 |\n| Dominica | 70 | 1.47 |\n| Bermuda | 60 | 1.41 |\n| Guernsey | 60 | 1.37 |\n| Faroe Islands | 60 | 2.20 |\n| Greenland | 60 | 1.91 |\n| St. Kitts & Nevis | 50 | 1.51 |\n| Turks and Caicos Islands | 50 | 1.44 |\n| American Samoa | 50 | 2.25 |\n| Sint Maarten | 40 | 1.43 |\n| Northern Mariana Islands | 40 | 2.28 |\n| Liechtenstein | 40 | 1.54 |\n| Gibraltar | 40 | 1.88 |\n| British Virgin Islands | 40 | 1.06 |\n| Monaco | 40 | 2.09 |\n| Marshall Islands | 40 | 2.82 |\n| San Marino | 30 | 1.16 |\n| Bonaire | 30 | 1.45 |\n| Saint Martin (French part) | 20 | 2.63 |\n| Palau | 20 | 1.86 |\n| Anguilla | 10 | 1.35 |\n| Cook Islands | 10 | 2.00 |\n| Nauru | 10 | 3.25 |\n| St. Barthélemy | 10 | 0.83 |\n| Wallis & Futuna | 10 | 1.40 |\n| Tuvalu | 10 | 3.14 |\n| Saint Pierre and Miquelon | 10 | 1.28 |\n| St. Helena | 10 | 1.64 |\n| Montserrat | 0 | 1.45 |\n| Falkland Islands | 0 | 1.69 |\n| Tokelau | 0 | 2.57 |\n| Niue | 0 | 2.46 |",
+    "ai_analysis": {
+      "core_insight": "全球生育率呈现显著地域分化，东亚最低而非洲撒哈拉以南地区最高。",
+      "data_highlights": [
+        "韩国（TFR 0.75）和中国香港（0.74）生育率全球最低，远低于世代更替水平。",
+        "刚果民主共和国（TFR 5.90）、尼日尔（5.79）等非洲国家生育率最高，超过5.0。",
+        "人口大国印度（TFR 1.94）已接近更替水平，中国（1.02）则深陷超低生育率。",
+        "欧洲主要经济体普遍低于1.5，如意大利（1.21）、西班牙（1.23）、德国（1.46）。",
+        "印尼（2.10）、巴基斯坦（3.50）等国仍保持较高生育率，人口增长潜力巨大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Population (thousands)",
+            "Total Fertility Rate (TFR)"
+          ],
+          "rows": [
+            [
+              "India",
+              "1,460,000",
+              "1.94"
+            ],
+            [
+              "China",
+              "1,420,000",
+              "1.02"
+            ],
+            [
+              "United States",
+              "347,300",
+              "1.62"
+            ],
+            [
+              "Indonesia",
+              "285,700",
+              "2.10"
+            ],
+            [
+              "Pakistan",
+              "255,200",
+              "3.50"
+            ],
+            [
+              "Nigeria",
+              "237,500",
+              "4.30"
+            ],
+            [
+              "Brazil",
+              "212,800",
+              "1.60"
+            ],
+            [
+              "Bangladesh",
+              "175,700",
+              "2.11"
+            ],
+            [
+              "Russia",
+              "144,000",
+              "1.46"
+            ],
+            [
+              "Ethiopia",
+              "135,500",
+              "3.81"
+            ]
+          ],
+          "caption": "人口前十国家生育率数据"
+        }
+      ],
+      "deep_dive": "## 全球生育率图景：地域鸿沟与发展阶段\n全球生育率地图呈现出清晰的“南高北低”格局。以撒哈拉以南非洲为代表的发展中地区，如尼日尔（5.79）、刚果民主共和国（5.90）、马里（5.42）等国，总和生育率（TFR）普遍高于4.0，甚至突破5.0，这与其较低的社会经济发展水平、传统的生育观念以及较高的儿童死亡率密切相关。相比之下，东亚和欧洲地区则深陷“低生育率陷阱”。韩国（0.75）、中国香港（0.74）、中国澳门（0.69）、中国台湾（0.86）的TFR跌破1.0，成为全球生育率最低的区域。意大利（1.21）、西班牙（1.23）、日本（1.23）等欧洲和东亚发达国家同样面临人口负增长的巨大压力。这种两极分化是经济发展、教育普及（特别是女性受教育程度提升）、城市化进程、高昂的生育养育成本以及社会福利制度等多重因素共同作用的结果。\n\n## 人口大国的不同命运：转折与挑战\n人口规模的对比更凸显了生育率差异带来的深远影响。印度（人口14.6亿）的TFR为1.94，已非常接近2.1的世代更替水平，意味着其人口增长将在未来数十年内逐步放缓并达到峰值。而中国（14.2亿）的TFR仅为1.02，已远低于更替水平，预示着其人口规模将不可避免地快速收缩，老龄化问题将迅速加剧，对经济增长模式和养老体系构成严峻挑战。美国（3.47亿，TFR 1.62）凭借较高的移民流入，在一定程度上缓解了低生育率带来的劳动力和人口结构问题。印度尼西亚（2.86亿，TFR 2.10）则仍处于人口正增长通道。这些差异意味着，未来全球经济增长的引擎、劳动力市场格局以及地缘政治影响力，都将因人口结构的变化而发生深刻调整。\n\n## 启示与局限性\n从政策启示看，低生育率国家需要构建生育友好型社会，包括提供育儿支持、平衡工作与家庭、改革养老制度。高生育率国家则需加强生殖健康服务、普及教育以促进人口结构转型。然而，分析此数据需注意其局限性：TFR是时期指标，反映的是当前育龄妇女的生育水平，并非预测未来人口的绝对工具。此外，数据可能未完全涵盖非正式人口或存在统计口径差异。尽管如此，它清晰地揭示了全球人口发展的核心矛盾：人类社会在生育行为上从未像今天这样，因所处的发展阶段和地域而产生如此巨大的鸿沟。",
+      "glossary": [
+        {
+          "term": "总和生育率（TFR）",
+          "explanation": "假设一名妇女按照当前分年龄生育率度过整个育龄期，她所生育子女的平均数量。TFR为2.1通常被认为是维持人口世代更替的水平。"
+        },
+        {
+          "term": "世代更替水平",
+          "explanation": "能够维持人口数量长期稳定、不增不减的生育率水平，通常略高于2.0（约2.1），以弥补死亡等人口损失。"
+        },
+        {
+          "term": "低生育率陷阱",
+          "explanation": "指当总和生育率长期低于1.5时，由于社会观念、经济压力和人口结构变化等因素的相互强化，生育率难以回升至更替水平的一种状态。"
+        }
+      ]
+    }
+  },
+  {
     "id": "da585b7a",
     "title": "Mapped: America’s Most-Spoken Languages After English and Spanish",
     "original_url": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
