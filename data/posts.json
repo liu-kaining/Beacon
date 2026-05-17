@@ -1,5 +1,247 @@
 [
   {
+    "id": "054acea6",
+    "title": "Mapped: Europe’s Most Visited Countries",
+    "original_url": "https://www.visualcapitalist.com/mapped-europes-most-visited-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/054acea6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC0abmpWWomXmu6VbU+fUB26im4oqvaC5CwTUTU41G1crWpsgyKKZRQOx//2Q==",
+    "image_version": 1778998292,
+    "pub_date": "Sun, 17 May 2026 04:47:35 +0000",
+    "content_md": "| Rank | Country | International Visitor Nights |\n| --- | --- | --- |\n| 1 | Spain | 329,661,068 |\n| 2 | Italy | 264,741,414 |\n| 3 | Türkiye | 154,799,879 |\n| 4 | France | 150,753,829 |\n| 5 | UK (2024) | 149,803,000 |\n| 6 | Greece | 130,851,809 |\n| 7 | Austria | 97,020,394 |\n| 8 | Croatia | 85,604,505 |\n| 9 | Germany | 83,622,666 |\n| 10 | Netherlands | 64,311,055 |\n| 11 | Portugal | 60,031,130 |\n| 12 | Switzerland (2024) | 27,719,928 |\n| 13 | Czechia | 26,740,457 |\n| 14 | Ireland | 24,718,902 |\n| 15 | Belgium | 23,138,513 |\n| 16 | Poland | 20,217,607 |\n| 17 | Cyprus | 17,338,450 |\n| 18 | Denmark | 16,909,462 |\n| 19 | Sweden | 16,496,139 |\n| 20 | Hungary | 16,234,583 |\n| 21 | Bulgaria | 16,083,286 |\n| 22 | Norway | 14,165,842 |\n| 23 | Slovenia | 13,344,871 |\n| 24 | Malta | 11,755,619 |\n| 25 | Iceland | 8,849,422 |\n| 26 | Albania | 7,137,072 |\n| 27 | Finland | 7,081,113 |\n| 28 | Serbia | 6,072,905 |\n| 29 | Slovakia | 5,407,029 |\n| 30 | Romania | 5,326,691 |\n| 31 | Montenegro | 4,577,800 |\n| 32 | Lithuania | 3,841,447 |\n| 33 | Estonia | 3,797,929 |\n| 34 | Luxembourg | 3,177,126 |\n| 35 | Latvia | 3,076,322 |\n| 36 | North Macedonia (2024) | 1,530,378 |\n| 37 | Kosovo | 902,259 |\n| 38 | Liechtenstein | 208,229 |\n| -- | European Union | 1,501,283,416 |",
+    "ai_analysis": {
+      "core_insight": "西班牙以绝对优势领跑欧洲旅游市场，南欧与西欧国家占据主导地位。",
+      "data_highlights": [
+        "西班牙以近3.3亿国际游客夜位居榜首，领先第二名意大利约6500万夜。",
+        "前四名（西班牙、意大利、土耳其、法国）的游客夜总和超过9亿，占欧盟总量的约60%。",
+        "土耳其以超过1.5亿夜位列第三，非欧盟国家表现抢眼。",
+        "英国（2024年数据）以近1.5亿夜紧随法国之后，位列第五。",
+        "欧盟整体国际游客夜总量约为15亿夜。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "International Visitor Nights"
+          ],
+          "rows": [
+            [
+              "1",
+              "Spain",
+              "329,661,068"
+            ],
+            [
+              "2",
+              "Italy",
+              "264,741,414"
+            ],
+            [
+              "3",
+              "Türkiye",
+              "154,799,879"
+            ],
+            [
+              "4",
+              "France",
+              "150,753,829"
+            ],
+            [
+              "5",
+              "UK (2024)",
+              "149,803,000"
+            ],
+            [
+              "6",
+              "Greece",
+              "130,851,809"
+            ],
+            [
+              "7",
+              "Austria",
+              "97,020,394"
+            ],
+            [
+              "8",
+              "Croatia",
+              "85,604,505"
+            ],
+            [
+              "9",
+              "Germany",
+              "83,622,666"
+            ],
+            [
+              "10",
+              "Netherlands",
+              "64,311,055"
+            ],
+            [
+              "11",
+              "Portugal",
+              "60,031,130"
+            ],
+            [
+              "12",
+              "Switzerland (2024)",
+              "27,719,928"
+            ],
+            [
+              "13",
+              "Czechia",
+              "26,740,457"
+            ],
+            [
+              "14",
+              "Ireland",
+              "24,718,902"
+            ],
+            [
+              "15",
+              "Belgium",
+              "23,138,513"
+            ],
+            [
+              "16",
+              "Poland",
+              "20,217,607"
+            ],
+            [
+              "17",
+              "Cyprus",
+              "17,338,450"
+            ],
+            [
+              "18",
+              "Denmark",
+              "16,909,462"
+            ],
+            [
+              "19",
+              "Sweden",
+              "16,496,139"
+            ],
+            [
+              "20",
+              "Hungary",
+              "16,234,583"
+            ],
+            [
+              "21",
+              "Bulgaria",
+              "16,083,286"
+            ],
+            [
+              "22",
+              "Norway",
+              "14,165,842"
+            ],
+            [
+              "23",
+              "Slovenia",
+              "13,344,871"
+            ],
+            [
+              "24",
+              "Malta",
+              "11,755,619"
+            ],
+            [
+              "25",
+              "Iceland",
+              "8,849,422"
+            ],
+            [
+              "26",
+              "Albania",
+              "7,137,072"
+            ],
+            [
+              "27",
+              "Finland",
+              "7,081,113"
+            ],
+            [
+              "28",
+              "Serbia",
+              "6,072,905"
+            ],
+            [
+              "29",
+              "Slovakia",
+              "5,407,029"
+            ],
+            [
+              "30",
+              "Romania",
+              "5,326,691"
+            ],
+            [
+              "31",
+              "Montenegro",
+              "4,577,800"
+            ],
+            [
+              "32",
+              "Lithuania",
+              "3,841,447"
+            ],
+            [
+              "33",
+              "Estonia",
+              "3,797,929"
+            ],
+            [
+              "34",
+              "Luxembourg",
+              "3,177,126"
+            ],
+            [
+              "35",
+              "Latvia",
+              "3,076,322"
+            ],
+            [
+              "36",
+              "North Macedonia (2024)",
+              "1,530,378"
+            ],
+            [
+              "37",
+              "Kosovo",
+              "902,259"
+            ],
+            [
+              "38",
+              "Liechtenstein",
+              "208,229"
+            ],
+            [
+              "--",
+              "European Union",
+              "1,501,283,416"
+            ]
+          ],
+          "caption": "欧洲国际游客夜数排名（前38名及欧盟整体）"
+        }
+      ],
+      "deep_dive": "## 欧洲旅游格局：南欧引领，梯队分明\n\n本报告基于国际游客夜数数据，清晰勾勒出欧洲旅游市场的核心格局。南欧国家展现出无与伦比的吸引力，西班牙、意大利、希腊和葡萄牙四大传统旅游强国均位列前十，其阳光、海滩、历史文化遗产构成了强大的目的地品牌。值得注意的是，横跨欧亚的土耳其以第三名的成绩跻身顶级梯队，其独特的文化景观和相对较高的性价比是关键驱动力。\n\n与此同时，西欧传统发达国家（法国、英国、德国、奥地利、荷兰等）构成了稳固的第二梯队。这些国家通常拥有成熟的商务旅游、城市观光和短途休闲市场。然而，数据也揭示了显著的梯度差异：榜首西班牙的游客夜数几乎是第六名希腊的2.5倍，是第十名荷兰的5倍，头部效应非常集中。\n\n## 数据解读与潜在启示\n\n**1. 头部国家的成功要素：**\n- **西班牙**的领先优势巨大，这得益于其多样化的旅游资源（海岸线、岛屿、城市文化）、成熟的旅游基础设施、稳定的欧洲客源市场以及成功的全球营销。\n- **意大利与法国**紧随其后，同样是凭借深厚的历史文化底蕴和多元化的旅游产品。法国在数据上略低于意大利，可能与统计口径（如部分短途过夜游客）或疫情后恢复速度有关，但两者同属超级目的地。\n\n**2. 非欧盟国家与新兴市场的表现：**\n- **土耳其**的强劲表现证明了非欧盟国家在欧洲旅游市场中可以占据重要地位。其跨越欧亚的地理位置、丰富的古迹和相对低廉的价格吸引了大量欧洲及全球游客。\n- **英国（2024）**的数据是预估值，但其排名第五的位置稳固，显示了其作为主要旅游目的地的韧性。\n- 排名靠后的阿尔巴尼亚、黑山、塞尔维亚等巴尔干国家，尽管绝对量不大，但展现出东欧和新兴目的地正在被纳入更广泛的欧洲旅游版图。\n\n**3. 潜在局限与思考：**\n- **“游客夜数”的局限性：** 该指标衡量的是停留时间，但未直接反映消费水平。例如，瑞士游客夜数不多，但人均消费可能极高。对于评估旅游业的经济贡献，需结合消费数据综合分析。\n- **数据时效性：** 部分国家标注为2024年数据（如英国、瑞士），多数应为2023年或更早数据，年度间的波动（如汇率、地缘政治、航线）可能影响排名。\n- **欧盟整体数据：** 欧盟作为一个整体，其游客夜数（15亿）大于所有成员国家的总和，这反映了欧盟内部跨境旅游的繁荣，也使得欧盟成为全球最具吸引力的单一旅游市场之一。",
+      "glossary": [
+        {
+          "term": "国际游客夜数",
+          "explanation": "衡量一个国家或地区旅游需求的核心指标，指由非常住居民在该地住宿设施过夜的总次数。它比单纯的游客人数更能反映旅游活动的深度和停留时间。"
+        },
+        {
+          "term": "头部效应",
+          "explanation": "指在排名或市场份额中，少数头部参与者占据了绝大部分比例的现象。在此报告中，前四名国家占据了欧盟总量的60%，体现了欧洲旅游业高度集中的特点。"
+        },
+        {
+          "term": "旅游目的地品牌",
+          "explanation": "指一个地区通过其独特的自然景观、文化遗产、旅游服务和形象宣传，在游客心中形成的综合性认知和情感联结，是吸引游客的核心软实力。"
+        }
+      ]
+    }
+  },
+  {
     "id": "459dba1a",
     "title": "Ranked: Countries With the Highest Water Use Per Person",
     "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/",
