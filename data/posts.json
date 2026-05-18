@@ -1,5 +1,343 @@
 [
   {
+    "id": "d176527c",
+    "title": "U.S. Trade is Falling With China—but Surging With Taiwan and Vietnam",
+    "original_url": "https://www.visualcapitalist.com/sp/ter02-u-s-trade-falling-with-china-surging-with-taiwan-and-vietnam/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d176527c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiiKicU8tUbtWiNGyMnmimE80U7GdyTfTWOaaKDUXKQ09aKKKVwsf/2Q==",
+    "image_version": 1779125009,
+    "pub_date": "Mon, 18 May 2026 15:48:00 +0000",
+    "content_md": "| Trading Partner | Change in Total Goods Trade, Q1 2026 vs Q1 2025 |\n| --- | --- |\n| China | -$49B |\n| Ireland | -$44B |\n| Switzerland | -$36B |\n| Canada | -$22B |\n| Germany | -$8B |\n| Australia | -$7B |\n\n| Trading Partner | Change in Total Goods Trade, Q1 2026 vs Q1 2025 |\n| --- | --- |\n| Taiwan | +$39B |\n| Vietnam | +$18B |\n| Mexico | +$16B |\n| UK | +$9B |\n| Hong Kong | +$7B |\n| S. Korea | +$7B |\n| Malaysia | +$5B |",
+    "ai_analysis": {
+      "core_insight": "美国商品贸易格局重构：对华贸易骤降，对台越墨等经济体贸易激增。",
+      "data_highlights": [
+        "2026年一季度，美国对华商品贸易同比大幅下降490亿美元，降幅居首。",
+        "同期，美国对中国台湾的商品贸易额激增390亿美元，增幅最大。",
+        "越南和墨西哥分别以180亿和160亿美元的增幅，成为美国贸易增长的重要引擎。",
+        "欧洲主要经济体如爱尔兰、瑞士、德国也出现显著贸易下滑。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Trading Partner",
+            "Change in Total Goods Trade, Q1 2026 vs Q1 2025"
+          ],
+          "rows": [
+            [
+              "China",
+              "-$49B"
+            ],
+            [
+              "Ireland",
+              "-$44B"
+            ],
+            [
+              "Switzerland",
+              "-$36B"
+            ],
+            [
+              "Canada",
+              "-$22B"
+            ],
+            [
+              "Germany",
+              "-$8B"
+            ],
+            [
+              "Australia",
+              "-$7B"
+            ]
+          ],
+          "caption": "美国商品贸易变化（下降方，Q1 2026 vs Q1 2025）"
+        },
+        {
+          "headers": [
+            "Trading Partner",
+            "Change in Total Goods Trade, Q1 2026 vs Q1 2025"
+          ],
+          "rows": [
+            [
+              "Taiwan",
+              "+$39B"
+            ],
+            [
+              "Vietnam",
+              "+$18B"
+            ],
+            [
+              "Mexico",
+              "+$16B"
+            ],
+            [
+              "UK",
+              "+$9B"
+            ],
+            [
+              "Hong Kong",
+              "+$7B"
+            ],
+            [
+              "S. Korea",
+              "+$7B"
+            ],
+            [
+              "Malaysia",
+              "+$5B"
+            ]
+          ],
+          "caption": "美国商品贸易变化（增长方，Q1 2026 vs Q1 2025）"
+        }
+      ],
+      "deep_dive": "## 贸易流转向：从“中国制造”到“亚洲制造集群”与近岸外包\n\n最新数据显示，美国贸易流正发生深刻重构。最显著的特征是**对华贸易的急剧收缩**与**对亚洲其他制造中心及近岸伙伴贸易的同步激增**。这并非简单的总量增减，而是全球供应链加速重组的明确信号。下降方面，中国以490亿美元的巨大降幅独占鳌头，爱尔兰、瑞士等欧洲国家也出现意外下滑，可能反映了药品、科技产品等特定品类贸易的周期性或结构性调整。增长方面，**中国台湾**以390亿美元的增幅高居榜首，凸显其在全球半导体及电子产业链中不可替代的地位，美国对该地区的依赖加深。**越南**和**墨西哥**分别增长180亿和160亿美元，清晰印证了“中国+1”策略和“近岸外包”趋势的落地，它们正成为制造业产能转移的主要承接地。韩国、马来西亚的同步增长则进一步表明，美国正在构建一个**更分散、但地理上更邻近或地缘政治上更安全的供应链网络**。\n\n## 内在机制与未来启示\n\n此轮贸易格局重构的驱动机制是多层次的：\n1.  **地缘政治与政策驱动**：持续的关税措施、科技出口管制及对供应链韧性的战略考量，是企业调整采购和生产布局的首要压力。\n2.  **企业风险管理**：疫情期间暴露的供应中断风险，促使企业主动实施供应商和产能多元化，降低对单一地区的过度依赖。\n3.  **成本与贸易协定因素**：越南、墨西哥等国在劳动力成本、自由贸易协定网络（如USMCA、CPTPP）方面具备相对优势，吸引了新的投资。\n\n未来启示在于：这种贸易转向可能加剧部分地区的“贸易创造”效应，刺激越南、墨西哥等地的工业化与基础设施投资，但也可能推高美国国内的生产成本与通胀压力。同时，它预示着全球贸易体系正从效率优先的单一链条，向兼顾效率、安全与地缘政治的复合型网络演进，**“友岸外包”将成为未来国际贸易的新常态**。然而，这种重构也面临挑战，如新产能的构建周期、技术工人短缺以及新贸易伙伴的产能天花板。",
+      "glossary": [
+        {
+          "term": "近岸外包",
+          "explanation": "企业将业务外包或生产转移至地理位置、时区、文化相近的邻近国家，以缩短供应链、降低风险并提高响应速度。"
+        },
+        {
+          "term": "中国+1",
+          "explanation": "企业为降低风险，在保持中国部分生产的同时，在其他国家（如越南、印度等）建立至少一个替代性生产基地的策略。"
+        },
+        {
+          "term": "友岸外包",
+          "explanation": "指在地缘政治友好、价值观相近的国家之间构建供应链，是供应链重组中超越成本考虑、侧重政治与安全因素的新趋势。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d4739d8",
+    "title": "Ranked: The World’s Household Debt by Country",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-household-debt-by-country-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9d4739d8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDl4o81I8XFWbeMVLNGAtKLuzdwSRkMnNFWHA3UVtynMWreSpJ5PlqtBTpvu1yrRmnM7FR5PmNFRP8AeNFb3Mz/2Q==",
+    "image_version": 1779125037,
+    "pub_date": "Mon, 18 May 2026 14:22:46 +0000",
+    "content_md": "| Rank | Country | Household Debt Q1 2026 | Global Share |\n| --- | --- | --- | --- |\n| 1 | U.S. | $21.2T | 32.4% |\n| 2 | China | $12.3T | 18.8% |\n| 3 | UK | $3.0T | 4.6% |\n| 4 | Japan | $2.5T | 3.9% |\n| 5 | Germany | $2.5T | 3.8% |\n| 6 | Canada | $2.4T | 3.6% |\n| 7 | Australia | $2.3T | 3.5% |\n| 8 | France | $2.0T | 3.1% |\n| 9 | India | $1.6T | 2.4% |\n| 10 | South Korea | $1.5T | 2.4% |\n| 11 | Switzerland | $1.3T | 2.1% |\n| 12 | Netherlands | $1.3T | 1.9% |\n| 13 | Italy | $934B | 1.4% |\n| 14 | Brazil | $891B | 1.4% |\n| 15 | Spain | $835B | 1.3% |\n| 16 | Sweden | $599B | 0.9% |\n| 17 | Russia | $565B | 0.9% |\n| 18 | Thailand | $503B | 0.8% |\n| 19 | Norway | $497B | 0.8% |\n| 20 | Denmark | $430B | 0.7% |\n| 21 | Belgium | $421B | 0.6% |\n| 22 | Saudi Arabia | $404B | 0.6% |\n| 23 | Hong Kong | $366B | 0.6% |\n| 24 | Mexico | $360B | 0.6% |\n| 25 | Malaysia | $353B | 0.5% |\n| 26 | Israel | $287B | 0.4% |\n| 27 | Singapore | $275B | 0.4% |\n| 28 | Austria | $247B | 0.4% |\n| 29 | New Zealand | $234B | 0.4% |\n| 30 | Poland | $232B | 0.4% |\n| 31 | Indonesia | $218B | 0.3% |\n| 32 | Finland | $200B | 0.3% |\n| 33 | Portugal | $193B | 0.3% |\n| 34 | Ireland | $178B | 0.3% |\n| 35 | UAE | $160B | 0.2% |\n| 36 | South Africa | $153B | 0.2% |\n| 37 | Chile | $152B | 0.2% |\n| 38 | Türkiye | $151B | 0.2% |\n| 39 | Colombia | $131B | 0.2% |\n| 40 | Czech Rep. | $128B | 0.2% |\n| 41 | Vietnam | $112B | 0.2% |\n| 42 | Greece | $107B | 0.2% |\n| 43 | Slovakia | $69B | 0.1% |\n| 44 | Luxembourg | $66B | 0.1% |\n| 45 | Kuwait | $66B | 0.1% |\n| 46 | Kazakhstan | $57B | 0.1% |\n| 47 | Romania | $52B | 0.1% |\n| 48 | Philippines | $51B | 0.1% |\n| 49 | Hungary | $49B | 0.1% |\n| 50 | Peru | $45B | 0.1% |\n| 51 | Bulgaria | $43B | 0.1% |\n| 52 | Nigeria | $41B | 0.1% |\n| 53 | Ecuador | $39B | 0.1% |\n| 54 | Morocco | $37B | 0.1% |\n| 55 | Costa Rica | $36B | 0.1% |\n| 56 | Argentina | $35B | 0.1% |\n| 57 | Croatia | $34B | 0.1% |\n| 58 | Bangladesh | $29B | 0.04% |\n| 59 | Egypt | $28B | 0.04% |\n| 60 | Oman | $26B | 0.04% |\n| 61 | Lithuania | $23B | 0.04% |\n| 62 | Cyprus | $22B | 0.03% |\n| 63 | Slovenia | $21B | 0.03% |\n| 64 | Dominican Republic | $19B | 0.03% |\n| 65 | Estonia | $18B | 0.03% |\n| 66 | Serbia | $18B | 0.03% |\n| 67 | Jordan | $15B | 0.02% |\n| 68 | Tunisia | $15B | 0.02% |\n| 69 | Malta | $14B | 0.02% |\n| 70 | Kenya | $13B | 0.02% |\n| 71 | Sri Lanka | $12B | 0.02% |\n| 72 | Bahrain | $12B | 0.02% |\n| 73 | Latvia | $10B | 0.02% |\n| 74 | Trinidad and Tobago | $9B | 0.01% |\n| 75 | Côte d'Ivoire | $9B | 0.01% |\n| 76 | Pakistan | $9B | 0.01% |\n| 77 | El Salvador | $7B | 0.01% |\n| 78 | Tanzania | $7B | 0.01% |\n| 79 | Mongolia | $6B | 0.01% |\n| 80 | Ethiopia | $6B | 0.01% |\n| 81 | Jamaica | $4B | 0.01% |\n| 82 | Ghana | $4B | 0.01% |\n| 83 | Mozambique | $2B | 0.004% |\n| 84 | Lao PDR | $2B | 0.003% |\n| 85 | Tajikistan | $2B | 0.003% |\n| 86 | Zambia | $2B | 0.003% |\n| 87 | Angola | $2B | 0.003% |\n| 88 | Rwanda | $2B | 0.003% |\n| 89 | Senegal | $2B | 0.003% |\n| 90 | Cameroon | $2B | 0.003% |\n| 91 | Maldives | $1B | 0.002% |\n| 92 | Papua New Guinea | $1B | 0.002% |\n| 93 | Benin | $1B | 0.002% |\n| 94 | Congo, Rep. of | $1B | 0.001% |\n| 95 | Grenada | $1B | 0.001% |\n| 96 | Gambia | $0B | 0.0% |",
+    "ai_analysis": {
+      "core_insight": "美国家庭债务高居全球首位，前五名国家占比超六成，债务分布高度集中。",
+      "data_highlights": [
+        "美国以21.2万亿美元的家庭债务独占全球近三分之一（32.4%），远超其他国家。",
+        "中国以12.3万亿美元位居第二，占全球份额的18.8%，中美两国合计超过全球一半（51.2%）。",
+        "排名前五的国家（美、中、英、日、德）债务总额占全球比重高达63.5%，显示债务高度集中于发达经济体。",
+        "日本与德国的家庭债务总额同为2.5万亿美元，但德国的全球份额（3.8%）略低于日本（3.9%），反映出各国经济结构差异。",
+        "榜单末尾国家的家庭债务规模极低，如第96位的冈比亚为0美元，全球分布极不均衡。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Household Debt Q1 2026",
+            "Global Share"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "$21.2T",
+              "32.4%"
+            ],
+            [
+              "2",
+              "China",
+              "$12.3T",
+              "18.8%"
+            ],
+            [
+              "3",
+              "UK",
+              "$3.0T",
+              "4.6%"
+            ],
+            [
+              "4",
+              "Japan",
+              "$2.5T",
+              "3.9%"
+            ],
+            [
+              "5",
+              "Germany",
+              "$2.5T",
+              "3.8%"
+            ],
+            [
+              "6",
+              "Canada",
+              "$2.4T",
+              "3.6%"
+            ],
+            [
+              "7",
+              "Australia",
+              "$2.3T",
+              "3.5%"
+            ],
+            [
+              "8",
+              "France",
+              "$2.0T",
+              "3.1%"
+            ],
+            [
+              "9",
+              "India",
+              "$1.6T",
+              "2.4%"
+            ],
+            [
+              "10",
+              "South Korea",
+              "$1.5T",
+              "2.4%"
+            ],
+            [
+              "11",
+              "Switzerland",
+              "$1.3T",
+              "2.1%"
+            ],
+            [
+              "12",
+              "Netherlands",
+              "$1.3T",
+              "1.9%"
+            ],
+            [
+              "13",
+              "Italy",
+              "$934B",
+              "1.4%"
+            ],
+            [
+              "14",
+              "Brazil",
+              "$891B",
+              "1.4%"
+            ],
+            [
+              "15",
+              "Spain",
+              "$835B",
+              "1.3%"
+            ],
+            [
+              "16",
+              "Sweden",
+              "$599B",
+              "0.9%"
+            ],
+            [
+              "17",
+              "Russia",
+              "$565B",
+              "0.9%"
+            ],
+            [
+              "18",
+              "Thailand",
+              "$503B",
+              "0.8%"
+            ],
+            [
+              "19",
+              "Norway",
+              "$497B",
+              "0.8%"
+            ],
+            [
+              "20",
+              "Denmark",
+              "$430B",
+              "0.7%"
+            ],
+            [
+              "21",
+              "Belgium",
+              "$421B",
+              "0.6%"
+            ],
+            [
+              "22",
+              "Saudi Arabia",
+              "$404B",
+              "0.6%"
+            ],
+            [
+              "23",
+              "Hong Kong",
+              "$366B",
+              "0.6%"
+            ],
+            [
+              "24",
+              "Mexico",
+              "$360B",
+              "0.6%"
+            ],
+            [
+              "25",
+              "Malaysia",
+              "$353B",
+              "0.5%"
+            ],
+            [
+              "26",
+              "Israel",
+              "$287B",
+              "0.4%"
+            ],
+            [
+              "27",
+              "Singapore",
+              "$275B",
+              "0.4%"
+            ],
+            [
+              "28",
+              "Austria",
+              "$247B",
+              "0.4%"
+            ],
+            [
+              "29",
+              "New Zealand",
+              "$234B",
+              "0.4%"
+            ],
+            [
+              "30",
+              "Poland",
+              "$232B",
+              "0.4%"
+            ]
+          ],
+          "caption": "2026年第一季度全球主要国家家庭债务排名（前30名）"
+        }
+      ],
+      "deep_dive": "## 核心格局：高度集中的债务分布\n\n全球家庭债务分布呈现极端的“头部集中”特征。仅美国一国就占据了全球债务的近三分之一，与中国合计则超过一半。排名前五的国家（美、中、英、日、德）的债务总额占比高达63.5%，而排名后半段的众多国家合计占比微乎其微。这种格局深刻反映了全球财富、金融体系成熟度和消费模式的巨大差异。发达经济体凭借其成熟的金融系统、高收入水平和以信贷驱动的消费文化，支撑起了巨额的家庭债务。\n\n## 结构差异：债务规模与经济实力的映射\n\n在头部阵营内部，各国债务结构也值得玩味。美国的巨额债务与其GDP规模、消费主导型经济以及发达的抵押贷款市场直接相关。中国的债务规模位居第二，但增速较快，与房地产市场周期和居民储蓄消费习惯转型密切相关。值得注意的是，日本和德国的家庭债务总额相同（2.5万亿美元），但德国的全球份额（3.8%）略低于日本（3.9%），这可能与德国更保守的住房金融文化和更高的居民储蓄率有关。此外，一些高收入小型开放经济体（如瑞士、荷兰、澳大利亚）的债务规模和占比均不低，这往往与其较高的房价和人均收入相关。\n\n## 风险启示与数据局限\n\n高额家庭债务是一把“双刃剑”。适度的债务可以促进消费和投资，但过高的债务水平可能抑制长期消费能力，并在利率上升或收入下降时引发金融风险，对宏观经济稳定构成威胁。对于政策制定者而言，监测债务收入比、偿债率等结构性指标比单纯关注债务总量更为重要。\n\n**数据局限性**：\n- **定义与口径**：表格中的“家庭债务”通常指金融部门的贷款余额，但各国统计口径可能存在细微差异（如是否包含非正规金融部门贷款）。\n- **动态视角缺失**：表格为静态截面数据（2026年Q1），无法反映债务的变化趋势和增速，而增速是评估风险的关键。\n- **相对指标缺位**：缺少与GDP、可支配收入等关键指标的比率，难以直接判断债务的可持续性和风险水平。例如，瑞士债务总额高，但其人均GDP也极高，债务负担率可能远低于绝对值显示的水平。\n- **新兴市场代表性**：许多快速增长的新兴经济体（如越南、尼日利亚）的债务规模排名靠后，这可能低估了其家庭部门债务快速扩张的潜在风险。",
+      "glossary": [
+        {
+          "term": "家庭债务",
+          "explanation": "指家庭部门（包括个人和非公司制小企业）从金融部门（如银行、信用社）获得的贷款余额总和，通常包括住房抵押贷款、消费信贷、信用卡债务等。"
+        },
+        {
+          "term": "全球份额",
+          "explanation": "指某一国家的家庭债务总额占全球所有纳入统计国家的家庭债务总额的百分比，反映了该国在全球家庭债务版图中的相对权重。"
+        },
+        {
+          "term": "债务收入比",
+          "explanation": "衡量家庭债务可持续性的核心指标，指家庭债务总额与家庭可支配收入的比率。比率越高，表明家庭偿债压力越大，金融脆弱性通常越高。"
+        },
+        {
+          "term": "家庭部门杠杆率",
+          "explanation": "宏观审慎分析中的常用指标，通常指家庭债务总额与国内生产总值（GDP）的比率。它衡量了整体经济中家庭部门的债务负担水平。"
+        }
+      ]
+    }
+  },
+  {
     "id": "26572ddd",
     "title": "Mapped: The Highest Weekly Wages in America",
     "original_url": "https://www.visualcapitalist.com/mapped-highest-weekly-wages-in-america/",
