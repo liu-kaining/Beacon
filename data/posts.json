@@ -1,5 +1,407 @@
 [
   {
+    "id": "26572ddd",
+    "title": "Mapped: The Highest Weekly Wages in America",
+    "original_url": "https://www.visualcapitalist.com/mapped-highest-weekly-wages-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/26572ddd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDq2ekDVEaUVBipMm3UUyig05j/2Q==",
+    "image_version": 1779106754,
+    "pub_date": "Mon, 18 May 2026 12:06:57 +0000",
+    "content_md": "| Rank | State or District | Average Weekly Wage |\n| --- | --- | --- |\n| 1 | District of Columbia | $2,393 |\n| 2 | Washington | $1,923 |\n| 3 | Massachusetts | $1,818 |\n| 4 | California | $1,815 |\n| 5 | New York | $1,757 |\n| 6 | Connecticut | $1,604 |\n| 7 | Colorado | $1,570 |\n| 8 | New Jersey | $1,558 |\n| 9 | Maryland | $1,526 |\n| 10 | Virginia | $1,504 |\n| 11 | New Hampshire | $1,481 |\n| 12 | Illinois | $1,457 |\n| 13 | Alaska | $1,455 |\n| 14 | Texas | $1,444 |\n| 15 | Minnesota | $1,438 |\n| 16 | Oregon | $1,409 |\n| 17 | Delaware | $1,394 |\n| 18 | Pennsylvania | $1,383 |\n| 19 | Arizona | $1,360 |\n| 20 | Georgia | $1,349 |\n| 21 | Florida | $1,342 |\n| 22 | Hawaii | $1,342 |\n| 23 | North Carolina | $1,328 |\n| 24 | Tennessee | $1,327 |\n| 25 | Michigan | $1,323 |\n| 26 | Rhode Island | $1,322 |\n| 27 | Nevada | $1,314 |\n| 28 | Utah | $1,297 |\n| 29 | North Dakota | $1,291 |\n| 30 | Ohio | $1,279 |\n| 31 | Missouri | $1,249 |\n| 32 | Vermont | $1,243 |\n| 33 | Maine | $1,231 |\n| 34 | Wisconsin | $1,228 |\n| 35 | Indiana | $1,214 |\n| 36 | Alabama | $1,212 |\n| 37 | Wyoming | $1,201 |\n| 38 | South Carolina | $1,198 |\n| 39 | Iowa | $1,194 |\n| 40 | Nebraska | $1,190 |\n| 41 | New Mexico | $1,190 |\n| 42 | Louisiana | $1,187 |\n| 43 | Montana | $1,182 |\n| 44 | Idaho | $1,180 |\n| 45 | Kansas | $1,179 |\n| 46 | Kentucky | $1,176 |\n| 47 | South Dakota | $1,146 |\n| 48 | Oklahoma | $1,143 |\n| 49 | Arkansas | $1,135 |\n| 50 | West Virginia | $1,121 |\n| 51 | Mississippi | $1,005 |\n| -- | U.S. Average | $1,459 |",
+    "ai_analysis": {
+      "core_insight": "美国各州薪资高度不均，首都华盛顿特区与沿海州显著领先，内陆及南部州相对落后。",
+      "data_highlights": [
+        "华盛顿特区以2393美元的周薪高居榜首，是密西西比州（1005美元）的2.38倍。",
+        "排名前十的州/特区集中在东西海岸及技术金融中心，平均周薪均超1500美元。",
+        "全美平均周薪为1459美元，有24个州/特区的周薪低于此平均水平。",
+        "西弗吉尼亚州与密西西比州是唯一周薪低于1150美元的两个州，位于榜单末尾。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or District",
+            "Average Weekly Wage"
+          ],
+          "rows": [
+            [
+              "1",
+              "District of Columbia",
+              "$2,393"
+            ],
+            [
+              "2",
+              "Washington",
+              "$1,923"
+            ],
+            [
+              "3",
+              "Massachusetts",
+              "$1,818"
+            ],
+            [
+              "4",
+              "California",
+              "$1,815"
+            ],
+            [
+              "5",
+              "New York",
+              "$1,757"
+            ],
+            [
+              "6",
+              "Connecticut",
+              "$1,604"
+            ],
+            [
+              "7",
+              "Colorado",
+              "$1,570"
+            ],
+            [
+              "8",
+              "New Jersey",
+              "$1,558"
+            ],
+            [
+              "9",
+              "Maryland",
+              "$1,526"
+            ],
+            [
+              "10",
+              "Virginia",
+              "$1,504"
+            ],
+            [
+              "11",
+              "New Hampshire",
+              "$1,481"
+            ],
+            [
+              "12",
+              "Illinois",
+              "$1,457"
+            ],
+            [
+              "13",
+              "Alaska",
+              "$1,455"
+            ],
+            [
+              "14",
+              "Texas",
+              "$1,444"
+            ],
+            [
+              "15",
+              "Minnesota",
+              "$1,438"
+            ],
+            [
+              "16",
+              "Oregon",
+              "$1,409"
+            ],
+            [
+              "17",
+              "Delaware",
+              "$1,394"
+            ],
+            [
+              "18",
+              "Pennsylvania",
+              "$1,383"
+            ],
+            [
+              "19",
+              "Arizona",
+              "$1,360"
+            ],
+            [
+              "20",
+              "Georgia",
+              "$1,349"
+            ],
+            [
+              "21",
+              "Florida",
+              "$1,342"
+            ],
+            [
+              "22",
+              "Hawaii",
+              "$1,342"
+            ],
+            [
+              "23",
+              "North Carolina",
+              "$1,328"
+            ],
+            [
+              "24",
+              "Tennessee",
+              "$1,327"
+            ],
+            [
+              "25",
+              "Michigan",
+              "$1,323"
+            ],
+            [
+              "26",
+              "Rhode Island",
+              "$1,322"
+            ],
+            [
+              "27",
+              "Nevada",
+              "$1,314"
+            ],
+            [
+              "28",
+              "Utah",
+              "$1,297"
+            ],
+            [
+              "29",
+              "North Dakota",
+              "$1,291"
+            ],
+            [
+              "30",
+              "Ohio",
+              "$1,279"
+            ],
+            [
+              "31",
+              "Missouri",
+              "$1,249"
+            ],
+            [
+              "32",
+              "Vermont",
+              "$1,243"
+            ],
+            [
+              "33",
+              "Maine",
+              "$1,231"
+            ],
+            [
+              "34",
+              "Wisconsin",
+              "$1,228"
+            ],
+            [
+              "35",
+              "Indiana",
+              "$1,214"
+            ],
+            [
+              "36",
+              "Alabama",
+              "$1,212"
+            ],
+            [
+              "37",
+              "Wyoming",
+              "$1,201"
+            ],
+            [
+              "38",
+              "South Carolina",
+              "$1,198"
+            ],
+            [
+              "39",
+              "Iowa",
+              "$1,194"
+            ],
+            [
+              "40",
+              "Nebraska",
+              "$1,190"
+            ],
+            [
+              "41",
+              "New Mexico",
+              "$1,190"
+            ],
+            [
+              "42",
+              "Louisiana",
+              "$1,187"
+            ],
+            [
+              "43",
+              "Montana",
+              "$1,182"
+            ],
+            [
+              "44",
+              "Idaho",
+              "$1,180"
+            ],
+            [
+              "45",
+              "Kansas",
+              "$1,179"
+            ],
+            [
+              "46",
+              "Kentucky",
+              "$1,176"
+            ],
+            [
+              "47",
+              "South Dakota",
+              "$1,146"
+            ],
+            [
+              "48",
+              "Oklahoma",
+              "$1,143"
+            ],
+            [
+              "49",
+              "Arkansas",
+              "$1,135"
+            ],
+            [
+              "50",
+              "West Virginia",
+              "$1,121"
+            ],
+            [
+              "51",
+              "Mississippi",
+              "$1,005"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "$1,459"
+            ]
+          ],
+          "caption": "美国各州平均周薪排名（前51位）"
+        }
+      ],
+      "deep_dive": "## 薪资地理格局：高度集中的高薪地带与显著的区域落差\n\n这份平均周薪数据清晰地勾勒出美国经济的地理版图。高薪区域呈现出明显的“沿海-首都”集聚特征：**华盛顿特区**凭借联邦政府及关联服务业独占鳌头；**西海岸**（华盛顿州、加州）、**东北部**（马萨诸塞州、纽约州、康涅狄格州）和**中大西洋**（新泽西州、马里兰州）的州位列前茅，这些地区是科技、金融、生物医药和专业服务业的核心枢纽。相比之下，榜单后半段多为南部（如密西西比州、阿拉巴马州、西弗吉尼亚州）和内陆农业州（如爱荷华州、堪萨斯州），其经济结构偏向传统制造业、农业和资源开采，高附加值岗位相对较少。\n\n这种地理差异并非随机，其背后是多重经济机制的叠加：\n- **产业结构差异**：头部州以知识密集型、资本密集型产业为主，劳动生产率高，支撑更高工资。尾部州则更多依赖中低生产率行业。\n- **生活成本效应**：高薪州通常生活成本（尤其是住房和服务业价格）极高，部分名义高薪被生活成本抵消。例如，加州和纽约的购买力可能被夸大。\n- **政策与集聚效应**：各州税收、劳动法规、工会力量不同，影响企业成本和劳工议价能力。同时，人才和企业在特定区域形成正向循环的集聚效应，进一步推高薪资。\n\n## 数据启示与局限性\n\n**核心启示**：劳动力市场的区域性分割依然显著。对于求职者而言，高薪机会高度集中在特定地理节点，但这往往伴随着更高的生活成本和竞争压力。对于政策制定者，此数据是评估区域经济活力和制定包容性增长政策（如教育投资、产业升级、基础设施联通）的关键参考，旨在缩小而非加剧地理鸿沟。\n\n**数据局限解读**：\n- **平均值 vs. 中位数**：平均周薪极易被极高收入群体拉高，掩盖了州内不同群体、行业间的收入差距。例如，华盛顿特区的超高平均值可能反映了大量高薪专业人士与低收入服务业从业者并存的“双峰”结构。\n- **行业构成未明**：未提供各州具体的行业薪资分布，无法判断高薪是由少数明星行业（如科技）驱动，还是整体产业水平较高。\n- **生活成本未调整**：如前所述，名义工资的直接对比会高估高成本州的实际购买力。使用“区域价格平价指数”进行调整后，排名可能会有显著变动。",
+      "glossary": [
+        {
+          "term": "Average Weekly Wage",
+          "explanation": "平均周薪，指在一定时期内（通常为一周）支付给雇员的薪酬总额除以雇员人数。它是衡量地区或行业收入水平的常用指标，但易受极端值影响。"
+        },
+        {
+          "term": "知识密集型产业",
+          "explanation": "指依赖高素质人力资本和技术创新的产业，如信息技术、金融、专业服务、生物医药等。这些产业通常具有较高的劳动生产率和薪资水平。"
+        },
+        {
+          "term": "生活成本",
+          "explanation": "指维持特定生活水平所需的货币金额，主要包括住房、食品、交通、医疗和教育等支出。不同地区生活成本差异巨大，影响名义工资的实际购买力。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ccfd6e1f",
+    "title": "The Largest Employee Fraud Cases in 2025–2026",
+    "original_url": "https://www.visualcapitalist.com/sp/in02-largest-employee-embezzlement-cases/",
+    "r2_image_url": "",
+    "base64_blur": "",
+    "image_version": null,
+    "pub_date": "Mon, 18 May 2026 10:12:00 +0000",
+    "content_md": "| Rank | Organization | EmbezzlementAmount |\n| --- | --- | --- |\n| 1 | Detroit Riverfront Conservancy | $40M |\n| 2 | Santa Cruz County | $39M |\n| 3 | Startup Software Firm | $35M |\n| 4 | Apache Behavioral Health Services | $33M |\n| 5 | Federal Health Care System | $30M |\n| 6 | Maryland Manufacturing Firm | $29M |\n| 7 | Mars | $28M |\n| 8 | Las Vegas Construction Firm | $26M |\n| 9 | Muscogee Nation Gaming Enterprises | $25M |\n| 10 | Abundant Blessings | $23M |",
+    "ai_analysis": {
+      "core_insight": "员工欺诈重灾区集中于公共与非营利部门，单案金额巨大。",
+      "data_highlights": [
+        "2025-2026年十大员工欺诈案涉及总额超2.88亿美元。",
+        "排名第一的案件发生于非营利组织，金额高达4000万美元。",
+        "公共部门（县、联邦医疗系统）与非营利组织占据榜单半数席位。",
+        "欺诈金额从2300万至4000万美元不等，最低金额门槛高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Organization",
+            "EmbezzlementAmount"
+          ],
+          "rows": [
+            [
+              "1",
+              "Detroit Riverfront Conservancy",
+              "$40M"
+            ],
+            [
+              "2",
+              "Santa Cruz County",
+              "$39M"
+            ],
+            [
+              "3",
+              "Startup Software Firm",
+              "$35M"
+            ],
+            [
+              "4",
+              "Apache Behavioral Health Services",
+              "$33M"
+            ],
+            [
+              "5",
+              "Federal Health Care System",
+              "$30M"
+            ],
+            [
+              "6",
+              "Maryland Manufacturing Firm",
+              "$29M"
+            ],
+            [
+              "7",
+              "Mars",
+              "$28M"
+            ],
+            [
+              "8",
+              "Las Vegas Construction Firm",
+              "$26M"
+            ],
+            [
+              "9",
+              "Muscogee Nation Gaming Enterprises",
+              "$25M"
+            ],
+            [
+              "10",
+              "Abundant Blessings",
+              "$23M"
+            ]
+          ],
+          "caption": "2025-2026年十大员工欺诈案件排名"
+        }
+      ],
+      "deep_dive": "## 高频风险领域：公共与非营利部门的治理漏洞\n本榜单揭示了一个显著趋势：员工（内部）欺诈的巨额案件高度集中于公共部门和非营利组织。在前十名中，至少有五家机构明确属于此类（如县、联邦医疗系统、非营利保护协会等）。这通常源于以下机制：\n- **内控薄弱与监督缺位**：这类组织往往更注重公共服务使命而非利润，可能导致财务制衡制度不健全，或审计监督流于形式，为内部人员舞弊提供了可乘之机。\n- **资金管理复杂性**：涉及政府拨款、捐赠或专项资金的组织，其资金流动链条长、透明度相对较低，增加了挪用和掩饰的难度。\n- **信任文化下的风险**：非营利环境常营造高信任文化，可能降低对关键岗位人员的警惕性，而这些岗位往往拥有极大的资金处置权限。\n\n## 金额门槛与欺诈特征：高管或关键岗位的“大手笔”\n所有案件均涉及数千万美元，这表明它们并非基层员工的小额侵占，而极可能是由高管、财务负责人或掌握关键审批权限的人员实施。这种“高端”欺诈的特征包括：\n- **系统性操作**：通常需要精心策划、利用系统漏洞并可能涉及伪造文书、勾结等复杂手段，且能持续较长时间不被发现。\n- **造成的破坏巨大**：不仅直接造成巨额经济损失，更会严重损害组织声誉、公信力，并可能引发监管风暴和内部整顿。例如，对非营利组织而言，捐赠者的信任可能因此崩塌。\n\n## 启示与局限：加强内部控制与监察的紧迫性\n这份榜单为所有组织，特别是公共和非营利机构敲响了警钟。核心启示在于：\n- **必须强化“关键控制点”**：针对资金审批、支付、资产处置等高风险环节，应建立严格的多人复核、权限分离和定期轮岗制度。\n- **审计需具备实质效力**：内部审计不能仅限于合规性检查，应具备独立调查权，并重点关注非常规交易和异常资金流动。\n- **技术监控的运用**：利用数据分析工具监控交易模式、关联方往来，可以更早发现异常信号。\n\n然而，本分析也存在局限：榜单仅展示了金额最大的案件，可能忽略了虽金额较小但更具普遍性的欺诈模式；且未披露具体舞弊手法、持续时间及最终追索情况，这些信息对于全面评估风险至关重要。",
+      "glossary": [
+        {
+          "term": "员工欺诈 (Employee Fraud)",
+          "explanation": "指组织内部员工利用职务之便，为谋取个人利益而故意实施的欺骗、盗窃、挪用资产等行为，导致组织受损。"
+        },
+        {
+          "term": "挪用公款 (Embezzlement)",
+          "explanation": "员工欺诈的一种典型形式，特指受托管理资金或财产的人员，将其非法据为己有或用于个人目的。"
+        },
+        {
+          "term": "内部控制 (Internal Controls)",
+          "explanation": "组织为保障运营效率、财务报告可靠性和法规遵从性而制定的一系列政策、程序和措施，旨在防范和发现错误与舞弊。"
+        }
+      ]
+    }
+  },
+  {
     "id": "700ecb06",
     "title": "Ranked: Where Inflation is Highest in Europe in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-inflation-rates-europe-2026/",
