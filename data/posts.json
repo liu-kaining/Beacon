@@ -1,5 +1,173 @@
 [
   {
+    "id": "78158a93",
+    "title": "Charted: China’s Grip on Critical Mineral Refining",
+    "original_url": "https://www.visualcapitalist.com/charted-chinas-grip-on-critical-mineral-refining/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/78158a93.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsnoQZNK9LF1qDYlCcUVMuMUUyDJef3pY7jnrVF6I+tIo2FuRjrRWep4oqiD//2Q==",
+    "image_version": 1779219637,
+    "pub_date": "Tue, 19 May 2026 17:25:58 +0000",
+    "content_md": "| Mineral | Top Refiner | Share of Refined Production | Sector |\n| --- | --- | --- | --- |\n| Graphite | China | 96% | Batteries, grids and renewables |\n| Manganese | China | 95% | Batteries, grids and renewables |\n| Rare earths | China | 91% | Batteries, grids and renewables |\n| Cobalt | China | 78% | Batteries, grids and renewables |\n| Lithium | China | 70% | Batteries, grids and renewables |\n| Copper | China | 44% | Batteries, grids and renewables |\n| Nickel | Indonesia | 43% | Batteries, grids and renewables |\n| Gallium | China | 99% | AI, data centers and high-tech |\n| Silicon | China | 85% | AI, data centers and high-tech |\n| Tellurium | China | 77% | AI, data centers and high-tech |\n| Antimony | China | 74% | AI, data centers and high-tech |\n| Germanium | China | 74% | AI, data centers and high-tech |\n| Indium | China | 70% | AI, data centers and high-tech |\n| Tantalum | China | 46% | AI, data centers and high-tech |\n| Molybdenum | China | 81% | Aerospace, industry and defense |\n| Titanium | China | 69% | Aerospace, industry and defense |\n| Vanadium | China | 59% | Aerospace, industry and defense |\n| Tungsten | China | 44% | Aerospace, industry and defense |\n| Chromium | China | 42% | Aerospace, industry and defense |\n| Zirconium | China | 38% | Aerospace, industry and defense |",
+    "ai_analysis": {
+      "core_insight": "中国在关键矿物精炼领域占据绝对主导地位，构成全球供应链核心风险。",
+      "data_highlights": [
+        "在涉及的20种关键矿物中，中国在19种的精炼产量占比位居全球第一。",
+        "在电池、电网及可再生能源领域，中国对石墨、锰、稀土的精炼控制力超过90%。",
+        "在AI、数据中心及高科技领域，中国对镓的精炼产量占比高达99%，近乎垄断。",
+        "在航空航天、工业及国防领域，中国对钼的精炼产量占比达81%。",
+        "唯一由中国以外国家主导精炼的矿物是镍，印度尼西亚以43%的份额居首。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Mineral",
+            "Top Refiner",
+            "Share of Refined Production",
+            "Sector"
+          ],
+          "rows": [
+            [
+              "Graphite",
+              "China",
+              "96%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Manganese",
+              "China",
+              "95%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Rare earths",
+              "China",
+              "91%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Cobalt",
+              "China",
+              "78%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Lithium",
+              "China",
+              "70%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Copper",
+              "China",
+              "44%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Nickel",
+              "Indonesia",
+              "43%",
+              "Batteries, grids and renewables"
+            ],
+            [
+              "Gallium",
+              "China",
+              "99%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Silicon",
+              "China",
+              "85%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Tellurium",
+              "China",
+              "77%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Antimony",
+              "China",
+              "74%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Germanium",
+              "China",
+              "74%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Indium",
+              "China",
+              "70%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Tantalum",
+              "China",
+              "46%",
+              "AI, data centers and high-tech"
+            ],
+            [
+              "Molybdenum",
+              "China",
+              "81%",
+              "Aerospace, industry and defense"
+            ],
+            [
+              "Titanium",
+              "China",
+              "69%",
+              "Aerospace, industry and defense"
+            ],
+            [
+              "Vanadium",
+              "China",
+              "59%",
+              "Aerospace, industry and defense"
+            ],
+            [
+              "Tungsten",
+              "China",
+              "44%",
+              "Aerospace, industry and defense"
+            ],
+            [
+              "Chromium",
+              "China",
+              "42%",
+              "Aerospace, industry and defense"
+            ],
+            [
+              "Zirconium",
+              "China",
+              "38%",
+              "Aerospace, industry and defense"
+            ]
+          ],
+          "caption": "关键矿物精炼产量份额（前20种）"
+        }
+      ],
+      "deep_dive": "## 集中度分析：供应链的\"命门\"所在\n中国在关键矿物精炼领域的主导地位并非均衡分布，而是呈现出极高的集中度。数据显示，在电池与新能源转型相关的六大核心矿物中，中国在石墨（96%）、锰（95%）和稀土（91%）三种上拥有超过90%的精炼份额，形成近乎垄断。这种集中度意味着，全球电动汽车和可再生能源产业的供应链高度依赖中国的精炼产能。在AI与高科技领域，情况更为极端，中国对镓（99%）、硅（85%）等关键半导体材料的控制力，直接关系到全球芯片与高端制造业的稳定。唯一的显著例外是镍，其精炼主导权由印度尼西亚（43%）掌握，这反映了印尼在镍资源开发和冶炼上的近年突破。\n\n## 地缘战略启示：脆弱性与应对之策\n这一格局带来了深刻的地缘战略启示。首先，它揭示了全球产业政策的一个深层矛盾：各国都在大力推动绿色和数字转型，但支撑这些转型的基础材料供应链却高度集中于单一国家，存在重大系统性风险。其次，这为中国的经济和战略影响力提供了坚实的杠杆。任何贸易或外交紧张都可能通过限制这些关键材料的精炼出口来影响全球相关产业。\n\n对于其他国家而言，这意味着供应链多元化已从“重要”升级为“紧迫”。可能的应对策略包括：1. 加速国内或盟友圈内的矿产开发与精炼能力建设，但这需要巨大的资本投入和漫长的周期；2. 发展替代技术和材料，以减少对特定矿物的依赖；3. 建立战略储备，以缓冲短期供应冲击。然而，鉴于中国在成本、技术和产业链完整度上已建立的长期优势，任何“去风险化”进程都将充满挑战且成本高昂。这张图表本质上是一张全球关键供应链的脆弱性地图，指明了未来大国竞争与产业政策博弈的核心战场。",
+      "glossary": [
+        {
+          "term": "精炼",
+          "explanation": "指将原始矿石或初级原料通过化学或物理方法提纯、加工，以获得可用于工业生产的高纯度材料的过程。在本报告中，特指从矿物到可用于电池、芯片等领域的高纯度材料的生产环节。"
+        },
+        {
+          "term": "供应链韧性",
+          "explanation": "指供应链在面对中断（如地缘政治冲突、自然灾害）时，能够抵御冲击、快速恢复并维持基本功能的能力。当前对关键矿物精炼的高度依赖凸显了全球供应链在韧性方面的薄弱。"
+        },
+        {
+          "term": "去风险化",
+          "explanation": "指通过多元化供应商、增加库存或改变供应链地理布局等方式，降低对单一来源或地区的过度依赖，从而管理和减轻潜在风险的策略。这是目前许多国家应对关键矿物供应链集中风险的核心思路。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b88e33b1",
     "title": "Mapped: AI Adoption by Country in 2026",
     "original_url": "https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/",
