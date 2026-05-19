@@ -1,5 +1,473 @@
 [
   {
+    "id": "b88e33b1",
+    "title": "Mapped: AI Adoption by Country in 2026",
+    "original_url": "https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b88e33b1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhwKZItTKDSMvFbozuUivNFTlOaKCrl3ApGAoopGJGQM0UUUij/9k=",
+    "image_version": 1779200893,
+    "pub_date": "Tue, 19 May 2026 14:09:30 +0000",
+    "content_md": "| Rank (2026) | Country | Q1 2026 | H1 2025 |\n| --- | --- | --- | --- |\n| 1 | UAE | 70.1% | 59.4% |\n| 2 | Singapore | 63.4% | 58.6% |\n| 3 | Norway | 48.6% | 45.3% |\n| 4 | Ireland | 48.4% | 41.7% |\n| 5 | France | 47.8% | 40.9% |\n| 6 | Spain | 44.2% | 39.7% |\n| 7 | New Zealand | 43.0% | 37.6% |\n| 8 | UK | 42.2% | 36.4% |\n| 9 | Netherlands | 42.1% | 36.3% |\n| 10 | Qatar | 41.8% | 35.7% |\n| 11 | Australia | 39.5% | 34.5% |\n| 12 | Belgium | 39.0% | 33.5% |\n| 13 | Israel | 38.1% | 33.9% |\n| 14 | Switzerland | 37.8% | 32.4% |\n| 15 | Canada | 37.3% | 33.5% |\n| 16 | South Korea | 37.1% | 25.9% |\n| 17 | Sweden | 36.1% | 31.2% |\n| 18 | Austria | 34.1% | 29.1% |\n| 19 | Hungary | 32.2% | 27.9% |\n| 20 | Taiwan | 31.8% | 26.4% |\n| 21 | U.S. | 31.3% | 26.3% |\n| 22 | Denmark | 31.2% | 26.6% |\n| 23 | Germany | 31.1% | 26.5% |\n| 24 | Poland | 31.0% | 26.4% |\n| 25 | Italy | 30.2% | 25.8% |\n| 26 | Czechia | 30.1% | 26.0% |\n| 27 | Jordan | 29.7% | 25.4% |\n| 28 | Bulgaria | 29.7% | 25.4% |\n| 29 | Finland | 29.5% | 25.6% |\n| 30 | Saudi Arabia | 29.4% | 23.7% |\n| 31 | Slovenia | 29.0% | 24.6% |\n| 32 | Costa Rica | 28.5% | 25.1% |\n| 33 | Lebanon | 27.3% | 24.8% |\n| 34 | Vietnam | 26.5% | 21.2% |\n| 35 | Oman | 26.5% | 22.6% |\n| 36 | Portugal | 26.4% | 22.4% |\n| 37 | Croatia | 26.1% | 21.8% |\n| 38 | Slovakia | 26.1% | 22.1% |\n| 39 | Dominican Republic | 24.8% | 22.0% |\n| 40 | Uruguay | 24.6% | 20.9% |\n| 41 | Colombia | 24.5% | 20.4% |\n| 42 | Lithuania | 24.3% | 21.0% |\n| 43 | Serbia | 24.1% | 19.7% |\n| 44 | Jamaica | 24.0% | 22.2% |\n| 45 | Panama | 23.3% | 20.3% |\n| 46 | South Africa | 23.1% | 19.3% |\n| 47 | Chile | 22.7% | 19.6% |\n| 48 | Japan | 22.5% | 16.7% |\n| 49 | Bosnia And Herzegovina | 22.1% | 18.2% |\n| 50 | Argentina | 21.9% | 17.8% |\n| 51 | Malaysia | 21.8% | 18.3% |\n| 52 | Kuwait | 21.1% | 17.7% |\n| 53 | Greece | 20.8% | 17.7% |\n| 54 | Georgia | 20.5% | 17.3% |\n| 55 | Mexico | 20.1% | 16.7% |\n| 56 | Philippines | 20.1% | 17.1% |\n| 57 | Ecuador | 19.5% | 17.0% |\n| 58 | Brazil | 19.1% | 15.6% |\n| 59 | Albania | 18.5% | 15.8% |\n| 60 | Moldova | 18.5% | 16.6% |\n| 61 | El Salvador | 18.3% | 14.6% |\n| 62 | Azerbaijan | 17.7% | 14.2% |\n| 63 | India | 17.6% | 14.2% |\n| 64 | Romania | 17.5% | 15.3% |\n| 65 | Turkey | 17.4% | 13.4% |\n| 66 | Mongolia | 16.7% | 12.6% |\n| 67 | Guatemala | 16.4% | 13.7% |\n| 68 | Peru | 16.4% | 13.4% |\n| 69 | China | 16.4% | 15.4% |\n| 70 | Kazakhstan | 15.9% | 12.7% |\n| 71 | Namibia | 15.1% | 13.0% |\n| 72 | Gabon | 15.0% | 12.3% |\n| 73 | Libya | 15.0% | 12.7% |\n| 74 | Egypt | 14.8% | 12.5% |\n| 75 | Botswana | 14.8% | 12.8% |\n| 76 | Nepal | 14.2% | 12.3% |\n| 77 | Indonesia | 14.1% | 11.7% |\n| 78 | Honduras | 14.0% | 12.4% |\n| 79 | Senegal | 13.9% | 12.4% |\n| 80 | Tunisia | 13.5% | 12.3% |\n| 81 | Algeria | 13.2% | 11.3% |\n| 82 | Zambia | 13.1% | 11.7% |\n| 83 | Cote D'Ivoire | 13.1% | 10.8% |\n| 84 | Bolivia | 12.7% | 10.9% |\n| 85 | Iran | 12.6% | 9.6% |\n| 86 | Iraq | 12.5% | 10.3% |\n| 87 | Thailand | 12.4% | 9.1% |\n| 88 | Paraguay | 12.2% | 10.1% |\n| 89 | Nicaragua | 11.8% | 10.0% |\n| 90 | Morocco | 11.7% | 10.5% |\n| 91 | Gambia | 11.4% | 10.6% |\n| 92 | Pakistan | 11.4% | 9.7% |\n| 93 | Angola | 10.9% | 8.9% |\n| 94 | Madagascar | 10.9% | 8.9% |\n| 95 | Malawi | 10.9% | 8.9% |\n| 96 | Mozambique | 10.9% | 8.9% |\n| 97 | French Guiana | 10.3% | 8.3% |\n| 98 | Guyana | 10.3% | 8.3% |\n| 99 | Suriname | 10.3% | 8.3% |\n| 100 | Venezuela | 10.3% | 8.3% |\n| 101 | Benin | 10.1% | 8.7% |\n| 102 | Burkina Faso | 10.1% | 8.7% |\n| 103 | Ghana | 10.1% | 8.7% |\n| 104 | Guinea | 10.1% | 8.7% |\n| 105 | Guinea-Bissau | 10.1% | 8.7% |\n| 106 | Liberia | 10.1% | 8.7% |\n| 107 | Mali | 10.1% | 8.7% |\n| 108 | Mauritania | 10.1% | 8.7% |\n| 109 | Niger | 10.1% | 8.7% |\n| 110 | Nigeria | 10.1% | 8.7% |\n| 111 | Sierra Leone | 10.1% | 8.7% |\n| 112 | Myanmar | 10.0% | 8.4% |\n| 113 | Lesotho | 9.8% | 8.8% |\n| 114 | Belarus | 9.6% | 7.6% |\n| 115 | Kyrgyzstan | 9.5% | 7.6% |\n| 116 | Russia | 9.5% | 7.6% |\n| 117 | Ukraine | 9.4% | 9.1% |\n| 118 | Kenya | 8.7% | 7.8% |\n| 119 | Cameroon | 8.7% | 7.0% |\n| 120 | Central African Republic | 8.7% | 7.0% |\n| 121 | Chad | 8.7% | 7.0% |\n| 122 | Congo | 8.7% | 7.0% |\n| 123 | Democratic Republic Of The Congo | 8.7% | 7.0% |\n| 124 | Zimbabwe | 8.5% | 6.9% |\n| 125 | Haiti | 8.5% | 7.1% |\n| 126 | Laos | 7.8% | 6.0% |\n| 127 | Bangladesh | 7.8% | 6.5% |\n| 128 | Papua New Guinea | 7.7% | 7.2% |\n| 129 | Burundi | 7.6% | 6.4% |\n| 130 | Eritrea | 7.6% | 6.4% |\n| 131 | Ethiopia | 7.6% | 6.4% |\n| 132 | Somalia | 7.6% | 6.4% |\n| 133 | South Sudan | 7.6% | 6.4% |\n| 134 | Sudan | 7.6% | 6.4% |\n| 135 | Tanzania | 7.6% | 6.4% |\n| 136 | Uganda | 7.6% | 6.4% |\n| 137 | Syria | 7.5% | 6.7% |\n| 138 | Armenia | 7.4% | 6.2% |\n| 139 | Sri Lanka | 7.3% | 6.2% |\n| 140 | Rwanda | 7.2% | 6.0% |\n| 141 | Uzbekistan | 7.2% | 5.7% |\n| 142 | Cuba | 6.7% | 5.7% |\n| 143 | Afghanistan | 6.1% | 5.1% |\n| 144 | Tajikistan | 6.1% | 5.1% |\n| 145 | Turkmenistan | 6.1% | 5.1% |\n| 146 | Cambodia | 5.7% | 4.6% |",
+    "ai_analysis": {
+      "core_insight": "AI采用率呈现显著地理分化，中东与东南亚领跑，中美等大国采用率相对滞后。",
+      "data_highlights": [
+        "阿联酋以70.1%的采用率稳居全球第一，新加坡（63.4%）紧随其后。",
+        "中国AI采用率仅为16.4%，排名第69位，甚至低于全球平均水平。",
+        "美国AI采用率为31.3%，排名第21位，落后于多个欧洲与中东国家。",
+        "前20名中，欧洲国家占据11席，显示出强劲的AI发展势头。",
+        "多数国家AI采用率自2025年上半年以来普遍提升，但增幅差异显著。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank (2026)",
+            "Country",
+            "Q1 2026",
+            "H1 2025"
+          ],
+          "rows": [
+            [
+              "1",
+              "UAE",
+              "70.1%",
+              "59.4%"
+            ],
+            [
+              "2",
+              "Singapore",
+              "63.4%",
+              "58.6%"
+            ],
+            [
+              "3",
+              "Norway",
+              "48.6%",
+              "45.3%"
+            ],
+            [
+              "4",
+              "Ireland",
+              "48.4%",
+              "41.7%"
+            ],
+            [
+              "5",
+              "France",
+              "47.8%",
+              "40.9%"
+            ],
+            [
+              "6",
+              "Spain",
+              "44.2%",
+              "39.7%"
+            ],
+            [
+              "7",
+              "New Zealand",
+              "43.0%",
+              "37.6%"
+            ],
+            [
+              "8",
+              "UK",
+              "42.2%",
+              "36.4%"
+            ],
+            [
+              "9",
+              "Netherlands",
+              "42.1%",
+              "36.3%"
+            ],
+            [
+              "10",
+              "Qatar",
+              "41.8%",
+              "35.7%"
+            ],
+            [
+              "11",
+              "Australia",
+              "39.5%",
+              "34.5%"
+            ],
+            [
+              "12",
+              "Belgium",
+              "39.0%",
+              "33.5%"
+            ],
+            [
+              "13",
+              "Israel",
+              "38.1%",
+              "33.9%"
+            ],
+            [
+              "14",
+              "Switzerland",
+              "37.8%",
+              "32.4%"
+            ],
+            [
+              "15",
+              "Canada",
+              "37.3%",
+              "33.5%"
+            ],
+            [
+              "16",
+              "South Korea",
+              "37.1%",
+              "25.9%"
+            ],
+            [
+              "17",
+              "Sweden",
+              "36.1%",
+              "31.2%"
+            ],
+            [
+              "18",
+              "Austria",
+              "34.1%",
+              "29.1%"
+            ],
+            [
+              "19",
+              "Hungary",
+              "32.2%",
+              "27.9%"
+            ],
+            [
+              "20",
+              "Taiwan",
+              "31.8%",
+              "26.4%"
+            ]
+          ],
+          "caption": "2026年Q1全球AI采用率排名前20的国家/地区"
+        }
+      ],
+      "deep_dive": "## 格局：领跑者与大国的显著落差\n\n这份2026年的预测数据揭示了一个清晰但出人意料的全球AI采用格局。中东和东南亚的小型开放经济体（如阿联酋、新加坡）处于绝对领先地位，其采用率远超全球大国。这与其灵活的政策环境、高度数字化的经济基础以及对新兴技术的积极战略定位密切相关。\n\n相比之下，传统科技强国如美国和中国，其AI采用率（分别为31.3%和16.4%）在全球排名中并不突出。这可能反映出不同统计口径的差异，也暗示了大型复杂经济体在将前沿技术全面渗透到各行各业时所面临的更大结构性挑战，例如传统产业转型难度大、数据隐私与监管更为复杂、或技术应用更多集中于少数头部企业。\n\n## 动因：增速差异背后的驱动因素\n\n从H1 2025到Q1 2026的增长数据看，几乎所有国家的采用率都在上升，但增速差异巨大。韩国、沙特阿拉伯、土耳其等国增幅显著，可能受益于近期的强力政策推动或特定行业的爆发。而一些发达国家（如瑞士、丹麦）增速相对平缓，可能因其市场已较为成熟，增量空间主要来自深度应用而非广度普及。\n\n值得关注的是，中国在这一年间的增长仅为1个百分点（从15.4%到16.4%），增速在全球范围内处于末尾。这与其庞大的经济体量和活跃的AI研发氛围形成反差，或预示着其AI产业化应用正进入一个需要突破深层瓶颈的“平台期”。\n\n## 启示与局限\n\n本报告的启示在于，AI技术的采纳并非单纯由技术实力或经济规模决定，国家战略、行业结构、数字化基础设施和监管框架同样关键。对于致力于推动AI发展的国家而言，营造开放、敏捷的生态系统可能比单纯的巨额研发投入更为有效。\n\n然而，本数据的局限性也需注意：“AI采用率”的具体定义和测量方法未予说明，这可能影响排名的可比性。此外，数据侧重于“采用”的广度（即使用AI的企业或人口比例），而未深入衡量应用的深度与效能，后者才是衡量AI真正经济影响力的核心。",
+      "glossary": [
+        {
+          "term": "AI采用率",
+          "explanation": "衡量一个国家或地区内，企业、组织或个人使用人工智能技术进行生产、服务或决策的普及程度，通常以百分比表示。"
+        },
+        {
+          "term": "数字化基础设施",
+          "explanation": "支撑数字经济运行的硬件与软件基础，包括高速网络、云计算平台、数据中心等，是AI技术广泛应用的先决条件。"
+        },
+        {
+          "term": "监管框架",
+          "explanation": "政府为规范人工智能的开发、部署和使用而制定的法律、法规、标准和政策体系，旨在平衡创新发展与风险控制。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ec812342",
+    "title": "Mapped: America’s Best Companies by Home State",
+    "original_url": "https://www.visualcapitalist.com/best-company-in-every-state-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ec812342.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDGVabIvFSKaa54rp5QTKpXmink80UWGWNpFMfNTtUMlLmZzqTID1opT1opXK5mf//Z",
+    "image_version": 1779200925,
+    "pub_date": "Tue, 19 May 2026 12:02:16 +0000",
+    "content_md": "| State | Company | Category |\n| --- | --- | --- |\n| Alabama | Regions Financial | Finance |\n| Alaska | Bering Straits Native | Industrial |\n| Arizona | West USA Realty | Finance |\n| Arkansas | Dillard's | Consumer |\n| California | Nvidia | Tech |\n| Colorado | Newmont | Industrial |\n| Connecticut | United Rentals | Industrial |\n| Delaware | Hertrich | Consumer |\n| Florida | Publix Super Markets | Consumer |\n| Georgia | Chick-fil-A | Consumer |\n| Hawaii | Valley Isle Produce | Consumer |\n| Idaho | Micron | Tech |\n| Illinois | GE Healthcare | Healthcare |\n| Indiana | Cummins | Industrial |\n| Iowa | Hy-Vee | Consumer |\n| Kansas | Creative Planning | Finance |\n| Kentucky | Texas Roadhouse | Consumer |\n| Louisiana | Entergy | Energy |\n| Maine | L.L. Bean | Consumer |\n| Maryland | Marriott | Consumer |\n| Massachusetts | Schneider Electric | Industrial |\n| Michigan | General Motors | Consumer |\n| Minnesota | US Bancorp | Finance |\n| Mississippi | Cal-Maine Foods | Consumer |\n| Missouri | Bunge Global | Consumer |\n| Montana | Murdoch's Ranch & Farm Supply | Consumer |\n| Nebraska | Berkshire Hathaway | Finance |\n| Nevada | MGM Resorts | Consumer |\n| New Hampshire | Iron Mountain | Tech |\n| New Jersey | Johnson & Johnson | Healthcare |\n| New Mexico | Navajo Nation Gaming Enterprise | Consumer |\n| New York | Wegmans Food Markets | Consumer |\n| North Carolina | Bank of America | Finance |\n| North Dakota | Eide Bailly | Finance |\n| Ohio | GE Aerospace | Industrial |\n| Oklahoma | QuikTrip | Consumer |\n| Oregon | Nike | Consumer |\n| Pennsylvania | Saint-Gobain | Industrial |\n| Rhode Island | Dave's Marketplace | Consumer |\n| South Carolina | Michelin Tire | Industrial |\n| South Dakota | Empirical Foods | Consumer |\n| Tennessee | First Horizon | Finance |\n| Texas | RisePoint | Tech |\n| Utah | Zions Bancorp | Finance |\n| Vermont | Gardener's Supply | Consumer |\n| Virginia | Mars | Consumer |\n| Washington | Costco | Consumer |\n| West Virginia | United Bankshares | Finance |\n| Wisconsin | Mead & Hunt | Industrial |\n| Wyoming | Admiral Beverage | Consumer |",
+    "ai_analysis": {
+      "core_insight": "美国各州最佳公司高度集中于消费与金融行业，区域特色鲜明。",
+      "data_highlights": [
+        "在全部50个州中，消费类公司占比最高，达24家，其次是金融类（10家）和工业类（8家）。",
+        "加利福尼亚州（Nvidia）和得克萨斯州（RisePoint）的代表性公司均为科技企业，显示其科技中心的地位。",
+        "中西部和南部各州的最佳公司多为本地服务型企业，如超市（Hy-Vee， Publix）和餐饮（Chick-fil-A）。",
+        "能源、医疗和科技行业的代表性公司数量较少，分别仅有1家、2家和4家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Company",
+            "Category"
+          ],
+          "rows": [
+            [
+              "Alabama",
+              "Regions Financial",
+              "Finance"
+            ],
+            [
+              "Alaska",
+              "Bering Straits Native",
+              "Industrial"
+            ],
+            [
+              "Arizona",
+              "West USA Realty",
+              "Finance"
+            ],
+            [
+              "Arkansas",
+              "Dillard's",
+              "Consumer"
+            ],
+            [
+              "California",
+              "Nvidia",
+              "Tech"
+            ],
+            [
+              "Colorado",
+              "Newmont",
+              "Industrial"
+            ],
+            [
+              "Connecticut",
+              "United Rentals",
+              "Industrial"
+            ],
+            [
+              "Delaware",
+              "Hertrich",
+              "Consumer"
+            ],
+            [
+              "Florida",
+              "Publix Super Markets",
+              "Consumer"
+            ],
+            [
+              "Georgia",
+              "Chick-fil-A",
+              "Consumer"
+            ],
+            [
+              "Hawaii",
+              "Valley Isle Produce",
+              "Consumer"
+            ],
+            [
+              "Idaho",
+              "Micron",
+              "Tech"
+            ],
+            [
+              "Illinois",
+              "GE Healthcare",
+              "Healthcare"
+            ],
+            [
+              "Indiana",
+              "Cummins",
+              "Industrial"
+            ],
+            [
+              "Iowa",
+              "Hy-Vee",
+              "Consumer"
+            ],
+            [
+              "Kansas",
+              "Creative Planning",
+              "Finance"
+            ],
+            [
+              "Kentucky",
+              "Texas Roadhouse",
+              "Consumer"
+            ],
+            [
+              "Louisiana",
+              "Entergy",
+              "Energy"
+            ],
+            [
+              "Maine",
+              "L.L. Bean",
+              "Consumer"
+            ],
+            [
+              "Maryland",
+              "Marriott",
+              "Consumer"
+            ],
+            [
+              "Massachusetts",
+              "Schneider Electric",
+              "Industrial"
+            ],
+            [
+              "Michigan",
+              "General Motors",
+              "Consumer"
+            ],
+            [
+              "Minnesota",
+              "US Bancorp",
+              "Finance"
+            ],
+            [
+              "Mississippi",
+              "Cal-Maine Foods",
+              "Consumer"
+            ],
+            [
+              "Missouri",
+              "Bunge Global",
+              "Consumer"
+            ],
+            [
+              "Montana",
+              "Murdoch's Ranch & Farm Supply",
+              "Consumer"
+            ],
+            [
+              "Nebraska",
+              "Berkshire Hathaway",
+              "Finance"
+            ],
+            [
+              "Nevada",
+              "MGM Resorts",
+              "Consumer"
+            ],
+            [
+              "New Hampshire",
+              "Iron Mountain",
+              "Tech"
+            ],
+            [
+              "New Jersey",
+              "Johnson & Johnson",
+              "Healthcare"
+            ],
+            [
+              "New Mexico",
+              "Navajo Nation Gaming Enterprise",
+              "Consumer"
+            ],
+            [
+              "New York",
+              "Wegmans Food Markets",
+              "Consumer"
+            ],
+            [
+              "North Carolina",
+              "Bank of America",
+              "Finance"
+            ],
+            [
+              "North Dakota",
+              "Eide Bailly",
+              "Finance"
+            ],
+            [
+              "Ohio",
+              "GE Aerospace",
+              "Industrial"
+            ],
+            [
+              "Oklahoma",
+              "QuikTrip",
+              "Consumer"
+            ],
+            [
+              "Oregon",
+              "Nike",
+              "Consumer"
+            ],
+            [
+              "Pennsylvania",
+              "Saint-Gobain",
+              "Industrial"
+            ],
+            [
+              "Rhode Island",
+              "Dave's Marketplace",
+              "Consumer"
+            ],
+            [
+              "South Carolina",
+              "Michelin Tire",
+              "Industrial"
+            ],
+            [
+              "South Dakota",
+              "Empirical Foods",
+              "Consumer"
+            ],
+            [
+              "Tennessee",
+              "First Horizon",
+              "Finance"
+            ],
+            [
+              "Texas",
+              "RisePoint",
+              "Tech"
+            ],
+            [
+              "Utah",
+              "Zions Bancorp",
+              "Finance"
+            ],
+            [
+              "Vermont",
+              "Gardener's Supply",
+              "Consumer"
+            ],
+            [
+              "Virginia",
+              "Mars",
+              "Consumer"
+            ],
+            [
+              "Washington",
+              "Costco",
+              "Consumer"
+            ],
+            [
+              "West Virginia",
+              "United Bankshares",
+              "Finance"
+            ],
+            [
+              "Wisconsin",
+              "Mead & Hunt",
+              "Industrial"
+            ],
+            [
+              "Wyoming",
+              "Admiral Beverage",
+              "Consumer"
+            ]
+          ],
+          "caption": "美国各州最佳公司一览表"
+        }
+      ],
+      "deep_dive": "## 产业结构与区域经济特征\n\n该榜单深刻揭示了美国各州经济生态的多样性和专业化。**消费类公司占据绝对主导**，这反映了美国庞大的内需市场是其经济基石。这些公司多为区域性零售、餐饮或食品服务巨头（如Publix、Chick-fil-A、Hy-Vee），其成功依赖于对本地消费者偏好的深刻理解和高效的区域供应链网络。\n\n**金融类公司的分布则指向了区域金融中心的形成**。例如，内布拉斯加州（伯克希尔·哈撒韦）和纽约州（虽然此处为超市）传统上是金融重镇，而北卡罗来纳州（美国银行）等地也发展了强大的区域金融中心。工业类公司则多与本地资源或传统优势产业挂钩，如科罗拉多州（纽蒙特矿业）和密歇根州（通用汽车，尽管被归为消费类）。\n\n## 启示与局限性分析\n\n从这份榜单中，我们可以获得几点启示：\n- **区域专精是关键**：每个州的最佳公司往往深耕于本地最具比较优势的产业，而非盲目追求多元化或高科技。\n- **本土服务型企业价值凸显**：在全国性巨头林立的市场，能够提供卓越本地化服务的企业依然能成为州代表，证明“贴近客户”的核心价值。\n- **科技公司的地域集中性**：科技类公司主要分布在加利福尼亚、得克萨斯、爱达荷和新罕布什尔等州，显示出创新资源在地理上的高度聚集。\n\n然而，该榜单也存在明显的局限性：\n- **评判标准单一**：“最佳”的定义未说明，可能基于收入、声誉或影响力，不同标准下结果会大相径庭。\n- **忽略新兴与隐形冠军**：榜单可能偏重传统大型企业，未能充分反映各州在生物科技、软件等领域的新兴力量或细分市场领导者。\n- **总部所在地的局限性**：公司总部所在地未必代表其主要运营、就业或经济贡献地，尤其对于全国性运营的大公司。\n\n总体而言，这张地图更像是一幅美国区域经济特色与本土企业韧性的缩影，而非全面的公司实力排名。",
+      "glossary": [
+        {
+          "term": "消费类公司 (Consumer)",
+          "explanation": "主要业务面向个人消费者的公司，包括零售、餐饮、食品生产、酒店等行业。"
+        },
+        {
+          "term": "工业类公司 (Industrial)",
+          "explanation": "业务涉及工业产品制造、设备供应、原材料开采等领域的公司，通常属于B2B模式。"
+        },
+        {
+          "term": "区域比较优势 (Regional Comparative Advantage)",
+          "explanation": "指一个地区因地理位置、资源禀赋、历史积累或人才储备等因素，在特定产业上拥有比其他地区更高的生产效率或成本优势。"
+        },
+        {
+          "term": "隐形冠军 (Hidden Champions)",
+          "explanation": "通常指在某个细分市场领域占据全球或全国领先地位，但公众知名度不高的中小型企业。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d40793d1",
     "title": "Ranked: The Youngest Billionaires in 2026",
     "original_url": "https://www.visualcapitalist.com/cp/ranked-the-youngest-billionaires-in-2026/",
