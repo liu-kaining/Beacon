@@ -1,5 +1,109 @@
 [
   {
+    "id": "38c45961",
+    "title": "Most Crypto Hacks Don’t Start With Stolen Wallets—They Start in the Code",
+    "original_url": "https://www.visualcapitalist.com/sp/in02-crypto-theft-top-ten-techniques/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/38c45961.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDl4lzUzR8VWgkFWjINtZS1GkVyvNFKzDNFKwzOjmxU32jjrVAGnZNaMRaM/NFVCTRSA//Z",
+    "image_version": 1779307162,
+    "pub_date": "Wed, 20 May 2026 15:41:00 +0000",
+    "content_md": "| Technique | Primary Risk Category | % of Crypto Losses |\n| --- | --- | --- |\n| Cross-Chain Data Manipulation | Infrastructure | 19% |\n| Admin Compromise + Token Manipulation* | Smart Contract | 18% |\n| Spoof Token Exploit | Smart Contract | 14% |\n| Private Key Compromised | Custody | 11% |\n| Liquidity Pool Exploit | Smart Contract | 8% |\n| Hot Wallet Hack | Custody | 6% |\n| Re-Entrancy Exploit | Smart Contract | 3% |\n| Third-Party API Compromise | Infrastructure | 3% |\n| Bonding Curve Exploit | Smart Contract | 2% |\n| Price Oracle Manipulation | Smart Contract | 2% |\n| Other | N/A | 14% |",
+    "ai_analysis": {
+      "core_insight": "加密货币损失主因是代码漏洞，而非私钥泄露。",
+      "data_highlights": [
+        "代码与基础设施漏洞导致的损失占比高达84%，远超私钥泄露等托管问题。",
+        "跨链数据操纵成为最大单项威胁，占比19%。",
+        "智能合约相关漏洞（如管理员权限滥用、代币操纵）累计占比超过47%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Technique",
+            "Primary Risk Category",
+            "% of Crypto Losses"
+          ],
+          "rows": [
+            [
+              "Cross-Chain Data Manipulation",
+              "Infrastructure",
+              "19%"
+            ],
+            [
+              "Admin Compromise + Token Manipulation*",
+              "Smart Contract",
+              "18%"
+            ],
+            [
+              "Spoof Token Exploit",
+              "Smart Contract",
+              "14%"
+            ],
+            [
+              "Private Key Compromised",
+              "Custody",
+              "11%"
+            ],
+            [
+              "Liquidity Pool Exploit",
+              "Smart Contract",
+              "8%"
+            ],
+            [
+              "Hot Wallet Hack",
+              "Custody",
+              "6%"
+            ],
+            [
+              "Re-Entrancy Exploit",
+              "Smart Contract",
+              "3%"
+            ],
+            [
+              "Third-Party API Compromise",
+              "Infrastructure",
+              "3%"
+            ],
+            [
+              "Bonding Curve Exploit",
+              "Smart Contract",
+              "2%"
+            ],
+            [
+              "Price Oracle Manipulation",
+              "Smart Contract",
+              "2%"
+            ],
+            [
+              "Other",
+              "N/A",
+              "14%"
+            ]
+          ],
+          "caption": "加密货币损失技术手法与风险类别分析"
+        }
+      ],
+      "deep_dive": "## 风险格局：代码漏洞是头号安全威胁\n根据数据，加密货币安全威胁的格局已经发生根本性转变。公众认知中常见的“私钥泄露”或“热钱包被黑”等托管类风险，合计仅占损失的17%。相反，高达84%的损失源自技术底层，包括基础设施漏洞（22%）和智能合约漏洞（62%）。这揭示了一个核心事实：攻击者的主要目标已从窃取用户凭证，转向直接利用项目代码或协议逻辑中的缺陷。\n\n## 关键漏洞类别与演变\n\n**1. 基础设施层：跨链与第三方风险**\n占比最大的单一漏洞是“跨链数据操纵”（19%）。随着多链生态成为常态，跨链桥在资产转移过程中验证数据的真实性成为关键攻击面。攻击者通过伪造或操纵跨链消息，即可凭空铸造资产或盗取资金。此外，“第三方API妥协”（3%）表明，对预言机、数据源等外部服务的依赖也引入了新的单点故障风险。\n\n**2. 智能合约层：权限与经济模型漏洞**\n智能合约相关漏洞占主导，体现了DeFi协议复杂性的代价。其中，“管理员权限滥用与代币操纵”（18%）和“伪造代币利用”（14%）尤其突出。这常涉及项目方后门、权限过度集中或代币标准设计缺陷，使得内部人员或攻击者能凭空增发或操控代币价值。而“流动性池利用”（8%）和“预言机价格操纵”（2%）则针对DeFi的核心经济机制，通过操纵流动性或价格输入来非法获利。\n\n## 启示与展望\n\n**1. 安全审计范式需升级**\n传统的代码审计需扩展至跨链通信验证、经济模型压力测试以及第三方服务依赖性分析。安全不再是单一合约的静态检查，而是对整个系统交互逻辑的动态评估。\n\n**2. 去中心化与安全性权衡**\n“管理员权限”漏洞的高占比，凸显了过度中心化管理的风险。推动真正的去中心化治理和“渐进式去中心化”的路线图，可能是降低此类风险的长期方案。\n\n**3. 关注攻击面的迁移**\n攻击者始终寻找成本最低、收益最高的路径。随着智能合约基础安全（如重入攻击）的改善，攻击焦点已明显转向更复杂的跨链交互和协议经济设计层面。未来，随着AI和零知识证明等技术的应用，安全攻防的前沿也将随之演变。",
+      "glossary": [
+        {
+          "term": "Cross-Chain Data Manipulation",
+          "explanation": "指攻击者通过伪造或操纵跨链桥传递的消息数据，欺骗目标链上的智能合约，从而非法获利。"
+        },
+        {
+          "term": "Smart Contract",
+          "explanation": "部署在区块链上的、自动执行合约条款的计算机程序，其代码漏洞是导致资金损失的主要源头。"
+        },
+        {
+          "term": "Re-Entrancy Exploit",
+          "explanation": "一种经典的智能合约漏洞，攻击者利用合约在更新状态前可反复调用的特性，循环提取资金。"
+        },
+        {
+          "term": "Price Oracle Manipulation",
+          "explanation": "攻击者通过操纵价格预言机（为链上合约提供外部价格数据的服务）输入的价格，诱使合约执行错误交易以获利。"
+        }
+      ]
+    }
+  },
+  {
     "id": "0afd2458",
     "title": "Ranked: The World’s 20 Most Valuable Oil Companies",
     "original_url": "https://www.visualcapitalist.com/top-20-energy-companies-worldwide-market-cap/",
