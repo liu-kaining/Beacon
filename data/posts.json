@@ -1,5 +1,439 @@
 [
   {
+    "id": "0afd2458",
+    "title": "Ranked: The World’s 20 Most Valuable Oil Companies",
+    "original_url": "https://www.visualcapitalist.com/top-20-energy-companies-worldwide-market-cap/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0afd2458.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmobIntUz2J29K2oIF9KneBdvSvMdd3OnkOSazO7pRXQtbru6UVXt2L2ZaibFPkl4qBKSXpUOmrkKoxjS80VA3Wiq9mg52f//Z",
+    "image_version": 1779287299,
+    "pub_date": "Wed, 20 May 2026 14:11:58 +0000",
+    "content_md": "| Rank | Company | Market Capitalization (billions, USD) | Country |\n| --- | --- | --- | --- |\n| 1 | Saudi Aramco | $1,800 | Saudi Arabia |\n| 2 | Exxon Mobil | $637 | United States |\n| 3 | Chevron | $380 | United States |\n| 4 | PetroChina | $273 | China |\n| 5 | Shell | $249 | United Kingdom |\n| 6 | TotalEnergies | $206 | France |\n| 7 | CNOOC | $173 | China |\n| 8 | ConocoPhillips | $152 | United States |\n| 9 | Petrobras | $142 | Brazil |\n| 10 | BP | $121 | United Kingdom |\n| 11 | Enbridge | $119 | Canada |\n| 12 | Southern Company | $108 | United States |\n| 13 | Equinor | $103 | Norway |\n| 14 | Canadian Natural Resources | $99 | Canada |\n| 15 | Duke Energy | $99 | United States |\n| 16 | Sinopec | $95 | China |\n| 17 | Williams Companies | $92 | United States |\n| 18 | Enterprise Products | $84 | United States |\n| 19 | SLB (Schlumberger) | $83 | United States |\n| 20 | ENI | $83 | Italy |",
+    "ai_analysis": {
+      "core_insight": "沙特阿美以绝对优势领跑，市值远超其后所有公司总和，行业呈现极高集中度。",
+      "data_highlights": [
+        "沙特阿美市值高达1.8万亿美元，独占鳌头，是第二名埃克森美孚的近三倍。",
+        "美国公司占据榜单半壁江山，共10家入选，合计市值约1,535亿美元。",
+        "中国三大国有石油公司（中石油、中海油、中石化）全部入围，合计市值约541亿美元。",
+        "榜单呈现“一超多强”格局，前三名公司市值总和占前20强的近六成。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Market Capitalization (billions, USD)",
+            "Country"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saudi Aramco",
+              "$1,800",
+              "Saudi Arabia"
+            ],
+            [
+              "2",
+              "Exxon Mobil",
+              "$637",
+              "United States"
+            ],
+            [
+              "3",
+              "Chevron",
+              "$380",
+              "United States"
+            ],
+            [
+              "4",
+              "PetroChina",
+              "$273",
+              "China"
+            ],
+            [
+              "5",
+              "Shell",
+              "$249",
+              "United Kingdom"
+            ],
+            [
+              "6",
+              "TotalEnergies",
+              "$206",
+              "France"
+            ],
+            [
+              "7",
+              "CNOOC",
+              "$173",
+              "China"
+            ],
+            [
+              "8",
+              "ConocoPhillips",
+              "$152",
+              "United States"
+            ],
+            [
+              "9",
+              "Petrobras",
+              "$142",
+              "Brazil"
+            ],
+            [
+              "10",
+              "BP",
+              "$121",
+              "United Kingdom"
+            ],
+            [
+              "11",
+              "Enbridge",
+              "$119",
+              "Canada"
+            ],
+            [
+              "12",
+              "Southern Company",
+              "$108",
+              "United States"
+            ],
+            [
+              "13",
+              "Equinor",
+              "$103",
+              "Norway"
+            ],
+            [
+              "14",
+              "Canadian Natural Resources",
+              "$99",
+              "Canada"
+            ],
+            [
+              "15",
+              "Duke Energy",
+              "$99",
+              "United States"
+            ],
+            [
+              "16",
+              "Sinopec",
+              "$95",
+              "China"
+            ],
+            [
+              "17",
+              "Williams Companies",
+              "$92",
+              "United States"
+            ],
+            [
+              "18",
+              "Enterprise Products",
+              "$84",
+              "United States"
+            ],
+            [
+              "19",
+              "SLB (Schlumberger)",
+              "$83",
+              "United States"
+            ],
+            [
+              "20",
+              "ENI",
+              "$83",
+              "Italy"
+            ]
+          ],
+          "caption": "全球市值前20大石油公司排名"
+        }
+      ],
+      "deep_dive": "## 一、市场格局：绝对主导与群雄并起\n\n本次榜单清晰地揭示了全球油气行业的“一超多强”市场结构。**沙特阿美**凭借其无与伦比的石油储量和开采成本优势，以1.8万亿美元的惊人市值独占第一梯队，其市值体量几乎相当于榜单上第2名至第5名公司的总和（约1,543亿美元）。这种压倒性优势不仅体现了资源禀赋的差异，更反映了国有石油巨头在国家意志支持下的资本化能力。\n\n第二梯队由**埃克森美孚、雪佛龙**等美国超级巨头以及**壳牌、道达尔能源**等欧洲传统能源巨头构成。这些公司市值规模在数百亿美元级别，业务遍及全球，在技术、管理和一体化运营方面保持领先。值得注意的是，**能源转型压力**正促使这些公司进行战略调整，其未来市值表现将与转型成功与否紧密相关。\n\n## 二、地缘分布：国家实力与战略选择\n\n从国家分布来看，**美国**以10家公司的绝对数量优势占据半壁江山，这反映了美国资本市场对能源企业的强大融资能力以及其页岩油革命带来的行业活力。然而，美国公司市值总和仍远低于沙特阿美一家，凸显了资源掌控权的战略价值。\n\n**中国**的三家公司（中石油、中海油、中石化）全部进入前20，合计市值541亿美元，是中国国家能源安全战略在资本市场上的集中体现。这些公司肩负保障国内供应和拓展海外资产的双重任务。\n\n此外，榜单也体现了**欧洲传统能源企业**（如壳牌、BP、道达尔）在低碳转型中的坚守与探索。而**巴西、挪威、加拿大**等资源国的国家石油公司或龙头私营企业凭借本国丰富资源成功上榜。\n\n## 三、启示与局限\n\n**对投资者的启示**：投资油气股需同时关注**油价周期、公司治理、能源转型战略**三大因素。沙特阿美是资源霸主的象征，而美国公司则更多体现为技术创新和资本效率。中国公司的政策属性更强。\n\n**局限与思考**：1. **市值的瞬时性**：榜单数据反映的是某一时间点的股价，易受市场情绪和短期油价波动影响，并非公司内在价值的绝对衡量。2. **业务结构的差异**：部分上榜公司如**南方公司、杜克能源**实为以发电为主的公用事业公司，其石油业务关联度需具体分析，这可能模糊了“石油公司”的定义边界。3. **转型叙事**：传统石油公司的市值已部分包含了市场对其能源转型前景的预期，未来这一因素的权重将日益增大。",
+      "glossary": [
+        {
+          "term": "市场资本化",
+          "explanation": "简称市值，指一家上市公司的总价值，通常通过当前股价乘以总发行股数计算得出，是衡量公司规模的关键指标。"
+        },
+        {
+          "term": "国有石油公司",
+          "explanation": "指由国家政府拥有或控制的石油企业，其经营目标通常与国家能源安全、财政收入和战略利益紧密绑定。"
+        },
+        {
+          "term": "一体化运营",
+          "explanation": "指石油公司业务覆盖上游（勘探开采）、中游（运输存储）、下游（炼化销售）全产业链的商业模式，旨在增强抗风险能力。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指全球能源系统从以化石燃料为主导向以可再生能源为核心的低碳、可持续系统转变的长期趋势，对传统石油公司构成根本性挑战。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4add7501",
+    "title": "Ranked: The 30 Highest-Paying Jobs in America",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-30-highest-paying-jobs-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4add7501.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAmABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDb+0c9as28uTWOrEmtKzBJFcx6MoqxqqflooQfKKKVznsczEOa1rNelZ0Sc1q2uABTkaSmjQUfLRSK4xRUGVzAQYNWY3IFFFbSOOMmS+caKKKg0uz/2Q==",
+    "image_version": 1779287327,
+    "pub_date": "Wed, 20 May 2026 11:52:36 +0000",
+    "content_md": "| Rank | Occupation | Mean Annual Wage 2024 | Total U.S. Employment | Industry |\n| --- | --- | --- | --- | --- |\n| 1 | Pediatric Surgeons | $450.8K | 1K | Healthcare |\n| 2 | Cardiologists | $432.5K | 18K | Healthcare |\n| 3 | Surgeons, All Other | $371.3K | 24K | Healthcare |\n| 4 | Orthopedic Surgeons(except Pediatric) | $365.1K | 14K | Healthcare |\n| 5 | Oral and Maxillofacial Surgeons | $360.2K | 5K | Healthcare |\n| 6 | Radiologists | $359.8K | 26K | Healthcare |\n| 7 | Dermatologists | $347.8K | 10K | Healthcare |\n| 8 | Anesthesiologists | $336.6K | 42K | Healthcare |\n| 9 | Emergency Medicine Physicians | $320.7K | 34K | Healthcare |\n| 10 | Ophthalmologists(except Pediatric) | $301.5K | 12K | Healthcare |\n| 11 | Neurologists | $286.3K | 8K | Healthcare |\n| 12 | Obstetricians and Gynecologists | $281.1K | 20K | Healthcare |\n| 13 | Airline Pilots, Copilots,and Flight Engineers | $280.6K | 99K | Aviation |\n| 14 | Psychiatrists | $269.1K | 25K | Healthcare |\n| 15 | Pathologists | $266.0K | 12K | Healthcare |\n| 16 | Chief Executives | $262.9K | 212K | Management |\n| 17 | General Internal MedicinePhysicians | $262.7K | 67K | Healthcare |\n| 18 | Athletes and SportsCompetitors | $259.8K | 14K | Athletics |\n| 19 | Prosthodontists | $258.7K | 760 | Healthcare |\n| 20 | Family Medicine Physicians | $256.8K | 108K | Healthcare |\n| 21 | Orthodontists | $254.6K | 5K | Healthcare |\n| 22 | Physicians, All Other | $253.5K | 315K | Healthcare |\n| 23 | Dentists, AllOther Specialists | $246.5K | 6K | Healthcare |\n| 24 | Nurse Anesthetists | $231.7K | 50K | Healthcare |\n| 25 | Pediatricians, General | $222.3K | 43K | Healthcare |\n| 26 | Dentists, General | $196.1K | 113K | Healthcare |\n| 27 | Computer and InformationSystems Managers | $188.0K | 646K | Management |\n| 28 | Lawyers | $182.8K | 748K | Legal |\n| 29 | Financial Managers | $180.5K | 819K | Management |\n| 30 | Architectural and EngineeringManagers | $175.7K | 210K | Management |",
+    "ai_analysis": {
+      "core_insight": "高薪榜单被医疗行业垄断，外科与专科医生占据绝对主导。",
+      "data_highlights": [
+        "医疗行业在薪资前30名中占据25席，呈现压倒性优势。",
+        "小儿外科医生以年均45.08万美元位列榜首，薪资远超其他职业。",
+        "航空公司飞行员（年均28.06万美元）是前15名中唯一的非医疗职业。",
+        "非医疗类高薪岗位主要集中在管理（如CEO、CIO）与金融领域。",
+        "部分高薪职业就业人数极少（如修复牙科医生仅760人），属极度稀缺专业人才。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Occupation",
+            "Mean Annual Wage 2024",
+            "Total U.S. Employment",
+            "Industry"
+          ],
+          "rows": [
+            [
+              "1",
+              "Pediatric Surgeons",
+              "$450.8K",
+              "1K",
+              "Healthcare"
+            ],
+            [
+              "2",
+              "Cardiologists",
+              "$432.5K",
+              "18K",
+              "Healthcare"
+            ],
+            [
+              "3",
+              "Surgeons, All Other",
+              "$371.3K",
+              "24K",
+              "Healthcare"
+            ],
+            [
+              "4",
+              "Orthopedic Surgeons(except Pediatric)",
+              "$365.1K",
+              "14K",
+              "Healthcare"
+            ],
+            [
+              "5",
+              "Oral and Maxillofacial Surgeons",
+              "$360.2K",
+              "5K",
+              "Healthcare"
+            ],
+            [
+              "6",
+              "Radiologists",
+              "$359.8K",
+              "26K",
+              "Healthcare"
+            ],
+            [
+              "7",
+              "Dermatologists",
+              "$347.8K",
+              "10K",
+              "Healthcare"
+            ],
+            [
+              "8",
+              "Anesthesiologists",
+              "$336.6K",
+              "42K",
+              "Healthcare"
+            ],
+            [
+              "9",
+              "Emergency Medicine Physicians",
+              "$320.7K",
+              "34K",
+              "Healthcare"
+            ],
+            [
+              "10",
+              "Ophthalmologists(except Pediatric)",
+              "$301.5K",
+              "12K",
+              "Healthcare"
+            ],
+            [
+              "11",
+              "Neurologists",
+              "$286.3K",
+              "8K",
+              "Healthcare"
+            ],
+            [
+              "12",
+              "Obstetricians and Gynecologists",
+              "$281.1K",
+              "20K",
+              "Healthcare"
+            ],
+            [
+              "13",
+              "Airline Pilots, Copilots,and Flight Engineers",
+              "$280.6K",
+              "99K",
+              "Aviation"
+            ],
+            [
+              "14",
+              "Psychiatrists",
+              "$269.1K",
+              "25K",
+              "Healthcare"
+            ],
+            [
+              "15",
+              "Pathologists",
+              "$266.0K",
+              "12K",
+              "Healthcare"
+            ],
+            [
+              "16",
+              "Chief Executives",
+              "$262.9K",
+              "212K",
+              "Management"
+            ],
+            [
+              "17",
+              "General Internal MedicinePhysicians",
+              "$262.7K",
+              "67K",
+              "Healthcare"
+            ],
+            [
+              "18",
+              "Athletes and SportsCompetitors",
+              "$259.8K",
+              "14K",
+              "Athletics"
+            ],
+            [
+              "19",
+              "Prosthodontists",
+              "$258.7K",
+              "760",
+              "Healthcare"
+            ],
+            [
+              "20",
+              "Family Medicine Physicians",
+              "$256.8K",
+              "108K",
+              "Healthcare"
+            ],
+            [
+              "21",
+              "Orthodontists",
+              "$254.6K",
+              "5K",
+              "Healthcare"
+            ],
+            [
+              "22",
+              "Physicians, All Other",
+              "$253.5K",
+              "315K",
+              "Healthcare"
+            ],
+            [
+              "23",
+              "Dentists, AllOther Specialists",
+              "$246.5K",
+              "6K",
+              "Healthcare"
+            ],
+            [
+              "24",
+              "Nurse Anesthetists",
+              "$231.7K",
+              "50K",
+              "Healthcare"
+            ],
+            [
+              "25",
+              "Pediatricians, General",
+              "$222.3K",
+              "43K",
+              "Healthcare"
+            ],
+            [
+              "26",
+              "Dentists, General",
+              "$196.1K",
+              "113K",
+              "Healthcare"
+            ],
+            [
+              "27",
+              "Computer and InformationSystems Managers",
+              "$188.0K",
+              "646K",
+              "Management"
+            ],
+            [
+              "28",
+              "Lawyers",
+              "$182.8K",
+              "748K",
+              "Legal"
+            ],
+            [
+              "29",
+              "Financial Managers",
+              "$180.5K",
+              "819K",
+              "Management"
+            ],
+            [
+              "30",
+              "Architectural and EngineeringManagers",
+              "$175.7K",
+              "210K",
+              "Management"
+            ]
+          ],
+          "caption": "美国2024年薪资最高的30个职业排名"
+        }
+      ],
+      "deep_dive": "## 高薪格局：医疗行业的“绝对统治”\n\n这份榜单清晰地揭示了美国劳动力市场中一个显著特征：**最高薪酬集中在高度专业化、高准入门槛的医疗领域**。排名前12的职业清一色是外科医生或专科医生，前30名中有25个属于医疗行业。这背后有多重机制：\n\n- **高技能壁垒**：成为一名外科或专科医生需要经历漫长且昂贵的教育（医学博士+多年住院医师培训），构成了强大的供给壁垒。\n- **高风险与高责任**：直接关乎生命健康，决策失误代价巨大，其薪酬部分是对这种高风险和高责任的补偿。\n- **支付方与市场结构**：美国医疗系统支付能力强（特别是商业保险），且专科医疗服务市场存在一定的价格刚性。\n\n相比之下，科技行业（如计算机和信息系统管理）虽以创新著称，但仅有一个职业（排名第27）进入前30，平均年薪为18.8万美元，与顶尖医生的薪酬差距明显。这反映出，在目前阶段，**深度专业技能（尤其是与生命健康直接相关的）的市场价值，可能仍高于广泛的技术管理技能**。\n\n## 薪酬、稀缺性与职业启示\n\n分析薪酬数据必须结合就业规模，才能理解其市场含义：\n\n- **稀缺性溢价**：薪酬最高的职业往往就业人数极少。例如，修复牙科医生（Prosthodontists）平均年薪约25.9万美元，但全美仅有760名从业者。小儿外科医生（第一名）也仅有约1000人。这种极端的稀缺性直接推高了其人力资本价格。\n- **规模与薪酬的权衡**：高薪不一定伴随大规模就业。而一些薪酬相对“较低”（如金融管理、律师）但排名靠前的职业，其从业规模庞大（数万至数十万），提供了更广泛的高收入机会。例如，首席执行官平均年薪26.3万美元，从业人数达21.2万人。\n- **对个人发展的启示**：榜单暗示，追求顶尖薪酬通常意味着选择一条需要长期专业深耕、且路径高度特定的道路。对于个人而言，在规划职业生涯时，需要在“潜在最高薪酬”、“职业稳定性”、“工作生活平衡”以及“个人兴趣”之间进行综合权衡。\n\n**局限与思考**：该榜单使用的是“平均年薪”，对于收入分布极度不均的职业（如顶尖运动员、明星CEO），平均值可能被少数极高收入者拉高，无法反映中位数情况。此外，榜单未考虑地域差异（如硅谷与中部地区的薪资差距）以及股权、奖金等非工资收入，这些因素在科技、金融等领域尤为关键。",
+      "glossary": [
+        {
+          "term": "Mean Annual Wage",
+          "explanation": "平均年薪，是某职业所有从业者年工资总额除以从业人数所得，反映该职业的平均收入水平，但易受极端高收入者影响。"
+        },
+        {
+          "term": "Total U.S. Employment",
+          "explanation": "全美就业人数，指在特定职业中拥有工作的总人数，是衡量该职业劳动力市场规模的关键指标。"
+        },
+        {
+          "term": "Pay Premium / Scarcity Premium",
+          "explanation": "支付溢价/稀缺性溢价，指因某种技能、资质或劳动力供给稀缺而导致其市场价值（薪酬）高于普通水平的额外部分。"
+        },
+        {
+          "term": "Supply Barrier",
+          "explanation": "供给壁垒，指进入某一职业所需克服的高难度条件，如极长的教育年限、严格的资质认证或高昂的培训成本，这些壁垒限制了从业者供给，从而支撑了高薪酬。"
+        }
+      ]
+    }
+  },
+  {
     "id": "5c40fe49",
     "title": "Mapped: Europe’s Inflation Divide in Early 2026",
     "original_url": "https://www.visualcapitalist.com/mapped-europes-inflation-in-2026/",
