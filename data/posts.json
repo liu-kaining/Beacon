@@ -1,5 +1,167 @@
 [
   {
+    "id": "18f36dd0",
+    "title": "Charted: The Explosive Growth of Critical Minerals",
+    "original_url": "https://www.visualcapitalist.com/cp/charted-the-explosive-growth-of-critical-minerals/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/18f36dd0.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvGFIvWnNTRUDJR0ooHSikUf/Z",
+    "image_version": 1779315517,
+    "pub_date": "Wed, 20 May 2026 21:45:25 +0000",
+    "content_md": "| Mineral | Unit | 1960 | 1980 | 2000 | 2024 |\n| --- | --- | --- | --- | --- | --- |\n| Aluminum (bauxite) | million tonnes | 31 | 88 | 180 | 410 |\n| Copper | million tonnes | 4 | 8 | 13 | 23 |\n| Gold | tonnes | 1,000 | 1,200 | 2,600 | 3,300 |\n| Iron ore | million tonnes | 230 | 900 | 1,100 | 2,700 |\n| Lead | million tonnes | 2 | 3.5 | 3.1 | 4.5 |\n| Lithium | thousand tonnes | 0 | 0 | 13 | 240 |\n| Nickel | million tonnes | 0.4 | 0.8 | 1.1 | 3.7 |\n| Phosphate rock | million tonnes | 40 | 140 | 130 | 240 |\n| Rare earth elements | thousand tonnes | 5 | 25 | 80 | 390 |\n| Silver | thousand tonnes | 7 | 9 | 19 | 26 |\n| Tin | thousand tonnes | 200 | 250 | 200 | 370 |\n| Uranium | thousand tonnes | 20 | 70 | 35 | 58 |\n| Zinc | million tonnes | 3 | 5.5 | 9 | 12 |",
+    "ai_analysis": {
+      "core_insight": "全球关键矿产需求在过去六十年呈现指数级增长，能源转型相关矿物增速尤为惊人。",
+      "data_highlights": [
+        "锂（Lithium）需求从2000年的1.3万吨飙升至2024年的24万吨，增长超过17倍，为增速最快的矿产。",
+        "稀土（Rare earth elements）需求从1960年的5千吨增至2024年的39万吨，增长77倍，战略重要性凸显。",
+        "铁矿石（Iron ore）和铝土矿（Aluminum）等基础工业原料在绝对量上仍占据主导，2024年需求分别达27亿吨和4.1亿吨。",
+        "铀（Uranium）需求在经历1980年高峰后有所回落，但2024年需求已回升至5.8万吨，反映核能复兴趋势。",
+        "多数金属需求在2000年后明显加速，特别是铜、镍等用于电动汽车和可再生能源的金属。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Mineral",
+            "Unit",
+            "1960",
+            "1980",
+            "2000",
+            "2024"
+          ],
+          "rows": [
+            [
+              "Aluminum (bauxite)",
+              "million tonnes",
+              "31",
+              "88",
+              "180",
+              "410"
+            ],
+            [
+              "Copper",
+              "million tonnes",
+              "4",
+              "8",
+              "13",
+              "23"
+            ],
+            [
+              "Gold",
+              "tonnes",
+              "1,000",
+              "1,200",
+              "2,600",
+              "3,300"
+            ],
+            [
+              "Iron ore",
+              "million tonnes",
+              "230",
+              "900",
+              "1,100",
+              "2,700"
+            ],
+            [
+              "Lead",
+              "million tonnes",
+              "2",
+              "3.5",
+              "3.1",
+              "4.5"
+            ],
+            [
+              "Lithium",
+              "thousand tonnes",
+              "0",
+              "0",
+              "13",
+              "240"
+            ],
+            [
+              "Nickel",
+              "million tonnes",
+              "0.4",
+              "0.8",
+              "1.1",
+              "3.7"
+            ],
+            [
+              "Phosphate rock",
+              "million tonnes",
+              "40",
+              "140",
+              "130",
+              "240"
+            ],
+            [
+              "Rare earth elements",
+              "thousand tonnes",
+              "5",
+              "25",
+              "80",
+              "390"
+            ],
+            [
+              "Silver",
+              "thousand tonnes",
+              "7",
+              "9",
+              "19",
+              "26"
+            ],
+            [
+              "Tin",
+              "thousand tonnes",
+              "200",
+              "250",
+              "200",
+              "370"
+            ],
+            [
+              "Uranium",
+              "thousand tonnes",
+              "20",
+              "70",
+              "35",
+              "58"
+            ],
+            [
+              "Zinc",
+              "million tonnes",
+              "3",
+              "5.5",
+              "9",
+              "12"
+            ]
+          ],
+          "caption": "关键矿产需求历史增长数据 (1960-2024)"
+        }
+      ],
+      "deep_dive": "## 增长引擎的结构性转换\n\n过去六十四年的数据清晰地揭示了全球矿产需求结构的深刻变迁。在20世纪后半叶，需求增长主要由**钢铁、铝**等传统工业化和基建材料驱动，铁矿石需求从1960年的2.3亿吨激增至2024年的27亿吨，增幅惊人。然而，进入21世纪，增长引擎发生了质变。以**锂、稀土、镍**为代表的关键矿产，其需求曲线变得异常陡峭。这背后是全球能源转型和数字化革命的强大推力：锂和钴是电动汽车电池的核心，稀土是永磁电机和风力涡轮机的关键材料，镍用于提升电池能量密度，铜则是电气化基础设施的“血管”。\n\n## “指数级”增长背后的挑战与启示\n\n这种爆炸性增长带来了多重战略挑战。首先，**供应链安全**问题空前突出。稀土、锂等矿产的地理分布高度集中，使得主要消费国面临巨大的供应风险和价格波动压力。其次，**环境与社会成本**不容忽视。矿产开采的碳足迹、水资源消耗以及对当地社区的影响，可能抵消能源转型的部分环境效益。最后，数据也隐含着**技术替代与回收**的潜力。例如，铅需求增长相对平缓，部分源于电池技术的改进和替代。未来，除了扩大开采，通过技术创新提高资源利用效率、发展循环经济（如电池回收）将是缓解供应压力的必然路径。值得注意的是，铀需求在经历1980年核电扩张高峰后的回落与近期回升，反映了能源政策与公众接受度对特定矿产需求的巨大影响力。\n\n总之，这张需求增长图表不仅是一份经济发展的记录，更是一面镜子，映照出我们正从“碳氢化合物时代”向“关键矿物时代”艰难但必然的转型。",
+      "glossary": [
+        {
+          "term": "关键矿物",
+          "explanation": "指对国家经济安全和新兴技术（如可再生能源、电动汽车、国防）至关重要，但其供应链易受破坏的矿产资源。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指从依赖化石燃料（煤、石油、天然气）的能源系统，向以可再生能源（风、光、水）和电气化为核心的低碳能源系统转变的过程。"
+        },
+        {
+          "term": "供应链安全",
+          "explanation": "确保关键商品（如矿产）的供应能够稳定、可靠、可持续地获取，免受地缘政治冲突、贸易限制或自然灾害等因素的威胁。"
+        },
+        {
+          "term": "循环经济",
+          "explanation": "一种旨在通过减少资源消耗、延长产品使用寿命、促进再利用和回收，从而最小化废物和环境污染的经济模式。"
+        },
+        {
+          "term": "稀土元素",
+          "explanation": "一组17种金属元素，在高科技和绿色技术产品（如智能手机、风力发电机、电动汽车电机）中具有不可替代的作用。"
+        }
+      ]
+    }
+  },
+  {
     "id": "38c45961",
     "title": "Most Crypto Hacks Don’t Start With Stolen Wallets—They Start in the Code",
     "original_url": "https://www.visualcapitalist.com/sp/in02-crypto-theft-top-ten-techniques/",
