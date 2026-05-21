@@ -1,5 +1,592 @@
 [
   {
+    "id": "1b73d848",
+    "title": "Ranked: The World’s Biggest Economies by 2031",
+    "original_url": "https://www.visualcapitalist.com/forecast-worlds-biggest-economies-in-2031/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1b73d848.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDCUUrdKBQ3SpuVYiPWig9aKdxH/9k=",
+    "image_version": 1779377035,
+    "pub_date": "Thu, 21 May 2026 14:07:11 +0000",
+    "content_md": "| Rank | Country | 2026F ($B) | 2028F ($B) | 2031F ($B) | Change |\n| --- | --- | --- | --- | --- | --- |\n| 1 | U.S. | 32,384 | 35,066 | 39,031 | 20.5% |\n| 2 | China | 20,852 | 23,260 | 27,497 | 31.9% |\n| 3 | Germany | 5,453 | 5,819 | 6,352 | 16.5% |\n| 4 | Japan | 4,379 | 4,744 | 5,128 | 17.1% |\n| 5 | UK | 4,265 | 4,675 | 5,403 | 26.7% |\n| 6 | India | 4,153 | 5,059 | 6,792 | 63.5% |\n| 7 | France | 3,596 | 3,776 | 4,117 | 14.5% |\n| 8 | Italy | 2,738 | 2,887 | 3,128 | 14.2% |\n| 9 | Russia | 2,656 | 2,552 | 2,615 | -1.6% |\n| 10 | Brazil | 2,636 | 2,879 | 3,379 | 28.2% |\n| 11 | Canada | 2,507 | 2,759 | 3,139 | 25.2% |\n| 12 | Australia | 2,124 | 2,293 | 2,590 | 22.0% |\n| 13 | Mexico | 2,121 | 2,327 | 2,667 | 25.8% |\n| 14 | Spain | 2,091 | 2,285 | 2,572 | 23.0% |\n| 15 | South Korea | 1,931 | 2,094 | 2,357 | 22.1% |",
+    "ai_analysis": {
+      "core_insight": "2031年全球前三大经济体格局稳固，印度与英国增长势头最为迅猛。",
+      "data_highlights": [
+        "美国预计在2031年仍以39万亿美元GDP稳居榜首，但中国同期GDP将达27.5万亿美元，进一步缩小差距。",
+        "印度预计以63.5%的六年增长率成为前15大经济体中增长最快的国家，GDP将从2026年的4.15万亿美元跃升至2031年的6.79万亿美元。",
+        "俄罗斯是榜单中唯一预计出现负增长（-1.6%）的主要经济体，其经济规模将停滞在2.6万亿美元左右。",
+        "英国预计以26.7%的增速超越日本和德国，从2026年的第5位跃升至2031年的第4位，实现显著排位提升。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026F ($B)",
+            "2028F ($B)",
+            "2031F ($B)",
+            "Change"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "32,384",
+              "35,066",
+              "39,031",
+              "20.5%"
+            ],
+            [
+              "2",
+              "China",
+              "20,852",
+              "23,260",
+              "27,497",
+              "31.9%"
+            ],
+            [
+              "3",
+              "Germany",
+              "5,453",
+              "5,819",
+              "6,352",
+              "16.5%"
+            ],
+            [
+              "4",
+              "Japan",
+              "4,379",
+              "4,744",
+              "5,128",
+              "17.1%"
+            ],
+            [
+              "5",
+              "UK",
+              "4,265",
+              "4,675",
+              "5,403",
+              "26.7%"
+            ],
+            [
+              "6",
+              "India",
+              "4,153",
+              "5,059",
+              "6,792",
+              "63.5%"
+            ],
+            [
+              "7",
+              "France",
+              "3,596",
+              "3,776",
+              "4,117",
+              "14.5%"
+            ],
+            [
+              "8",
+              "Italy",
+              "2,738",
+              "2,887",
+              "3,128",
+              "14.2%"
+            ],
+            [
+              "9",
+              "Russia",
+              "2,656",
+              "2,552",
+              "2,615",
+              "-1.6%"
+            ],
+            [
+              "10",
+              "Brazil",
+              "2,636",
+              "2,879",
+              "3,379",
+              "28.2%"
+            ],
+            [
+              "11",
+              "Canada",
+              "2,507",
+              "2,759",
+              "3,139",
+              "25.2%"
+            ],
+            [
+              "12",
+              "Australia",
+              "2,124",
+              "2,293",
+              "2,590",
+              "22.0%"
+            ],
+            [
+              "13",
+              "Mexico",
+              "2,121",
+              "2,327",
+              "2,667",
+              "25.8%"
+            ],
+            [
+              "14",
+              "Spain",
+              "2,091",
+              "2,285",
+              "2,572",
+              "23.0%"
+            ],
+            [
+              "15",
+              "South Korea",
+              "1,931",
+              "2,094",
+              "2,357",
+              "22.1%"
+            ]
+          ],
+          "caption": "2031年全球最大经济体GDP预测排名（单位：十亿美元）"
+        }
+      ],
+      "deep_dive": "## 经济格局演变：稳固的顶端与活跃的追赶者\n\n根据预测数据，到2031年，全球经济前三强（美国、中国、德国）的排名将保持不变，但内部增长动力差异显著。美国凭借庞大的基数和稳定的增长（20.5%），仍将保持绝对领先优势。而中国则以31.9%的预计增速，使其与美国的GDP差距从2026年的约11.5万亿美元缩小至2031年的约11.5万亿美元，缩小差距的趋势依然明确。德国作为欧洲经济的领头羊，增速（16.5%）相对温和，但其制造业和出口的韧性使其第三名的地位稳固。\n\n**关键动态：英国与印度的跃升**\n\n本报告最引人注目的趋势是英国和印度的强势表现。英国预计将从2026年的第五名跃升至2031年的第四名，取代日本。其26.7%的六年增长率在发达经济体中名列前茅，这可能反映了其在金融服务、科技等领域的结构性优势。印度的崛起更为瞩目，63.5%的惊人增速使其GDP在六年内将增长超过2.6万亿美元，并从第六位上升至第六位（保持第六，但规模将接近德国）。这凸显了其庞大的人口红利、数字化进程和国内市场释放的巨大潜力。\n\n## 增长分化与风险考量\n\n**发达经济体：普遍稳健但增速分化**\n在前15名中，传统发达国家（如法、意、日）的增速普遍在14%-17%区间，显示其经济已进入成熟平稳增长阶段。加拿大、澳大利亚、西班牙等国的增速则位于20%-25%的较高区间，可能受益于资源出口、旅游复苏或结构性改革。\n\n**新兴经济体：表现各异，俄罗斯面临逆风**\n巴西（28.2%）和墨西哥（25.8%）等新兴市场展现出强劲增长动能，而韩国（22.1%）作为制造业强国也保持良好势头。然而，俄罗斯是榜单中唯一负增长（-1.6%）的国家，这深刻反映了持续的地缘政治冲突、国际制裁对其经济造成长期结构性损伤的预期。其经济规模预计将被巴西、加拿大等国超越，排名下滑。\n\n**启示与局限**\n这份预测描绘了一幅“东升西稳”但内部差异巨大的图景。投资者和政策制定者需关注：1）美中博弈下的技术脱钩与供应链重组如何影响增长路径；2）印度等高增长市场的基础设施与制度瓶颈是否构成发展上限；3）地缘政治风险（如俄罗斯案例）对经济预测的颠覆性影响。需注意，所有预测均基于当前趋势和模型，实际发展可能因技术突破、重大政策变革或黑天鹅事件而出现偏差。",
+      "glossary": [
+        {
+          "term": "GDP（国内生产总值）",
+          "explanation": "衡量一个国家或地区在一定时期内生产的所有最终商品和服务的市场价值总和，是衡量经济规模的核心指标。"
+        },
+        {
+          "term": "F（预测值）",
+          "explanation": "在经济数据中，通常代表‘Forecast’，指基于模型和分析对未来的预测数值。"
+        },
+        {
+          "term": "经济增速（Change）",
+          "explanation": "通常指某一时期内GDP的增长率，反映经济扩张或收缩的速度。本表中为六年累计增长率。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d75414d1",
+    "title": "Ranked: Countries With the Best Health Care in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-countries-with-the-best-and-worst-health-care-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d75414d1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqzNUkUvNUCxzUsTc02gUrmoH4oqqr8UUrDuZm6nrJiq9LRE4lNlsTcUVUoqyudn//2Q==",
+    "image_version": 1779377071,
+    "pub_date": "Thu, 21 May 2026 11:51:47 +0000",
+    "content_md": "| Rank | Country | Health Care Index | Health Care SpendingPer Capita 2023 | Region |\n| --- | --- | --- | --- | --- |\n| 1 | Taiwan | 87.1 | $2.4K | Asia-Pacific |\n| 2 | South Korea | 82.9 | $3.1K | Asia-Pacific |\n| 3 | Netherlands | 81.5 | $6.8K | Europe |\n| 4 | Japan | 80.1 | $3.6K | Asia-Pacific |\n| 5 | Austria | 78.9 | $6.7K | Europe |\n| 6 | Ecuador | 77.7 | $509 | Americas |\n| 7 | Finland | 77.6 | $5.5K | Europe |\n| 8 | Thailand | 77.5 | $327 | Asia-Pacific |\n| 9 | Denmark | 77.2 | $6.7K | Europe |\n| 10 | Spain | 77.2 | $3.1K | Europe |\n| 11 | France | 77 | $5.3K | Europe |\n| 12 | Belgium | 76.4 | $5.9K | Europe |\n| 13 | Czechia | 76 | $2.7K | Europe |\n| 14 | Norway | 75.8 | $8.3K | Europe |\n| 15 | Lithuania | 75.4 | $2.2K | Europe |\n| 16 | Estonia | 75.2 | $2.4K | Europe |\n| 17 | Luxembourg | 74.2 | $8.2K | Europe |\n| 18 | Qatar | 73.6 | $1.8K | Middle East |\n| 19 | Israel | 73.4 | $3.9K | Middle East |\n| 20 | UK | 72.7 | $5.9K | Europe |\n| 21 | Germany | 72.4 | $6.8K | Europe |\n| 22 | Mexico | 72.3 | $761 | Americas |\n| 23 | Portugal | 72 | $3.0K | Europe |\n| 24 | Australia | 72 | $7.0K | Asia-Pacific |\n| 25 | Singapore | 71.9 | $3.9K | Asia-Pacific |\n| 40 | U.S. | 67.0 | $13.5K | Americas |\n\n| Rank | Country | Health Care Index | Health Care SpendingPer Capita 2023 | Region |\n| --- | --- | --- | --- | --- |\n| 1 | Syria | 35.4 | $33 | Middle East |\n| 2 | Venezuela | 39.9 | $186 | Americas |\n| 3 | Bangladesh | 42.0 | $53 | Asia-Pacific |\n| 4 | Iraq | 46.5 | $333 | Middle East |\n| 5 | Morocco | 46.8 | $232 | Africa |\n| 6 | Montenegro | 47.4 | $1.1K | Europe |\n| 7 | Egypt | 47.9 | $141 | Africa |\n| 8 | Albania | 48.1 | $591 | Europe |\n| 9 | Nigeria | 48.3 | $67 | Africa |\n| 10 | Azerbaijan | 49.0 | $300 | Europe |\n| 11 | Belarus | 49.6 | $558 | Europe |\n| 12 | Ireland | 51.2 | $7.4K | Europe |\n| 13 | Cambodia | 51.6 | $115 | Asia-Pacific |\n| 14 | Serbia | 52.1 | $984 | Europe |\n| 15 | Moldova | 52.2 | $452 | Europe |\n| 16 | Iran | 52.8 | $267 | Middle East |\n| 17 | Malta | 53.3 | $3.6K | Europe |\n| 18 | Trinidadand Tobago | 53.6 | $1.3K | Americas |\n| 19 | Hungary | 54.2 | $1.4K | Europe |\n| 20 | Algeria | 54.5 | $233 | Africa |\n| 21 | Bosnia andHerzegovina | 54.6 | $773 | Europe |\n| 22 | NorthMacedonia | 55.4 | $639 | Europe |\n| 23 | Ukraine | 55.8 | $370 | Europe |\n| 24 | Georgia | 56.3 | $554 | Europe |\n| 25 | Romania | 56.5 | $1.1K | Europe |",
+    "ai_analysis": {
+      "core_insight": "医疗质量与投入不成正比，亚洲地区性价比突出，美国高投入低产出。",
+      "data_highlights": [
+        "2026年全球医疗指数榜首为中国台湾（87.1），前五名中亚洲占三席。",
+        "医疗支出最高的美国（人均13.5千美元）排名仅第40，呈现高投入低回报特征。",
+        "亚洲地区以较低人均支出（如泰国327美元）实现了较高的医疗质量排名。",
+        "排名末尾的国家（如叙利亚）人均医疗支出极低（33美元），与榜首差距悬殊。",
+        "欧洲国家在榜单中占据多数，但医疗支出普遍高于亚洲上榜国家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Health Care Index",
+            "Health Care SpendingPer Capita 2023",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "Taiwan",
+              "87.1",
+              "$2.4K",
+              "Asia-Pacific"
+            ],
+            [
+              "2",
+              "South Korea",
+              "82.9",
+              "$3.1K",
+              "Asia-Pacific"
+            ],
+            [
+              "3",
+              "Netherlands",
+              "81.5",
+              "$6.8K",
+              "Europe"
+            ],
+            [
+              "4",
+              "Japan",
+              "80.1",
+              "$3.6K",
+              "Asia-Pacific"
+            ],
+            [
+              "5",
+              "Austria",
+              "78.9",
+              "$6.7K",
+              "Europe"
+            ],
+            [
+              "6",
+              "Ecuador",
+              "77.7",
+              "$509",
+              "Americas"
+            ],
+            [
+              "7",
+              "Finland",
+              "77.6",
+              "$5.5K",
+              "Europe"
+            ],
+            [
+              "8",
+              "Thailand",
+              "77.5",
+              "$327",
+              "Asia-Pacific"
+            ],
+            [
+              "9",
+              "Denmark",
+              "77.2",
+              "$6.7K",
+              "Europe"
+            ],
+            [
+              "10",
+              "Spain",
+              "77.2",
+              "$3.1K",
+              "Europe"
+            ],
+            [
+              "11",
+              "France",
+              "77",
+              "$5.3K",
+              "Europe"
+            ],
+            [
+              "12",
+              "Belgium",
+              "76.4",
+              "$5.9K",
+              "Europe"
+            ],
+            [
+              "13",
+              "Czechia",
+              "76",
+              "$2.7K",
+              "Europe"
+            ],
+            [
+              "14",
+              "Norway",
+              "75.8",
+              "$8.3K",
+              "Europe"
+            ],
+            [
+              "15",
+              "Lithuania",
+              "75.4",
+              "$2.2K",
+              "Europe"
+            ],
+            [
+              "16",
+              "Estonia",
+              "75.2",
+              "$2.4K",
+              "Europe"
+            ],
+            [
+              "17",
+              "Luxembourg",
+              "74.2",
+              "$8.2K",
+              "Europe"
+            ],
+            [
+              "18",
+              "Qatar",
+              "73.6",
+              "$1.8K",
+              "Middle East"
+            ],
+            [
+              "19",
+              "Israel",
+              "73.4",
+              "$3.9K",
+              "Middle East"
+            ],
+            [
+              "20",
+              "UK",
+              "72.7",
+              "$5.9K",
+              "Europe"
+            ],
+            [
+              "21",
+              "Germany",
+              "72.4",
+              "$6.8K",
+              "Europe"
+            ],
+            [
+              "22",
+              "Mexico",
+              "72.3",
+              "$761",
+              "Americas"
+            ],
+            [
+              "23",
+              "Portugal",
+              "72",
+              "$3.0K",
+              "Europe"
+            ],
+            [
+              "24",
+              "Australia",
+              "72",
+              "$7.0K",
+              "Asia-Pacific"
+            ],
+            [
+              "25",
+              "Singapore",
+              "71.9",
+              "$3.9K",
+              "Asia-Pacific"
+            ],
+            [
+              "40",
+              "U.S.",
+              "67.0",
+              "$13.5K",
+              "Americas"
+            ]
+          ],
+          "caption": "2026年全球医疗指数前25名国家/地区"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Health Care Index",
+            "Health Care SpendingPer Capita 2023",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "Syria",
+              "35.4",
+              "$33",
+              "Middle East"
+            ],
+            [
+              "2",
+              "Venezuela",
+              "39.9",
+              "$186",
+              "Americas"
+            ],
+            [
+              "3",
+              "Bangladesh",
+              "42.0",
+              "$53",
+              "Asia-Pacific"
+            ],
+            [
+              "4",
+              "Iraq",
+              "46.5",
+              "$333",
+              "Middle East"
+            ],
+            [
+              "5",
+              "Morocco",
+              "46.8",
+              "$232",
+              "Africa"
+            ],
+            [
+              "6",
+              "Montenegro",
+              "47.4",
+              "$1.1K",
+              "Europe"
+            ],
+            [
+              "7",
+              "Egypt",
+              "47.9",
+              "$141",
+              "Africa"
+            ],
+            [
+              "8",
+              "Albania",
+              "48.1",
+              "$591",
+              "Europe"
+            ],
+            [
+              "9",
+              "Nigeria",
+              "48.3",
+              "$67",
+              "Africa"
+            ],
+            [
+              "10",
+              "Azerbaijan",
+              "49.0",
+              "$300",
+              "Europe"
+            ],
+            [
+              "11",
+              "Belarus",
+              "49.6",
+              "$558",
+              "Europe"
+            ],
+            [
+              "12",
+              "Ireland",
+              "51.2",
+              "$7.4K",
+              "Europe"
+            ],
+            [
+              "13",
+              "Cambodia",
+              "51.6",
+              "$115",
+              "Asia-Pacific"
+            ],
+            [
+              "14",
+              "Serbia",
+              "52.1",
+              "$984",
+              "Europe"
+            ],
+            [
+              "15",
+              "Moldova",
+              "52.2",
+              "$452",
+              "Europe"
+            ],
+            [
+              "16",
+              "Iran",
+              "52.8",
+              "$267",
+              "Middle East"
+            ],
+            [
+              "17",
+              "Malta",
+              "53.3",
+              "$3.6K",
+              "Europe"
+            ],
+            [
+              "18",
+              "Trinidad and Tobago",
+              "53.6",
+              "$1.3K",
+              "Americas"
+            ],
+            [
+              "19",
+              "Hungary",
+              "54.2",
+              "$1.4K",
+              "Europe"
+            ],
+            [
+              "20",
+              "Algeria",
+              "54.5",
+              "$233",
+              "Africa"
+            ],
+            [
+              "21",
+              "Bosnia and Herzegovina",
+              "54.6",
+              "$773",
+              "Europe"
+            ],
+            [
+              "22",
+              "North Macedonia",
+              "55.4",
+              "$639",
+              "Europe"
+            ],
+            [
+              "23",
+              "Ukraine",
+              "55.8",
+              "$370",
+              "Europe"
+            ],
+            [
+              "24",
+              "Georgia",
+              "56.3",
+              "$554",
+              "Europe"
+            ],
+            [
+              "25",
+              "Romania",
+              "56.5",
+              "$1.1K",
+              "Europe"
+            ]
+          ],
+          "caption": "2026年全球医疗指数后25名国家/地区"
+        }
+      ],
+      "deep_dive": "## 一、 医疗体系效能与投入的“脱钩”现象\n本报告最核心的发现是，医疗质量（Health Care Index）与人均医疗支出（Health Care Spending Per Capita）之间并未呈现简单的正相关关系，甚至在部分案例中呈现负相关。这揭示了医疗体系效能的多维性，资金投入仅是其中一个因素。\n\n- **亚洲模式的“高性价比”**：以中国台湾（87.1指数，$2.4K支出）和韩国（82.9指数，$3.1K支出）为代表，它们以相对较低的人均投入达到了全球顶尖的医疗质量。这得益于高效的公共卫生管理、整合式的医疗服务网络以及在医疗器械和医药上的战略布局。泰国（77.5指数，$327支出）和厄瓜多尔（77.7指数，$509支出）等发展中国家的表现，进一步证明了在资源有限的情况下，通过优化体系设计和分配效率，可以实现显著的健康成果。\n- **欧美高支出国家的效能挑战**：榜单提供了鲜明对比。美国的人均医疗支出（$13.5K）远超其他国家，但其医疗指数（67.0）仅排第40位。这反映出其医疗体系存在严重的结构性问题，如行政成本高昂、价格不透明、商业保险体系导致的效率损耗等。欧洲如挪威（$8.3K支出，75.8指数）、卢森堡（$8.2K支出，74.2指数）等高福利国家，虽然排名靠前，但其医疗指数与其远高于亚洲顶尖国家的支出相比，效能转化率仍有提升空间。\n\n## 二、 区域格局与全球健康不平等\n榜单清晰勾勒出全球医疗资源与质量的分布版图，凸显了深刻的区域不平等。\n\n- **欧洲的稳定与内部分化**：欧洲国家在榜单中占据主导地位，尤其在中上游排名（第3-17名中占11席），显示了其普遍较高的医疗基础水平。然而，区域内部分化明显，东欧国家如罗马尼亚（56.5指数）、乌克兰（55.8指数）等排名靠后，与西欧、北欧差距显著。这背后是经济发展水平、历史投入和人才外流等多重因素的体现。\n- **发展中地区的困境与曙光**：排名末尾的国家主要集中在受战乱影响的中东地区（叙利亚、伊拉克）、经济崩溃的拉美国家（委内瑞拉）以及部分非洲和南亚国家。这些国家人均医疗支出极低（多低于500美元），医疗体系近乎崩溃。与之相对，亚洲的泰国、越南等国的崛起，为其他发展中国家提供了“弯道超车”的参考范式，即重点投资于基层医疗和预防医学，而非一味追求尖端技术。\n- **关键启示**：医疗体系建设不能唯“资金论”。政策设计的科学性、资源分配的公平性、基层医疗的覆盖度以及公共卫生危机的应对能力，共同构成了医疗效能的基石。对于政策制定者而言，研究并借鉴那些“高性价比”医疗体系的运行机制，比单纯增加财政拨款更具战略价值。同时，全球合作对于改善落后地区的基础医疗条件至关重要。",
+      "glossary": [
+        {
+          "term": "Health Care Index",
+          "explanation": "医疗保健指数，是一个综合评估指标，通常涵盖医疗基础设施、医疗专业人员的可及性与能力、医疗成本、药品供应以及政府提供的医疗服务等多个维度，用于衡量一个国家或地区医疗体系的整体质量与可及性。"
+        },
+        {
+          "term": "Health Care Spending Per Capita",
+          "explanation": "人均医疗保健支出，指一个国家在特定年份（此处为2023年）用于医疗保健的总支出除以该国总人口数，是衡量一国在医疗卫生领域资源投入水平的关键经济指标。"
+        },
+        {
+          "term": "性价比",
+          "explanation": "在本报告语境下，特指医疗体系效能与资源投入之间的比率关系。高性价比意味着以相对较低的资源投入获得了较高的医疗质量产出。"
+        }
+      ]
+    }
+  },
+  {
     "id": "18f36dd0",
     "title": "Charted: The Explosive Growth of Critical Minerals",
     "original_url": "https://www.visualcapitalist.com/cp/charted-the-explosive-growth-of-critical-minerals/",
