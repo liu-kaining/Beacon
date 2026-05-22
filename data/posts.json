@@ -1,5 +1,486 @@
 [
   {
+    "id": "efd93785",
+    "title": "What the U.S. and China Depend On Each Other For",
+    "original_url": "https://www.visualcapitalist.com/what-china-and-the-us-import-from-each-other/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/efd93785.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuZRUadamlqJOtSaMsr0ooXpRQQf/Z",
+    "image_version": 1779458996,
+    "pub_date": "Fri, 22 May 2026 13:48:05 +0000",
+    "content_md": "| Rank | Top 10 U.S. Imports from China by Value | Imports from China ($B) | Share of Total Imports |\n| --- | --- | --- | --- |\n| 1 | Smartphones & telephone equipment | 51.5 | 44.7% |\n| 2 | Computers & laptops | 36.7 | 26.0% |\n| 3 | Lithium-ion & other batteries | 18.1 | 55.9% |\n| 4 | Toys, dolls & puzzles | 14.4 | 76.3% |\n| 5 | Vehicle parts & accessories | 10.1 | 11.2% |\n| 6 | Seats & chairs | 7.5 | 27.4% |\n| 7 | Video game consoles & accessories | 7.2 | 77.7% |\n| 8 | Electric heaters & small appliances | 7.0 | 55.6% |\n| 9 | Monitors, projectors & TVs | 7.0 | 33.1% |\n| 10 | Plastic articles (misc) | 6.9 | 46.3% |\n\n| Rank | Top 10 Chinese Imports from U.S. by Value | Imports from U.S. ($B) | Share |\n| --- | --- | --- | --- |\n| 1 | Petroleum gases (LNG/LPG) | 14.0 | 15.9% |\n| 2 | Soybeans | 12.0 | 22.8% |\n| 3 | Semiconductors & integrated circuits | 11.8 | 3.0% |\n| 4 | Passenger cars | 7.3 | 19.0% |\n| 5 | Aircraft jet engines & gas turbines | 6.6 | 53.6% |\n| 6 | Crude petroleum | 6.0 | 1.9% |\n| 7 | Aircraft & spacecraft | 5.3 | 57.5% |\n| 8 | Semiconductor manufacturing equipment | 4.5 | 9.5% |\n| 9 | Copper waste & scrap | 3.6 | 20.3% |\n| 10 | Vaccines, blood, antisera | 3.4 | 18.9% |",
+    "ai_analysis": {
+      "core_insight": "中美贸易呈现高科技消费品与资源、核心技术的高度互补依赖结构。",
+      "data_highlights": [
+        "美国从中国进口的智能手机、电脑和电池等消费品价值巨大，且占其相关进口总额的比重极高（电池占55.9%，游戏机占77.7%）。",
+        "中国从美国进口的商品以资源品（油气、大豆）和高端技术产品（半导体设备、飞机引擎）为主，其中飞机引擎和飞机占比超过50%。",
+        "美国在半导体制造设备（占9.5%）和集成电路（占3.0%）上对中国出口的依赖度相对较低，显示其技术优势。",
+        "中国对美国大豆的进口依赖度显著（占22.8%），反映了农产品贸易在双边关系中的重要性。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Top 10 U.S. Imports from China by Value",
+            "Imports from China ($B)",
+            "Share of Total Imports"
+          ],
+          "rows": [
+            [
+              "1",
+              "Smartphones & telephone equipment",
+              "51.5",
+              "44.7%"
+            ],
+            [
+              "2",
+              "Computers & laptops",
+              "36.7",
+              "26.0%"
+            ],
+            [
+              "3",
+              "Lithium-ion & other batteries",
+              "18.1",
+              "55.9%"
+            ],
+            [
+              "4",
+              "Toys, dolls & puzzles",
+              "14.4",
+              "76.3%"
+            ],
+            [
+              "5",
+              "Vehicle parts & accessories",
+              "10.1",
+              "11.2%"
+            ],
+            [
+              "6",
+              "Seats & chairs",
+              "7.5",
+              "27.4%"
+            ],
+            [
+              "7",
+              "Video game consoles & accessories",
+              "7.2",
+              "77.7%"
+            ],
+            [
+              "8",
+              "Electric heaters & small appliances",
+              "7.0",
+              "55.6%"
+            ],
+            [
+              "9",
+              "Monitors, projectors & TVs",
+              "7.0",
+              "33.1%"
+            ],
+            [
+              "10",
+              "Plastic articles (misc)",
+              "6.9",
+              "46.3%"
+            ]
+          ],
+          "caption": "美国从中国进口额前十的商品"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Top 10 Chinese Imports from U.S. by Value",
+            "Imports from U.S. ($B)",
+            "Share"
+          ],
+          "rows": [
+            [
+              "1",
+              "Petroleum gases (LNG/LPG)",
+              "14.0",
+              "15.9%"
+            ],
+            [
+              "2",
+              "Soybeans",
+              "12.0",
+              "22.8%"
+            ],
+            [
+              "3",
+              "Semiconductors & integrated circuits",
+              "11.8",
+              "3.0%"
+            ],
+            [
+              "4",
+              "Passenger cars",
+              "7.3",
+              "19.0%"
+            ],
+            [
+              "5",
+              "Aircraft jet engines & gas turbines",
+              "6.6",
+              "53.6%"
+            ],
+            [
+              "6",
+              "Crude petroleum",
+              "6.0",
+              "1.9%"
+            ],
+            [
+              "7",
+              "Aircraft & spacecraft",
+              "5.3",
+              "57.5%"
+            ],
+            [
+              "8",
+              "Semiconductor manufacturing equipment",
+              "4.5",
+              "9.5%"
+            ],
+            [
+              "9",
+              "Copper waste & scrap",
+              "3.6",
+              "20.3%"
+            ],
+            [
+              "10",
+              "Vaccines, blood, antisera",
+              "3.4",
+              "18.9%"
+            ]
+          ],
+          "caption": "中国从美国进口额前十的商品"
+        }
+      ],
+      "deep_dive": "## 依赖结构的非对称性：消费终端 vs. 资源与技术上游\n中美贸易的核心特征是结构上的高度互补与依赖领域的非对称性。\n\n美国对中国的依赖主要体现在**大规模、标准化的终端消费品和电子元器件**上。智能手机、电脑、锂电池、玩具及游戏机等商品不仅进口额巨大，而且在中国进口来源中占据压倒性份额（多个类别超过45%，游戏机高达77.7%）。这反映了中国在全球消费电子制造供应链中的核心地位，以及美国在相关产业链中下游环节对“中国制造”的深度嵌入。这种依赖根植于数十年形成的规模化生产、完善的产业配套和成本优势，短期内难以被替代。\n\n中国对美国的依赖则呈现出**资源与高端技术并重**的特点。一方面，液化石油气、大豆、原油等大宗商品是中国保障能源安全和粮食供应的重要来源。另一方面，更关键的是在**高端技术装备领域**，如航空发动机（占中国该类进口的53.6%）、飞机与航天器（57.5%）、以及半导体制造设备（9.5%）。这表明中国在部分尖端制造业的核心技术和装备上仍存在短板，对美国的技术优势形成依赖。这种依赖关系构成了中国在相关产业升级过程中必须面对的“卡脖子”环节。\n\n## 对比分析与战略启示\n\n*   **价值链位置差异**：美国进口的商品多为最终消费品或通用零部件，处于价值链的中下游；中国进口的商品则更多是上游资源或用于提升自身产业能力的高技术资本品，处于价值链的上游或关键节点。\n*   **可替代性不同**：美国进口的消费电子产品，其生产在全球范围内存在一定的可替代产能（如东南亚），但转移成本高、周期长；中国进口的高端技术产品（如特种飞机引擎、顶级光刻机）可替代性极低，全球供应商寥寥无几。\n*   **政策影响维度**：贸易摩擦对双方的影响路径不同。加征关税直接推高美国消费者的生活成本和通胀压力；限制对华技术出口则会直接影响中国相关产业的发展和升级进程。大豆、油气等商品的采购则可能成为贸易平衡的调节工具。\n\n## 局限性说明\n\n本分析基于截面数据，无法反映长期动态变化。贸易数据也未能完全涵盖服务贸易、相互投资以及全球供应链中复杂的中间品流动。此外，“份额”指标受该国总进口规模影响，需结合绝对值综合判断依赖程度。",
+      "glossary": [
+        {
+          "term": "非对称依赖",
+          "explanation": "指两个经济体在相互依赖的关系中，所依赖的商品类型、技术领域或价值链环节存在显著差异，导致双方的脆弱性和议价能力不同。"
+        },
+        {
+          "term": "卡脖子技术",
+          "explanation": "指那些在产业链中至关重要、但技术门槛极高、供应来源单一或易受外部制约的关键核心技术或设备。"
+        },
+        {
+          "term": "价值链",
+          "explanation": "指一件商品或服务从概念、设计、生产、营销到最终消费的完整链条，不同环节的附加值不同。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "602b10f6",
+    "title": "Ranked: The Countries That Produce the Most Steel",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-countries-that-produce-the-most-steel/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/602b10f6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlbW2LY4qzNaEJ0qzYgccVcuVHl9K6pqzJRy8kGHNFXZQPMPFFVYR//9k=",
+    "image_version": 1779459025,
+    "pub_date": "Fri, 22 May 2026 11:49:40 +0000",
+    "content_md": "| Rank | Country | Millions of tonnes (Mt) | Share (%) |\n| --- | --- | --- | --- |\n| 1 | China | 960.8 | 52.0% |\n| 2 | India | 164.9 | 8.9% |\n| 3 | United States | 82.0 | 4.4% |\n| 4 | Japan | 80.7 | 4.4% |\n| 5 | Russia | 67.8 | 3.7% |\n| 6 | South Korea | 61.9 | 3.3% |\n| 7 | Türkiye | 38.1 | 2.1% |\n| 8 | Germany | 34.1 | 1.8% |\n| 9 | Brazil | 33.3 | 1.8% |\n| 10 | Iran | 31.8 | 1.7% |\n| 11 | Viet Nam | 24.7 | 1.3% |\n| 12 | Italy | 20.7 | 1.1% |\n| 13 | Indonesia | 19.0 | 1.0% |\n| 14 | Taiwan, China | 17.1 | 0.9% |\n| 15 | Mexico | 13.5 | 0.7% |\n| 16 | Spain | 12.0 | 0.6% |\n| 17 | Canada | 11.5 | 0.6% |\n| 18 | Saudi Arabia | 10.8 | 0.6% |\n| 19 | Egypt | 10.6 | 0.6% |\n| 20 | France | 9.8 | 0.5% |\n| 21 | Malaysia | 9.0 | 0.5% |\n| 22 | Austria | 7.6 | 0.4% |\n| 23 | Ukraine | 7.4 | 0.4% |\n| 24 | Poland | 7.2 | 0.4% |\n| 25 | Belgium | 7.2 | 0.4% |\n| 26 | Netherlands | 6.5 | 0.4% |\n| 27 | Algeria | 5.3 | 0.3% |\n| 28 | Australia | 5.2 | 0.3% |\n| 29 | Thailand | 5.0 | 0.3% |\n| 30 | Bangladesh | 4.5 | 0.2% |\n| 31 | South Africa | 4.5 | 0.2% |\n| 32 | Kazakhstan | 4.3 | 0.2% |\n| 33 | Argentina | 4.0 | 0.2% |\n| 34 | Sweden | 4.0 | 0.2% |\n| 35 | United Arab Emirates | 3.8 | 0.2% |\n| 36 | Finland | 3.7 | 0.2% |\n| 37 | Slovakia | 3.7 | 0.2% |\n| 38 | Pakistan | 3.6 | 0.2% |\n| 39 | Iraq | 3.0 | 0.2% |\n| 40 | Oman | 3.0 | 0.2% |\n| -- | Others | 41.8 | 2.3% |\n| -- | World | 1,849.40 | 100.0% |",
+    "ai_analysis": {
+      "core_insight": "中国钢铁产量占全球超半壁江山，生产格局高度集中。",
+      "data_highlights": [
+        "中国以960.8百万吨的产量遥遥领先，占全球总产量的52.0%。",
+        "印度位居第二，但产量仅为中国的17.2%，差距巨大。",
+        "前10名国家合计产量占全球的86.3%，生产集中度高。",
+        "从第11名越南开始，各国产量均低于25百万吨，份额不足1.5%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Millions of tonnes (Mt)",
+            "Share (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "960.8",
+              "52.0%"
+            ],
+            [
+              "2",
+              "India",
+              "164.9",
+              "8.9%"
+            ],
+            [
+              "3",
+              "United States",
+              "82.0",
+              "4.4%"
+            ],
+            [
+              "4",
+              "Japan",
+              "80.7",
+              "4.4%"
+            ],
+            [
+              "5",
+              "Russia",
+              "67.8",
+              "3.7%"
+            ],
+            [
+              "6",
+              "South Korea",
+              "61.9",
+              "3.3%"
+            ],
+            [
+              "7",
+              "Türkiye",
+              "38.1",
+              "2.1%"
+            ],
+            [
+              "8",
+              "Germany",
+              "34.1",
+              "1.8%"
+            ],
+            [
+              "9",
+              "Brazil",
+              "33.3",
+              "1.8%"
+            ],
+            [
+              "10",
+              "Iran",
+              "31.8",
+              "1.7%"
+            ],
+            [
+              "11",
+              "Viet Nam",
+              "24.7",
+              "1.3%"
+            ],
+            [
+              "12",
+              "Italy",
+              "20.7",
+              "1.1%"
+            ],
+            [
+              "13",
+              "Indonesia",
+              "19.0",
+              "1.0%"
+            ],
+            [
+              "14",
+              "Taiwan, China",
+              "17.1",
+              "0.9%"
+            ],
+            [
+              "15",
+              "Mexico",
+              "13.5",
+              "0.7%"
+            ],
+            [
+              "16",
+              "Spain",
+              "12.0",
+              "0.6%"
+            ],
+            [
+              "17",
+              "Canada",
+              "11.5",
+              "0.6%"
+            ],
+            [
+              "18",
+              "Saudi Arabia",
+              "10.8",
+              "0.6%"
+            ],
+            [
+              "19",
+              "Egypt",
+              "10.6",
+              "0.6%"
+            ],
+            [
+              "20",
+              "France",
+              "9.8",
+              "0.5%"
+            ],
+            [
+              "21",
+              "Malaysia",
+              "9.0",
+              "0.5%"
+            ],
+            [
+              "22",
+              "Austria",
+              "7.6",
+              "0.4%"
+            ],
+            [
+              "23",
+              "Ukraine",
+              "7.4",
+              "0.4%"
+            ],
+            [
+              "24",
+              "Poland",
+              "7.2",
+              "0.4%"
+            ],
+            [
+              "25",
+              "Belgium",
+              "7.2",
+              "0.4%"
+            ],
+            [
+              "26",
+              "Netherlands",
+              "6.5",
+              "0.4%"
+            ],
+            [
+              "27",
+              "Algeria",
+              "5.3",
+              "0.3%"
+            ],
+            [
+              "28",
+              "Australia",
+              "5.2",
+              "0.3%"
+            ],
+            [
+              "29",
+              "Thailand",
+              "5.0",
+              "0.3%"
+            ],
+            [
+              "30",
+              "Bangladesh",
+              "4.5",
+              "0.2%"
+            ],
+            [
+              "31",
+              "South Africa",
+              "4.5",
+              "0.2%"
+            ],
+            [
+              "32",
+              "Kazakhstan",
+              "4.3",
+              "0.2%"
+            ],
+            [
+              "33",
+              "Argentina",
+              "4.0",
+              "0.2%"
+            ],
+            [
+              "34",
+              "Sweden",
+              "4.0",
+              "0.2%"
+            ],
+            [
+              "35",
+              "United Arab Emirates",
+              "3.8",
+              "0.2%"
+            ],
+            [
+              "36",
+              "Finland",
+              "3.7",
+              "0.2%"
+            ],
+            [
+              "37",
+              "Slovakia",
+              "3.7",
+              "0.2%"
+            ],
+            [
+              "38",
+              "Pakistan",
+              "3.6",
+              "0.2%"
+            ],
+            [
+              "39",
+              "Iraq",
+              "3.0",
+              "0.2%"
+            ],
+            [
+              "40",
+              "Oman",
+              "3.0",
+              "0.2%"
+            ],
+            [
+              "--",
+              "Others",
+              "41.8",
+              "2.3%"
+            ],
+            [
+              "--",
+              "World",
+              "1,849.40",
+              "100.0%"
+            ]
+          ],
+          "caption": "2022年全球主要钢铁生产国排名"
+        }
+      ],
+      "deep_dive": "## 一、格局透视：高度集中与梯队分明\n\n从数据中可以清晰地看到全球钢铁生产格局的两个核心特征：**绝对集中**与**鲜明梯队**。\n\n*   **“一超”格局确立**：中国以960.8百万吨的产量占据了全球52%的份额，其产量超过了榜单上第2名至第11名国家的产量总和（约550.6百万吨）。这种压倒性的优势源于其庞大的国内基础设施建设需求、完整的工业体系以及规模效应。\n*   **“多强”梯队分明**：\n    *   **第二梯队**（产量100-200 Mt）：仅有印度（164.9 Mt）一家，虽然排名第二，但体量与第一的中国存在代差。\n    *   **第三梯队**（产量60-100 Mt）：包括美国、日本、俄罗斯、韩国，均为传统工业强国，产量在60-82百万吨区间。\n    *   **第四梯队**（产量30-60 Mt）：土耳其、德国、巴西、伊朗，产量在30-40百万吨左右。\n    *   **长尾梯队**：从第11名越南（24.7 Mt）开始，产量迅速衰减至个位数，国家数量众多但总份额有限。\n\n## 二、机制与趋势解读\n\n这种生产格局的形成是多种因素共同作用的结果，同时也预示着未来的一些趋势。\n\n*   **核心驱动因素**：\n    *   **经济体量与工业化阶段**：钢铁是“工业的粮食”，产量直接反映一个国家的工业化水平和经济规模。中国、印度、美国等排名靠前的国家，无不对应着巨大的经济体量或处于快速工业化进程中。\n    *   **资源禀赋与基础设施需求**：丰富的铁矿石、煤炭资源（如澳大利亚、巴西虽未进入前十，但为主要出口国）或庞大的国内基建、房地产、制造业需求是产能建设的直接驱动力。\n    *   **产业政策与全球化**：各国政府的产业扶持政策、贸易保护措施（如美国的关税政策）以及全球供应链布局，也深刻影响着产能的分布与转移。\n\n*   **未来启示与局限**：\n    *   **绿色转型压力**：作为高碳排放行业，排名靠前的钢铁生产大国均面临巨大的减碳压力。中国已提出“双碳”目标，钢铁行业的产能置换、技术升级（如氢冶金、电炉钢）将是未来关键。\n    *   **供应链安全考量**：近年来的地缘政治冲突凸显了关键工业品供应链安全的重要性。欧洲（如德国、意大利）以及美国，可能更倾向于推动“近岸外包”或提升本土产能韧性，这可能重塑未来产能分布。\n    *   **数据局限**：该排名仅反映粗钢产量，未涉及高端特种钢材的生产能力和技术附加值。例如，瑞典、奥地利等国的产量虽小，但在特种钢领域具有强大竞争力。此外，产能利用率、能源结构等信息未被包含，影响了对行业效率与可持续性的全面评估。",
+      "glossary": [
+        {
+          "term": "粗钢",
+          "explanation": "指完成了冶炼过程（包括转炉、电炉冶炼），并已浇注成形，但尚未进行塑性加工（如轧制、锻造）的钢坯。产量是衡量一个国家钢铁工业规模的核心指标。"
+        },
+        {
+          "term": "产能利用率",
+          "explanation": "实际钢铁产量与设计产能的比率。是衡量行业景气度和产能过剩情况的关键指标，高利用率通常意味着市场需求旺盛。"
+        },
+        {
+          "term": "氢冶金",
+          "explanation": "一种新兴的低碳钢铁生产技术，利用氢气替代焦炭作为还原剂，在还原铁矿石的过程中主要产生水而非二氧化碳，是钢铁行业实现脱碳的重要技术路径。"
+        },
+        {
+          "term": "电炉钢",
+          "explanation": "以废钢或直接还原铁为主要原料，使用电力作为能源在电弧炉中炼成的钢。相较于传统的高炉-转炉流程，其碳排放显著降低，是钢铁绿色转型的另一关键路径。"
+        }
+      ]
+    }
+  },
+  {
     "id": "83554fde",
     "title": "The 10 Biggest Challenges Companies Face Right Now",
     "original_url": "https://www.visualcapitalist.com/sp/lc01-the-10-biggest-challenges-companies-face-right-now/",
