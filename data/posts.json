@@ -1,5 +1,756 @@
 [
   {
+    "id": "537228f1",
+    "title": "Mapped: America’s Deadliest States for Workers",
+    "original_url": "https://www.visualcapitalist.com/deadliest-states-to-work-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/537228f1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCtuzTGfFMicGic8V4KhrY72g8+is93IaitfYoi5PE5FLLJlaYtNk6V1+zVzl9rIrMfmoobrRWvIhc7P//Z",
+    "image_version": 1779551578,
+    "pub_date": "Sat, 23 May 2026 14:37:31 +0000",
+    "content_md": "| Rank | State | Fatal Injury Rate 2024(per 100K full-time equivalent employees) |\n| --- | --- | --- |\n| 1 | Wyoming | 13.9 |\n| 2 | Mississippi | 8.0 |\n| 3 | Alaska | 7.1 |\n| 4 | North Dakota | 6.8 |\n| 5 | Arkansas | 6.2 |\n| 6 | Montana | 5.8 |\n| 7 | South Dakota | 5.8 |\n| 8 | West Virginia | 5.8 |\n| 9 | Iowa | 5.2 |\n| 10 | Louisiana | 5.1 |\n| 11 | Tennessee | 5.1 |\n| 12 | Idaho | 5.0 |\n| 13 | South Carolina | 4.5 |\n| 14 | Indiana | 4.3 |\n| 15 | Missouri | 4.2 |\n| 16 | Kansas | 4.1 |\n| 17 | North Carolina | 4.1 |\n| 18 | Oklahoma | 4.1 |\n| 19 | Texas | 3.9 |\n| 20 | Kentucky | 3.7 |\n| 21 | Utah | 3.7 |\n| 22 | Wisconsin | 3.7 |\n| 23 | Alabama | 3.6 |\n| 24 | New Mexico | 3.6 |\n| 25 | Georgia | 3.4 |\n| 26 | Michigan | 3.3 |\n| 27 | Colorado | 3.2 |\n| 28 | Maryland | 3.2 |\n| 29 | Ohio | 3.2 |\n| 30 | Virginia | 3.2 |\n| 31 | Pennsylvania | 3.1 |\n| 32 | District of Columbia | 3.0 |\n| 33 | Maine | 3.0 |\n| 34 | Florida | 2.9 |\n| 35 | Minnesota | 2.9 |\n| 36 | Arizona | 2.8 |\n| 37 | Washington | 2.8 |\n| 38 | Hawaii | 2.7 |\n| 39 | Illinois | 2.7 |\n| 40 | Nebraska | 2.6 |\n| 41 | Oregon | 2.6 |\n| 42 | California | 2.4 |\n| 43 | New York | 2.4 |\n| 44 | Connecticut | 2.3 |\n| 45 | Nevada | 2.3 |\n| 46 | Vermont | 2.2 |\n| 47 | Massachusetts | 2.1 |\n| 48 | Delaware | 2.0 |\n| 49 | New Jersey | 1.9 |\n| 50 | New Hampshire | 1.7 |\n| 51 | Rhode Island | 1.1 |\n| -- | U.S. Average | 3.3 |",
+    "ai_analysis": {
+      "core_insight": "美国各州工伤死亡率差异悬殊，能源与农业州风险显著偏高。",
+      "data_highlights": [
+        "怀俄明州以13.9的死亡率遥遥领先，是全美平均水平的4倍以上。",
+        "排名前十的州多为资源开采或农业大州，如阿拉斯加、北达科他、西弗吉尼亚等。",
+        "东北部及西海岸州普遍安全，罗德岛州死亡率仅1.1，为全国最低。",
+        "全美平均死亡率为3.3，超过半数的州（27个）高于此平均水平。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Fatal Injury Rate 2024(per 100K full-time equivalent employees)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Wyoming",
+              "13.9"
+            ],
+            [
+              "2",
+              "Mississippi",
+              "8.0"
+            ],
+            [
+              "3",
+              "Alaska",
+              "7.1"
+            ],
+            [
+              "4",
+              "North Dakota",
+              "6.8"
+            ],
+            [
+              "5",
+              "Arkansas",
+              "6.2"
+            ],
+            [
+              "6",
+              "Montana",
+              "5.8"
+            ],
+            [
+              "7",
+              "South Dakota",
+              "5.8"
+            ],
+            [
+              "8",
+              "West Virginia",
+              "5.8"
+            ],
+            [
+              "9",
+              "Iowa",
+              "5.2"
+            ],
+            [
+              "10",
+              "Louisiana",
+              "5.1"
+            ],
+            [
+              "11",
+              "Tennessee",
+              "5.1"
+            ],
+            [
+              "12",
+              "Idaho",
+              "5.0"
+            ],
+            [
+              "13",
+              "South Carolina",
+              "4.5"
+            ],
+            [
+              "14",
+              "Indiana",
+              "4.3"
+            ],
+            [
+              "15",
+              "Missouri",
+              "4.2"
+            ],
+            [
+              "16",
+              "Kansas",
+              "4.1"
+            ],
+            [
+              "17",
+              "North Carolina",
+              "4.1"
+            ],
+            [
+              "18",
+              "Oklahoma",
+              "4.1"
+            ],
+            [
+              "19",
+              "Texas",
+              "3.9"
+            ],
+            [
+              "20",
+              "Kentucky",
+              "3.7"
+            ],
+            [
+              "21",
+              "Utah",
+              "3.7"
+            ],
+            [
+              "22",
+              "Wisconsin",
+              "3.7"
+            ],
+            [
+              "23",
+              "Alabama",
+              "3.6"
+            ],
+            [
+              "24",
+              "New Mexico",
+              "3.6"
+            ],
+            [
+              "25",
+              "Georgia",
+              "3.4"
+            ],
+            [
+              "26",
+              "Michigan",
+              "3.3"
+            ],
+            [
+              "27",
+              "Colorado",
+              "3.2"
+            ],
+            [
+              "28",
+              "Maryland",
+              "3.2"
+            ],
+            [
+              "29",
+              "Ohio",
+              "3.2"
+            ],
+            [
+              "30",
+              "Virginia",
+              "3.2"
+            ],
+            [
+              "31",
+              "Pennsylvania",
+              "3.1"
+            ],
+            [
+              "32",
+              "District of Columbia",
+              "3.0"
+            ],
+            [
+              "33",
+              "Maine",
+              "3.0"
+            ],
+            [
+              "34",
+              "Florida",
+              "2.9"
+            ],
+            [
+              "35",
+              "Minnesota",
+              "2.9"
+            ],
+            [
+              "36",
+              "Arizona",
+              "2.8"
+            ],
+            [
+              "37",
+              "Washington",
+              "2.8"
+            ],
+            [
+              "38",
+              "Hawaii",
+              "2.7"
+            ],
+            [
+              "39",
+              "Illinois",
+              "2.7"
+            ],
+            [
+              "40",
+              "Nebraska",
+              "2.6"
+            ],
+            [
+              "41",
+              "Oregon",
+              "2.6"
+            ],
+            [
+              "42",
+              "California",
+              "2.4"
+            ],
+            [
+              "43",
+              "New York",
+              "2.4"
+            ],
+            [
+              "44",
+              "Connecticut",
+              "2.3"
+            ],
+            [
+              "45",
+              "Nevada",
+              "2.3"
+            ],
+            [
+              "46",
+              "Vermont",
+              "2.2"
+            ],
+            [
+              "47",
+              "Massachusetts",
+              "2.1"
+            ],
+            [
+              "48",
+              "Delaware",
+              "2.0"
+            ],
+            [
+              "49",
+              "New Jersey",
+              "1.9"
+            ],
+            [
+              "50",
+              "New Hampshire",
+              "1.7"
+            ],
+            [
+              "51",
+              "Rhode Island",
+              "1.1"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "3.3"
+            ]
+          ],
+          "caption": "2024年美国各州工伤死亡率排名（每10万全职当量员工）"
+        }
+      ],
+      "deep_dive": "## 经济结构与职业安全的地域鸿沟\n\n美国各州工伤死亡率的巨大差异，深刻反映了其经济结构与产业形态的地域性鸿沟。排名靠前的州，其高死亡率往往与主导产业的固有高风险特性紧密相关。例如：\n- **怀俄明州、西弗吉尼亚州、北达科他州**：这些州是传统的能源和采矿业重镇，石油、天然气、煤炭开采及管道作业环境复杂，事故致命风险极高。\n- **阿拉斯加州、蒙大拿州、南达科他州**：广袤的地理环境与严酷的气候条件，使得林业、农业（尤其是大型农场作业）和远程资源开采面临独特的安全挑战。\n- **密西西比州、阿肯色州**：农业综合企业、制造业（特别是木材加工）是重要产业，相关机械操作、运输环节风险较高。\n\n相反，排名靠后的州，如罗德岛、新罕布什尔、新泽西等，其经济以服务业、高科技制造业、金融和教育为主，工作环境相对标准化和室内化，物理性致命风险显著降低。这种对比揭示了产业升级与职业安全之间的正相关关系。\n\n## 安全监管、文化因素与政策启示\n\n产业类型并非唯一决定因素，各州的安全监管力度、执法严格程度、雇主安全文化以及劳工组织力量也扮演关键角色。一些高风险州可能面临监管资源不足、违规成本较低或安全培训普及度不高的问题。\n\n**政策启示与局限**：\n1.  **精准施策**：联邦及州政府应针对高死亡率州的重点行业（如采矿、农业）实施更严格的安全标准、加强检查频率并推广先进安全技术。\n2.  **数据驱动的资源分配**：此排名可作为职业安全健康管理局（OSHA）等机构进行风险评估和资源分配的重要参考，将有限资源投向风险最高的地区和行业。\n3.  **局限与背景**：数据基于“每10万全职当量员工”的标准化计算，消除了就业规模的影响，具有可比性。但需注意，它未涵盖工伤（非致命）和职业病，后者同样造成巨大社会损失。此外，各州人口结构、季节性用工波动等因素也可能影响具体数字。\n\n总之，这份地图不仅是一张风险警示图，更应成为推动美国职业安全政策从“一刀切”向“精准化、差异化”转型的催化剂。",
+      "glossary": [
+        {
+          "term": "Fatal Injury Rate",
+          "explanation": "致命工伤率，指在一定时期内（通常为一年），每10万名全职当量员工中因工伤死亡的人数。是衡量职业安全水平的核心指标。"
+        },
+        {
+          "term": "Full-time equivalent employees",
+          "explanation": "全职当量员工，一种将兼职员工工作时间折算为全职员工工作量的标准化计算方法，用于更准确地比较不同规模企业的风险。"
+        },
+        {
+          "term": "OSHA",
+          "explanation": "美国职业安全与健康管理局，美国联邦政府机构，负责制定和执行工作场所安全与健康标准，以预防工伤、职业病和死亡。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8fa47c1b",
+    "title": "Ranked: The World’s Most & Least Free Countries",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/8fa47c1b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmY6e7YFMWkk6VozJPUjL80VEetFI0P//Z",
+    "image_version": 1779551608,
+    "pub_date": "Sat, 23 May 2026 11:54:40 +0000",
+    "content_md": "| Country / Territory | Freedom Score (0-100) | Status |\n| --- | --- | --- |\n| Finland | 100 | Free |\n| New Zealand | 99 | Free |\n| Norway | 99 | Free |\n| Sweden | 99 | Free |\n| Ireland | 98 | Free |\n| Canada | 97 | Free |\n| Denmark | 97 | Free |\n| Luxembourg | 97 | Free |\n| Netherlands | 97 | Free |\n| San Marino | 97 | Free |\n| Slovenia | 97 | Free |\n| Uruguay | 97 | Free |\n| Estonia | 96 | Free |\n| Japan | 96 | Free |\n| Portugal | 96 | Free |\n| Switzerland | 96 | Free |\n| Belgium | 95 | Free |\n| Chile | 95 | Free |\n| Czechia | 95 | Free |\n| Germany | 95 | Free |\n| Iceland | 95 | Free |\n| Australia | 94 | Free |\n| Austria | 94 | Free |\n| Barbados | 94 | Free |\n| Andorra | 93 | Free |\n| Marshall Islands | 93 | Free |\n| Taiwan | 93 | Free |\n| Tuvalu | 93 | Free |\n| Cape Verde | 92 | Free |\n| Dominica | 92 | Free |\n| Micronesia | 92 | Free |\n| Palau | 92 | Free |\n| United Kingdom | 92 | Free |\n| Costa Rica | 91 | Free |\n| Saint Lucia | 91 | Free |\n| Spain | 91 | Free |\n| U.S. | 81 | Free |\n\n| Country / Territory | Freedom Score (0-100) | Status |\n| --- | --- | --- |\n| South Sudan | 0 | Not Free |\n| Sudan | 1 | Not Free |\n| Turkmenistan | 1 | Not Free |\n| Eritrea | 3 | Not Free |\n| North Korea | 3 | Not Free |\n| Myanmar | 4 | Not Free |\n| Central African Republic | 5 | Not Free |\n| Equatorial Guinea | 5 | Not Free |\n| Tajikistan | 5 | Not Free |\n| Azerbaijan | 6 | Not Free |\n| Belarus | 7 | Not Free |\n| Afghanistan | 8 | Not Free |\n| Somalia | 8 | Not Free |\n| China | 9 | Not Free |\n| Cuba | 9 | Not Free |\n| Saudi Arabia | 9 | Not Free |\n| Iran | 10 | Not Free |\n| Libya | 10 | Not Free |\n| Syria | 10 | Not Free |\n| Yemen | 10 | Not Free |\n| Bahrain | 12 | Not Free |\n| Russia | 12 | Not Free |\n| Uzbekistan | 12 | Not Free |\n| Burundi | 13 | Not Free |\n| Laos | 13 | Not Free |\n| Venezuela | 13 | Not Free |\n| Nicaragua | 14 | Not Free |\n| Cameroon | 15 | Not Free |\n| Chad | 15 | Not Free |\n| Congo (Brazzaville) | 17 | Not Free |\n| Eswatini | 17 | Not Free |\n| Congo (Kinshasa) | 18 | Not Free |\n| Egypt | 18 | Not Free |\n| Ethiopia | 18 | Not Free |\n| United Arab Emirates | 18 | Not Free |\n| Burkina Faso | 20 | Not Free |\n| Vietnam | 20 | Not Free |\n| Mali | 21 | Not Free |\n| Rwanda | 21 | Not Free |",
+    "ai_analysis": {
+      "core_insight": "全球自由程度两极分化显著，北欧国家领跑，非洲与中东多国垫底。",
+      "data_highlights": [
+        "芬兰以满分100分位居全球最自由国家榜首，紧随其后的新西兰、挪威、瑞典均获99分。",
+        "南苏丹以0分成为全球最不自由的国家，苏丹、土库曼斯坦并列倒数第二（1分）。",
+        "美国自由度评分为81分，属于“自由”阵营但排名靠后，与欧洲多数发达国家存在差距。",
+        "东亚地区日本（96分）、中国台湾（93分）属“自由”，而中国大陆（9分）属“不自由”，呈现鲜明对比。",
+        "欧洲国家（如芬兰、挪威、瑞典）与中东/非洲国家（如南苏丹、苏丹）的评分差距高达100分，自由度鸿沟巨大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country / Territory",
+            "Freedom Score (0-100)",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Finland",
+              "100",
+              "Free"
+            ],
+            [
+              "New Zealand",
+              "99",
+              "Free"
+            ],
+            [
+              "Norway",
+              "99",
+              "Free"
+            ],
+            [
+              "Sweden",
+              "99",
+              "Free"
+            ],
+            [
+              "Ireland",
+              "98",
+              "Free"
+            ],
+            [
+              "Canada",
+              "97",
+              "Free"
+            ],
+            [
+              "Denmark",
+              "97",
+              "Free"
+            ],
+            [
+              "Luxembourg",
+              "97",
+              "Free"
+            ],
+            [
+              "Netherlands",
+              "97",
+              "Free"
+            ],
+            [
+              "San Marino",
+              "97",
+              "Free"
+            ],
+            [
+              "Slovenia",
+              "97",
+              "Free"
+            ],
+            [
+              "Uruguay",
+              "97",
+              "Free"
+            ],
+            [
+              "Estonia",
+              "96",
+              "Free"
+            ],
+            [
+              "Japan",
+              "96",
+              "Free"
+            ],
+            [
+              "Portugal",
+              "96",
+              "Free"
+            ],
+            [
+              "Switzerland",
+              "96",
+              "Free"
+            ],
+            [
+              "Belgium",
+              "95",
+              "Free"
+            ],
+            [
+              "Chile",
+              "95",
+              "Free"
+            ],
+            [
+              "Czechia",
+              "95",
+              "Free"
+            ],
+            [
+              "Germany",
+              "95",
+              "Free"
+            ],
+            [
+              "Iceland",
+              "95",
+              "Free"
+            ],
+            [
+              "Australia",
+              "94",
+              "Free"
+            ],
+            [
+              "Austria",
+              "94",
+              "Free"
+            ],
+            [
+              "Barbados",
+              "94",
+              "Free"
+            ],
+            [
+              "Andorra",
+              "93",
+              "Free"
+            ],
+            [
+              "Marshall Islands",
+              "93",
+              "Free"
+            ],
+            [
+              "Taiwan",
+              "93",
+              "Free"
+            ],
+            [
+              "Tuvalu",
+              "93",
+              "Free"
+            ],
+            [
+              "Cape Verde",
+              "92",
+              "Free"
+            ],
+            [
+              "Dominica",
+              "92",
+              "Free"
+            ],
+            [
+              "Micronesia",
+              "92",
+              "Free"
+            ],
+            [
+              "Palau",
+              "92",
+              "Free"
+            ],
+            [
+              "United Kingdom",
+              "92",
+              "Free"
+            ],
+            [
+              "Costa Rica",
+              "91",
+              "Free"
+            ],
+            [
+              "Saint Lucia",
+              "91",
+              "Free"
+            ],
+            [
+              "Spain",
+              "91",
+              "Free"
+            ],
+            [
+              "U.S.",
+              "81",
+              "Free"
+            ]
+          ],
+          "caption": "全球最自由国家/地区（自由评分前37名）"
+        },
+        {
+          "headers": [
+            "Country / Territory",
+            "Freedom Score (0-100)",
+            "Status"
+          ],
+          "rows": [
+            [
+              "South Sudan",
+              "0",
+              "Not Free"
+            ],
+            [
+              "Sudan",
+              "1",
+              "Not Free"
+            ],
+            [
+              "Turkmenistan",
+              "1",
+              "Not Free"
+            ],
+            [
+              "Eritrea",
+              "3",
+              "Not Free"
+            ],
+            [
+              "North Korea",
+              "3",
+              "Not Free"
+            ],
+            [
+              "Myanmar",
+              "4",
+              "Not Free"
+            ],
+            [
+              "Central African Republic",
+              "5",
+              "Not Free"
+            ],
+            [
+              "Equatorial Guinea",
+              "5",
+              "Not Free"
+            ],
+            [
+              "Tajikistan",
+              "5",
+              "Not Free"
+            ],
+            [
+              "Azerbaijan",
+              "6",
+              "Not Free"
+            ],
+            [
+              "Belarus",
+              "7",
+              "Not Free"
+            ],
+            [
+              "Afghanistan",
+              "8",
+              "Not Free"
+            ],
+            [
+              "Somalia",
+              "8",
+              "Not Free"
+            ],
+            [
+              "China",
+              "9",
+              "Not Free"
+            ],
+            [
+              "Cuba",
+              "9",
+              "Not Free"
+            ],
+            [
+              "Saudi Arabia",
+              "9",
+              "Not Free"
+            ],
+            [
+              "Iran",
+              "10",
+              "Not Free"
+            ],
+            [
+              "Libya",
+              "10",
+              "Not Free"
+            ],
+            [
+              "Syria",
+              "10",
+              "Not Free"
+            ],
+            [
+              "Yemen",
+              "10",
+              "Not Free"
+            ],
+            [
+              "Bahrain",
+              "12",
+              "Not Free"
+            ],
+            [
+              "Russia",
+              "12",
+              "Not Free"
+            ],
+            [
+              "Uzbekistan",
+              "12",
+              "Not Free"
+            ],
+            [
+              "Burundi",
+              "13",
+              "Not Free"
+            ],
+            [
+              "Laos",
+              "13",
+              "Not Free"
+            ],
+            [
+              "Venezuela",
+              "13",
+              "Not Free"
+            ],
+            [
+              "Nicaragua",
+              "14",
+              "Not Free"
+            ],
+            [
+              "Cameroon",
+              "15",
+              "Not Free"
+            ],
+            [
+              "Chad",
+              "15",
+              "Not Free"
+            ],
+            [
+              "Congo (Brazzaville)",
+              "17",
+              "Not Free"
+            ],
+            [
+              "Eswatini",
+              "17",
+              "Not Free"
+            ],
+            [
+              "Congo (Kinshasa)",
+              "18",
+              "Not Free"
+            ],
+            [
+              "Egypt",
+              "18",
+              "Not Free"
+            ],
+            [
+              "Ethiopia",
+              "18",
+              "Not Free"
+            ],
+            [
+              "United Arab Emirates",
+              "18",
+              "Not Free"
+            ],
+            [
+              "Burkina Faso",
+              "20",
+              "Not Free"
+            ],
+            [
+              "Vietnam",
+              "20",
+              "Not Free"
+            ],
+            [
+              "Mali",
+              "21",
+              "Not Free"
+            ],
+            [
+              "Rwanda",
+              "21",
+              "Not Free"
+            ]
+          ],
+          "caption": "全球最不自由国家/地区（自由评分后40名）"
+        }
+      ],
+      "deep_dive": "## 自由版图的全球格局：高度集聚与显著断层\n\n数据显示，全球自由度呈现明显的“俱乐部”效应和地理集聚特征。得分在90分以上的“自由”国家高度集中于西欧、北欧、北美、大洋洲以及拉美少数国家。其中，**北欧四国（芬兰、挪威、瑞典、丹麦）以及爱尔兰、加拿大等构成了全球自由度的“绝对核心”**，分数均在97分及以上。这种集聚现象表明，高自由度与成熟的民主制度、稳定的法治环境以及开放的社会文化高度相关。\n\n与此形成断崖式对比的是，得分低于20分的“不自由”国家主要分布在撒哈拉以南非洲、中东、中亚及部分东南亚国家。**南苏丹（0分）、苏丹（1分）等国的得分，揭示了其在政治权利与公民自由方面面临的极端挑战**，通常与长期冲突、治理失败或威权统治紧密相连。这种“核心-边缘”的格局，清晰地勾勒出全球治理水平的巨大鸿沟。\n\n## 关键案例分析：美国的定位与东亚的分裂\n\n在“自由”阵营内部，也存在显著分层。传统西方大国中，**美国以81分的评分垫底于欧洲多数发达国家**，这反映了其在民主实践、社会权利等方面可能面临的独特挑战或争议。相比之下，东亚地区呈现有趣的“分裂”状态：日本（96分）和中国台湾（93分）被列为“自由”，而中国大陆（9分）则处于“不自由”的另一端。这种同一区域内高达84分的差距，凸显了政治制度与发展路径的根本性差异。\n\n## 方法论启示与数据局限\n\n此类自由度评分通常基于对政治权利（如选举、政治参与）和公民自由（如言论、结社自由）的量化评估。其价值在于提供了一个直观的比较框架，但需注意其局限性。首先，评分标准可能隐含特定的意识形态偏好。其次，单一分数难以完全捕捉一国内部的复杂性，例如某些高分国家可能在特定领域（如移民权利）存在短板，而低分国家内部也可能存在进步的空间。因此，数据应结合具体国情进行深度解读，避免简单化和标签化。",
+      "glossary": [
+        {
+          "term": "自由评分",
+          "explanation": "基于政治权利和公民自由两项指标对国家/地区进行量化评估得出的分数，范围0-100，分数越高表示自由度越高。"
+        },
+        {
+          "term": "政治权利",
+          "explanation": "指公民参与政治过程的权利，如自由公平的选举权、组建政治团体的权利、政府更迭的自由等。"
+        },
+        {
+          "term": "公民自由",
+          "explanation": "指个人在不受政府不当干预下所能享有的自由，包括言论自由、新闻自由、集会自由、宗教自由以及法律面前人人平等。"
+        },
+        {
+          "term": "自由",
+          "explanation": "在此数据背景下，指自由评分达到一定标准（通常为较高分数）的国家/地区类别，通常拥有相对开放的政治环境和公民社会。"
+        },
+        {
+          "term": "不自由",
+          "explanation": "在此数据背景下，指自由评分极低的国家/地区类别，其政治权利与公民自由受到严重限制，通常由威权政府统治。"
+        }
+      ]
+    }
+  },
+  {
     "id": "13e2ea76",
     "title": "The Biggest Crypto Hacks Since 2025, Ranked by Money Lost",
     "original_url": "https://www.visualcapitalist.com/sp/ig02-biggest-crypto-hacks-since-2025/",
