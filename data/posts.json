@@ -1,5 +1,197 @@
 [
   {
+    "id": "cedc999e",
+    "title": "Ranked: Spotify’s Most Streamed Albums Ever",
+    "original_url": "https://www.visualcapitalist.com/ranked-spotifys-most-streamed-albums-ever/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/cedc999e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlEGTV+2TpVKPrWpajpUyPLnsWlT5aKlXpRWVjlsf/2Q==",
+    "image_version": 1779562287,
+    "pub_date": "Sat, 23 May 2026 17:24:37 +0000",
+    "content_md": "| Rank | Album | Streams (Billions) | Artist | Year |\n| --- | --- | --- | --- | --- |\n| 1 | Un Verano Sin Ti | 22.79 | Bad Bunny | 2022 |\n| 2 | Starboy | 20.97 | The Weeknd | 2016 |\n| 3 | ÷ | 18.99 | Ed Sheeran | 2017 |\n| 4 | SOUR | 17.96 | Olivia Rodrigo | 2021 |\n| 5 | Future Nostalgia | 17.74 | Dua Lipa | 2020 |\n| 6 | SOS | 17.62 | SZA | 2022 |\n| 7 | Hollywood's Bleeding | 16.37 | Post Malone | 2019 |\n| 8 | Lover | 16.36 | Taylor Swift | 2019 |\n| 9 | After Hours | 16.10 | The Weeknd | 2020 |\n| 10 | AM | 15.22 | Arctic Monkeys | 2013 |\n| 11 | Scorpion | 14.86 | Drake | 2018 |\n| 12 | beerbongs & bentleys | 14.77 | Post Malone | 2018 |\n| 13 | Mañana Será Bonito | 14.24 | KAROL G | 2023 |\n| 14 | Views | 14.19 | Drake | 2016 |\n| 15 | YHLQMDLG | 14.11 | Bad Bunny | 2020 |\n| 16 | Midnights | 14.02 | Taylor Swift | 2022 |\n| 17 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 13.70 | Billie Eilish | 2019 |\n| 18 | ? | 12.59 | XXXTENTACION | 2018 |\n| 19 | Doo-Wops & Hooligans | 12.32 | Bruno Mars | 2010 |\n| 20 | Beauty Behind The Madness | 11.53 | The Weeknd | 2015 |",
+    "ai_analysis": {
+      "core_insight": "流媒体时代，拉丁与流行音乐占据主导，专辑长尾效应显著。",
+      "data_highlights": [
+        "Bad Bunny的《Un Verano Sin Ti》以227.9亿次播放量高居榜首，是唯一突破220亿的专辑。",
+        "The Weeknd是唯一有三张专辑上榜的歌手（第2、9、20位），展现持久影响力。",
+        "Top 20专辑发行年份跨度从2010年至2023年，显示经典与新生代作品均具强大生命力。",
+        "2019年与2022年是上榜专辑最多的年份，各有四张专辑进入前20名。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Album",
+            "Streams (Billions)",
+            "Artist",
+            "Year"
+          ],
+          "rows": [
+            [
+              "1",
+              "Un Verano Sin Ti",
+              "22.79",
+              "Bad Bunny",
+              "2022"
+            ],
+            [
+              "2",
+              "Starboy",
+              "20.97",
+              "The Weeknd",
+              "2016"
+            ],
+            [
+              "3",
+              "÷",
+              "18.99",
+              "Ed Sheeran",
+              "2017"
+            ],
+            [
+              "4",
+              "SOUR",
+              "17.96",
+              "Olivia Rodrigo",
+              "2021"
+            ],
+            [
+              "5",
+              "Future Nostalgia",
+              "17.74",
+              "Dua Lipa",
+              "2020"
+            ],
+            [
+              "6",
+              "SOS",
+              "17.62",
+              "SZA",
+              "2022"
+            ],
+            [
+              "7",
+              "Hollywood's Bleeding",
+              "16.37",
+              "Post Malone",
+              "2019"
+            ],
+            [
+              "8",
+              "Lover",
+              "16.36",
+              "Taylor Swift",
+              "2019"
+            ],
+            [
+              "9",
+              "After Hours",
+              "16.10",
+              "The Weeknd",
+              "2020"
+            ],
+            [
+              "10",
+              "AM",
+              "15.22",
+              "Arctic Monkeys",
+              "2013"
+            ],
+            [
+              "11",
+              "Scorpion",
+              "14.86",
+              "Drake",
+              "2018"
+            ],
+            [
+              "12",
+              "beerbongs & bentleys",
+              "14.77",
+              "Post Malone",
+              "2018"
+            ],
+            [
+              "13",
+              "Mañana Será Bonito",
+              "14.24",
+              "KAROL G",
+              "2023"
+            ],
+            [
+              "14",
+              "Views",
+              "14.19",
+              "Drake",
+              "2016"
+            ],
+            [
+              "15",
+              "YHLQMDLG",
+              "14.11",
+              "Bad Bunny",
+              "2020"
+            ],
+            [
+              "16",
+              "Midnights",
+              "14.02",
+              "Taylor Swift",
+              "2022"
+            ],
+            [
+              "17",
+              "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+              "13.70",
+              "Billie Eilish",
+              "2019"
+            ],
+            [
+              "18",
+              "?",
+              "12.59",
+              "XXXTENTACION",
+              "2018"
+            ],
+            [
+              "19",
+              "Doo-Wops & Hooligans",
+              "12.32",
+              "Bruno Mars",
+              "2010"
+            ],
+            [
+              "20",
+              "Beauty Behind The Madness",
+              "11.53",
+              "The Weeknd",
+              "2015"
+            ]
+          ],
+          "caption": "Spotify历史播放量最高专辑排名（Top 20）"
+        }
+      ],
+      "deep_dive": "## 流媒体时代的音乐格局：从霸榜现象看产业趋势\n\nSpotify的历史播放量榜单不仅是人气排名，更是全球音乐消费行为的缩影。它清晰地描绘了过去十余年间，音乐产业从实体销售向流媒体平台迁移后的新秩序。榜单前列被拉丁音乐与主流流行音乐牢牢占据，反映了算法推荐、全球化歌单以及跨文化消费习惯对音乐传播路径的根本性重塑。\n\n## 艺术家与作品的胜利：多维度的成功逻辑\n\n**艺术家层面**，The Weeknd、Post Malone、Drake、Taylor Swift和Bad Bunny等“常青树”与新生代力量共同主导了榜单。其中，The Weeknd凭借不同时期的专辑（2015、2016、2020）持续产生影响，展现了其音乐风格的适应性与粉丝基础的稳定性。Bad Bunny以西语专辑登顶，则标志着非英语音乐在主流平台上的历史性突破，其成功与拉丁文化的全球扩张及年轻听众对新鲜节奏的追求密不可分。\n\n**作品层面**，成功原因各异：\n- **风格融合**：冠军专辑《Un Verano Sin Ti》将雷鬼顿、拉丁流行与沙滩音乐融合，创造了极具感染力的夏日氛围。\n- **情感共鸣**：如Olivia Rodrigo的《SOUR》精准捕捉了Z世代的青春情感，Billie Eilish的暗黑美学则开辟了新声域。\n- **长尾效应**：Arctic Monkeys 2013年的《AM》与Bruno Mars 2010年的《Doo-Wops & Hooligans》仍在榜，证明优质作品能超越时代，在流媒体时代获得“数字重生”。\n\n## 对比、启示与局限\n\n**对比分析**显示，榜单中近半数专辑发行于2018-2022年，表明流媒体消费偏好较新的作品，但经典专辑（如2010年的《Doo-Wops & Hooligans》）仍占有一席之地，说明“爆款”和“经典”并存。然而，**榜单的局限性**在于：它主要反映累积播放量，会天然偏向发行时间较长的专辑。同时，播放量不等于艺术价值或收入，且可能受到促销、歌单位置等商业因素影响。\n\n总体而言，这份榜单启示音乐产业：在全球化流媒体平台上，跨越语言和风格的融合创新、与数字原生代的情感连接、以及打造具有长久播放价值的“长青”作品，是取得商业成功的关键要素。未来，算法与用户行为数据将继续深度塑造音乐的传播与消费模式。",
+      "glossary": [
+        {
+          "term": "流媒体 (Streaming)",
+          "explanation": "一种通过互联网即时传输并播放音视频内容的数字媒体分发模式，用户无需下载，Spotify即采用此模式。"
+        },
+        {
+          "term": "长尾效应 (Long Tail Effect)",
+          "explanation": "在流媒体平台，大量非热门或经典作品能通过算法推荐持续获得播放，形成长期累积收益，不同于传统唱片销售的“短头”爆款模式。"
+        },
+        {
+          "term": "雷鬼顿 (Reggaeton)",
+          "explanation": "起源于拉丁美洲的一种音乐风格，融合了嘻哈、拉丁音乐和加勒比节奏，以 dembow 节奏为特点，是Bad Bunny等艺术家成功的关键元素。"
+        },
+        {
+          "term": "算法推荐 (Algorithmic Recommendation)",
+          "explanation": "流媒体平台利用用户数据和机器学习技术，自动向用户推送可能感兴趣的音乐内容，极大影响了音乐的曝光和传播路径。"
+        }
+      ]
+    }
+  },
+  {
     "id": "537228f1",
     "title": "Mapped: America’s Deadliest States for Workers",
     "original_url": "https://www.visualcapitalist.com/deadliest-states-to-work-in-america/",
