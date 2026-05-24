@@ -1,5 +1,106 @@
 [
   {
+    "id": "a3f2234b",
+    "title": "The Race to Build the World’s Tallest Skyscraper",
+    "original_url": "https://www.visualcapitalist.com/timeline-the-worlds-tallest-buildings/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a3f2234b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtnamqeaGpq9aoRYB4opg6UUDP/9k=",
+    "image_version": 1779637955,
+    "pub_date": "Sun, 24 May 2026 14:44:26 +0000",
+    "content_md": "| Year Built | Building | City | Height |\n| --- | --- | --- | --- |\n| 1909 | Metropolitan Life Tower | New York | 213 m / 700 ft |\n| 1913 | Woolworth Building | New York | 241 m / 792 ft |\n| 1930 | Chrysler Building | New York | 319 m / 1,046 ft |\n| 1931 | Empire State Building | New York | 381 m / 1,250 ft |\n| 1972 | One World Trade Center | New York | 417 m / 1,368 ft |\n| 1974 | Willis Tower | Chicago | 442 m / 1,451 ft |\n| 1998 | Petronas Towers | Kuala Lumpur | 452 m / 1,483 ft |\n| 2004 | TAIPEI 101 | Taipei | 508 m / 1,667 ft |\n| 2010 | Burj Khalifa | Dubai | 828 m / 2,717 ft |",
+    "ai_analysis": {
+      "core_insight": "世界最高建筑记录百年演变，重心从北美向亚洲和中东转移，建筑高度呈指数级增长。",
+      "data_highlights": [
+        "从1909年到2010年，世界最高建筑高度从213米跃升至828米，增长近3倍。",
+        "纽约曾连续占据世界最高建筑记录长达65年（1931-1998），直至吉隆坡双子塔建成。",
+        "迪拜的哈利法塔以828米的惊人高度，将纪录提升了376米，标志着中东的崛起。",
+        "进入21世纪，世界最高建筑的角逐已从北美转向亚洲和中东新兴经济体。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year Built",
+            "Building",
+            "City",
+            "Height"
+          ],
+          "rows": [
+            [
+              "1909",
+              "Metropolitan Life Tower",
+              "New York",
+              "213 m / 700 ft"
+            ],
+            [
+              "1913",
+              "Woolworth Building",
+              "New York",
+              "241 m / 792 ft"
+            ],
+            [
+              "1930",
+              "Chrysler Building",
+              "New York",
+              "319 m / 1,046 ft"
+            ],
+            [
+              "1931",
+              "Empire State Building",
+              "New York",
+              "381 m / 1,250 ft"
+            ],
+            [
+              "1972",
+              "One World Trade Center",
+              "New York",
+              "417 m / 1,368 ft"
+            ],
+            [
+              "1974",
+              "Willis Tower",
+              "Chicago",
+              "442 m / 1,451 ft"
+            ],
+            [
+              "1998",
+              "Petronas Towers",
+              "Kuala Lumpur",
+              "452 m / 1,483 ft"
+            ],
+            [
+              "2004",
+              "TAIPEI 101",
+              "Taipei",
+              "508 m / 1,667 ft"
+            ],
+            [
+              "2010",
+              "Burj Khalifa",
+              "Dubai",
+              "828 m / 2,717 ft"
+            ]
+          ],
+          "caption": "历年世界最高建筑记录"
+        }
+      ],
+      "deep_dive": "## 一、高度竞赛的时空轨迹：从纽约独霸到全球角逐\n\n从表格数据清晰可见，世界最高建筑的记录变迁可划分为三个主要阶段：\n\n1.  **纽约的黄金时代（1909-1974）**：在长达半个世纪的时间里，最高建筑的纪录几乎被纽约垄断。从1909年的大都会人寿塔到1974年的威利斯大厦（尽管位于芝加哥，但其开发商和建筑风格仍深度植根于美国商业文化），这一时期见证了美国经济的巅峰与摩天楼作为国家实力象征的兴起。帝国大厦保持了近40年的世界纪录，成为这一时期的标志性符号。\n\n2.  **亚洲的崛起（1998-2004）**：1998年，吉隆坡的双子塔终结了北美长达65年的霸权，这不仅是地理上的转移，更是象征意义的更迭。它标志着亚洲新兴经济体（“亚洲四小龙”及之后的发展）在资本、技术和全球雄心上已能与西方传统强国分庭抗礼。台北101紧随其后，进一步巩固了亚洲在超高层建筑领域的领导地位。\n\n3.  **中东的加冕（2010至今）**：2010年，迪拜哈利法塔的建成，将高度纪录从508米直接拉升至828米，一次将纪录提升了超过60%。这并非简单的“更高”，而是一次断层式的飞跃，反映了中东石油资本寻求经济转型、打造全球地标和旅游目的地的国家战略。哈利法塔至今稳坐王座，其高度优势在短期内难以被撼动。\n\n## 二、驱动因素与未来启示\n\n这一“高度竞赛”背后是多重因素的合力：\n\n- **经济与地缘政治**：建筑高度历来是经济实力和政治雄心的体现。从美国镀金时代到亚洲经济腾飞，再到中东的资本输出，最高建筑的转移路径与全球经济增长极的迁移高度吻合。\n- **技术突破与工程极限**：摩天楼竞赛推动了结构工程、材料科学（如高强度混凝土、玻璃幕墙）和垂直运输技术（高速电梯）的飞速发展。哈利法塔采用的“扶壁核心”结构，正是应对其极端高度的技术创新。\n- **城市营销与地标效应**：一座世界最高建筑能极大地提升城市的国际知名度和吸引力，带来旅游、投资和人才聚集的“光环效应”。迪拜通过哈利法塔成功地将自己从石油城市转型为全球性旅游和商业中心。\n\n然而，这场竞赛也隐含局限与反思。近年来，全球范围内对“摩天大楼咒诅”的讨论增多，即一个国家或城市建造世界最高建筑的时点，往往接近其经济周期的顶部。此外，超高层建筑的巨额造价、维护成本以及环境影响（如巨大的能源消耗和碳足迹）也使其经济可持续性受到质疑。未来，建筑竞赛的焦点可能从单纯追求物理高度，转向更绿色、更智能、更具人文关怀的“高度”。",
+      "glossary": [
+        {
+          "term": "摩天大楼 (Skyscraper)",
+          "explanation": "泛指非常高的多层建筑，通常没有官方统一标准，但一般指高度超过150米的建筑。"
+        },
+        {
+          "term": "扶壁核心 (Buttressed Core)",
+          "explanation": "一种超高层建筑结构体系，以坚固的中央核心筒为基础，并通过外部“翼墙”或“扶壁”来提供额外的侧向支撑，以应对风力等荷载，哈利法塔即采用此结构。"
+        },
+        {
+          "term": "摩天大楼咒诅 (Skyscraper Curse)",
+          "explanation": "一种非正式的经济理论，认为一国或城市开始建造世界最高建筑之时，往往预示着其经济增长即将见顶或进入衰退期。"
+        }
+      ]
+    }
+  },
+  {
     "id": "f5c8c8fa",
     "title": "Mapped: The Second Most-Spoken Language by State",
     "original_url": "https://www.visualcapitalist.com/mapped-the-second-most-spoken-language-by-state/",
