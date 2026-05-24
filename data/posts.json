@@ -1,5 +1,310 @@
 [
   {
+    "id": "f5c8c8fa",
+    "title": "Mapped: The Second Most-Spoken Language by State",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-second-most-spoken-language-by-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f5c8c8fa.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDREVDJgVaUCkdRiur6xqeZ9X0KBXmirBXmiuj2xh7EVZcUrS8VXpjE1wumrm0aztYmMgzRVbJorWxHOz//2Q==",
+    "image_version": 1779627256,
+    "pub_date": "Sun, 24 May 2026 12:22:40 +0000",
+    "content_md": "| State | #2 Language | Speakers |\n| --- | --- | --- |\n| Alabama | Spanish | 187,711 |\n| Alaska | Other Native (North America) | 24,996 |\n| Arizona | Spanish | 1,344,168 |\n| Arkansas | Spanish | 176,128 |\n| California | Spanish | 10,513,931 |\n| Colorado | Spanish | 613,290 |\n| Connecticut | Spanish | 439,949 |\n| Delaware | Spanish | 76,483 |\n| District of Columbia | Spanish | 60,423 |\n| Florida | Spanish | 4,801,213 |\n| Georgia | Spanish | 890,264 |\n| Hawaii | Ilocano/Samoan/Hawaiian & Austronesian | 117,184 |\n| Idaho | Spanish | 147,208 |\n| Illinois | Spanish | 1,681,635 |\n| Indiana | Spanish | 353,025 |\n| Iowa | Spanish | 140,635 |\n| Kansas | Spanish | 223,357 |\n| Kentucky | Spanish | 146,717 |\n| Louisiana | Spanish | 201,847 |\n| Maine | French | 30,737 |\n| Maryland | Spanish | 562,050 |\n| Massachusetts | Spanish | 646,141 |\n| Michigan | Spanish | 298,830 |\n| Minnesota | Spanish | 227,636 |\n| Mississippi | Spanish | 73,687 |\n| Missouri | Spanish | 169,451 |\n| Montana | Spanish | 15,285 |\n| Nebraska | Spanish | 156,178 |\n| Nevada | Spanish | 600,083 |\n| New Hampshire | Spanish | 34,831 |\n| New Jersey | Spanish | 1,514,828 |\n| New Mexico | Spanish | 491,462 |\n| New York | Spanish | 2,772,893 |\n| North Carolina | Spanish | 876,033 |\n| North Dakota | Spanish | 16,618 |\n| Ohio | Spanish | 294,716 |\n| Oklahoma | Spanish | 305,840 |\n| Oregon | Spanish | 365,276 |\n| Pennsylvania | Spanish | 686,810 |\n| Rhode Island | Spanish | 141,693 |\n| South Carolina | Spanish | 262,999 |\n| South Dakota | Spanish | 22,332 |\n| Tennessee | Spanish | 348,679 |\n| Texas | Spanish | 7,932,949 |\n| Utah | Spanish | 345,046 |\n| Vermont | Spanish | 8,063 |\n| Virginia | Spanish | 649,137 |\n| Washington | Spanish | 665,921 |\n| West Virginia | Spanish | 19,863 |\n| Wisconsin | Spanish | 276,721 |\n| Wyoming | Spanish | 26,551 |",
+    "ai_analysis": {
+      "core_insight": "西班牙语在美国绝大多数州为第二大语言，仅少数州有特殊语言分布。",
+      "data_highlights": [
+        "在全美50个州及哥伦比亚特区中，有47个将西班牙语列为第二大语言。",
+        "使用人数最多的州是加利福尼亚州，西班牙语使用者超过1050万人。",
+        "阿拉斯加州和夏威夷州的第二大语言分别是其他北美原住民语言和伊洛卡诺语/萨摩亚语/夏威夷语及南岛语系。",
+        "缅因州是唯一将法语作为第二大语言的州。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "#2 Language",
+            "Speakers"
+          ],
+          "rows": [
+            [
+              "Alabama",
+              "Spanish",
+              "187,711"
+            ],
+            [
+              "Alaska",
+              "Other Native (North America)",
+              "24,996"
+            ],
+            [
+              "Arizona",
+              "Spanish",
+              "1,344,168"
+            ],
+            [
+              "Arkansas",
+              "Spanish",
+              "176,128"
+            ],
+            [
+              "California",
+              "Spanish",
+              "10,513,931"
+            ],
+            [
+              "Colorado",
+              "Spanish",
+              "613,290"
+            ],
+            [
+              "Connecticut",
+              "Spanish",
+              "439,949"
+            ],
+            [
+              "Delaware",
+              "Spanish",
+              "76,483"
+            ],
+            [
+              "District of Columbia",
+              "Spanish",
+              "60,423"
+            ],
+            [
+              "Florida",
+              "Spanish",
+              "4,801,213"
+            ],
+            [
+              "Georgia",
+              "Spanish",
+              "890,264"
+            ],
+            [
+              "Hawaii",
+              "Ilocano/Samoan/Hawaiian & Austronesian",
+              "117,184"
+            ],
+            [
+              "Idaho",
+              "Spanish",
+              "147,208"
+            ],
+            [
+              "Illinois",
+              "Spanish",
+              "1,681,635"
+            ],
+            [
+              "Indiana",
+              "Spanish",
+              "353,025"
+            ],
+            [
+              "Iowa",
+              "Spanish",
+              "140,635"
+            ],
+            [
+              "Kansas",
+              "Spanish",
+              "223,357"
+            ],
+            [
+              "Kentucky",
+              "Spanish",
+              "146,717"
+            ],
+            [
+              "Louisiana",
+              "Spanish",
+              "201,847"
+            ],
+            [
+              "Maine",
+              "French",
+              "30,737"
+            ],
+            [
+              "Maryland",
+              "Spanish",
+              "562,050"
+            ],
+            [
+              "Massachusetts",
+              "Spanish",
+              "646,141"
+            ],
+            [
+              "Michigan",
+              "Spanish",
+              "298,830"
+            ],
+            [
+              "Minnesota",
+              "Spanish",
+              "227,636"
+            ],
+            [
+              "Mississippi",
+              "Spanish",
+              "73,687"
+            ],
+            [
+              "Missouri",
+              "Spanish",
+              "169,451"
+            ],
+            [
+              "Montana",
+              "Spanish",
+              "15,285"
+            ],
+            [
+              "Nebraska",
+              "Spanish",
+              "156,178"
+            ],
+            [
+              "Nevada",
+              "Spanish",
+              "600,083"
+            ],
+            [
+              "New Hampshire",
+              "Spanish",
+              "34,831"
+            ],
+            [
+              "New Jersey",
+              "Spanish",
+              "1,514,828"
+            ],
+            [
+              "New Mexico",
+              "Spanish",
+              "491,462"
+            ],
+            [
+              "New York",
+              "Spanish",
+              "2,772,893"
+            ],
+            [
+              "North Carolina",
+              "Spanish",
+              "876,033"
+            ],
+            [
+              "North Dakota",
+              "Spanish",
+              "16,618"
+            ],
+            [
+              "Ohio",
+              "Spanish",
+              "294,716"
+            ],
+            [
+              "Oklahoma",
+              "Spanish",
+              "305,840"
+            ],
+            [
+              "Oregon",
+              "Spanish",
+              "365,276"
+            ],
+            [
+              "Pennsylvania",
+              "Spanish",
+              "686,810"
+            ],
+            [
+              "Rhode Island",
+              "Spanish",
+              "141,693"
+            ],
+            [
+              "South Carolina",
+              "Spanish",
+              "262,999"
+            ],
+            [
+              "South Dakota",
+              "Spanish",
+              "22,332"
+            ],
+            [
+              "Tennessee",
+              "Spanish",
+              "348,679"
+            ],
+            [
+              "Texas",
+              "Spanish",
+              "7,932,949"
+            ],
+            [
+              "Utah",
+              "Spanish",
+              "345,046"
+            ],
+            [
+              "Vermont",
+              "Spanish",
+              "8,063"
+            ],
+            [
+              "Virginia",
+              "Spanish",
+              "649,137"
+            ],
+            [
+              "Washington",
+              "Spanish",
+              "665,921"
+            ],
+            [
+              "West Virginia",
+              "Spanish",
+              "19,863"
+            ],
+            [
+              "Wisconsin",
+              "Spanish",
+              "276,721"
+            ],
+            [
+              "Wyoming",
+              "Spanish",
+              "26,551"
+            ]
+          ],
+          "caption": "美国各州及哥伦比亚特区第二大语言分布"
+        }
+      ],
+      "deep_dive": "## 西班牙语的绝对主导地位与区域人口结构\n数据显示，西班牙语在美国的语言景观中占据了压倒性的主导地位。在全美50个州及哥伦比亚特区中，有47个将其列为第二大语言，这深刻反映了西班牙裔/拉丁裔人口作为美国最大少数族裔群体的庞大规模和广泛分布。这种主导地位与历史上的移民模式（尤其是来自墨西哥和拉丁美洲的移民）、地理邻近性（西南部各州）以及持续的人口增长紧密相关。从使用者绝对数量看，排名前列的州——如加利福尼亚州（超过1050万）、得克萨斯州（近800万）、佛罗里达州（约480万）和纽约州（约277万）——均为传统上西班牙裔人口聚集的“门户州”或经济中心，其庞大的使用者基数是社会文化影响力的重要体现。\n\n## 特例州的语言多样性与文化印记\n尽管西班牙语占据主流，但三个特例州的存在揭示了美国语言多样性的另一个维度：\n1.  **阿拉斯加州**：其第二大语言为“其他北美原住民语言”，使用者约2.5万人。这直接反映了该州独特的原住民文化遗产和相对孤立的地理位置，使得因纽特人、阿留申人等原住民语言得以延续。\n2.  **夏威夷州**：第二大语言为“伊洛卡诺语/萨摩亚语/夏威夷语及南岛语系”，使用者约11.7万人。这与其历史上大量来自菲律宾（伊洛卡诺语）、萨摩亚等地的亚洲及太平洋岛屿移民密不可分，是太平洋移民潮在语言上的直接烙印。\n3.  **缅因州**：其第二大语言是法语，使用者约3万人。这主要源于历史上与加拿大（尤其是法语区魁北克省）的紧密联系以及早期阿卡迪亚法裔移民的定居历史，体现了跨境文化的影响。\n这些特例表明，美国的语言格局并非铁板一块，而是受到具体州的历史移民路径、地理环境和文化传统塑造的复杂拼图。\n\n## 启示与局限\n这一数据为理解美国的社会构成和文化动态提供了直观视角。西班牙语的广泛传播对公共服务（如教育、医疗、政府文件）、商业市场和媒体内容产生了深远影响，是制定双语政策的重要依据。然而，解读时需注意局限性：数据仅反映了“第二大”语言，未揭示英语之外其他语言的完整分布图谱；且“使用者”数量可能包含不同熟练程度的群体。此外，特例州的数据提醒我们，国家层面的概括可能掩盖重要的区域差异和文化遗产。",
+      "glossary": [
+        {
+          "term": "西班牙裔/拉丁裔",
+          "explanation": "指祖籍为西班牙语国家或拉丁美洲的美国人，是美国最大的少数族裔群体，其人口增长是西班牙语普及的主要驱动力。"
+        },
+        {
+          "term": "南岛语系",
+          "explanation": "一个主要分布于太平洋岛屿和东南亚部分地区的语系。在夏威夷州的数据中，该术语涵盖了伊洛卡诺语、萨摩亚语和夏威夷语等具体语言。"
+        },
+        {
+          "term": "门户州",
+          "explanation": "历史上作为新移民主要入境地的州，如加利福尼亚、纽约和佛罗里达。这些州通常拥有较大规模和多样化的移民社区。"
+        },
+        {
+          "term": "阿卡迪亚人",
+          "explanation": "历史上居住在加拿大东部（阿卡迪亚地区）的法裔群体，其后裔因历史原因（如大驱逐）部分迁徙至美国路易斯安那等地，但在缅因州也留下了语言印记。"
+        }
+      ]
+    }
+  },
+  {
     "id": "3c77a966",
     "title": "Mapped: Europe’s Favorite Film & TV Genres",
     "original_url": "https://www.visualcapitalist.com/mapped-europes-favorite-film-tv-genres/",
