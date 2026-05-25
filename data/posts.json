@@ -1,5 +1,198 @@
 [
   {
+    "id": "1bada773",
+    "title": "Ranked: Countries With the Fastest Billionaire Growth",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-countries-minting-the-most-billionaires-by-2031/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1bada773.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwB6in4FV/MxTTcYrnUdToklYs4FFVPtPvRWljMiYnFQOTVoioJAKpIh1GyDJopxHNFULmP/2Q==",
+    "image_version": 1779711384,
+    "pub_date": "Mon, 25 May 2026 11:49:32 +0000",
+    "content_md": "| Rank | Country | Number ofBillionaires 2026 | Number ofBillionaires 2031F | % Change |\n| --- | --- | --- | --- | --- |\n| 1 | Saudi Arabia | 23 | 65 | 183% |\n| 2 | Poland | 13 | 29 | 123% |\n| 3 | Sweden | 32 | 58 | 81% |\n| 4 | Australia | 48 | 85 | 77% |\n| 5 | Denmark | 12 | 21 | 75% |\n| 6 | Japan | 43 | 71 | 65% |\n| 7 | Mexico | 24 | 39 | 63% |\n| 8 | Philippines | 16 | 26 | 63% |\n| 9 | Norway | 17 | 26 | 53% |\n| 10 | India | 207 | 313 | 51% |\n| 11 | Austria | 12 | 18 | 50% |\n| 12 | Indonesia | 33 | 49 | 49% |\n| 13 | South Africa | 10 | 14 | 40% |\n| 14 | Spain | 38 | 53 | 40% |\n| 15 | Malaysia | 13 | 18 | 39% |\n| 16 | Singapore | 63 | 85 | 35% |\n| 17 | Italy | 61 | 82 | 34% |\n| 18 | Canada | 49 | 65 | 33% |\n| 19 | Türkiye | 35 | 46 | 31% |\n| 20 | Brazil | 51 | 67 | 31% |",
+    "ai_analysis": {
+      "core_insight": "沙特、波兰等资源国及北欧国家引领未来五年亿万富翁增长，新兴市场亦表现强劲。",
+      "data_highlights": [
+        "沙特阿拉伯以183%的预计增速高居榜首，波兰（123%）与瑞典（81%）紧随其后。",
+        "印度凭借庞大的基数（207位）和51%的增速，将在2031年拥有超过300位亿万富翁。",
+        "传统发达国家如日本、澳大利亚、加拿大增速稳健（30%-77%），保持显著体量。",
+        "亚洲多国（菲律宾、印尼、马来西亚）增长均超39%，显示区域财富创造力提升。",
+        "欧洲国家占据榜单近半数席位（9国），反映其高端财富的持续积累与扩张。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Number of Billionaires 2026",
+            "Number of Billionaires 2031F",
+            "% Change"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saudi Arabia",
+              "23",
+              "65",
+              "183%"
+            ],
+            [
+              "2",
+              "Poland",
+              "13",
+              "29",
+              "123%"
+            ],
+            [
+              "3",
+              "Sweden",
+              "32",
+              "58",
+              "81%"
+            ],
+            [
+              "4",
+              "Australia",
+              "48",
+              "85",
+              "77%"
+            ],
+            [
+              "5",
+              "Denmark",
+              "12",
+              "21",
+              "75%"
+            ],
+            [
+              "6",
+              "Japan",
+              "43",
+              "71",
+              "65%"
+            ],
+            [
+              "7",
+              "Mexico",
+              "24",
+              "39",
+              "63%"
+            ],
+            [
+              "8",
+              "Philippines",
+              "16",
+              "26",
+              "63%"
+            ],
+            [
+              "9",
+              "Norway",
+              "17",
+              "26",
+              "53%"
+            ],
+            [
+              "10",
+              "India",
+              "207",
+              "313",
+              "51%"
+            ],
+            [
+              "11",
+              "Austria",
+              "12",
+              "18",
+              "50%"
+            ],
+            [
+              "12",
+              "Indonesia",
+              "33",
+              "49",
+              "49%"
+            ],
+            [
+              "13",
+              "South Africa",
+              "10",
+              "14",
+              "40%"
+            ],
+            [
+              "14",
+              "Spain",
+              "38",
+              "53",
+              "40%"
+            ],
+            [
+              "15",
+              "Malaysia",
+              "13",
+              "18",
+              "39%"
+            ],
+            [
+              "16",
+              "Singapore",
+              "63",
+              "85",
+              "35%"
+            ],
+            [
+              "17",
+              "Italy",
+              "61",
+              "82",
+              "34%"
+            ],
+            [
+              "18",
+              "Canada",
+              "49",
+              "65",
+              "33%"
+            ],
+            [
+              "19",
+              "Türkiye",
+              "35",
+              "46",
+              "31%"
+            ],
+            [
+              "20",
+              "Brazil",
+              "51",
+              "67",
+              "31%"
+            ]
+          ],
+          "caption": "2026-2031年亿万富翁数量增长最快的20个国家/地区排名预测"
+        }
+      ],
+      "deep_dive": "## 增长动力：资源、创新与结构性变革\n沙特阿拉伯的惊人增长（183%）主要受益于高油价驱动的主权财富基金投资、国内经济多元化战略（如“愿景2030”）以及本土科技与娱乐产业的扩张。波兰的跃升（123%）则源于其作为欧洲制造业与科技中心的崛起，吸引了大量外国直接投资，并受益于欧盟资金支持的基础设施升级。瑞典、挪威、丹麦等北欧国家的强劲增长（53%-81%），则与其在绿色科技、金融科技和生命科学等高附加值领域的持续创新密切相关。\n\n## 区域格局：亚洲崛起与欧洲韧性\n亚洲地区表现突出，除印度（51%）和日本（65%）外，菲律宾（63%）、印度尼西亚（49%）和马来西亚（39%）均跻身前列，反映了东南亚消费市场扩张、数字化浪潮及资源出口国的财富积累。印度庞大的基数（207位）和超过50%的增速，预示其将成为全球亿万富翁数量增长的核心引擎。欧洲在榜单中占据9席，显示出即便在成熟经济体中，通过产业升级和家族财富传承，高端财富创造能力依然强劲。\n\n## 启示与局限\n该预测揭示了未来财富创造的地理转移趋势：从传统欧美中心向资源富国、新兴制造业枢纽和科技活跃地区扩散。然而，数据存在局限性：它仅反映财富存量的增长率，未考虑财富集中度、社会不平等或政策风险（如税收、监管变化）的影响。此外，亿万富翁数量的增长与国家整体经济福祉并非直接线性相关，需结合基尼系数等指标综合评估。",
+      "glossary": [
+        {
+          "term": "亿万富翁 (Billionaire)",
+          "explanation": "指个人净资产达到或超过10亿美元（USD）的个体，其财富通常来源于企业股权、投资、继承或资源资产。"
+        },
+        {
+          "term": "主权财富基金 (Sovereign Wealth Fund)",
+          "explanation": "由政府拥有的投资基金，通常资金来源于外汇储备、自然资源收入（如石油）或财政盈余，用于长期投资和稳定国家经济。"
+        },
+        {
+          "term": "外国直接投资 (Foreign Direct Investment, FDI)",
+          "explanation": "一国企业或个人在另一国进行的长期投资，通常涉及建立企业或收购股权，旨在获得持久的管理控制权。"
+        },
+        {
+          "term": "高附加值产业 (High-value-added Industries)",
+          "explanation": "指通过研发、创新、品牌建设等环节创造高额利润的行业，如科技、制药、精密制造等，区别于低成本加工行业。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b5897735",
     "title": "Charted: Europe’s Takeover of Men’s Tennis",
     "original_url": "https://www.visualcapitalist.com/cp/charted-europes-takeover-of-mens-tennis/",
