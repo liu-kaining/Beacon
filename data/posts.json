@@ -1,5 +1,179 @@
 [
   {
+    "id": "05f758d0",
+    "title": "Ranked: The Countries Investors Trust Most in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-top-economies-for-global-investment-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/05f758d0.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrmlpvnVVdqaG5qLl2LvmUVWDcUVPMFiJjTN2KVqjanYw52S+ZRUFFLlHzs//Z",
+    "image_version": 1779817812,
+    "pub_date": "Tue, 26 May 2026 17:26:10 +0000",
+    "content_md": "| Rank2016 | Country | Score | Rank2026 | Country | Score |\n| --- | --- | --- | --- | --- | --- |\n| 1 | U.S. | 2.02 | 1 | U.S. | 2.24 |\n| 2 | China | 1.82 | 2 | Canada | 2.14 |\n| 3 | Canada | 1.80 | 3 | Japan | 2.13 |\n| 4 | Germany | 1.75 | 4 | China | 2.11 |\n| 5 | UK | 1.73 | 5 | Germany | 2.11 |\n| 6 | Japan | 1.73 | 6 | UK | 2.07 |\n| 7 | Australia | 1.63 | 7 | France | 2.02 |\n| 8 | France | 1.60 | 8 | Singapore | 1.97 |\n| 9 | India | 1.60 | 9 | UAE | 1.97 |\n| 10 | Singapore | 1.57 | 10 | Saudi Arabia | 1.97 |\n| 11 | Switzerland | 1.54 | 11 | South Korea | 1.96 |\n| 12 | Brazil | 1.53 | 12 | Australia | 1.96 |\n| 13 | Spain | 1.51 | 13 | Italy | 1.92 |\n| 14 | Netherlands | 1.51 | 14 | Switzerland | 1.84 |\n| 15 | Taiwan | 1.50 | 15 | Spain | 1.84 |",
+    "ai_analysis": {
+      "core_insight": "美国持续领跑，加拿大升至第二，中国排名下滑，新兴经济体信任度显著上升。",
+      "data_highlights": [
+        "美国在2016和2026年均位居榜首，得分从2.02微升至2.24。",
+        "加拿大从第三位跃升至第二位，成为2026年第二大最受信任的国家。",
+        "中国排名从第二位滑落至第四位，被加拿大和日本超越。",
+        "中东国家表现抢眼，阿联酋和沙特阿拉伯在2026年首次进入前十。",
+        "亚洲国家整体信任度上升，日本升至第三，新加坡稳居前十。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank2016",
+            "Country",
+            "Score",
+            "Rank2026",
+            "Country",
+            "Score"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "2.02",
+              "1",
+              "U.S.",
+              "2.24"
+            ],
+            [
+              "2",
+              "China",
+              "1.82",
+              "2",
+              "Canada",
+              "2.14"
+            ],
+            [
+              "3",
+              "Canada",
+              "1.80",
+              "3",
+              "Japan",
+              "2.13"
+            ],
+            [
+              "4",
+              "Germany",
+              "1.75",
+              "4",
+              "China",
+              "2.11"
+            ],
+            [
+              "5",
+              "UK",
+              "1.73",
+              "5",
+              "Germany",
+              "2.11"
+            ],
+            [
+              "6",
+              "Japan",
+              "1.73",
+              "6",
+              "UK",
+              "2.07"
+            ],
+            [
+              "7",
+              "Australia",
+              "1.63",
+              "7",
+              "France",
+              "2.02"
+            ],
+            [
+              "8",
+              "France",
+              "1.60",
+              "8",
+              "Singapore",
+              "1.97"
+            ],
+            [
+              "9",
+              "India",
+              "1.60",
+              "9",
+              "UAE",
+              "1.97"
+            ],
+            [
+              "10",
+              "Singapore",
+              "1.57",
+              "10",
+              "Saudi Arabia",
+              "1.97"
+            ],
+            [
+              "11",
+              "Switzerland",
+              "1.54",
+              "11",
+              "South Korea",
+              "1.96"
+            ],
+            [
+              "12",
+              "Brazil",
+              "1.53",
+              "12",
+              "Australia",
+              "1.96"
+            ],
+            [
+              "13",
+              "Spain",
+              "1.51",
+              "13",
+              "Italy",
+              "1.92"
+            ],
+            [
+              "14",
+              "Netherlands",
+              "1.51",
+              "14",
+              "Switzerland",
+              "1.84"
+            ],
+            [
+              "15",
+              "Taiwan",
+              "1.50",
+              "15",
+              "Spain",
+              "1.84"
+            ]
+          ],
+          "caption": "2016年与2026年投资者最信任国家排名对比"
+        }
+      ],
+      "deep_dive": "## 排名变迁与全球信任格局重塑\n\n这份2016年至2026年的投资者信任度排名变化，揭示了全球资本流动和风险偏好正在经历深刻调整。美国以稳定的榜首位置和更高的绝对得分，巩固了其作为全球首要投资目的地的地位，这反映了其庞大的市场、创新能力和相对成熟的监管环境所带来的长期吸引力。然而，**传统欧洲强国的普遍下滑**值得关注：德国、英国、法国的排名均有所下降，而瑞士甚至跌出了前十。这或许与欧洲经济复苏乏力、地缘政治风险以及繁琐的监管环境有关。\n\n## 新兴力量的崛起与区域焦点转移\n\n排名变化中最引人注目的趋势是**加拿大、日本以及中东国家的强势上升**。\n- **加拿大跃居第二**：可能得益于其稳定的政治环境、丰富的资源、与美国紧密的经济联系以及相对友好的移民政策，使其成为资本“避险”和寻求稳定回报的重要选择。\n- **日本升至第三**：这一显著进步可能与日本经济结构性改革初见成效、日元资产配置价值提升以及其作为高端制造业中心的地位巩固有关。\n- **中东国家集体崛起**：阿联酋（第9）和沙特阿拉伯（第10）首次同时进入前十，得分均为1.97。这直接反映了“后石油时代”经济转型（如沙特“2030愿景”）和对外开放政策（如阿联酋的商业友好环境）取得了国际投资者的认可，大量资本正涌入该地区的多元化发展项目。\n\n## 对中国排名的启示与反思\n\n中国从第二位滑落至第四位，是一个需要审慎解读的信号。尽管其得分从1.82提升至2.11，表明绝对信任度在增长，但排名的相对下降意味着其他国家进步更快。这可能受到多重因素影响：全球地缘政治紧张带来的不确定性、投资者对部分行业监管政策的观望态度，以及国内经济增速换挡时期的市场情绪。与稳中有升的美国、大幅进步的加拿大和日本相比，中国在吸引“信任资本”方面面临更激烈的竞争。未来，进一步优化营商环境、增强政策透明度和稳定性，将是维持和提升其投资吸引力的关键。\n\n## 局限性及展望\n\n本报告的信任度排名基于特定的评估模型和时间点（2026年为预测值），其得分差值往往很小（如第4至第6名得分仅差0.04），意味着排名顺序存在一定的波动性。此外，“信任”是一个综合概念，涵盖政治稳定性、法治水平、市场潜力等多个维度。投资者在实际决策中，仍需结合具体的行业趋势、企业基本面和个人风险偏好进行综合判断。该排名趋势总体指向了全球资本在寻求增长与安全之间新的平衡点。",
+      "glossary": [
+        {
+          "term": "投资者信任度",
+          "explanation": "衡量投资者对某一国家或地区投资环境综合信心的量化指标，通常基于政治稳定性、法治水平、市场潜力、经济前景等多维度评估得出。"
+        },
+        {
+          "term": "地缘政治风险",
+          "explanation": "因国际政治、外交、军事冲突或紧张关系而导致投资环境不确定性增加、资产价值受损的风险。"
+        },
+        {
+          "term": "避险资产/资本",
+          "explanation": "指在市场动荡或不确定性增加时，投资者倾向于转移到风险较低、价值相对稳定的国家或资产类别中的资金。"
+        },
+        {
+          "term": "2030愿景",
+          "explanation": "沙特阿拉伯推出的一项全面经济和社会改革计划，旨在减少对石油的依赖，实现经济多元化，发展旅游、娱乐、科技等公共服务和私营部门。"
+        }
+      ]
+    }
+  },
+  {
     "id": "284064f6",
     "title": "Ranked: The World’s Largest Stock Markets",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-largest-stock-markets/",
