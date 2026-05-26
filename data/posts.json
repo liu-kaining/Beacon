@@ -1,5 +1,98 @@
 [
   {
+    "id": "c8dd45f6",
+    "title": "Breaking Down U.S. Carbon Offsets by Project Type in 2026",
+    "original_url": "https://www.visualcapitalist.com/sp/breaking-down-us-carbon-offset-projects-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c8dd45f6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpZ32iqXn/ADVZuhkVnbDvrNp3HY0Fm+WioUQ7aKdhXLsyZqt5PzVfkqDvVktjQnFFSCigVz//2Q==",
+    "image_version": 1779825094,
+    "pub_date": "Tue, 26 May 2026 15:47:00 +0000",
+    "content_md": "| Project Type | Projects | Credits Issued (tCO₂e) | Share of Credits Issued |\n| --- | --- | --- | --- |\n| Forestry & Land Use | 586 | 266M | 46% |\n| Methane Capture | 506 | 103M | 18% |\n| Refrigerants | 439 | 68M | 12% |\n| Industrial & Foam Gases | 84 | 87M | 15% |\n| Carbon Capture | 12 | 22M | 4% |\n| Wind | 12 | 13M | 2% |\n| Other | 199 | 15M | 3% |",
+    "ai_analysis": {
+      "core_insight": "美国碳抵消市场高度依赖林业与土地利用项目，新兴碳捕集技术占比极低。",
+      "data_highlights": [
+        "林业与土地利用项目数量最多(586个)，贡献了近一半(46%)的碳信用额度。",
+        "工业气体和甲烷捕集项目虽少，但单个项目的平均信用额度较高。",
+        "碳捕集与封存(CCS)和风能等前沿技术项目数量和占比均非常有限。",
+        "甲烷捕集项目数量(506个)与林业项目相当，但信用额度占比(18%)远低于后者。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Project Type",
+            "Projects",
+            "Credits Issued (tCO₂e)",
+            "Share of Credits Issued"
+          ],
+          "rows": [
+            [
+              "Forestry & Land Use",
+              "586",
+              "266M",
+              "46%"
+            ],
+            [
+              "Methane Capture",
+              "506",
+              "103M",
+              "18%"
+            ],
+            [
+              "Refrigerants",
+              "439",
+              "68M",
+              "12%"
+            ],
+            [
+              "Industrial & Foam Gases",
+              "84",
+              "87M",
+              "15%"
+            ],
+            [
+              "Carbon Capture",
+              "12",
+              "22M",
+              "4%"
+            ],
+            [
+              "Wind",
+              "12",
+              "13M",
+              "2%"
+            ],
+            [
+              "Other",
+              "199",
+              "15M",
+              "3%"
+            ]
+          ],
+          "caption": "2026年美国碳抵消项目类型分析"
+        }
+      ],
+      "deep_dive": "## 市场结构：传统方法主导，技术路径单一\n2026年的美国碳抵消市场呈现显著的“头重脚轻”结构。**林业与土地利用**项目以46%的信用额度份额占据绝对主导地位，这反映出基于自然的解决方案(NbS)因其成本较低、方法学成熟且兼具生态协同效益，仍是市场最主流的选择。与此形成对比的是，甲烷捕集、制冷剂回收等工业过程减排项目虽然数量庞大，但单个项目产出规模有限。这种结构揭示了当前市场更偏好于能快速产生大量信用额度的“低成本”项目类型，而非技术前沿但高成本的解决方案。\n\n## 前沿技术乏力：碳捕集与可再生能源微不足道\n报告中最引人深思的发现是**碳捕集与封存**和**风能**项目的微弱存在。两者合计仅占信用额度的6%，项目总数仅24个。这尖锐地指出了当前碳信用市场在推动深度脱碳技术创新方面的失灵。高昂的资本支出、漫长的投资回报周期以及尚待完善的方法学和监测技术，使得这类项目难以在自愿碳市场中与成熟的林业项目竞争。这一局限意味着，若无更强有力的政策激励或市场机制设计，碳市场可能无法有效引导资金流向实现净零排放所必需的关键技术领域。\n\n## 启示与展望\n当前结构凸显了碳市场在平衡环境完整性与推动创新上的挑战。过度依赖林业项目可能带来额外性、永久性和泄漏等方面的风险。未来市场的健康发展，或需通过完善标准、引入差异化定价机制（如为高成本但具有战略意义的技术提供溢价），并加强与碳税、排放交易体系等强制性政策的协同，以引导投资组合向更加多元化和更具深度减排潜力的技术方案倾斜。",
+      "glossary": [
+        {
+          "term": "碳抵消",
+          "explanation": "指通过资助其他地方的减排或碳封存项目，来补偿自身无法避免的温室气体排放的行为。"
+        },
+        {
+          "term": "碳信用额度",
+          "explanation": "代表经核证的一吨二氧化碳当量(tCO₂e)的减排量或清除量，可在市场上交易。"
+        },
+        {
+          "term": "基于自然的解决方案",
+          "explanation": "指通过保护、可持续管理和恢复自然或人工生态系统来应对社会挑战，特别是气候变化的行动。"
+        },
+        {
+          "term": "碳捕集与封存",
+          "explanation": "一种从工业排放源或大气中捕获二氧化碳，并将其永久封存在地质层中的技术。"
+        }
+      ]
+    }
+  },
+  {
     "id": "05f758d0",
     "title": "Ranked: The Countries Investors Trust Most in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-top-economies-for-global-investment-in-2026/",
