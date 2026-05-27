@@ -1,5 +1,318 @@
 [
   {
+    "id": "ebd42dfc",
+    "title": "Ranked: The World’s Biggest Electricity Consumers",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-electricity-consumers/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ebd42dfc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmo0zTpEwKdbYNTzINldcTnkjNZuaKRx8xopiLdqCKtScpUMAqw33aqKIlIznT5jRU7AZoosLmP//Z",
+    "image_version": 1779904185,
+    "pub_date": "Wed, 27 May 2026 17:22:18 +0000",
+    "content_md": "| Rank | Country | Electricity Demand (TWh) |\n| --- | --- | --- |\n| 1 | China | 10,573 |\n| 2 | United States | 4,536 |\n| 3 | India | 2,083 |\n| 4 | Russia | 1,176 |\n| 5 | Japan | 1,030 |\n| 6 | Brazil | 762 |\n| 7 | Canada | 646 |\n| 8 | South Korea | 625 |\n| 9 | Germany | 520 |\n| 10 | France | 477 |\n\n| Rank | Country | Electricity Demand Per Capita (MWh, 2025) |\n| --- | --- | --- |\n| 1 | Canada | 16.1 |\n| 2 | United States | 13.1 |\n| 3 | South Korea | 12.1 |\n| 4 | Japan | 8.4 |\n| 5 | Russia | 8.2 |\n| 6 | China | 7.5 |\n| 7 | France | 7.2 |\n| 8 | Germany | 6.2 |\n| 9 | Brazil | 3.6 |\n| 10 | India | 1.4 |\n| -- | World | 3.9 |",
+    "ai_analysis": {
+      "core_insight": "中美印总需求领先，但人均用电差异巨大，反映发展阶段与能源结构差异。",
+      "data_highlights": [
+        "中国以10,573 TWh的总需求高居全球第一，是第二名美国的两倍多。",
+        "人均用电方面，加拿大（16.1 MWh）和美国（13.1 MWh）远超全球平均水平（3.9 MWh）。",
+        "印度总需求全球第三，但人均仅1.4 MWh，为榜单最低，凸显其巨大的增长潜力与能源挑战。",
+        "日、德、法等发达国家总需求适中，但人均用电水平较高，体现其成熟的工业与生活用电模式。",
+        "中国总需求与人均排名出现显著背离，总需求第一但人均仅第六，反映其庞大的人口基数与快速的工业化进程。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity Demand (TWh)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "10,573"
+            ],
+            [
+              "2",
+              "United States",
+              "4,536"
+            ],
+            [
+              "3",
+              "India",
+              "2,083"
+            ],
+            [
+              "4",
+              "Russia",
+              "1,176"
+            ],
+            [
+              "5",
+              "Japan",
+              "1,030"
+            ],
+            [
+              "6",
+              "Brazil",
+              "762"
+            ],
+            [
+              "7",
+              "Canada",
+              "646"
+            ],
+            [
+              "8",
+              "South Korea",
+              "625"
+            ],
+            [
+              "9",
+              "Germany",
+              "520"
+            ],
+            [
+              "10",
+              "France",
+              "477"
+            ]
+          ],
+          "caption": "全球电力总需求排名 (TWh)"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity Demand Per Capita (MWh, 2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Canada",
+              "16.1"
+            ],
+            [
+              "2",
+              "United States",
+              "13.1"
+            ],
+            [
+              "3",
+              "South Korea",
+              "12.1"
+            ],
+            [
+              "4",
+              "Japan",
+              "8.4"
+            ],
+            [
+              "5",
+              "Russia",
+              "8.2"
+            ],
+            [
+              "6",
+              "China",
+              "7.5"
+            ],
+            [
+              "7",
+              "France",
+              "7.2"
+            ],
+            [
+              "8",
+              "Germany",
+              "6.2"
+            ],
+            [
+              "9",
+              "巴西",
+              "3.6"
+            ],
+            [
+              "10",
+              "印度",
+              "1.4"
+            ],
+            [
+              "--",
+              "世界平均",
+              "3.9"
+            ]
+          ],
+          "caption": "人均电力需求排名 (MWh, 2025预测)"
+        }
+      ],
+      "deep_dive": "## 总量与人均的“剪刀差”：发展阶段的镜像\n全球电力消费格局呈现出清晰的“总量”与“人均”二元特征。从总量看，中国（10,573 TWh）一骑绝尘，其需求量是美国的2.3倍，印度的5倍。这与其作为“世界工厂”的全球制造业中心地位、庞大的国内基础设施建设和快速增长的新兴中产阶级用电需求紧密相关。美国以4,536 TWh位列第二，反映了其高度电气化和发达的经济体系。印度虽位列第三，但其总量仅为中国的五分之一，预示着其未来在能源基础设施建设上将面临巨大缺口与投资机遇。\n\n从人均视角看，排名则完全颠覆。加拿大（16.1 MWh）和美国（13.1 MWh）位居前列，这与其高纬度地区供暖需求、庞大的居民生活用电习惯（如大面积住宅、空调使用）以及能源密集型产业（如加拿大的采矿业）有关。值得注意的是，中国人均用电（7.5 MWh）仅排第六，虽已高于世界平均（3.9 MWh），但仍远低于北美水平。这一“总量第一、人均中游”的格局，是其人口基数巨大与工业化、城镇化进程持续推进共同作用的结果。而印度人均仅1.4 MWh，仅为世界平均的三分之一，揭示了其电力普及率、电网覆盖及终端消费能力仍有巨大提升空间。\n\n## 国别特征与全球启示\n深入观察具体国家，能发现更丰富的内涵。日本（总需求第5，人均第4）和韩国（总需求第8，人均第3）体现了东亚发达经济体在高人口密度下，通过高效的能源利用维持高水平电气化生活与精密制造业的特征。欧洲国家如德国（人均6.2 MWh）和法国（人均7.2 MWh）的人均用电量相对温和，部分归因于能效政策、产业结构（服务业占比高）以及核能等高效电源的普及。巴西（人均3.6 MWh）作为发展中大国，其人均用电低于世界平均，与其能源结构（水电占比高但易受气候影响）和区域发展不平衡有关。\n\n这些数据对比揭示了几个关键启示：首先，电力需求总量是经济规模和产业活动的晴雨表，而人均水平则更直接地关联于生活水平和消费模式。其次，巨大的人均差异意味着全球能源转型和碳减排的路径必须差异化。发达国家需聚焦于能效提升和消费模式优化，而中国、印度等总需求大国，则需在保障发展的同时，加速向清洁能源系统转型。最后，对于投资者和政策制定者而言，像印度这样“总量高但人均极低”的市场，预示着未来电力基础设施、可再生能源和电网技术的巨大潜在需求。",
+      "glossary": [
+        {
+          "term": "TWh (太瓦时)",
+          "explanation": "电能单位，1太瓦时等于10亿千瓦时。用于衡量一个国家或地区的总电力消费量。"
+        },
+        {
+          "term": "MWh (兆瓦时)",
+          "explanation": "电能单位，1兆瓦时等于1000千瓦时。在人均统计中常用，用于衡量人均电力消费水平。"
+        },
+        {
+          "term": "人均电力消费",
+          "explanation": "一个国家或地区的总电力消费量除以其总人口数，是衡量居民生活水平和电气化程度的重要指标。"
+        },
+        {
+          "term": "能源结构",
+          "explanation": "指一个国家或地区一次能源（如煤炭、石油、天然气、核能、可再生能源）的构成比例，深刻影响电力生产的成本、清洁度和安全性。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f31d96da",
+    "title": "Ranked: The Top 100 Countries for Foreign Investment",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-top-100-countries-foreign-investment/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f31d96da.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCa7PBrP34ar930NZb/AHqlzbNYRsXFm4oqoCcUUFXP/9k=",
+    "image_version": 1779904235,
+    "pub_date": "Wed, 27 May 2026 14:09:09 +0000",
+    "content_md": "| Rank | Category | FDI Inflows (2024) |\n| --- | --- | --- |\n| 1 | United States | $279B |\n| 2 | Singapore | $143B |\n| 3 | Hong Kong | $126B |\n| 4 | China | $116B |\n| 5 | Luxembourg | $106B |\n| 6 | Canada | $64B |\n| 7 | Brazil | $59B |\n| 8 | Australia | $53B |\n| 9 | Egypt | $47B |\n| 10 | United Arab Emirates | $46B |\n| 11 | Mexico | $37B |\n| 12 | Cayman Islands | $36B |\n| 13 | France | $34B |\n| 14 | Spain | $31B |\n| 15 | India | $28B |\n| 16 | Italy | $25B |\n| 17 | Indonesia | $24B |\n| 18 | Vietnam | $20B |\n| 19 | Sweden | $18B |\n| 20 | Israel | $17B |\n| 21 | Saudi Arabia | $16B |\n| 22 | South Korea | $15B |\n| 23 | Colombia | $14B |\n| 24 | Portugal | $14B |\n| 25 | Japan | $13B |\n| 26 | Poland | $13B |\n| 27 | Austria | $11B |\n| 28 | Argentina | $11B |\n| 29 | Chile | $11B |\n| 30 | Malaysia | $11B |\n| 31 | Taiwan | $11B |\n| 32 | Norway | $11B |\n| 33 | Turkiye | $11B |\n| 34 | Thailand | $11B |\n| 35 | Czechia | $10B |\n| 36 | Netherlands | $9B |\n| 37 | Philippines | $9B |\n| 38 | Oman | $9B |\n| 39 | Guyana | $9B |\n| 40 | Cyprus | $7B |\n| 41 | Greece | $7B |\n| 42 | Denmark | $7B |\n| 43 | Romania | $6B |\n| 44 | Peru | $6B |\n| 45 | Hungary | $6B |\n| 46 | Germany | $6B |\n| 47 | Serbia | $6B |\n| 48 | Malta | $5B |\n| 49 | Dominican Republic | $5B |\n| 50 | Cambodia | $4B |\n| 51 | Croatia | $4B |\n| 52 | Costa Rica | $4B |\n| 53 | Ethiopia | $4B |\n| 54 | Cote d'Ivoire | $4B |\n| 55 | Mozambique | $4B |\n| 56 | Macao | $4B |\n| 57 | Russia | $3B |\n| 58 | Ukraine | $3B |\n| 59 | Uganda | $3B |\n| 60 | Lithuania | $3B |\n| 61 | Congo (DRC) | $3B |\n| 62 | Bulgaria | $3B |\n| 63 | Uzbekistan | $3B |\n| 64 | Panama | $3B |\n| 65 | Mongolia | $3B |\n| 66 | Pakistan | $3B |\n| 67 | Bahrain | $2B |\n| 68 | South Africa | $2B |\n| 69 | Namibia | $2B |\n| 70 | Senegal | $2B |\n| 71 | Finland | $2B |\n| 72 | Slovakia | $2B |\n| 73 | Lebanon | $2B |\n| 74 | Guinea | $2B |\n| 75 | Tanzania | $2B |\n| 76 | Albania | $2B |\n| 77 | Belarus | $2B |\n| 78 | Guatemala | $2B |\n| 79 | Ghana | $2B |\n| 80 | New Zealand | $2B |\n| 81 | Turkmenistan | $2B |\n| 82 | Morocco | $2B |\n| 83 | Jordan | $2B |\n| 84 | Venezuela | $2B |\n| 85 | Mauritania | $2B |\n| 86 | Kenya | $2B |\n| 87 | The Bahamas | $1B |\n| 88 | Iran | $1B |\n| 89 | Algeria | $1B |\n| 90 | North Macedonia | $1B |\n| 91 | Nicaragua | $1B |\n| 92 | Georgia | $1B |\n| 93 | Slovenia | $1B |\n| 94 | Bangladesh | $1B |\n| 95 | Zambia | $1B |\n| 96 | Latvia | $1B |\n| 97 | Gabon | $1B |\n| 98 | Bosnia and Herzegovina | $1B |\n| 99 | Myanmar | $1B |\n| 100 | Nigeria | $1B |\n| -- | World | $1.5T |",
+    "ai_analysis": {
+      "core_insight": "美国FDI流入量断层式领先，全球资本流向呈现高度集中与梯队分化特征。",
+      "data_highlights": [
+        "美国以2790亿美元FDI流入量位居全球第一，是第二名新加坡的近两倍。",
+        "前四名（美、新、港、中）FDI总额占全球前十的72%，资本聚集效应显著。",
+        "离岸金融中心（如开曼群岛、卢森堡）在前十中占据两席，凸显其金融中转功能。",
+        "新兴经济体表现亮眼，埃及、阿联酋、越南、印度等均跻身前20。",
+        "全球FDI总量达1.5万亿美元，但排名100位的国家仅获10亿美元，尾部国家吸引力有限。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "FDI Inflows (2024)"
+          ],
+          "rows": [
+            [
+              "1",
+              "United States",
+              "$279B"
+            ],
+            [
+              "2",
+              "Singapore",
+              "$143B"
+            ],
+            [
+              "3",
+              "Hong Kong",
+              "$126B"
+            ],
+            [
+              "4",
+              "China",
+              "$116B"
+            ],
+            [
+              "5",
+              "Luxembourg",
+              "$106B"
+            ],
+            [
+              "6",
+              "Canada",
+              "$64B"
+            ],
+            [
+              "7",
+              "Brazil",
+              "$59B"
+            ],
+            [
+              "8",
+              "Australia",
+              "$53B"
+            ],
+            [
+              "9",
+              "Egypt",
+              "$47B"
+            ],
+            [
+              "10",
+              "United Arab Emirates",
+              "$46B"
+            ],
+            [
+              "11",
+              "Mexico",
+              "$37B"
+            ],
+            [
+              "12",
+              "Cayman Islands",
+              "$36B"
+            ],
+            [
+              "13",
+              "France",
+              "$34B"
+            ],
+            [
+              "14",
+              "Spain",
+              "$31B"
+            ],
+            [
+              "15",
+              "India",
+              "$28B"
+            ],
+            [
+              "16",
+              "Italy",
+              "$25B"
+            ],
+            [
+              "17",
+              "Indonesia",
+              "$24B"
+            ],
+            [
+              "18",
+              "Vietnam",
+              "$20B"
+            ],
+            [
+              "19",
+              "Sweden",
+              "$18B"
+            ],
+            [
+              "20",
+              "Israel",
+              "$17B"
+            ]
+          ],
+          "caption": "2024年全球外国直接投资（FDI）流入量前20强"
+        }
+      ],
+      "deep_dive": "## 资本流向格局：高度集中与梯队分化\n\n2024年的全球FDI数据清晰地描绘出一幅资本高度集中的图景。榜首美国以2790亿美元的惊人流入量，占据了全球总额的约18.6%，其体量几乎是第二名（新加坡1430亿）的两倍，形成了无可争议的“一超”地位。紧随其后的第二梯队（新加坡、香港、中国）则共同构成了全球资本流动的核心枢纽。值得注意的是，前四名国家的FDI总和高达6640亿美元，约占全球前十强总量的72%，这表明全球直接投资活动在地理上极为集中，头部效应极其明显。\n\n从经济体类型看，这份榜单融合了成熟发达经济体（如美国、加拿大、法国）、大型新兴市场（如中国、巴西、印度、墨西哥）以及重要的离岸金融中心（如卢森堡、开曼群岛）。离岸金融中心在前五和前十中均占有一席之地，这提示我们，大量FDI可能并非用于实体投资，而是服务于跨国企业的税务筹划、资金归集等金融活动，这在解读绝对数值时需保持审慎。\n\n## 地区热点与结构性启示\n\n深入分析区域格局，几个趋势值得关注：\n\n- **亚洲多点开花**：除了中国香港，新加坡、中国、印度、越南、印度尼西亚等均表现强劲，共同引领了亚洲的资本吸引力。这反映了该地区庞大的市场、持续的城市化、年轻的人口结构以及深度融入全球供应链的优势。\n- **资源型与转型经济体崛起**：埃及、阿联酋、沙特阿拉伯等中东及北非国家的崛起，既与能源转型投资有关，也得益于其经济多元化战略。同样，埃塞俄比亚、莫桑比克等非洲国家也进入榜单，显示了资源禀赋和增长潜力对资本的吸引力。\n- **欧洲内部差异显著**：传统工业强国德国排名仅第46位（60亿美元），远低于其经济规模。相比之下，西班牙、瑞典、以色列等国排名靠前。这可能反映了欧洲内部投资流向的结构性变化，例如流向服务业、科技以及更灵活的市场经济体。\n- **尾部国家的挑战**：榜单后半段国家FDI流入量迅速衰减至个位数十亿美元，与头部差距悬殊。这凸显了众多发展中国家在改善营商环境、基础设施、政治稳定性等方面仍面临巨大挑战，难以有效吸引大规模外国直接投资。\n\n总体而言，FDI的流向是经济实力、市场潜力、政策环境、地缘政治和特定产业趋势（如金融、科技、能源）共同作用的结果。投资者在参考此类排名时，不仅应关注总量，更需结合具体国家的行业构成、投资目的（实体运营vs.金融操作）以及长期趋势进行综合判断。",
+      "glossary": [
+        {
+          "term": "FDI（外国直接投资）",
+          "explanation": "一国居民对另一国企业进行的、旨在建立持久利益关系的投资，通常以获得企业经营管理控制权为目标。主要形式包括绿地投资（新建企业）和跨国并购。"
+        },
+        {
+          "term": "离岸金融中心",
+          "explanation": "指以低税率、宽松的金融监管和高度保密性吸引国际资本注册和运作的地区或司法管辖区，如开曼群岛、卢森堡。许多FDI流经此类中心，但未必用于实体经济活动。"
+        },
+        {
+          "term": "资本聚集效应",
+          "explanation": "指资本（投资）倾向于流向已经具备较好基础设施、市场规模和制度环境的地区，从而形成“强者愈强”的聚集现象，导致地区间投资水平差异扩大。"
+        }
+      ]
+    }
+  },
+  {
     "id": "7585f88e",
     "title": "Mapped: America’s Hiring Map Has Flipped Since 2020",
     "original_url": "https://www.visualcapitalist.com/where-hiring-demand-is-rising-and-falling-in-america/",
