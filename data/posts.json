@@ -1,5 +1,316 @@
 [
   {
+    "id": "7585f88e",
+    "title": "Mapped: America’s Hiring Map Has Flipped Since 2020",
+    "original_url": "https://www.visualcapitalist.com/where-hiring-demand-is-rising-and-falling-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7585f88e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDeaenRzZNUWDZqSEHNefc63FGkJOKKiUHFFO5FiFoxQqgU8001pyowdRkoYYoqGijlQc7P/9k=",
+    "image_version": 1779883754,
+    "pub_date": "Wed, 27 May 2026 12:04:58 +0000",
+    "content_md": "| Rank | State | Change in Job OpeningsFeb 2020 vs Jan 2026 |\n| --- | --- | --- |\n| 1 | Idaho | 20.5% |\n| 2 | Mississippi | 19.6% |\n| 3 | Oklahoma | 18.8% |\n| 4 | Georgia | 16.0% |\n| 5 | Texas | 14.2% |\n| 6 | Ohio | 9.9% |\n| 7 | Missouri | 9.7% |\n| 8 | Minnesota | 9.5% |\n| 9 | District of Columbia | 6.5% |\n| 10 | Louisiana | 4.4% |\n| 11 | South Carolina | 3.7% |\n| 12 | Arkansas | 1.6% |\n| 13 | Connecticut | 1.5% |\n| 14 | Tennessee | 0.7% |\n| 15 | Delaware | 0.0% |\n| 16 | Kansas | 0.0% |\n| 17 | Alabama | -1.0% |\n| 18 | North Carolina | -1.7% |\n| 19 | Florida | -1.8% |\n| 20 | Rhode Island | -4.2% |\n| 21 | Virginia | -4.5% |\n| 22 | Michigan | -5.5% |\n| 23 | Kentucky | -6.4% |\n| 24 | North Dakota | -8.7% |\n| 25 | Utah | -10.7% |\n| 26 | West Virginia | -12.0% |\n| 27 | Maine | -12.5% |\n| 28 | South Dakota | -13.0% |\n| 29 | Pennsylvania | -13.2% |\n| 30 | New York | -13.5% |\n| 31 | Colorado | -14.1% |\n| 32 | Iowa | -14.5% |\n| 33 | New Jersey | -14.8% |\n| 34 | Illinois | -15.4% |\n| 35 | Montana | -17.9% |\n| 36 | Indiana | -19.2% |\n| 37 | Nebraska | -20.0% |\n| 38 | Nevada | -20.5% |\n| 39 | Arizona | -22.3% |\n| 40 | Maryland | -22.7% |\n| 41 | Massachusetts | -22.8% |\n| 42 | Wisconsin | -25.6% |\n| 43 | New Hampshire | -26.5% |\n| 44 | California | -27.0% |\n| 45 | Oregon | -28.4% |\n| 46 | Hawaii | -30.0% |\n| 47 | Alaska | -30.4% |\n| 48 | New Mexico | -35.3% |\n| 49 | Vermont | -35.3% |\n| 50 | Washington | -36.3% |\n| 51 | Wyoming | -38.9% |\n| -- | U.S. State Average | -9.6% |",
+    "ai_analysis": {
+      "core_insight": "美国就业市场区域格局逆转，南部与内陆州崛起，传统强州普遍收缩。",
+      "data_highlights": [
+        "爱达荷州以20.5%的职位空缺增幅领跑全美，密西西比州与俄克拉荷马州紧随其后。",
+        "怀俄明州以-38.9%的降幅垫底，华盛顿州、佛蒙特州等降幅均超35%。",
+        "全美各州平均职位空缺较2020年2月下降9.6%，但前10名州均实现正增长。",
+        "传统科技与经济中心（加州、纽约州、马萨诸塞州）跌幅显著，均超过22%。",
+        "德克萨斯州以14.2%的增幅位列第五，显示其持续的人口与经济吸引力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Change in Job OpeningsFeb 2020 vs Jan 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Idaho",
+              "20.5%"
+            ],
+            [
+              "2",
+              "Mississippi",
+              "19.6%"
+            ],
+            [
+              "3",
+              "Oklahoma",
+              "18.8%"
+            ],
+            [
+              "4",
+              "Georgia",
+              "16.0%"
+            ],
+            [
+              "5",
+              "Texas",
+              "14.2%"
+            ],
+            [
+              "6",
+              "Ohio",
+              "9.9%"
+            ],
+            [
+              "7",
+              "Missouri",
+              "9.7%"
+            ],
+            [
+              "8",
+              "Minnesota",
+              "9.5%"
+            ],
+            [
+              "9",
+              "District of Columbia",
+              "6.5%"
+            ],
+            [
+              "10",
+              "Louisiana",
+              "4.4%"
+            ],
+            [
+              "11",
+              "South Carolina",
+              "3.7%"
+            ],
+            [
+              "12",
+              "Arkansas",
+              "1.6%"
+            ],
+            [
+              "13",
+              "Connecticut",
+              "1.5%"
+            ],
+            [
+              "14",
+              "Tennessee",
+              "0.7%"
+            ],
+            [
+              "15",
+              "Delaware",
+              "0.0%"
+            ],
+            [
+              "16",
+              "Kansas",
+              "0.0%"
+            ],
+            [
+              "17",
+              "Alabama",
+              "-1.0%"
+            ],
+            [
+              "18",
+              "North Carolina",
+              "-1.7%"
+            ],
+            [
+              "19",
+              "Florida",
+              "-1.8%"
+            ],
+            [
+              "20",
+              "Rhode Island",
+              "-4.2%"
+            ],
+            [
+              "21",
+              "Virginia",
+              "-4.5%"
+            ],
+            [
+              "22",
+              "Michigan",
+              "-5.5%"
+            ],
+            [
+              "23",
+              "Kentucky",
+              "-6.4%"
+            ],
+            [
+              "24",
+              "North Dakota",
+              "-8.7%"
+            ],
+            [
+              "25",
+              "Utah",
+              "-10.7%"
+            ],
+            [
+              "26",
+              "West Virginia",
+              "-12.0%"
+            ],
+            [
+              "27",
+              "Maine",
+              "-12.5%"
+            ],
+            [
+              "28",
+              "South Dakota",
+              "-13.0%"
+            ],
+            [
+              "29",
+              "Pennsylvania",
+              "-13.2%"
+            ],
+            [
+              "30",
+              "New York",
+              "-13.5%"
+            ],
+            [
+              "31",
+              "Colorado",
+              "-14.1%"
+            ],
+            [
+              "32",
+              "Iowa",
+              "-14.5%"
+            ],
+            [
+              "33",
+              "New Jersey",
+              "-14.8%"
+            ],
+            [
+              "34",
+              "Illinois",
+              "-15.4%"
+            ],
+            [
+              "35",
+              "Montana",
+              "-17.9%"
+            ],
+            [
+              "36",
+              "Indiana",
+              "-19.2%"
+            ],
+            [
+              "37",
+              "Nebraska",
+              "-20.0%"
+            ],
+            [
+              "38",
+              "Nevada",
+              "-20.5%"
+            ],
+            [
+              "39",
+              "Arizona",
+              "-22.3%"
+            ],
+            [
+              "40",
+              "Maryland",
+              "-22.7%"
+            ],
+            [
+              "41",
+              "Massachusetts",
+              "-22.8%"
+            ],
+            [
+              "42",
+              "Wisconsin",
+              "-25.6%"
+            ],
+            [
+              "43",
+              "New Hampshire",
+              "-26.5%"
+            ],
+            [
+              "44",
+              "California",
+              "-27.0%"
+            ],
+            [
+              "45",
+              "Oregon",
+              "-28.4%"
+            ],
+            [
+              "46",
+              "Hawaii",
+              "-30.0%"
+            ],
+            [
+              "47",
+              "Alaska",
+              "-30.4%"
+            ],
+            [
+              "48",
+              "New Mexico",
+              "-35.3%"
+            ],
+            [
+              "49",
+              "Vermont",
+              "-35.3%"
+            ],
+            [
+              "50",
+              "Washington",
+              "-36.3%"
+            ],
+            [
+              "51",
+              "Wyoming",
+              "-38.9%"
+            ],
+            [
+              "--",
+              "U.S. State Average",
+              "-9.6%"
+            ]
+          ],
+          "caption": "2020年2月至2026年1月美国各州职位空缺变化率排名"
+        }
+      ],
+      "deep_dive": "## 区域经济格局的根本性重塑\n\n数据显示，美国就业市场的地理中心正在发生显著位移。传统上由西海岸（加州、华盛顿州）和东北部（纽约、新泽西、马萨诸塞州）主导的就业增长引擎，已让位于南部（乔治亚、德克萨斯、路易斯安那）和内陆山地州（爱达荷、俄克拉荷马）。这种逆转并非偶然，而是多重结构性因素长期作用的结果。\n\n- **成本驱动与远程办公常态化**：疫情加速了远程工作的普及，使得企业和员工得以逃离高成本、高税收的传统科技与金融中心。爱达荷、俄克拉荷马等州较低的生活成本、税收负担和商业运营成本，吸引了企业迁移和人才流入，直接推高了当地职位需求。\n- **产业与能源结构的差异**：位列前茅的州，如德克萨斯（能源、科技、制造业多元化）、乔治亚（物流、影视、金融科技）和俄克拉荷马（能源、航空），其经济增长点更具韧性或更契合后疫情时代需求。而跌幅巨大的怀俄明、阿拉斯加等州则严重依赖传统资源（如旅游、特定能源），受疫情冲击和能源转型影响更深。\n\n## 启示与局限性分析\n\n这份排名表揭示的不仅是就业数据的变化，更是国家经济韧性与区域竞争力的晴雨表。\n\n- **对政策制定与企业选址的启示**：企业投资和地方政府招商需重新评估区域优势，成本效率、生活品质和产业升级能力已成为比传统集聚效应更关键的考量。对于人口净流入州，基础设施和公共服务面临巨大压力，需前瞻性规划。\n- **数据局限性需审慎看待**：报告的比较时间段为2020年2月至2026年1月，这跨越了疫情爆发、复苏及可能的多次经济周期，增长率受基数效应影响大。例如，2020年2月基数较低的州（可能当时受冲击较早或较重），在后续复苏中更容易显示出高增长百分比。此外，“职位空缺”变化不等同于实际就业或薪资水平变化，需结合失业率、劳动参与率等指标综合判断就业市场健康状况。\n- **潜在的社会经济影响**：这种地理格局的快速变化可能加剧区域间的发展不平衡，赢家州可能面临房价上涨、交通拥堵等“成长的烦恼”，而输家州则面临税基萎缩、公共服务收紧的挑战，长远看可能影响国家内部凝聚力。",
+      "glossary": [
+        {
+          "term": "职位空缺（Job Openings）",
+          "explanation": "指企业已发布但尚未填补的职位数量，是衡量劳动力市场活跃度和需求侧压力的关键先行指标。"
+        },
+        {
+          "term": "基数效应（Base Effect）",
+          "explanation": "在计算增长率时，由于比较的基期数值不同（如低基数或高基数），会对当期增长率产生显著影响，可能扭曲趋势的真实程度。"
+        },
+        {
+          "term": "远程办公（Remote Work）",
+          "explanation": "借助信息技术，员工无需集中在传统办公室即可完成工作的模式。疫情后其普及深刻改变了企业选址逻辑和人口流动趋势。"
+        },
+        {
+          "term": "区域经济韧性（Regional Economic Resilience）",
+          "explanation": "指一个地区经济体系在遭受外部冲击（如疫情、金融危机）后，抵御、适应并恢复增长的能力。产业结构和政策环境是关键决定因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c8dd45f6",
     "title": "Breaking Down U.S. Carbon Offsets by Project Type in 2026",
     "original_url": "https://www.visualcapitalist.com/sp/breaking-down-us-carbon-offset-projects-in-2026/",
