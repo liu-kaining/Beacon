@@ -1,5 +1,353 @@
 [
   {
+    "id": "09e9f8e3",
+    "title": "Mapped: Nursing Home Costs Across America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-americans-pay-the-most-for-nursing-homes/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/09e9f8e3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAWABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpXnHrTopxnrWWZCafE5BrQ5uY3Vl4orOWbjrRSL5jMFOBxRRSMR3mGiiigs//2Q==",
+    "image_version": 1779970661,
+    "pub_date": "Thu, 28 May 2026 11:56:07 +0000",
+    "content_md": "| Rank | State | Median Annual Cost 2025 | Monthly Cost |\n| --- | --- | --- | --- |\n| 1 | Alaska | $333,975 | $27,831 |\n| 2 | Oregon | $201,115 | $16,760 |\n| 3 | New York | $186,332 | $15,528 |\n| 4 | Hawaii | $185,679 | $15,473 |\n| 5 | Connecticut | $182,500 | $15,208 |\n| 6 | Delaware | $173,922 | $14,494 |\n| 7 | Massachusetts | $173,375 | $14,448 |\n| 8 | Vermont | $169,360 | $14,113 |\n| 9 | Maine | $167,718 | $13,976 |\n| 10 | Washington | $157,859 | $13,155 |\n| 11 | Maryland | $155,125 | $12,927 |\n| 12 | West Virginia | $154,030 | $12,836 |\n| 13 | New Jersey | $153,300 | $12,775 |\n| 14 | New Hampshire | $146,912 | $12,243 |\n| 15 | California | $146,000 | $12,167 |\n| 16 | Rhode Island | $145,270 | $12,106 |\n| 17 | Pennsylvania | $143,445 | $11,954 |\n| 18 | Nevada | $141,438 | $11,786 |\n| 19 | North Dakota | $138,335 | $11,528 |\n| 20 | Michigan | $135,050 | $11,254 |\n| 21 | Minnesota | $127,750 | $10,646 |\n| 21 | Wisconsin | $127,750 | $10,646 |\n| 23 | Idaho | $125,925 | $10,494 |\n| 24 | Florida | $124,100 | $10,342 |\n| 25 | Virginia | $123,005 | $10,250 |\n| 26 | Colorado | $121,910 | $10,159 |\n| 27 | Wyoming | $118,990 | $9,916 |\n| 28 | North Carolina | $116,800 | $9,733 |\n| 29 | Kentucky | $116,618 | $9,718 |\n| 30 | Mississippi | $114,975 | $9,581 |\n| 31 | South Dakota | $113,332 | $9,444 |\n| 32 | Tennessee | $113,150 | $9,429 |\n| 33 | Iowa | $111,325 | $9,277 |\n| 34 | Ohio | $110,230 | $9,186 |\n| 35 | New Mexico | $109,500 | $9,125 |\n| 36 | South Carolina | $108,405 | $9,034 |\n| 37 | Montana | $107,675 | $8,873 |\n| 38 | Indiana | $107,310 | $8,942 |\n| 39 | Georgia | $105,850 | $8,821 |\n| 40 | Kansas | $104,025 | $8,669 |\n| 40 | Utah | $104,025 | $8,669 |\n| 42 | Nebraska | $100,521 | $8,377 |\n| 43 | Arizona | $100,375 | $8,365 |\n| 44 | Alabama | $100,010 | $8,334 |\n| 45 | Illinois | $99,645 | $8,304 |\n| 46 | Louisiana | $91,250 | $7,604 |\n| 47 | Arkansas | $89,425 | $7,452 |\n| 48 | Oklahoma | $84,315 | $7,026 |\n| 49 | Missouri | $80,893 | $6,741 |\n| 50 | Texas | $67,525 | $5,627 |",
+    "ai_analysis": {
+      "core_insight": "美国养老院费用地区差异巨大，阿拉斯加成本最高，是德克萨斯的近5倍。",
+      "data_highlights": [
+        "阿拉斯加州以年均33.4万美元的中位成本高居榜首，月费约2.8万美元。",
+        "排名前十的州主要位于美国东北部和西海岸，均为生活成本较高的地区。",
+        "德克萨斯州费用最低，年均6.75万美元，月均仅5627美元，成本优势显著。",
+        "成本最高的州与最低的州之间，年费用差距超过26.6万美元。",
+        "明尼苏达州和威斯康星州并列第21位，显示部分相邻州成本水平趋同。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Median Annual Cost 2025",
+            "Monthly Cost"
+          ],
+          "rows": [
+            [
+              "1",
+              "Alaska",
+              "$333,975",
+              "$27,831"
+            ],
+            [
+              "2",
+              "Oregon",
+              "$201,115",
+              "$16,760"
+            ],
+            [
+              "3",
+              "New York",
+              "$186,332",
+              "$15,528"
+            ],
+            [
+              "4",
+              "Hawaii",
+              "$185,679",
+              "$15,473"
+            ],
+            [
+              "5",
+              "Connecticut",
+              "$182,500",
+              "$15,208"
+            ],
+            [
+              "6",
+              "Delaware",
+              "$173,922",
+              "$14,494"
+            ],
+            [
+              "7",
+              "Massachusetts",
+              "$173,375",
+              "$14,448"
+            ],
+            [
+              "8",
+              "Vermont",
+              "$169,360",
+              "$14,113"
+            ],
+            [
+              "9",
+              "Maine",
+              "$167,718",
+              "$13,976"
+            ],
+            [
+              "10",
+              "Washington",
+              "$157,859",
+              "$13,155"
+            ],
+            [
+              "11",
+              "Maryland",
+              "$155,125",
+              "$12,927"
+            ],
+            [
+              "12",
+              "West Virginia",
+              "$154,030",
+              "$12,836"
+            ],
+            [
+              "13",
+              "New Jersey",
+              "$153,300",
+              "$12,775"
+            ],
+            [
+              "14",
+              "New Hampshire",
+              "$146,912",
+              "$12,243"
+            ],
+            [
+              "15",
+              "California",
+              "$146,000",
+              "$12,167"
+            ],
+            [
+              "16",
+              "Rhode Island",
+              "$145,270",
+              "$12,106"
+            ],
+            [
+              "17",
+              "Pennsylvania",
+              "$143,445",
+              "$11,954"
+            ],
+            [
+              "18",
+              "Nevada",
+              "$141,438",
+              "$11,786"
+            ],
+            [
+              "19",
+              "North Dakota",
+              "$138,335",
+              "$11,528"
+            ],
+            [
+              "20",
+              "Michigan",
+              "$135,050",
+              "$11,254"
+            ],
+            [
+              "21",
+              "Minnesota",
+              "$127,750",
+              "$10,646"
+            ],
+            [
+              "21",
+              "Wisconsin",
+              "$127,750",
+              "$10,646"
+            ],
+            [
+              "23",
+              "Idaho",
+              "$125,925",
+              "$10,494"
+            ],
+            [
+              "24",
+              "Florida",
+              "$124,100",
+              "$10,342"
+            ],
+            [
+              "25",
+              "Virginia",
+              "$123,005",
+              "$10,250"
+            ],
+            [
+              "26",
+              "Colorado",
+              "$121,910",
+              "$10,159"
+            ],
+            [
+              "27",
+              "Wyoming",
+              "$118,990",
+              "$9,916"
+            ],
+            [
+              "28",
+              "North Carolina",
+              "$116,800",
+              "$9,733"
+            ],
+            [
+              "29",
+              "Kentucky",
+              "$116,618",
+              "$9,718"
+            ],
+            [
+              "30",
+              "Mississippi",
+              "$114,975",
+              "$9,581"
+            ],
+            [
+              "31",
+              "South Dakota",
+              "$113,332",
+              "$9,444"
+            ],
+            [
+              "32",
+              "Tennessee",
+              "$113,150",
+              "$9,429"
+            ],
+            [
+              "33",
+              "Iowa",
+              "$111,325",
+              "$9,277"
+            ],
+            [
+              "34",
+              "Ohio",
+              "$110,230",
+              "$9,186"
+            ],
+            [
+              "35",
+              "New Mexico",
+              "$109,500",
+              "$9,125"
+            ],
+            [
+              "36",
+              "South Carolina",
+              "$108,405",
+              "$9,034"
+            ],
+            [
+              "37",
+              "Montana",
+              "$107,675",
+              "$8,873"
+            ],
+            [
+              "38",
+              "Indiana",
+              "$107,310",
+              "$8,942"
+            ],
+            [
+              "39",
+              "Georgia",
+              "$105,850",
+              "$8,821"
+            ],
+            [
+              "40",
+              "Kansas",
+              "$104,025",
+              "$8,669"
+            ],
+            [
+              "40",
+              "Utah",
+              "$104,025",
+              "$8,669"
+            ],
+            [
+              "42",
+              "Nebraska",
+              "$100,521",
+              "$8,377"
+            ],
+            [
+              "43",
+              "Arizona",
+              "$100,375",
+              "$8,365"
+            ],
+            [
+              "44",
+              "Alabama",
+              "$100,010",
+              "$8,334"
+            ],
+            [
+              "45",
+              "Illinois",
+              "$99,645",
+              "$8,304"
+            ],
+            [
+              "46",
+              "Louisiana",
+              "$91,250",
+              "$7,604"
+            ],
+            [
+              "47",
+              "Arkansas",
+              "$89,425",
+              "$7,452"
+            ],
+            [
+              "48",
+              "Oklahoma",
+              "$84,315",
+              "$7,026"
+            ],
+            [
+              "49",
+              "Missouri",
+              "$80,893",
+              "$6,741"
+            ],
+            [
+              "50",
+              "Texas",
+              "$67,525",
+              "$5,627"
+            ]
+          ],
+          "caption": "2025年美国各州养老院中位年成本排名"
+        }
+      ],
+      "deep_dive": "## 地理分布与成本驱动因素分析\n美国养老院费用呈现出显著的地域聚集性，高成本州主要集中在东北部（新英格兰地区）和西海岸。排名前10的州中，有8个位于美国东北部或西海岸，仅华盛顿州和俄勒冈州为西北部。这种分布格局与这些地区整体较高的生活成本、劳动力成本及严格的监管环境密切相关。阿拉斯加的极端高成本（$333,975）则源于其独特的地理位置、严酷气候及由此产生的更高物流与运营成本。\n\n## 核心发现与政策启示\n1.  **成本鸿沟与选择困境**：最高（阿拉斯加）与最低（德克萨斯）年成本差距达$266,450，这意味着一个家庭在德克萨斯养老5年的费用，在阿拉斯加仅够1年。这为跨州养老或迁徙养老提供了巨大的经济动因，但也对依赖本地家庭支持的老年群体构成挑战。\n2.  **区域一致性**：部分地理相邻的州成本水平高度一致，例如明尼苏达与威斯康星（并列21），北卡罗来纳（28）与弗吉尼亚（25）。这暗示了区域内可能共享相似的人口结构、医保报销政策或劳动力市场。\n3.  **阳光地带的性价比**：佛罗里达（24）、亚利桑那（43）等传统“阳光养老州”排名中游，费用低于全国中位水平（约$117,000），结合其气候优势，提供了较高的性价比。而加利福尼亚（15）虽处西海岸，成本却显著低于阿拉斯加、夏威夷和东北部各州。\n\n## 数据局限与思考\n本数据采用“中位数年成本”，能有效避免极端值干扰，反映典型情况。但需注意：第一，中位数掩盖了各州内部不同城市、不同等级护理机构的巨大差异；第二，成本不等同于质量，高价未必对应优质护理；第三，数据未涵盖家庭护理、辅助生活设施等其他养老模式的成本，美国养老选择的全景图更为复杂。",
+      "glossary": [
+        {
+          "term": "中位数成本",
+          "explanation": "将所有成本数据按大小顺序排列后，位于中间位置的数值。它比平均值更能抵抗极端高或低价格的干扰，反映了一般水平。"
+        },
+        {
+          "term": "生活成本",
+          "explanation": "指在一个特定地区维持特定生活水平所需的费用总和，通常包括住房、食品、交通、医疗等。高生活成本地区通常对应更高的养老服务价格。"
+        },
+        {
+          "term": "长期护理",
+          "explanation": "为因慢性疾病、残疾或认知障碍而无法独立完成日常活动的人提供的持续性服务，养老院是其中一种重要的机构护理形式。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ebd42dfc",
     "title": "Ranked: The World’s Biggest Electricity Consumers",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-electricity-consumers/",
