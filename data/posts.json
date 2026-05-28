@@ -1,5 +1,389 @@
 [
   {
+    "id": "73512788",
+    "title": "How People Are Actually Using AI at Work in 2026",
+    "original_url": "https://www.visualcapitalist.com/how-people-are-using-ai-at-work-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/73512788.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpZLsetJHdAnrWDLO2etOt52J61NRWREXc6VZxjrRWYkp2iiufmNrGZJDRFHtNW3qMda6Zu6MIMmU/LRSDpRXPyo25mf/Z",
+    "image_version": 1779990871,
+    "pub_date": "Thu, 28 May 2026 17:11:35 +0000",
+    "content_md": "| Activity | Share of Activities 2026 | Category |\n| --- | --- | --- |\n| Decision-making | 27.5% | Analyzing, reasoning, and deciding |\n| Data analysis | 5.5% | Analyzing, reasoning, and deciding |\n| Creative thinking | 4.9% | Analyzing, reasoning, and deciding |\n| Information processing | 3.1% | Analyzing, reasoning, and deciding |\n| Quality assessment | 2.8% | Analyzing, reasoning, and deciding |\n| Compliance review | 2.5% | Analyzing, reasoning, and deciding |\n| Work planning | 1.0% | Analyzing, reasoning, and deciding |\n| Strategy development | 1.0% | Analyzing, reasoning, and deciding |\n| Scheduling | 0.4% | Analyzing, reasoning, and deciding |\n| Knowledge updating | 0.3% | Analyzing, reasoning, and deciding |\n| Team communication | 8.4% | Interacting with others |\n| Information interpretation | 4.5% | Interacting with others |\n| Admin work | 1.4% | Interacting with others |\n| Ext communication | 1.3% | Interacting with others |\n| Public engagement | 0.7% | Interacting with others |\n| Advising others | 0.6% | Interacting with others |\n| Conflict resolution | 0.5% | Interacting with others |\n| Coaching others | 0.4% | Interacting with others |\n| Relationship building | 0.3% | Interacting with others |\n| Persuasion & influence | 0.3% | Interacting with others |\n| Staffing | 0.3% | Interacting with others |\n| Caregiving support | 0.3% | Interacting with others |\n| Teaching & training | 0.1% | Interacting with others |\n| Documentation | 11.7% | Producing work |\n| Computer work | 4.7% | Producing work |\n| Object handling | 0.3% | Producing work |\n| Getting information | 13.0% | Information gathering |\n| Estimation | 1.3% | Information gathering |\n| Process monitoring | 0.5% | Information gathering |\n| Identification | 0.2% | Information gathering |\n| Equipment inspection | 0.2% | Information gathering |",
+    "ai_analysis": {
+      "core_insight": "AI在2026年主要用于决策支持与文档处理，而非完全替代人力。",
+      "data_highlights": [
+        "决策支持是AI应用最广泛的领域，占比高达27.5%。",
+        "文档处理（11.7%）和信息获取（13.0%）是AI的另外两大核心应用场景。",
+        "在需要人际互动和复杂创造力的任务中，AI的渗透率相对较低。",
+        "AI正深度融入分析推理类活动，占据超过50%的份额。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Activity",
+            "Share of Activities 2026",
+            "Category"
+          ],
+          "rows": [
+            [
+              "Decision-making",
+              "27.5%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Data analysis",
+              "5.5%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Creative thinking",
+              "4.9%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Information processing",
+              "3.1%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Quality assessment",
+              "2.8%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Compliance review",
+              "2.5%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Work planning",
+              "1.0%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Strategy development",
+              "1.0%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Scheduling",
+              "0.4%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Knowledge updating",
+              "0.3%",
+              "Analyzing, reasoning, and deciding"
+            ],
+            [
+              "Team communication",
+              "8.4%",
+              "Interacting with others"
+            ],
+            [
+              "Information interpretation",
+              "4.5%",
+              "Interacting with others"
+            ],
+            [
+              "Admin work",
+              "1.4%",
+              "Interacting with others"
+            ],
+            [
+              "Ext communication",
+              "1.3%",
+              "Interacting with others"
+            ],
+            [
+              "Public engagement",
+              "0.7%",
+              "Interacting with others"
+            ],
+            [
+              "Advising others",
+              "0.6%",
+              "Interacting with others"
+            ],
+            [
+              "Conflict resolution",
+              "0.5%",
+              "Interacting with others"
+            ],
+            [
+              "Coaching others",
+              "0.4%",
+              "Interacting with others"
+            ],
+            [
+              "Relationship building",
+              "0.3%",
+              "Interacting with others"
+            ],
+            [
+              "Persuasion & influence",
+              "0.3%",
+              "Interacting with others"
+            ],
+            [
+              "Staffing",
+              "0.3%",
+              "Interacting with others"
+            ],
+            [
+              "Caregiving support",
+              "0.3%",
+              "Interacting with others"
+            ],
+            [
+              "Teaching & training",
+              "0.1%",
+              "Interacting with others"
+            ],
+            [
+              "Documentation",
+              "11.7%",
+              "Producing work"
+            ],
+            [
+              "Computer work",
+              "4.7%",
+              "Producing work"
+            ],
+            [
+              "Object handling",
+              "0.3%",
+              "Producing work"
+            ],
+            [
+              "Getting information",
+              "13.0%",
+              "Information gathering"
+            ],
+            [
+              "Estimation",
+              "1.3%",
+              "Information gathering"
+            ],
+            [
+              "Process monitoring",
+              "0.5%",
+              "Information gathering"
+            ],
+            [
+              "Identification",
+              "0.2%",
+              "Information gathering"
+            ],
+            [
+              "Equipment inspection",
+              "0.2%",
+              "Information gathering"
+            ]
+          ],
+          "caption": "2026年AI在各类工作活动中的应用占比"
+        }
+      ],
+      "deep_dive": "## AI应用的核心定位：增强而非替代\n\n根据数据，到2026年，AI在工作中的应用呈现出清晰的结构性特征。其角色并非全面接管，而是作为强大的**分析与执行辅助工具**。在“分析、推理与决策”这一大类中，AI的总体占比高达约50%，其中仅“决策支持”一项就占据了27.5%。这表明，AI的核心价值在于处理复杂数据、识别模式并提供决策依据，从而将人类从繁重的初级分析工作中解放出来，专注于更高阶的判断与战略思考。同时，“文档处理”（11.7%）和“信息获取”（13.0%）这两项高度重复、耗时的任务占据了AI应用的近四分之一，这进一步印证了AI在提升行政与知识工作效率方面的显著作用。\n\n## 应用分布差异：效率提升与人性化工作的边界\n\n数据的另一面清晰地揭示了AI应用的边界。在“与他人互动”类别中，AI的总体渗透率较低，且内部差异巨大。虽然“团队沟通”（8.4%）和“信息解读”（4.5%）的占比较高，可能反映了AI在会议安排、邮件草拟和初步信息汇总方面的辅助作用，但涉及**深度人际技能**的活动，如“冲突解决”（0.5%）、“教导培训”（0.1%）和“关系建立”（0.3%），AI的介入微乎其微。这凸显了人类在情感智能、同理心和复杂社交互动中的不可替代性。\n\n同样，在“生产性工作”中，AI主导了“文档”和“计算机操作”，但在“操作实物”（0.3%）方面几乎无用武之地。这种分布差异为企业指明了AI投资与培训的重点：应优先在数据密集型分析、信息处理和标准化文档生成等领域部署AI，同时认识到需要保留并强化员工在创造性战略、人际协调和物理执行等领域的核心能力。局限在于，此数据仅展示了活动占比，未反映质量提升或决策正确率等效能指标，未来研究需结合效能数据以进行更全面的评估。",
+      "glossary": [
+        {
+          "term": "Decision-making",
+          "explanation": "指AI通过分析数据、识别模式和预测结果来为人类决策提供信息、建议或自动化部分决策流程的能力。"
+        },
+        {
+          "term": "Information gathering",
+          "explanation": "指AI自动从内部系统、外部数据库或网络中搜索、筛选、整理和呈现相关信息的过程，以提升信息获取效率。"
+        },
+        {
+          "term": "Interacting with others",
+          "explanation": "指涉及人际沟通、协作和关系的活动。数据表明，AI在此类需要情感智能和复杂社交技巧的活动中渗透率较低。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c1f4e375",
+    "title": "Ranked: The 10 Countries That Control Global Trade",
+    "original_url": "https://www.visualcapitalist.com/ranked-countries-that-control-global-trade/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c1f4e375.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC9uqWJuaiPWnxdagsuK3FFIvSigR//2Q==",
+    "image_version": 1779990944,
+    "pub_date": "Thu, 28 May 2026 14:12:08 +0000",
+    "content_md": "| Rank | Importer | Value ($) | Change (vs. 2024) |\n| --- | --- | --- | --- |\n| 1 | United States | 3.5T | 4% |\n| 2 | China | 2.6T | 0% |\n| 3 | Germany | 1.5T | 9% |\n| 4 | United Kingdom | 949B | 16% |\n| 5 | Netherlands | 870B | 7% |\n| 6 | Hong Kong | 832B | 18% |\n| 7 | France | 786B | 5% |\n| 8 | Japan | 756B | 2% |\n| 9 | India | 753B | 5% |\n| 10 | Mexico | 683B | 4% |\n\n| Rank | Exporter | Value ($) | Change (vs. 2024) |\n| --- | --- | --- | --- |\n| 1 | China | 3.8T | 5% |\n| 2 | United States | 2.2T | 6% |\n| 3 | Germany | 1.8T | 5% |\n| 4 | Netherlands | 989B | 7% |\n| 5 | Hong Kong | 754B | 17% |\n| 6 | Japan | 738B | 4% |\n| 7 | Italy | 726B | 8% |\n| 8 | South Korea | 709B | 4% |\n| 9 | United Arab Emirates | 707B | 17% |\n| 10 | France | 683B | 7% |",
+    "ai_analysis": {
+      "core_insight": "中国是全球最大出口国，美国是全球最大进口国，贸易格局由中美德主导。",
+      "data_highlights": [
+        "2025年全球贸易前十大进口国总值约1.3万亿美元，美国以3.5万亿美元独占鳌头。",
+        "中国以3.8万亿美元出口额稳居全球第一，远超第二名美国的2.2万亿美元。",
+        "英国与香港的进口额同比增速分别高达16%和18%，显示强劲复苏或转口需求。",
+        "阿联酋出口额同比激增17%，与香港并列增速最快，凸显新兴贸易枢纽活力。",
+        "德国进出口均位列前三，体现其作为欧洲经济引擎和贸易枢纽的核心地位。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Importer",
+            "Value ($)",
+            "Change (vs. 2024)"
+          ],
+          "rows": [
+            [
+              "1",
+              "United States",
+              "3.5T",
+              "4%"
+            ],
+            [
+              "2",
+              "China",
+              "2.6T",
+              "0%"
+            ],
+            [
+              "3",
+              "Germany",
+              "1.5T",
+              "9%"
+            ],
+            [
+              "4",
+              "United Kingdom",
+              "949B",
+              "16%"
+            ],
+            [
+              "5",
+              "Netherlands",
+              "870B",
+              "7%"
+            ],
+            [
+              "6",
+              "Hong Kong",
+              "832B",
+              "18%"
+            ],
+            [
+              "7",
+              "France",
+              "786B",
+              "5%"
+            ],
+            [
+              "8",
+              "Japan",
+              "756B",
+              "2%"
+            ],
+            [
+              "9",
+              "India",
+              "753B",
+              "5%"
+            ],
+            [
+              "10",
+              "Mexico",
+              "683B",
+              "4%"
+            ]
+          ],
+          "caption": "2025年全球前十大进口国/地区"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Exporter",
+            "Value ($)",
+            "Change (vs. 2024)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "3.8T",
+              "5%"
+            ],
+            [
+              "2",
+              "United States",
+              "2.2T",
+              "6%"
+            ],
+            [
+              "3",
+              "Germany",
+              "1.8T",
+              "5%"
+            ],
+            [
+              "4",
+              "Netherlands",
+              "989B",
+              "7%"
+            ],
+            [
+              "5",
+              "Hong Kong",
+              "754B",
+              "17%"
+            ],
+            [
+              "6",
+              "Japan",
+              "738B",
+              "4%"
+            ],
+            [
+              "7",
+              "Italy",
+              "726B",
+              "8%"
+            ],
+            [
+              "8",
+              "South Korea",
+              "709B",
+              "4%"
+            ],
+            [
+              "9",
+              "United Arab Emirates",
+              "707B",
+              "17%"
+            ],
+            [
+              "10",
+              "France",
+              "683B",
+              "7%"
+            ]
+          ],
+          "caption": "2025年全球前十大出口国/地区"
+        }
+      ],
+      "deep_dive": "## 贸易格局的“双引擎”：中美角色分化\n\n2025年的数据清晰地勾勒出全球贸易的核心架构：**美国是消费引擎，中国是制造引擎**。美国以3.5万亿美元的进口额高居榜首，其庞大的内需市场是拉动全球贸易的关键力量。相比之下，中国以3.8万亿美元的出口额稳坐全球供应中心，其出口规模比美国高出近73%。这种“美国消费、中国生产”的模式，在短期内仍是全球供应链稳定的基础，但也预示着贸易失衡与地缘博弈的长期张力。\n\n值得注意的是，中国进口增速（0%）显著低于其出口增速（5%），而美国进口增速（4%）与出口增速（6%）相对均衡。这种差异可能反映了中国内需的复苏力度有待加强，以及美国在高端制造和能源出口方面的优势增强。\n\n## 欧洲枢纽与新兴力量：多元化趋势显现\n\n尽管中美占据主导，但欧洲与部分新兴经济体的表现不容忽视：\n- **德国**：进出口均位列全球前三（进口1.5万亿，出口1.8万亿），且出口增速（5%）高于进口（9%）的温和增长，显示其“欧洲工厂”的韧性以及制造业出口竞争力。\n- **荷兰**：作为欧洲门户，进出口均稳居前五，体现了其强大的物流和中转枢纽功能。\n- **香港**：进出口增速均超过17%，远高于全球平均水平，这可能得益于亚洲区域贸易的复苏、转口贸易的活跃，或其作为国际金融与贸易中心的独特地位。\n- **阿联酋**：出口增速高达17%，与香港并列最快，凸显了中东地区在能源贸易和区域物流中日益增长的战略地位。\n\n## 启示与局限\n\n**启示**：全球贸易增长正变得更加多元化和区域化。传统的“中美欧”三角之外，亚洲内部贸易（如香港的转口）和新兴枢纽（如阿联酋）正在崛起。对于投资者和政策制定者而言，关注这些增长极和供应链节点，比单纯聚焦大国博弈更具现实意义。\n\n**局限**：需注意数据中“Value”很可能为名义值，未剔除通货膨胀影响，因此实际贸易量增长可能被高估。此外，香港和阿联酋的高增长部分源于其转口/中转角色，其本地实体经济的贡献需结合其他数据审慎评估。单一年度的百分比变化也可能受到基数效应影响，趋势判断需结合多年数据。",
+      "glossary": [
+        {
+          "term": "Trade Balance (贸易差额)",
+          "explanation": "一国在一定时期内出口总值与进口总值的差额。出口大于进口为顺差，反之为逆差。本报告中中美巨大的进出口差额反映了不同的贸易结构。"
+        },
+        {
+          "term": "Entrepôt (转口贸易枢纽)",
+          "explanation": "指商品并非在本地生产或消费，而是经此地进行转运、仓储、分拨和再出口的贸易中心。香港和阿联酋的高增长部分源于此功能。"
+        },
+        {
+          "term": "Nominal Value (名义价值)",
+          "explanation": "以当前市场价格计算的价值，未根据通货膨胀进行调整。名义贸易值的增长可能包含价格上涨因素，不完全代表实物量的增加。"
+        },
+        {
+          "term": "Supply Chain (供应链)",
+          "explanation": "将产品或服务从原材料供应商送达最终消费者的整个网络。全球贸易格局实质上反映了全球供应链的布局，中美德等国的地位体现了其在关键供应链中的节点作用。"
+        }
+      ]
+    }
+  },
+  {
     "id": "09e9f8e3",
     "title": "Mapped: Nursing Home Costs Across America",
     "original_url": "https://www.visualcapitalist.com/mapped-where-americans-pay-the-most-for-nursing-homes/",
