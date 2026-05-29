@@ -1,5 +1,514 @@
 [
   {
+    "id": "c7385aac",
+    "title": "Ranked: Who Controls the World’s Uranium Supply?",
+    "original_url": "https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c7385aac.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC/cCoYfvVZuKrxferyFsdaZfT7oopU+7RWQH//2Q==",
+    "image_version": 1780077540,
+    "pub_date": "Fri, 29 May 2026 17:07:39 +0000",
+    "content_md": "| Rank (2024) | Country | 2015 (Tonnes) | 2024 (Tonnes) | Change (2015-2024) |\n| --- | --- | --- | --- | --- |\n| 1 | Kazakhstan | 23,607 | 23,270 | -1.4% |\n| 2 | Canada | 13,325 | 14,309 | 7.4% |\n| 3 | Namibia | 2,993 | 7,333 | 145.0% |\n| 4 | Australia | 5,654 | 4,598 | -18.7% |\n| 5 | Uzbekistan | 2,385 | 4,000 | 67.7% |\n| 6 | Russia | 3,055 | 2,738 | -10.4% |\n| 7 | China | 1,616 | 1,600 | -1.0% |\n| 8 | Niger | 4,116 | 962 | -76.6% |\n| 9 | India | 385 | 500 | 29.9% |\n| 10 | South Africa | 393 | 200 | -49.1% |\n| 11 | Ukraine | 1,200 | 288 | -76.0% |\n| 12 | USA | 1,256 | 260 | -79.3% |\n| -- | Others | 357 | 155 | -56.6% |\n| -- | World total | 60,342 | 60,213 | -0.2% |",
+    "ai_analysis": {
+      "core_insight": "全球铀供应高度集中，哈萨克斯坦、加拿大和纳米比亚三国主导格局，地缘风险凸显。",
+      "data_highlights": [
+        "哈萨克斯坦以23,270吨稳居全球铀产量榜首，占全球总产量近39%。",
+        "纳米比亚产量十年间飙升145%，跃升至全球第三大铀生产国。",
+        "美国、尼日尔和乌克兰产量暴跌超76%，全球总产量微降0.2%。",
+        "前三大生产国合计控制全球约75%的铀供应，集中度极高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank (2024)",
+            "Country",
+            "2015 (Tonnes)",
+            "2024 (Tonnes)",
+            "Change (2015-2024)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Kazakhstan",
+              "23,607",
+              "23,270",
+              "-1.4%"
+            ],
+            [
+              "2",
+              "Canada",
+              "13,325",
+              "14,309",
+              "7.4%"
+            ],
+            [
+              "3",
+              "Namibia",
+              "2,993",
+              "7,333",
+              "145.0%"
+            ],
+            [
+              "4",
+              "Australia",
+              "5,654",
+              "4,598",
+              "-18.7%"
+            ],
+            [
+              "5",
+              "Uzbekistan",
+              "2,385",
+              "4,000",
+              "67.7%"
+            ],
+            [
+              "6",
+              "Russia",
+              "3,055",
+              "2,738",
+              "-10.4%"
+            ],
+            [
+              "7",
+              "China",
+              "1,616",
+              "1,600",
+              "-1.0%"
+            ],
+            [
+              "8",
+              "Niger",
+              "4,116",
+              "962",
+              "-76.6%"
+            ],
+            [
+              "9",
+              "India",
+              "385",
+              "500",
+              "29.9%"
+            ],
+            [
+              "10",
+              "South Africa",
+              "393",
+              "200",
+              "-49.1%"
+            ],
+            [
+              "11",
+              "Ukraine",
+              "1,200",
+              "288",
+              "-76.0%"
+            ],
+            [
+              "12",
+              "USA",
+              "1,256",
+              "260",
+              "-79.3%"
+            ],
+            [
+              "--",
+              "Others",
+              "357",
+              "155",
+              "-56.6%"
+            ],
+            [
+              "--",
+              "World total",
+              "60,342",
+              "60,213",
+              "-0.2%"
+            ]
+          ],
+          "caption": "2024年全球主要国家铀产量排名及十年变化"
+        }
+      ],
+      "deep_dive": "## 供应格局：高度集中与剧烈变动并存\n全球铀矿供应呈现显著的“金字塔”结构。根据2024年数据，排名前三的国家——哈萨克斯坦、加拿大和纳米比亚——合计产量高达44,912吨，占全球总产量（60,213吨）的约74.6%，凸显了供应源头的高度集中性。这种格局意味着全球核能产业链对少数几个国家的地缘政治稳定性和政策连续性存在深度依赖。\n\n过去十年（2015-2024）的动态变化揭示了供应重心的转移与资源国战略的分化：\n- **强势崛起者**：纳米比亚（+145.0%）和乌兹别克斯坦（+67.7%）成为最大赢家，产量增长迅猛，成功进入全球前五。这反映了非洲和中亚地区铀矿开发的新投资和产能释放。\n- **稳固的领导者**：哈萨克斯坦虽微降1.4%，但以绝对优势保持第一；加拿大增长7.4%，巩固了第二的地位。\n- **显著的衰退者**：多个传统产铀国产量遭遇断崖式下跌。尼日尔（-76.6%）、乌克兰（-76.0%）和美国（-79.3%）的跌幅均超过四分之三。南非产量也近乎腰斩。这些变化与国内政治动荡、安全局势、经济性或政策调整密切相关。\n\n## 对能源安全与核能产业的启示\n铀供应的集中与波动性对全球能源安全构成直接挑战。\n- **地缘政治风险放大**：前三大供应国中，哈萨克斯坦和加拿大政治相对稳定，但纳米比亚作为新兴供应枢纽，其长期稳定性有待观察。与此同时，俄罗斯作为第六大生产国，其份额虽有下降，但结合其在铀转化与浓缩领域的主导地位，仍具备显著的战略影响力。\n- **新旧产能更替**：传统产铀大国如美国、南非、尼日尔的产能急剧萎缩，表明老旧矿山的生命周期或经济性面临挑战，而新的产能中心（如纳米比亚、乌兹别克斯坦）的崛起正在重塑全球供应链地图。\n- **对核电复兴的制约**：当前全球核能面临复兴预期，但铀燃料的供应安全是关键一环。供应端的高度集中和少数国家的产量剧烈波动，可能推高铀价的长期中枢，并迫使核能消费大国加速布局海外铀资源、开发替代燃料（如钍基燃料）或加强战略储备。\n\n**局限性**：本分析基于矿山产量数据，未涵盖铀的二次供应（如库存释放、混合氧化物燃料、再生铀等），这些因素也是平衡市场供需的重要组成部分。",
+      "glossary": [
+        {
+          "term": "铀(Uranium)",
+          "explanation": "一种放射性化学元素，是核裂变反应的主要燃料，用于核电站发电和核武器制造。"
+        },
+        {
+          "term": "地缘政治风险(Geopolitical Risk)",
+          "explanation": "指因国家间政治关系、地区冲突、政策变动等因素，导致资源供应中断或价格剧烈波动的可能性。"
+        },
+        {
+          "term": "供应链集中度(Supply Chain Concentration)",
+          "explanation": "衡量某一关键资源或产品由少数几个生产者或国家控制的程度，集中度越高，供应中断的风险通常越大。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ed77eee",
+    "title": "The Largest Public Space Companies by Country",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-the-largest-public-pure-play-space-companies-by-country/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9ed77eee.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiVehn4qJacRkUuQr2zGmTmikK80U+QXtWKtSCmCnVoc9wooopDP/Z",
+    "image_version": 1780077571,
+    "pub_date": "Fri, 29 May 2026 16:27:50 +0000",
+    "content_md": "| Rank | Company | Headquarters(Country) | Market Cap ($CAD Billions) |\n| --- | --- | --- | --- |\n| 1 | ROCKET LAB CORP | U.S. | 71.4 |\n| 2 | China Spacesat Co., Ltd. | China | 22.1 |\n| 3 | OHB SE | Germany | 8.1 |\n| 4 | MDA SPACE LTD | Canada | 6.4 |\n| 5 | Eutelsat Communications | France | 4.8 |\n| 6 | SES | Luxembourg | 4.4 |\n| 7 | AVIO SPA | Italy | 2.5 |\n| 8 | SATREC INITIATIVE CO LTD | South Korea | 1.8 |\n| 9 | ASTROSCALE HOLDINGS INC | Japan | 1.7 |\n| 10 | SATELLOGIC INC-A | Argentina | 1.4 |\n| 11 | OVZON AB | Sweden | 1.0 |",
+    "ai_analysis": {
+      "core_insight": "美国主导全球商业航天估值，市场呈现高度集中与梯队分化特征。",
+      "data_highlights": [
+        "美国公司Rocket Lab以714亿加元市值遥遥领先，是第二名的32倍。",
+        "前11强中，亚洲国家占据4席（中、日、韩、阿根廷），显示新兴力量崛起。",
+        "欧洲国家（德、法、卢、意、瑞）共有5家企业上榜，但体量普遍较小。",
+        "加拿大本土企业MDA SPACE位列第四，体现了国家在特定领域的竞争力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Headquarters(Country)",
+            "Market Cap ($CAD Billions)"
+          ],
+          "rows": [
+            [
+              "1",
+              "ROCKET LAB CORP",
+              "U.S.",
+              "71.4"
+            ],
+            [
+              "2",
+              "China Spacesat Co., Ltd.",
+              "China",
+              "22.1"
+            ],
+            [
+              "3",
+              "OHB SE",
+              "Germany",
+              "8.1"
+            ],
+            [
+              "4",
+              "MDA SPACE LTD",
+              "Canada",
+              "6.4"
+            ],
+            [
+              "5",
+              "Eutelsat Communications",
+              "France",
+              "4.8"
+            ],
+            [
+              "6",
+              "SES",
+              "Luxembourg",
+              "4.4"
+            ],
+            [
+              "7",
+              "AVIO SPA",
+              "Italy",
+              "2.5"
+            ],
+            [
+              "8",
+              "SATREC INITIATIVE CO LTD",
+              "South Korea",
+              "1.8"
+            ],
+            [
+              "9",
+              "ASTROSCALE HOLDINGS INC",
+              "Japan",
+              "1.7"
+            ],
+            [
+              "10",
+              "SATELLOGIC INC-A",
+              "Argentina",
+              "1.4"
+            ],
+            [
+              "11",
+              "OVZON AB",
+              "Sweden",
+              "1.0"
+            ]
+          ],
+          "caption": "按国家分布的全球头部上市航天公司市值排名"
+        }
+      ],
+      "deep_dive": "## 市场格局：美国一骑绝尘，第一梯队独占鳌头\n\n当前全球商业航天的资本市场高度集中于美国。排名第一的Rocket Lab市值高达714亿加元，占据了榜单总市值的绝对多数，形成了“一超”的格局。这反映了美国在技术创新、资本聚集和市场成熟度方面的综合优势，其领先的估值也体现了投资者对美国商业航天企业（尤其是运载火箭、卫星制造等核心环节）未来增长潜力的高度认可。\n\n紧随其后的中国Spacesat以221亿加元市值位居第二，虽然体量与美国龙头存在显著差距，但已与后续企业拉开了超过三倍的距离，构成了稳固的“第二梯队”。这标志着中国在国家战略支持和市场需求驱动下，已成功培育出具备全球竞争力的航天上市公司。\n\n## 第二梯队与欧洲力量：多极并存，规模受限\n\n第三名至第七名构成了市场价值的“第三梯队”，市值区间在25亿至81亿加元之间。值得注意的是，此梯队中包含了德国、加拿大、法国、卢森堡和意大利的公司，显示了欧洲在商业航天领域的广泛布局。然而，这些企业的市值总和仍远不及美国一家头部公司，反映出欧洲市场相对分散，缺乏能够与美中巨头抗衡的“冠军”企业。其中，加拿大MDA和意大利AVIO专注于卫星制造与推进系统等细分领域，体现了欧洲“隐形冠军”的发展模式。\n\n第八名及以后的公司市值均低于20亿加元，属于“第四梯队”。该梯队呈现出明显的多元化特征，包含了来自韩国、日本、阿根廷和瑞典的企业。这些公司的业务多聚焦于特定细分赛道，如日本的Astroscale专注于太空碎片清除，阿根廷的Satellogic聚焦于地球观测。它们的上榜表明，在新兴商业航天领域，技术创新和商业模式可以驱动特定国家的企业进入全球视野，但整体资本规模仍处于早期阶段，面临较大的成长和竞争压力。\n\n**启示与局限**：该榜单清晰地揭示了商业航天“赢者通吃”的资本逻辑和国家间的发展不均衡。投资者的关注点高度集中于头部企业和少数新兴龙头。对于后发国家的企业而言，找到差异化的技术路径和商业模式是突围的关键。但需注意，市值仅反映资本市场预期，不完全等同于技术实力或实际营收，且榜单未包含SpaceX等非上市巨头，因此分析存在一定局限性。",
+      "glossary": [
+        {
+          "term": "Market Cap (市值)",
+          "explanation": "指一家上市公司的总市场价值，计算公式为当前股价乘以总发行股数。它是衡量公司规模和市场认可度的关键指标。"
+        },
+        {
+          "term": "商业航天 (Commercial Space)",
+          "explanation": "指由私营企业主导，以市场盈利为主要目的，从事运载火箭发射、卫星制造与运营、太空旅游等航天活动及相关服务的产业。"
+        },
+        {
+          "term": "头部企业 (Head Companies)",
+          "explanation": "在某个行业或市场内，规模、市值、影响力等方面处于领先地位的前几家核心公司，通常对行业趋势有重要影响。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8af1d9ab",
+    "title": "Mapped: America’s Unemployment Divide",
+    "original_url": "https://www.visualcapitalist.com/mapped-unemployment-rate-divide/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/8af1d9ab.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAYABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDio4ae0XFTRYqVgCKm5u0jOMXNFWinNFMixMkeKkK8UUUGCmyMrzRRRTHzM//Z",
+    "image_version": 1780077632,
+    "pub_date": "Fri, 29 May 2026 11:47:05 +0000",
+    "content_md": "| State | Unemployment Rate April 2026 |\n| --- | --- |\n| District of Columbia | 6.2% |\n| California | 5.3% |\n| Delaware | 5.3% |\n| Nevada | 5.3% |\n| Oregon | 5.2% |\n| Washington | 5.2% |\n| Illinois | 5.1% |\n| Connecticut | 5.0% |\n| Michigan | 5.0% |\n| New Mexico | 4.9% |\n| Florida | 4.8% |\n| New Jersey | 4.8% |\n| South Carolina | 4.8% |\n| Alaska | 4.7% |\n| Arizona | 4.7% |\n| Massachusetts | 4.7% |\n| New York | 4.6% |\n| Minnesota | 4.5% |\n| Rhode Island | 4.5% |\n| Louisiana | 4.4% |\n| Maryland | 4.4% |\n| West Virginia | 4.4% |\n| Arkansas | 4.3% |\n| Kentucky | 4.3% |\n| Texas | 4.3% |\n| Pennsylvania | 4.2% |\n| Oklahoma | 4.0% |\n| Colorado | 3.9% |\n| Kansas | 3.9% |\n| Ohio | 3.9% |\n| Mississippi | 3.8% |\n| Missouri | 3.8% |\n| Utah | 3.8% |\n| Virginia | 3.8% |\n| North Carolina | 3.7% |\n| Idaho | 3.6% |\n| Tennessee | 3.6% |\n| Georgia | 3.5% |\n| Montana | 3.5% |\n| Wisconsin | 3.5% |\n| Wyoming | 3.5% |\n| Iowa | 3.3% |\n| Indiana | 3.2% |\n| Maine | 3.1% |\n| New Hampshire | 3.1% |\n| Nebraska | 3.0% |\n| Alabama | 2.8% |\n| Vermont | 2.6% |\n| Hawaii | 2.5% |\n| North Dakota | 2.4% |\n| South Dakota | 2.2% |",
+    "ai_analysis": {
+      "core_insight": "美国各州失业率呈现显著的地域分化，从首都华盛顿特区的6.2%到南达科他州的2.2%，差距达4个百分点。",
+      "data_highlights": [
+        "华盛顿特区以6.2%的失业率高居榜首，远高于全国平均水平。",
+        "加利福尼亚、特拉华和内华达州并列第二，失业率均为5.3%，反映出西部及部分东部州的压力。",
+        "中西部和南部多州失业率处于低位，如南达科他州（2.2%）和北达科他州（2.4%），显示劳动力市场紧张。",
+        "失业率超过5%的州主要集中在西海岸、东北部及传统工业州，如伊利诺伊州（5.1%）和密歇根州（5.0%）。",
+        "整体分布呈现‘西高东低、城市州高于农业州’的格局，经济结构差异是关键驱动因素。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Unemployment Rate April 2026"
+          ],
+          "rows": [
+            [
+              "District of Columbia",
+              "6.2%"
+            ],
+            [
+              "California",
+              "5.3%"
+            ],
+            [
+              "Delaware",
+              "5.3%"
+            ],
+            [
+              "Nevada",
+              "5.3%"
+            ],
+            [
+              "Oregon",
+              "5.2%"
+            ],
+            [
+              "Washington",
+              "5.2%"
+            ],
+            [
+              "Illinois",
+              "5.1%"
+            ],
+            [
+              "Connecticut",
+              "5.0%"
+            ],
+            [
+              "Michigan",
+              "5.0%"
+            ],
+            [
+              "New Mexico",
+              "4.9%"
+            ],
+            [
+              "Florida",
+              "4.8%"
+            ],
+            [
+              "New Jersey",
+              "4.8%"
+            ],
+            [
+              "South Carolina",
+              "4.8%"
+            ],
+            [
+              "Alaska",
+              "4.7%"
+            ],
+            [
+              "Arizona",
+              "4.7%"
+            ],
+            [
+              "Massachusetts",
+              "4.7%"
+            ],
+            [
+              "New York",
+              "4.6%"
+            ],
+            [
+              "Minnesota",
+              "4.5%"
+            ],
+            [
+              "Rhode Island",
+              "4.5%"
+            ],
+            [
+              "Louisiana",
+              "4.4%"
+            ],
+            [
+              "Maryland",
+              "4.4%"
+            ],
+            [
+              "West Virginia",
+              "4.4%"
+            ],
+            [
+              "Arkansas",
+              "4.3%"
+            ],
+            [
+              "Kentucky",
+              "4.3%"
+            ],
+            [
+              "Texas",
+              "4.3%"
+            ],
+            [
+              "Pennsylvania",
+              "4.2%"
+            ],
+            [
+              "Oklahoma",
+              "4.0%"
+            ],
+            [
+              "Colorado",
+              "3.9%"
+            ],
+            [
+              "Kansas",
+              "3.9%"
+            ],
+            [
+              "Ohio",
+              "3.9%"
+            ],
+            [
+              "Mississippi",
+              "3.8%"
+            ],
+            [
+              "Missouri",
+              "3.8%"
+            ],
+            [
+              "Utah",
+              "3.8%"
+            ],
+            [
+              "Virginia",
+              "3.8%"
+            ],
+            [
+              "North Carolina",
+              "3.7%"
+            ],
+            [
+              "Idaho",
+              "3.6%"
+            ],
+            [
+              "Tennessee",
+              "3.6%"
+            ],
+            [
+              "Georgia",
+              "3.5%"
+            ],
+            [
+              "Montana",
+              "3.5%"
+            ],
+            [
+              "Wisconsin",
+              "3.5%"
+            ],
+            [
+              "Wyoming",
+              "3.5%"
+            ],
+            [
+              "Iowa",
+              "3.3%"
+            ],
+            [
+              "Indiana",
+              "3.2%"
+            ],
+            [
+              "Maine",
+              "3.1%"
+            ],
+            [
+              "New Hampshire",
+              "3.1%"
+            ],
+            [
+              "Nebraska",
+              "3.0%"
+            ],
+            [
+              "Alabama",
+              "2.8%"
+            ],
+            [
+              "Vermont",
+              "2.6%"
+            ],
+            [
+              "Hawaii",
+              "2.5%"
+            ],
+            [
+              "North Dakota",
+              "2.4%"
+            ],
+            [
+              "South Dakota",
+              "2.2%"
+            ]
+          ],
+          "caption": "2026年4月美国各州失业率排名"
+        }
+      ],
+      "deep_dive": "## 地域分化：经济结构与劳动力市场的映射\n美国各州失业率的巨大差异，绝非偶然，而是深层次经济结构差异的直接体现。失业率超过5%的州，如加利福尼亚、伊利诺伊和密歇根，往往依赖科技、金融或传统制造业，这些行业对经济周期敏感，且可能面临自动化和全球竞争的压力。相比之下，失业率低于3%的州，如南达科他、北达科他和内布拉斯加，其经济支柱通常是农业、能源或相对稳定的公共服务部门，劳动力需求更为刚性。\n\n华盛顿特区作为首都，失业率高达6.2%，这凸显了联邦政府及关联产业（如游说、法律）在政策不确定时期可能面临的收缩，或者其劳动力市场存在特殊结构性问题。而像犹他、爱达荷等西部州失业率较低，可能受益于科技产业外溢、人口流入带来的服务业需求以及较低的总体生活成本。\n\n## 政策与启示：分化的挑战与机遇\n这种失业率的地域鸿沟对政策制定者提出了复杂挑战。对于高失业率州，政策重点可能需要放在产业转型、劳动力技能培训以及吸引多元化投资上，以缓解特定行业的周期性冲击。而对于低失业率州，挑战则在于如何管理经济增长带来的通胀压力、基础设施瓶颈和劳动力短缺，这可能需要更灵活的移民政策或自动化技术的推广。\n\n从全国层面看，如此显著的州际差异意味着统一的货币政策或财政政策效果可能会打折扣。美联储在制定利率时，需要权衡高失业率州的复苏需求与低失业率州的过热风险。同时，这也可能加剧人口迁移，形成‘高失业州人口外流、低失业州人口涌入’的循环，进一步影响各州的财政和公共服务体系。理解这些分化，是制定有效区域经济政策、促进更均衡国家发展的关键。",
+      "glossary": [
+        {
+          "term": "失业率",
+          "explanation": "指劳动力中没有工作但正在积极寻找工作的人口所占的百分比，是衡量劳动力市场健康状况的核心指标。"
+        },
+        {
+          "term": "经济周期",
+          "explanation": "指经济活动沿着长期增长趋势所经历的扩张和收缩的周期性波动，通常与失业率的起伏密切相关。"
+        },
+        {
+          "term": "结构性失业",
+          "explanation": "指由于经济结构变化（如技术革新、产业转移）导致劳动力的技能与空缺职位不匹配而产生的失业，往往持续时间较长。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a83d98af",
     "title": "Top 5 Reasons Private Equity Is Drawing Investor Interest in 2026",
     "original_url": "https://www.visualcapitalist.com/sp/nyl03-top-5-reasons-private-equity-is-drawing-investor-interest-in-2026/",
