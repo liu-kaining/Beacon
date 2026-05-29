@@ -1,5 +1,188 @@
 [
   {
+    "id": "59092172",
+    "title": "Ranked: The World’s Hottest Luxury Housing Markets",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-luxury-housing-markets-buyers-are-flooding-into/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/59092172.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDg1jpxTAqwqCmyLgVqmSiqV5op560VXMVYvKtNkXiphTXrExjIplOaKlPWii5pzH//2Q==",
+    "image_version": 1780086134,
+    "pub_date": "Fri, 29 May 2026 14:11:07 +0000",
+    "content_md": "| Market | Country | Price Change (Q4 2024-25) | Region |\n| --- | --- | --- | --- |\n| Tokyo | Japan | 59% | Asia-Pacific |\n| Dubai | UAE | 25% | Middle East |\n| Manila | Philippines | 18% | Asia-Pacific |\n| Seoul | South Korea | 15% | Asia-Pacific |\n| Prague | Czechia | 15% | Europe |\n| Cayman Islands | Cayman Islands | 11% | Americas |\n| Mexico City | Mexico | 9% | Americas |\n| Bengaluru | India | 9% | Asia-Pacific |\n| Méribel | France | 9% | Europe |\n| Mumbai | India | 9% | Asia-Pacific |\n\n| Market | Country | Price Change (Q4 2024-25) | Region |\n| --- | --- | --- | --- |\n| Guangzhou | China | -12% | Asia-Pacific |\n| Toronto | Canada | -8% | Americas |\n| Shenzhen | China | -7% | Asia-Pacific |\n| Vancouver | Canada | -7% | Americas |\n| Auckland | New Zealand | -5% | Asia-Pacific |\n| Shanghai | China | -5% | Asia-Pacific |\n| Beijing | China | -5% | Asia-Pacific |\n| London | UK | -5% | Europe |\n| Austin | U.S. | -5% | Americas |\n| Wellington | New Zealand | -3% | Asia-Pacific |",
+    "ai_analysis": {
+      "core_insight": "亚太与中东部分城市房价飙升，而中国及北美主要城市市场显著降温。",
+      "data_highlights": [
+        "东京以59%的价格涨幅领跑全球，成为最火热市场。",
+        "迪拜房价上涨25%，中东地区表现突出。",
+        "广州以-12%的跌幅领跌全球，中国主要城市普遍降温。",
+        "多伦多和温哥华房价双双下跌，加拿大市场趋冷。",
+        "亚太地区内部出现严重分化，既有东京、马尼拉的暴涨，也有中国城市的普跌。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Market",
+            "Country",
+            "Price Change (Q4 2024-25)",
+            "Region"
+          ],
+          "rows": [
+            [
+              "Tokyo",
+              "Japan",
+              "59%",
+              "Asia-Pacific"
+            ],
+            [
+              "Dubai",
+              "UAE",
+              "25%",
+              "Middle East"
+            ],
+            [
+              "Manila",
+              "Philippines",
+              "18%",
+              "Asia-Pacific"
+            ],
+            [
+              "Seoul",
+              "South Korea",
+              "15%",
+              "Asia-Pacific"
+            ],
+            [
+              "Prague",
+              "Czechia",
+              "15%",
+              "Europe"
+            ],
+            [
+              "Cayman Islands",
+              "Cayman Islands",
+              "11%",
+              "Americas"
+            ],
+            [
+              "Mexico City",
+              "Mexico",
+              "9%",
+              "Americas"
+            ],
+            [
+              "Bengaluru",
+              "India",
+              "9%",
+              "Asia-Pacific"
+            ],
+            [
+              "Méribel",
+              "France",
+              "9%",
+              "Europe"
+            ],
+            [
+              "Mumbai",
+              "India",
+              "9%",
+              "Asia-Pacific"
+            ]
+          ],
+          "caption": "2024年第四季度至2025年全球房价涨幅前十市场"
+        },
+        {
+          "headers": [
+            "Market",
+            "Country",
+            "Price Change (Q4 2024-25)",
+            "Region"
+          ],
+          "rows": [
+            [
+              "Guangzhou",
+              "China",
+              "-12%",
+              "Asia-Pacific"
+            ],
+            [
+              "Toronto",
+              "Canada",
+              "-8%",
+              "Americas"
+            ],
+            [
+              "Shenzhen",
+              "China",
+              "-7%",
+              "Asia-Pacific"
+            ],
+            [
+              "Vancouver",
+              "Canada",
+              "-7%",
+              "Americas"
+            ],
+            [
+              "Auckland",
+              "New Zealand",
+              "-5%",
+              "Asia-Pacific"
+            ],
+            [
+              "Shanghai",
+              "China",
+              "-5%",
+              "Asia-Pacific"
+            ],
+            [
+              "Beijing",
+              "China",
+              "-5%",
+              "Asia-Pacific"
+            ],
+            [
+              "London",
+              "UK",
+              "-5%",
+              "Europe"
+            ],
+            [
+              "Austin",
+              "U.S.",
+              "-5%",
+              "Americas"
+            ],
+            [
+              "Wellington",
+              "New Zealand",
+              "-3%",
+              "Asia-Pacific"
+            ]
+          ],
+          "caption": "2024年第四季度至2025年全球房价跌幅前十市场"
+        }
+      ],
+      "deep_dive": "## 市场分化：结构性驱动与区域轮动\n全球顶级奢侈品住宅市场正经历显著分化。**东京**的领涨（59%）并非孤立现象，其背后是日元大幅贬值吸引国际资本涌入、以及日本作为全球避险资产和旅游目的地的吸引力提升。**迪拜**的强劲增长（25%）则延续了其作为全球财富磁石和营商天堂的定位，受益于石油经济繁荣和宽松的签证政策。与此相对，**中国主要城市**（广州、深圳、上海、北京）的集体下跌，反映了国内宏观经济放缓、房地产行业深度调整以及消费者信心不足的持续影响，市场正从投机驱动转向价值回归。\n\n## 投资启示与风险考量\n对投资者而言，这份榜单凸显了**地域配置**的重要性。亚太地区不再是铁板一块，既有高增长的新兴机会（如马尼拉、班加罗尔），也有面临挑战的传统核心（中国一线城市）。**北美市场**（多伦多、温哥华、奥斯汀）的降温，则与高利率环境持续压制购买力、以及前期过热后的技术性回调有关。欧洲市场（布拉格上涨，伦敦下跌）同样存在分化，表明本地经济和地缘政治因素的影响正在增强。投资奢侈品住宅需超越简单的“追涨杀跌”，深入分析本地货币走向、人口结构、产业政策及全球资本流动等深层驱动因素，并警惕高估值市场在利率正常化周期中的潜在回调风险。",
+      "glossary": [
+        {
+          "term": "奢侈品住宅市场",
+          "explanation": "指一个城市或地区中，位于顶级地段、拥有稀缺景观或文化资源、且价格处于市场最顶端的住宅物业市场。"
+        },
+        {
+          "term": "价格变化",
+          "explanation": "指特定时间段内（本报告为2024年第四季度至2025年）物业市场价格的百分比变动，是衡量市场热度的核心指标。"
+        },
+        {
+          "term": "结构性驱动",
+          "explanation": "指影响市场的长期、根本性因素，如人口结构、经济增长模式、货币政策、税收制度等，区别于短期波动。"
+        },
+        {
+          "term": "全球资本流动",
+          "explanation": "指国际投资资金在不同国家、地区和资产类别间的转移，对目的地地的资产价格（包括房价）有显著影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c7385aac",
     "title": "Ranked: Who Controls the World’s Uranium Supply?",
     "original_url": "https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/",
