@@ -1,5 +1,256 @@
 [
   {
+    "id": "438fe314",
+    "title": "Median Ages of the World’s Top 40 Economies",
+    "original_url": "https://www.visualcapitalist.com/sp/adb01-median-ages-of-the-worlds-economies/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/438fe314.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuHeow/NLIpqE8GmjJ3LQk4oquG4ooHqWpBxVKY7avSdKz7nvWTZ0QimyAzYNFV260UczOv2UT/9k=",
+    "image_version": 1780156627,
+    "pub_date": "Sat, 30 May 2026 15:44:00 +0000",
+    "content_md": "| Rank | Country | Median Age |\n| --- | --- | --- |\n| 1 | Philippines | 26.0 |\n| 2 | Israel | 30.0 |\n| 3 | Bangladesh | 30.0 |\n| 4 | India | 30.1 |\n| 5 | Mexico | 31.0 |\n| 6 | Indonesia | 31.8 |\n| 7 | Malaysia | 32.0 |\n| 8 | Saudi Arabia | 32.8 |\n| 9 | Argentina | 33.0 |\n| 10 | Vietnam | 33.0 |\n| 11 | Colombia | 33.0 |\n| 12 | Turkey | 34.4 |\n| 13 | Brazil | 35.4 |\n| 14 | UAE | 36.0 |\n| 15 | Australia | 38.5 |\n| 16 | Singapore | 39.0 |\n| 17 | U.S. | 39.5 |\n| 18 | Ireland | 40.0 |\n| 19 | China | 40.8 |\n| 20 | UK | 40.9 |\n| 21 | Sweden | 41.0 |\n| 22 | Norway | 41.0 |\n| 23 | Belgium | 42.0 |\n| 24 | Thailand | 42.0 |\n| 25 | Denmark | 42.0 |\n| 26 | Netherlands | 42.2 |\n| 27 | Russia | 42.3 |\n| 28 | France | 42.7 |\n| 29 | Canada | 42.8 |\n| 30 | Poland | 43.4 |\n| 31 | Switzerland | 44.0 |\n| 32 | Taiwan | 45.0 |\n| 33 | Austria | 45.0 |\n| 34 | Romania | 46.0 |\n| 35 | Germany | 46.9 |\n| 36 | South Korea | 47.0 |\n| 37 | Hong Kong | 47.0 |\n| 38 | Spain | 47.2 |\n| 39 | Italy | 48.8 |\n| 40 | Japan | 50.2 |",
+    "ai_analysis": {
+      "core_insight": "全球前40大经济体年龄结构两极分化，新兴国家年轻，发达经济体深度老龄化。",
+      "data_highlights": [
+        "全球最年轻主要经济体为菲律宾（26.0岁），最老为日本（50.2岁）。",
+        "新兴市场普遍年轻，前10名中亚洲与拉美国家占9席。",
+        "主要发达经济体（G7）均超过38岁，其中德、意、日均超46岁。",
+        "中国（40.8岁）和俄罗斯（42.3岁）已步入深度老龄化社会。",
+        "以色列（30.0岁）和美国（39.5岁）在发达经济体中相对年轻。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Median Age"
+          ],
+          "rows": [
+            [
+              "1",
+              "Philippines",
+              "26.0"
+            ],
+            [
+              "2",
+              "Israel",
+              "30.0"
+            ],
+            [
+              "3",
+              "Bangladesh",
+              "30.0"
+            ],
+            [
+              "4",
+              "India",
+              "30.1"
+            ],
+            [
+              "5",
+              "Mexico",
+              "31.0"
+            ],
+            [
+              "6",
+              "Indonesia",
+              "31.8"
+            ],
+            [
+              "7",
+              "Malaysia",
+              "32.0"
+            ],
+            [
+              "8",
+              "Saudi Arabia",
+              "32.8"
+            ],
+            [
+              "9",
+              "Argentina",
+              "33.0"
+            ],
+            [
+              "10",
+              "Vietnam",
+              "33.0"
+            ],
+            [
+              "11",
+              "Colombia",
+              "33.0"
+            ],
+            [
+              "12",
+              "Turkey",
+              "34.4"
+            ],
+            [
+              "13",
+              "Brazil",
+              "35.4"
+            ],
+            [
+              "14",
+              "UAE",
+              "36.0"
+            ],
+            [
+              "15",
+              "Australia",
+              "38.5"
+            ],
+            [
+              "16",
+              "Singapore",
+              "39.0"
+            ],
+            [
+              "17",
+              "U.S.",
+              "39.5"
+            ],
+            [
+              "18",
+              "Ireland",
+              "40.0"
+            ],
+            [
+              "19",
+              "China",
+              "40.8"
+            ],
+            [
+              "20",
+              "UK",
+              "40.9"
+            ],
+            [
+              "21",
+              "Sweden",
+              "41.0"
+            ],
+            [
+              "22",
+              "Norway",
+              "41.0"
+            ],
+            [
+              "23",
+              "Belgium",
+              "42.0"
+            ],
+            [
+              "24",
+              "Thailand",
+              "42.0"
+            ],
+            [
+              "25",
+              "Denmark",
+              "42.0"
+            ],
+            [
+              "26",
+              "Netherlands",
+              "42.2"
+            ],
+            [
+              "27",
+              "Russia",
+              "42.3"
+            ],
+            [
+              "28",
+              "France",
+              "42.7"
+            ],
+            [
+              "29",
+              "Canada",
+              "42.8"
+            ],
+            [
+              "30",
+              "Poland",
+              "43.4"
+            ],
+            [
+              "31",
+              "Switzerland",
+              "44.0"
+            ],
+            [
+              "32",
+              "Taiwan",
+              "45.0"
+            ],
+            [
+              "33",
+              "Austria",
+              "45.0"
+            ],
+            [
+              "34",
+              "Romania",
+              "46.0"
+            ],
+            [
+              "35",
+              "Germany",
+              "46.9"
+            ],
+            [
+              "36",
+              "South Korea",
+              "47.0"
+            ],
+            [
+              "37",
+              "Hong Kong",
+              "47.0"
+            ],
+            [
+              "38",
+              "Spain",
+              "47.2"
+            ],
+            [
+              "39",
+              "Italy",
+              "48.8"
+            ],
+            [
+              "40",
+              "Japan",
+              "50.2"
+            ]
+          ],
+          "caption": "全球前40大经济体中位年龄排名"
+        }
+      ],
+      "deep_dive": "## 年龄结构与经济增长潜力\n\n这份中位年龄排名揭示了全球经济增长动力的深层分化。位于榜单前列的菲律宾（26.0岁）、印度（30.1岁）、越南（33.0岁）等新兴经济体，拥有庞大的年轻劳动力人口，即所谓的“人口红利”。这为其制造业、服务业扩张和内需增长提供了基础。然而，红利并非自动兑现，它需要配套的教育、就业机会和基础设施投资。反之，位于榜单末端的日本（50.2岁）、意大利（48.8岁）等发达经济体，正面临深度老龄化带来的劳动力萎缩、社会养老负担加重和创新活力可能下降等结构性挑战。这种分化预示着未来全球供应链和消费市场的重心可能发生转移。\n\n## 发达经济体的内部差异与政策启示\n\n值得注意的是，发达经济体内部并非铁板一块。美国（39.5岁）和以色列（30.0岁）的年龄结构显著年轻于欧洲大陆国家（如德国46.9岁、法国42.7岁）和东亚的日本、韩国（47.0岁）。这得益于美国持续的移民流入和以色列较高的生育率。这种差异带来了不同的政策启示：对于深度老龄化的经济体，提高生育率、延迟退休、推动自动化和吸纳移民是维持经济活力的关键。而对于相对年轻的发达经济体，重点则在于提升教育质量、促进技术创新，将年轻人口转化为高质量人力资本。\n\n## 超越排名的视角\n\n中位年龄是单一指标，有其局限性。它无法反映人口分布的具体形状（例如，一个国家可能同时拥有大量年轻人口和大量老年人口）、劳动力参与率、健康水平或人口迁移的影响。例如，沙特阿拉伯（32.8岁）和阿联酋（36.0岁）的年轻中位数很大程度上由大量外籍劳工支撑，其人口结构具有特殊性。因此，在解读数据时，需结合其他人口统计学指标和经济社会背景，才能形成更全面的判断。",
+      "glossary": [
+        {
+          "term": "中位年龄",
+          "explanation": "将一个国家或地区的全体人口按年龄从小到大排列后，位于中间位置那个人的年龄。它比平均年龄更能排除极端值影响，反映人口结构的“中间点”。"
+        },
+        {
+          "term": "人口红利",
+          "explanation": "指在一个时期内，生育率下降和少儿抚养比降低，使得劳动力人口占总人口比重较高，从而为经济发展创造有利的人口条件。"
+        },
+        {
+          "term": "深度老龄化社会",
+          "explanation": "国际上通常指65岁及以上人口占总人口比例超过14%的社会。中位年龄的升高是衡量老龄化程度的重要辅助指标。"
+        },
+        {
+          "term": "抚养比",
+          "explanation": "指非劳动年龄人口（少儿和老年人）对劳动年龄人口之比。少儿抚养比和老年抚养比的变化直接影响社会经济负担。"
+        }
+      ]
+    }
+  },
+  {
     "id": "dd69910f",
     "title": "Mapped: The World’s Most and Least Corrupt Countries",
     "original_url": "https://www.visualcapitalist.com/mapped-most-and-least-corrupt-countries/",
