@@ -1,5 +1,541 @@
 [
   {
+    "id": "a733bbc8",
+    "title": "Ranked: The World’s Highest-Paid Athletes in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-worlds-highest-paid-athletes-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a733bbc8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlYalf7tVY2xUrPxWipagyFh81FIx5orXlIuSrHihlqxTHpczI5mVSvNFSHrRT5guf/9k=",
+    "image_version": 1780177651,
+    "pub_date": "Sat, 30 May 2026 20:11:28 +0000",
+    "content_md": "| Rank | Athlete | Total Earnings ($M) | On-Field ($M) | Off-Field ($M) | Sport |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Cristiano Ronaldo | 300.0 | 235.0 | 65.0 | Soccer |\n| 2 | Canelo Alvarez | 170.0 | 160.0 | 10.0 | Boxing |\n| 3 | Lionel Messi | 140.0 | 70.0 | 70.0 | Soccer |\n| 4 | LeBron James | 137.8 | 52.8 | 85.0 | Basketball |\n| 5 | Shohei Ohtani | 127.6 | 2.6 | 125.0 | Baseball |\n| 6 | Stephen Curry | 124.7 | 59.7 | 65.0 | Basketball |\n| 7 | Jon Rahm | 107.0 | 97.0 | 10.0 | Golf |\n| 8 | Karim Benzema | 104.0 | 100.0 | 4.0 | Soccer |\n| 9 | Kevin Durant | 103.8 | 54.8 | 49.0 | Basketball |\n| 10 | Lewis Hamilton | 100.0 | 70.0 | 30.0 | Formula 1 |",
+    "ai_analysis": {
+      "core_insight": "足球与篮球主导高收入榜，场外收入成为超级巨星核心竞争力。",
+      "data_highlights": [
+        "C罗以3亿美元总收入断层领跑，其中场内收入达2.35亿美元。",
+        "大谷翔平场外收入（1.25亿）占比高达98%，彰显棒球市场潜力。",
+        "前10名中足球与篮球运动员各占3席，成为高收入核心运动。",
+        "梅西与詹姆斯场外收入均超场内，商业价值持续强劲。",
+        "F1车手汉密尔顿是唯一入围前十的赛车手，总收入达1亿美元。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Athlete",
+            "Total Earnings ($M)",
+            "On-Field ($M)",
+            "Off-Field ($M)",
+            "Sport"
+          ],
+          "rows": [
+            [
+              "1",
+              "Cristiano Ronaldo",
+              "300.0",
+              "235.0",
+              "65.0",
+              "Soccer"
+            ],
+            [
+              "2",
+              "Canelo Alvarez",
+              "170.0",
+              "160.0",
+              "10.0",
+              "Boxing"
+            ],
+            [
+              "3",
+              "Lionel Messi",
+              "140.0",
+              "70.0",
+              "70.0",
+              "Soccer"
+            ],
+            [
+              "4",
+              "LeBron James",
+              "137.8",
+              "52.8",
+              "85.0",
+              "Basketball"
+            ],
+            [
+              "5",
+              "Shohei Ohtani",
+              "127.6",
+              "2.6",
+              "125.0",
+              "Baseball"
+            ],
+            [
+              "6",
+              "Stephen Curry",
+              "124.7",
+              "59.7",
+              "65.0",
+              "Basketball"
+            ],
+            [
+              "7",
+              "Jon Rahm",
+              "107.0",
+              "97.0",
+              "10.0",
+              "Golf"
+            ],
+            [
+              "8",
+              "Karim Benzema",
+              "104.0",
+              "100.0",
+              "4.0",
+              "Soccer"
+            ],
+            [
+              "9",
+              "Kevin Durant",
+              "103.8",
+              "54.8",
+              "49.0",
+              "Basketball"
+            ],
+            [
+              "10",
+              "Lewis Hamilton",
+              "100.0",
+              "70.0",
+              "30.0",
+              "Formula 1"
+            ]
+          ],
+          "caption": "2026年全球收入最高运动员TOP10"
+        }
+      ],
+      "deep_dive": "## 收入结构演变：场外收入成为关键引擎\n\n从数据可以看出，顶级运动员的收入构成正在发生深刻变化。传统认知中，运动员的收入主要来源于其竞技表现（场内收入），但本榜单显示，对于真正的全球性巨星而言，场外商业价值已变得同等重要，甚至更为关键。\n\n*   **梅西与詹姆斯的商业模式转型**：两位分别代表足球和篮球的标志性人物，其场外收入均超过或等于场内收入。这标志着他们已成功从单纯的竞技明星，转型为具有全球影响力的商业品牌和文化符号，其代言、投资和商业帝国带来的收益已超越运动合同本身。\n*   **大谷翔平的极端案例**：大谷翔平以260万美元的场内收入和1.25亿美元的场外收入，构成了一个极端案例。这主要源于他与洛杉矶道奇队签订的创纪录合同中，大部分薪资被延迟支付，同时其独特的“二刀流”魅力、日本市场的巨大潜力以及全球赞助商的追捧，共同造就了其惊人的场外吸金能力。这凸显了球员合同结构设计与市场故事性对收入的巨大影响。\n\n## 运动项目分布：全球化与商业化决定高度\n\n榜单的运动项目分布清晰地揭示了不同项目的商业生态系统差异。\n\n*   **足球与篮球的统治地位**：这两个全球化程度最高、联赛商业运营最成熟、媒体转播收入最丰厚的运动项目，占据了前十中的六个席位。它们拥有全球性的粉丝基础和顶级赞助商网络，是孕育超高收入运动员的沃土。\n*   **个体项目的独特性**：拳击（阿尔瓦雷斯）、高尔夫（拉姆）、F1（汉密尔顿）等个人项目运动员上榜，其收入高度依赖于单场赛事奖金和极高水平的个人赞助。他们的成功往往更具“个人英雄主义”色彩，收入波动性可能更大。\n*   **棒球的市场潜力**：大谷翔平的上榜，特别是其以极低场内薪资（当期）却能获得天价总收入，表明美国职业棒球大联盟（MLB）及其辐射的国际市场（尤其是日本）拥有巨大的商业价值，能够为顶级国际球星提供超越合同数字的变现能力。\n\n**启示与局限**：该榜单反映了当代体育产业的资本化与全球化趋势。运动员的竞技实力是基础，但其个人品牌塑造、社交媒体影响力、故事性以及所处联赛的商业成熟度，共同决定了其收入天花板。然而，该数据仅为单一财年快照，无法反映长期收入稳定性，且未区分收入的具体来源细节（如代言品牌分布、投资回报等）。",
+      "glossary": [
+        {
+          "term": "On-Field Earnings",
+          "explanation": "场内收入，指运动员通过比赛工资、奖金、出场费等与竞技表现直接相关的收入。"
+        },
+        {
+          "term": "Off-Field Earnings",
+          "explanation": "场外收入，指运动员通过代言、赞助、授权、投资、媒体露面等商业活动获得的收入。"
+        },
+        {
+          "term": "Total Earnings",
+          "explanation": "总收入，为场内收入与场外收入之和，是衡量运动员综合商业价值的核心指标。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3399dfa1",
+    "title": "Ranked: U.S. Population Growth by State (1970–2025)",
+    "original_url": "https://www.visualcapitalist.com/ranked-u-s-population-growth-by-state-1970-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3399dfa1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtXfFNWXmmS1CpO6ueK1Jc2XxJxRUCniiujlFzs//Z",
+    "image_version": 1780177677,
+    "pub_date": "Sat, 30 May 2026 14:26:23 +0000",
+    "content_md": "| Rank | State | Growth | 1970 population | 2025 population |\n| --- | --- | --- | --- | --- |\n| 1 | Nevada | 572% | 488,738 | 3,282,188 |\n| 2 | Arizona | 329% | 1,775,399 | 7,623,818 |\n| 3 | Florida | 246% | 6,791,418 | 23,462,518 |\n| 4 | Utah | 234% | 1,059,273 | 3,538,904 |\n| 5 | Idaho | 185% | 713,015 | 2,029,733 |\n| 6 | Texas | 183% | 11,198,655 | 31,709,821 |\n| 7 | Colorado | 172% | 2,209,596 | 6,012,561 |\n| 8 | Georgia | 146% | 4,587,930 | 11,302,748 |\n| 9 | Alaska | 144% | 302,583 | 737,270 |\n| 10 | Washington | 134% | 3,413,244 | 8,001,020 |\n| 11 | North Carolina | 120% | 5,084,411 | 11,197,968 |\n| 12 | South Carolina | 115% | 2,590,713 | 5,570,274 |\n| 13 | New Mexico | 109% | 1,017,055 | 2,125,498 |\n| 14 | Oregon | 104% | 2,091,533 | 4,273,586 |\n| 15 | California | 97% | 19,971,069 | 39,355,309 |\n| 16 | Delaware | 93% | 548,104 | 1,059,952 |\n| 17 | New Hampshire | 92% | 737,681 | 1,415,342 |\n| 18 | Virginia | 91% | 4,651,448 | 8,880,107 |\n| 19 | Tennessee | 86% | 3,926,018 | 7,315,076 |\n| 20 | Hawaii | 86% | 769,913 | 1,432,820 |\n| 21 | Wyoming | 77% | 332,416 | 588,753 |\n| 22 | Montana | 65% | 694,409 | 1,144,694 |\n| 23 | Arkansas | 62% | 1,923,322 | 3,114,791 |\n| 24 | Oklahoma | 61% | 2,559,463 | 4,123,288 |\n| 25 | Maryland | 60% | 3,923,897 | 6,265,347 |\n| 26 | Minnesota | 53% | 3,806,103 | 5,830,405 |\n| 27 | Alabama | 51% | 3,444,354 | 5,193,088 |\n| 28 | Vermont | 45% | 444,732 | 644,663 |\n| 29 | Kentucky | 43% | 3,220,711 | 4,606,864 |\n| 30 | Maine | 42% | 993,722 | 1,414,874 |\n| 31 | South Dakota | 40% | 666,257 | 935,094 |\n| 32 | Nebraska | 36% | 1,485,333 | 2,018,006 |\n| 33 | Wisconsin | 35% | 4,417,821 | 5,972,787 |\n| 34 | Indiana | 34% | 5,195,392 | 6,973,333 |\n| 35 | Missouri | 34% | 4,677,623 | 6,270,541 |\n| 36 | Mississippi | 33% | 2,216,994 | 2,954,160 |\n| 37 | New Jersey | 33% | 7,171,112 | 9,548,215 |\n| 38 | Kansas | 32% | 2,249,071 | 2,977,220 |\n| 39 | North Dakota | 29% | 617,792 | 799,358 |\n| 40 | Louisiana | 27% | 3,644,637 | 4,618,189 |\n| 41 | Massachusetts | 26% | 5,689,170 | 7,154,084 |\n| 42 | Connecticut | 22% | 3,032,217 | 3,688,496 |\n| 43 | Rhode Island | 17% | 949,723 | 1,114,521 |\n| 44 | Iowa | 15% | 2,825,368 | 3,238,387 |\n| 45 | Illinois | 15% | 11,110,285 | 12,719,141 |\n| 46 | Michigan | 14% | 8,881,826 | 10,127,884 |\n| 47 | Ohio | 12% | 10,657,423 | 11,900,510 |\n| 48 | Pennsylvania | 11% | 11,800,766 | 13,059,432 |\n| 49 | New York | 10% | 18,241,391 | 20,002,427 |\n| 50 | West Virginia | 1% | 1,744,237 | 1,766,147 |\n| 51 | District of Columbia | -8% | 756,668 | 693,645 |",
+    "ai_analysis": {
+      "core_insight": "美国人口增长呈现极端地域分化，西部和阳光地带州增长迅猛，而东北部和铁锈地带州增长乏力。",
+      "data_highlights": [
+        "内华达州以572%的增长率位居第一，人口从约49万激增至328万。",
+        "增长前十名中，八个州位于美国西部或南部（阳光地带），仅科罗拉多和阿拉斯加例外。",
+        "增长最慢的五个州（纽约、宾夕法尼亚、俄亥俄、密歇根、西弗吉尼亚）均位于东北部或中西部，增长率均低于15%。",
+        "华盛顿特区是唯一人口负增长（-8%）的地区，从75.7万降至69.4万。",
+        "德克萨斯州和佛罗里达州作为人口大州，仍分别实现了183%和246%的高增长，绝对人口增量巨大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Growth",
+            "1970 population",
+            "2025 population"
+          ],
+          "rows": [
+            [
+              "1",
+              "Nevada",
+              "572%",
+              "488,738",
+              "3,282,188"
+            ],
+            [
+              "2",
+              "Arizona",
+              "329%",
+              "1,775,399",
+              "7,623,818"
+            ],
+            [
+              "3",
+              "Florida",
+              "246%",
+              "6,791,418",
+              "23,462,518"
+            ],
+            [
+              "4",
+              "Utah",
+              "234%",
+              "1,059,273",
+              "3,538,904"
+            ],
+            [
+              "5",
+              "Idaho",
+              "185%",
+              "713,015",
+              "2,029,733"
+            ],
+            [
+              "6",
+              "Texas",
+              "183%",
+              "11,198,655",
+              "31,709,821"
+            ],
+            [
+              "7",
+              "Colorado",
+              "172%",
+              "2,209,596",
+              "6,012,561"
+            ],
+            [
+              "8",
+              "Georgia",
+              "146%",
+              "4,587,930",
+              "11,302,748"
+            ],
+            [
+              "9",
+              "Alaska",
+              "144%",
+              "302,583",
+              "737,270"
+            ],
+            [
+              "10",
+              "Washington",
+              "134%",
+              "3,413,244",
+              "8,001,020"
+            ],
+            [
+              "11",
+              "North Carolina",
+              "120%",
+              "5,084,411",
+              "11,197,968"
+            ],
+            [
+              "12",
+              "South Carolina",
+              "115%",
+              "2,590,713",
+              "5,570,274"
+            ],
+            [
+              "13",
+              "New Mexico",
+              "109%",
+              "1,017,055",
+              "2,125,498"
+            ],
+            [
+              "14",
+              "Oregon",
+              "104%",
+              "2,091,533",
+              "4,273,586"
+            ],
+            [
+              "15",
+              "California",
+              "97%",
+              "19,971,069",
+              "39,355,309"
+            ],
+            [
+              "16",
+              "Delaware",
+              "93%",
+              "548,104",
+              "1,059,952"
+            ],
+            [
+              "17",
+              "New Hampshire",
+              "92%",
+              "737,681",
+              "1,415,342"
+            ],
+            [
+              "18",
+              "Virginia",
+              "91%",
+              "4,651,448",
+              "8,880,107"
+            ],
+            [
+              "19",
+              "Tennessee",
+              "86%",
+              "3,926,018",
+              "7,315,076"
+            ],
+            [
+              "20",
+              "Hawaii",
+              "86%",
+              "769,913",
+              "1,432,820"
+            ],
+            [
+              "21",
+              "Wyoming",
+              "77%",
+              "332,416",
+              "588,753"
+            ],
+            [
+              "22",
+              "Montana",
+              "65%",
+              "694,409",
+              "1,144,694"
+            ],
+            [
+              "23",
+              "Arkansas",
+              "62%",
+              "1,923,322",
+              "3,114,791"
+            ],
+            [
+              "24",
+              "Oklahoma",
+              "61%",
+              "2,559,463",
+              "4,123,288"
+            ],
+            [
+              "25",
+              "Maryland",
+              "60%",
+              "3,923,897",
+              "6,265,347"
+            ],
+            [
+              "26",
+              "Minnesota",
+              "53%",
+              "3,806,103",
+              "5,830,405"
+            ],
+            [
+              "27",
+              "Alabama",
+              "51%",
+              "3,444,354",
+              "5,193,088"
+            ],
+            [
+              "28",
+              "Vermont",
+              "45%",
+              "444,732",
+              "644,663"
+            ],
+            [
+              "29",
+              "Kentucky",
+              "43%",
+              "3,220,711",
+              "4,606,864"
+            ],
+            [
+              "30",
+              "Maine",
+              "42%",
+              "993,722",
+              "1,414,874"
+            ],
+            [
+              "31",
+              "South Dakota",
+              "40%",
+              "666,257",
+              "935,094"
+            ],
+            [
+              "32",
+              "Nebraska",
+              "36%",
+              "1,485,333",
+              "2,018,006"
+            ],
+            [
+              "33",
+              "Wisconsin",
+              "35%",
+              "4,417,821",
+              "5,972,787"
+            ],
+            [
+              "34",
+              "Indiana",
+              "34%",
+              "5,195,392",
+              "6,973,333"
+            ],
+            [
+              "35",
+              "Missouri",
+              "34%",
+              "4,677,623",
+              "6,270,541"
+            ],
+            [
+              "36",
+              "Mississippi",
+              "33%",
+              "2,216,994",
+              "2,954,160"
+            ],
+            [
+              "37",
+              "New Jersey",
+              "33%",
+              "7,171,112",
+              "9,548,215"
+            ],
+            [
+              "38",
+              "Kansas",
+              "32%",
+              "2,249,071",
+              "2,977,220"
+            ],
+            [
+              "39",
+              "North Dakota",
+              "29%",
+              "617,792",
+              "799,358"
+            ],
+            [
+              "40",
+              "Louisiana",
+              "27%",
+              "3,644,637",
+              "4,618,189"
+            ],
+            [
+              "41",
+              "Massachusetts",
+              "26%",
+              "5,689,170",
+              "7,154,084"
+            ],
+            [
+              "42",
+              "Connecticut",
+              "22%",
+              "3,032,217",
+              "3,688,496"
+            ],
+            [
+              "43",
+              "Rhode Island",
+              "17%",
+              "949,723",
+              "1,114,521"
+            ],
+            [
+              "44",
+              "Iowa",
+              "15%",
+              "2,825,368",
+              "3,238,387"
+            ],
+            [
+              "45",
+              "Illinois",
+              "15%",
+              "11,110,285",
+              "12,719,141"
+            ],
+            [
+              "46",
+              "Michigan",
+              "14%",
+              "8,881,826",
+              "10,127,884"
+            ],
+            [
+              "47",
+              "Ohio",
+              "12%",
+              "10,657,423",
+              "11,900,510"
+            ],
+            [
+              "48",
+              "Pennsylvania",
+              "11%",
+              "11,800,766",
+              "13,059,432"
+            ],
+            [
+              "49",
+              "New York",
+              "10%",
+              "18,241,391",
+              "20,002,427"
+            ],
+            [
+              "50",
+              "West Virginia",
+              "1%",
+              "1,744,237",
+              "1,766,147"
+            ],
+            [
+              "51",
+              "District of Columbia",
+              "-8%",
+              "756,668",
+              "693,645"
+            ]
+          ],
+          "caption": "美国各州人口增长率排名 (1970-2025)"
+        }
+      ],
+      "deep_dive": "## 增长格局：阳光地带的全面胜利\n1970年至2025年间，美国人口增长的地理分布极不均衡。数据清晰地勾勒出一条从西北部爱达荷州，经科罗拉多州、亚利桑那州，直至东南部佛罗里达州的“增长弧线”。排名前十的州中，内华达、亚利桑那、佛罗里达、犹他、爱达荷、德克萨斯、科罗拉多和华盛顿均位于该弧线或传统“阳光地带”，其共同特征包括温暖的气候、相对较低的生活成本、税收政策优势以及以服务业和科技为代表的新经济产业布局。这种人口迁移深刻重塑了美国的经济与政治版图，使得国会席位和选举人票向南部和西部倾斜。\n\n## 增长动力与隐忧\n推动高增长的因素是多元的。首先，产业转移和就业机会是核心拉力，例如德克萨斯州的能源与科技业，佛罗里达州的旅游、养老服务业。其次，生活质量的考量，包括气候、住房和自然环境，吸引了大量退休人口和远程工作者，内华达州（拉斯维加斯）和亚利桑那州（凤凰城）的案例尤为典型。然而，高速增长也带来了挑战，如水资源短缺（西南部各州）、基础设施压力、房价飙升以及社会服务负担加重。反观增长停滞甚至负增长的地区，如华盛顿特区和西弗吉尼亚州，则面临产业空心化、人口老龄化和税收基础萎缩的困境，形成了“增长陷阱”。\n\n## 对中国的启示\n美国州际人口流动的规律，为中国理解区域协调发展提供了镜鉴。市场经济下，人口向资本回报率高、公共服务优质、环境宜居的地区集聚是普遍规律。中国东部沿海城市群与中西部地区的关系，类似美国阳光地带与铁锈地带的对比。这提示我们，区域发展战略不应仅依靠行政力量“拉平”，更需通过市场化机制优化资源配置，同时通过转移支付等手段，保障人口流出地区的基本公共服务和可持续发展，避免出现大规模的区域性衰落。",
+      "glossary": [
+        {
+          "term": "阳光地带 (Sun Belt)",
+          "explanation": "美国地理文化概念，指美国南部和西部气候温暖、阳光充足的州，自20世纪中后期以来因人口和经济增长显著而得名。"
+        },
+        {
+          "term": "铁锈地带 (Rust Belt)",
+          "explanation": "美国东北部和五大湖地区传统工业衰退的区域，因工厂锈迹斑斑而得名，常与人口外流和经济停滞相关联。"
+        },
+        {
+          "term": "人口迁移 (Population Migration)",
+          "explanation": "指人口在地理空间上的移动和重新分布，是影响区域人口规模、结构及社会经济发展的关键因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "f756d264",
     "title": "Ranked: The Hardest Languages for English Speakers to Learn",
     "original_url": "https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/",
