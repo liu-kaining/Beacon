@@ -1,5 +1,405 @@
 [
   {
+    "id": "f756d264",
+    "title": "Ranked: The Hardest Languages for English Speakers to Learn",
+    "original_url": "https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f756d264.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpQuKRmxUr9KrPWTkbU46i76KjopXOzlP/2Q==",
+    "image_version": 1780167321,
+    "pub_date": "Sat, 30 May 2026 17:27:24 +0000",
+    "content_md": "| Language | Category | Time to learn |\n| --- | --- | --- |\n| Afrikaans | I | 24-30 weeks |\n| Danish | I | 24-30 weeks |\n| Dutch | I | 24-30 weeks |\n| French | I | 24-30 weeks |\n| Italian | I | 24-30 weeks |\n| Norwegian | I | 24-30 weeks |\n| Portuguese | I | 24-30 weeks |\n| Romanian | I | 24-30 weeks |\n| Spanish | I | 24-30 weeks |\n| Swedish | I | 24-30 weeks |\n| German | II | 36 weeks |\n| Haitian Creole | II | 36 weeks |\n| Indonesian | II | 36 weeks |\n| Malay | II | 36 weeks |\n| Swahili | II | 36 weeks |\n| Albanian | III | 44 weeks |\n| Amharic | III | 44 weeks |\n| Armenian | III | 44 weeks |\n| Azerbaijani | III | 44 weeks |\n| Bengali | III | 44 weeks |\n| Bulgarian | III | 44 weeks |\n| Burmese | III | 44 weeks |\n| Czech | III | 44 weeks |\n| Dari | III | 44 weeks |\n| Estonian | III | 44 weeks |\n| Farsi | III | 44 weeks |\n| Finnish | III | 44 weeks |\n| Georgian | III | 44 weeks |\n| Greek | III | 44 weeks |\n| Hebrew | III | 44 weeks |\n| Hindi | III | 44 weeks |\n| Hungarian | III | 44 weeks |\n| Icelandic | III | 44 weeks |\n| Kazakh | III | 44 weeks |\n| Khmer | III | 44 weeks |\n| Kurdish | III | 44 weeks |\n| Kyrgyz | III | 44 weeks |\n| Lao | III | 44 weeks |\n| Latvian | III | 44 weeks |\n| Lithuanian | III | 44 weeks |\n| Macedonian | III | 44 weeks |\n| Mongolian | III | 44 weeks |\n| Nepali | III | 44 weeks |\n| Pashto | III | 44 weeks |\n| Polish | III | 44 weeks |\n| Russian | III | 44 weeks |\n| Serbo-Croatian | III | 44 weeks |\n| Sinhala | III | 44 weeks |\n| Slovak | III | 44 weeks |\n| Slovenian | III | 44 weeks |\n| Somali | III | 44 weeks |\n| Telugu | III | 44 weeks |\n| Tibetan | III | 44 weeks |\n| Tamil | III | 44 weeks |\n| Tajiki | III | 44 weeks |\n| Tagalog | III | 44 weeks |\n| Thai | III | 44 weeks |\n| Turkish | III | 44 weeks |\n| Turkmen | III | 44 weeks |\n| Ukrainian | III | 44 weeks |\n| Urdu | III | 44 weeks |\n| Uzbek | III | 44 weeks |\n| Vietnamese | III | 44 weeks |\n| Xhosa | III | 44 weeks |\n| Zulu | III | 44 weeks |\n| Arabic | IV | 88 weeks |\n| Cantonese Chinese | IV | 88 weeks |\n| Mandarin Chinese | IV | 88 weeks |\n| Japanese | IV | 88 weeks |\n| Korean | IV | 88 weeks |",
+    "ai_analysis": {
+      "core_insight": "语言难度与英语母语者学习时长呈四级阶梯式分布，东亚语言最难。",
+      "data_highlights": [
+        "第一级（I）：10种语言，学习周期约24-30周，均为欧洲语言。",
+        "第二级（II）：5种语言，学习周期约36周，包括德语、印尼语等。",
+        "第三级（III）：60种语言，学习周期约44周，涵盖语种最广。",
+        "第四级（IV）：5种语言，学习周期长达88周，为阿拉伯语及东亚主要语言。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Language",
+            "Category",
+            "Time to learn"
+          ],
+          "rows": [
+            [
+              "Afrikaans",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Danish",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Dutch",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "French",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Italian",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Norwegian",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Portuguese",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Romanian",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Spanish",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "Swedish",
+              "I",
+              "24-30 weeks"
+            ],
+            [
+              "German",
+              "II",
+              "36 weeks"
+            ],
+            [
+              "Haitian Creole",
+              "II",
+              "36 weeks"
+            ],
+            [
+              "Indonesian",
+              "II",
+              "36 weeks"
+            ],
+            [
+              "Malay",
+              "II",
+              "36 weeks"
+            ],
+            [
+              "Swahili",
+              "II",
+              "36 weeks"
+            ],
+            [
+              "Albanian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Amharic",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Armenian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Azerbaijani",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Bengali",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Bulgarian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Burmese",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Czech",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Dari",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Estonian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Farsi",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Finnish",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Georgian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Greek",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Hebrew",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Hindi",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Hungarian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Icelandic",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Kazakh",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Khmer",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Kurdish",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Kyrgyz",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Lao",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Latvian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Lithuanian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Macedonian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Mongolian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Nepali",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Pashto",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Polish",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Russian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Serbo-Croatian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Sinhala",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Slovak",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Slovenian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Somali",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Telugu",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Tibetan",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Tamil",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Tajiki",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Tagalog",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Thai",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Turkish",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Turkmen",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Ukrainian",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Urdu",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Uzbek",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Vietnamese",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Xhosa",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Zulu",
+              "III",
+              "44 weeks"
+            ],
+            [
+              "Arabic",
+              "IV",
+              "88 weeks"
+            ],
+            [
+              "Cantonese Chinese",
+              "IV",
+              "88 weeks"
+            ],
+            [
+              "Mandarin Chinese",
+              "IV",
+              "88 weeks"
+            ],
+            [
+              "Japanese",
+              "IV",
+              "88 weeks"
+            ],
+            [
+              "Korean",
+              "IV",
+              "88 weeks"
+            ]
+          ],
+          "caption": "英语母语者学习难度分级表"
+        }
+      ],
+      "deep_dive": "## 难度分级背后的语言学逻辑\n\n该数据清晰地揭示了语言学习的“亲缘性”与“陌生性”法则。第一级（I）语言几乎全部来自日耳曼语族和罗曼语族，它们与英语同属印欧语系，在词汇、语法结构和书写系统上存在大量相似之处（同源词、相似的动词变位等），因此学习周期最短。\n\n第二级（II）语言则呈现过渡特征。德语虽同属日耳曼语族，但其复杂的格系统和语序增加了难度；而印尼语、斯瓦希里语等虽无亲缘关系，但语法相对规则且无复杂屈折变化，降低了门槛。\n\n第三级（III）语言难度陡增，覆盖语系极广。这些语言普遍与英语缺乏亲缘关系，并涉及全新的书写系统（如天城文、西里尔字母、非拉丁文字）、复杂的音调系统（如越南语、泰语）、或独特的语法范畴（如格系统、黏着语特征）。第四级（IV）语言——阿拉伯语和东亚主要语言——被列为最难，它们通常集多重挑战于一身：复杂的文字系统、声调或重音（阿拉伯语）、敬语体系（日韩语），以及与英语截然不同的思维逻辑和语用文化。\n\n## 数据启示与应用局限\n\n对于语言学习者和政策制定者，此数据提供了直观的规划参考。它表明，投入相同的学习时间，选择不同语言的回报率（即熟练度）差异巨大。例如，学习西班牙语（24周）与学习日语（88周）所需时间相差超过三倍。\n\n然而，必须认识到“学习时长”是高度标准化的估计值，其背后假定一致的学习强度（如每周25小时课堂学习）。个人的学习效率、母语背景（非英语母语者的结果可能完全不同）、学习动机和方法都会产生巨大影响。此外，将语言简化为单一维度的“难度”排名，可能忽略了文化亲和力、学习资源丰富度等对学习动力至关重要的软性因素。该数据框架更适用于宏观比较和初始规划，而非个体的精确预测。",
+      "glossary": [
+        {
+          "term": "屈折语",
+          "explanation": "一种语言类型，通过词形变化（如变格、变位）来表达语法关系。例如德语、俄语的名词有格变化。"
+        },
+        {
+          "term": "黏着语",
+          "explanation": "一种语言类型，通过添加多个独立的词缀来构词和表达语法意义，词缀与词根界限分明。例如土耳其语、日语。"
+        },
+        {
+          "term": "书写系统",
+          "explanation": "用于记录语言的符号系统。英语使用拉丁字母，而阿拉伯语使用阿拉伯字母，汉语使用汉字，这构成了主要的学习障碍之一。"
+        },
+        {
+          "term": "语系",
+          "explanation": "根据语言间的谱系关系（共同祖先）划分的语族层次，如印欧语系、汉藏语系。同语系语言通常在词汇和语法上有更多相似性。"
+        }
+      ]
+    }
+  },
+  {
     "id": "438fe314",
     "title": "Median Ages of the World’s Top 40 Economies",
     "original_url": "https://www.visualcapitalist.com/sp/adb01-median-ages-of-the-worlds-economies/",
