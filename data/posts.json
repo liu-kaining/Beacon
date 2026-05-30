@@ -1,5 +1,140 @@
 [
   {
+    "id": "dd69910f",
+    "title": "Mapped: The World’s Most and Least Corrupt Countries",
+    "original_url": "https://www.visualcapitalist.com/mapped-most-and-least-corrupt-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/dd69910f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDEQ04txUa0NWZqkBbmioz1opiP/9k=",
+    "image_version": 1780145852,
+    "pub_date": "Sat, 30 May 2026 12:04:38 +0000",
+    "content_md": "| Country | CPI Score (2025) |\n| --- | --- |\n| Denmark | 89 |\n| Finland | 88 |\n| Singapore | 84 |\n| New Zealand | 81 |\n| Norway | 81 |\n| Sweden | 80 |\n| Switzerland | 80 |\n| Luxembourg | 78 |\n| Netherlands | 78 |\n| Germany | 77 |\n| Iceland | 77 |\n| Australia | 76 |\n| Estonia | 76 |\n| Hong Kong | 76 |\n| Ireland | 76 |\n| Canada | 75 |\n| Uruguay | 73 |\n| Bhutan | 71 |\n| Japan | 71 |\n| United Kingdom | 70 |\n| Austria | 69 |\n| Belgium | 69 |\n| United Arab Emirates | 69 |\n| Barbados | 68 |\n| Seychelles | 68 |\n| Taiwan | 68 |\n| France | 66 |\n| Lithuania | 65 |\n| Bahamas | 64 |\n| United States of America | 64 |\n| Brunei Darussalam | 63 |\n| Chile | 63 |\n| South Korea | 63 |\n| Saint Vincent and the Grenadines | 63 |\n| Cabo Verde | 62 |\n| Israel | 62 |\n| Dominica | 60 |\n| Latvia | 60 |\n| Czechia | 59 |\n| Saint Lucia | 59 |\n| Botswana | 58 |\n| Qatar | 58 |\n| Rwanda | 58 |\n| Slovenia | 58 |\n| Saudi Arabia | 57 |\n| Costa Rica | 56 |\n| Grenada | 56 |\n| Portugal | 56 |\n| Cyprus | 55 |\n| Fiji | 55 |\n| Spain | 55 |\n| Italy | 53 |\n| Poland | 53 |\n| Malaysia | 52 |\n| Oman | 52 |\n| Bahrain | 50 |\n| Georgia | 50 |\n| Greece | 50 |\n| Jordan | 50 |\n| Malta | 49 |\n| Mauritius | 48 |\n| Slovakia | 48 |\n| Croatia | 47 |\n| Vanuatu | 47 |\n| Armenia | 46 |\n| Kuwait | 46 |\n| Montenegro | 46 |\n| Namibia | 46 |\n| Senegal | 46 |\n| Benin | 45 |\n| Romania | 45 |\n| Sao Tome and Principe | 45 |\n| Jamaica | 44 |\n| Solomon Islands | 44 |\n| Timor-Leste | 44 |\n| China | 43 |\n| Cote d'Ivoire | 43 |\n| Ghana | 43 |\n| Kosovo | 43 |\n| Moldova | 42 |\n| South Africa | 41 |\n| Trinidad and Tobago | 41 |\n| Vietnam | 41 |\n| Bulgaria | 40 |\n| Burkina Faso | 40 |\n| Cuba | 40 |\n| Guyana | 40 |\n| Hungary | 40 |\n| North Macedonia | 40 |\n| Tanzania | 40 |\n| Albania | 39 |\n| India | 39 |\n| Maldives | 39 |\n| Morocco | 39 |\n| Tunisia | 39 |\n| Ethiopia | 38 |\n| Kazakhstan | 38 |\n| Suriname | 38 |\n| Colombia | 37 |\n| Dominican Republic | 37 |\n| Gambia | 37 |\n| Lesotho | 37 |\n| Zambia | 37 |\n| Argentina | 36 |\n| Belize | 36 |\n| Ukraine | 36 |\n| Brazil | 35 |\n| Sri Lanka | 35 |\n| Algeria | 34 |\n| Bosnia and Herzegovina | 34 |\n| Indonesia | 34 |\n| Laos | 34 |\n| Malawi | 34 |\n| Nepal | 34 |\n| Sierra Leone | 34 |\n| Ecuador | 33 |\n| Panama | 33 |\n| Serbia | 33 |\n| Thailand | 33 |\n| Angola | 32 |\n| El Salvador | 32 |\n| Philippines | 32 |\n| Togo | 32 |\n| Belarus | 31 |\n| Djibouti | 31 |\n| Mongolia | 31 |\n| Niger | 31 |\n| Turkey | 31 |\n| Uzbekistan | 31 |\n| Azerbaijan | 30 |\n| Egypt | 30 |\n| Kenya | 30 |\n| Mauritania | 30 |\n| Peru | 30 |\n| Gabon | 29 |\n| Bolivia | 28 |\n| Iraq | 28 |\n| Liberia | 28 |\n| Mali | 28 |\n| Pakistan | 28 |\n| Mexico | 27 |\n| Cameroon | 26 |\n| Guatemala | 26 |\n| Guinea | 26 |\n| Kyrgyzstan | 26 |\n| Nigeria | 26 |\n| Papua New Guinea | 26 |\n| Madagascar | 25 |\n| Uganda | 25 |\n| Bangladesh | 24 |\n| Central African Republic | 24 |\n| Paraguay | 24 |\n| Congo | 23 |\n| Eswatini | 23 |\n| Iran | 23 |\n| Lebanon | 23 |\n| Chad | 22 |\n| Honduras | 22 |\n| Russia | 22 |\n| Zimbabwe | 22 |\n| Guinea Bissau | 21 |\n| Mozambique | 21 |\n| Cambodia | 20 |\n| Comoros | 20 |\n| Democratic Republic of the Congo | 20 |\n| Tajikistan | 19 |\n| Burundi | 17 |\n| Turkmenistan | 17 |\n| Afghanistan | 16 |\n| Haiti | 16 |\n| Myanmar | 16 |\n| Equatorial Guinea | 15 |\n| North Korea | 15 |\n| Syria | 15 |\n| Nicaragua | 14 |\n| Sudan | 14 |\n| Eritrea | 13 |\n| Libya | 13 |\n| Yemen | 13 |\n| Venezuela | 10 |\n| Somalia | 9 |\n| South Sudan | 9 |",
+    "ai_analysis": {
+      "core_insight": "全球清廉程度高度分化，北欧领跑，战乱国垫底。",
+      "data_highlights": [
+        "丹麦以89分蝉联全球最清廉国家，前五名均为欧洲或新加坡。",
+        "索马里与南苏丹以9分并列最末，朝鲜、叙利亚等战乱国得分极低。",
+        "中国CPI得分43，位于全球中游，与哥伦比亚、科特迪瓦等国相近。",
+        "金砖国家中，印度、南非、巴西、俄罗斯得分均低于40，存在显著差异。",
+        "美国得分64，与智利、韩国并列，低于其传统盟友加拿大、英国和德国。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "CPI Score (2025)"
+          ],
+          "rows": [
+            [
+              "Denmark",
+              "89"
+            ],
+            [
+              "Finland",
+              "88"
+            ],
+            [
+              "Singapore",
+              "84"
+            ],
+            [
+              "New Zealand",
+              "81"
+            ],
+            [
+              "Norway",
+              "81"
+            ],
+            [
+              "Sweden",
+              "80"
+            ],
+            [
+              "Switzerland",
+              "80"
+            ],
+            [
+              "Luxembourg",
+              "78"
+            ],
+            [
+              "Netherlands",
+              "78"
+            ],
+            [
+              "Germany",
+              "77"
+            ]
+          ],
+          "caption": "2025年全球清廉指数前10名"
+        },
+        {
+          "headers": [
+            "Country",
+            "CPI Score (2025)"
+          ],
+          "rows": [
+            [
+              "Venezuela",
+              "10"
+            ],
+            [
+              "Somalia",
+              "9"
+            ],
+            [
+              "South Sudan",
+              "9"
+            ],
+            [
+              "Eritrea",
+              "13"
+            ],
+            [
+              "Libya",
+              "13"
+            ],
+            [
+              "Yemen",
+              "13"
+            ],
+            [
+              "Nicaragua",
+              "14"
+            ],
+            [
+              "Sudan",
+              "14"
+            ],
+            [
+              "Equatorial Guinea",
+              "15"
+            ],
+            [
+              "North Korea",
+              "15"
+            ]
+          ],
+          "caption": "2025年全球清廉指数后10名"
+        }
+      ],
+      "deep_dive": "## 清廉图谱：制度与发展的镜像\n全球清廉指数（CPI）排名揭示了深刻的制度与发展鸿沟。高分国家（如丹麦、芬兰、新加坡）普遍具备健全的法治体系、高效的行政机构、透明的政府运作以及强大的公民社会，这共同构成了遏制腐败的制度基石。相比之下，低分国家多陷入治理失效的困境，法治薄弱、问责机制缺失、公共资金管理混乱，往往与贫困、冲突和政治不稳定形成恶性循环。这种“清廉-发展”的正相关关系表明，反腐败不仅是道德议题，更是经济可持续增长与社会稳定的先决条件。\n\n## 区域与集团的对比启示\n区域差异显著。欧洲（特别是西北欧）和大洋洲表现突出，构成全球清廉的“高地”。亚洲则呈现两极分化：新加坡、日本、韩国、台湾等地得分较高，而柬埔寨、缅甸等国则处于末尾。值得注意的是，金砖国家内部表现不一，中国得分（43）高于印度（39）、南非（41）、巴西（35）和俄罗斯（22），这反映了各国在政治体制转型与现代化治理进程中的不同路径。美国（64）作为全球最大经济体，其得分虽处于中上游，但低于多数西欧国家及加拿大，提示其国内政治极化、利益集团游说等议题可能对治理廉洁度构成挑战。\n\n## 局限与思考\nCPI指数虽具广泛参考价值，但也存在局限。其数据多源于外部专家和商界人士的感知调查，可能无法完全捕捉基层微腐败或特定文化背景下对“腐败”的理解差异。此外，得分相近的国家（如中国与科特迪瓦）在腐败形式、治理挑战上可能截然不同，需结合具体国情进行解读。因此，该排名更应被视为一个警示和诊断工具，指明需要加强制度建设和国际合作的领域，而非简单的道德审判。",
+      "glossary": [
+        {
+          "term": "CPI (Corruption Perceptions Index)",
+          "explanation": "透明国际发布的年度清廉指数，通过汇总多个独立数据源，对全球各国公共部门的腐败程度进行感知评分，得分范围为0（高度腐败）至100（非常清廉）。"
+        },
+        {
+          "term": "法治 (Rule of Law)",
+          "explanation": "指法律作为最高权威，政府与公民均受其约束的治理原则。健全的法治是遏制权力滥用和系统性腐败的核心制度保障。"
+        },
+        {
+          "term": "治理 (Governance)",
+          "explanation": "指一个国家或机构行使权力和管理公共资源的综合过程，包括决策机制、问责制、透明度和公共服务效率等维度。"
+        }
+      ]
+    }
+  },
+  {
     "id": "59092172",
     "title": "Ranked: The World’s Hottest Luxury Housing Markets",
     "original_url": "https://www.visualcapitalist.com/ranked-the-luxury-housing-markets-buyers-are-flooding-into/",
