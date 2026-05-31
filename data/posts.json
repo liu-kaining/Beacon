@@ -1,5 +1,123 @@
 [
   {
+    "id": "55077a75",
+    "title": "Ranked: The World’s Deepest Caves",
+    "original_url": "https://www.visualcapitalist.com/deepest-caves-in-the-world/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/55077a75.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhwlBSpBTsVm2bWK+yip8UVNw5SYRGgx1ZprdKqxgpsrbKKlPWinYrnZ//2Q==",
+    "image_version": 1780243116,
+    "pub_date": "Sun, 31 May 2026 14:35:30 +0000",
+    "content_md": "| Rank | Cave | Depth (feet) | Depth (meters) | Country |\n| --- | --- | --- | --- | --- |\n| 1 | Veryovkina | 7,257 | 2,212 | Georgia / Abkhazia |\n| 2 | Krubera-Voronja | 7,215 | 2,199 | Georgia / Abkhazia |\n| 3 | Sarma | 6,004 | 1,830 | Georgia / Abkhazia |\n| 4 | Snezhnaja | 5,774 | 1,760 | Georgia / Abkhazia |\n| 5 | Lamprechtsofen | 5,692 | 1,735 | Austria |\n| 6 | Gouffre Mirolda | 5,686 | 1,733 | France |\n| 7 | Gouffre Jean-Bernard | 5,305 | 1,617 | France |\n| 8 | Sistema del Cerro del Cuevón | 5,213 | 1,589 | Spain |\n| 9 | Hirlatzhöhle | 5,118 | 1,560 | Austria |\n| 10 | Sistema Huautla | 5,118 | 1,560 | Mexico |",
+    "ai_analysis": {
+      "core_insight": "全球最深洞穴前四均位于格鲁吉亚/阿布哈兹，深度远超其他地区。",
+      "data_highlights": [
+        "格鲁吉亚/阿布哈兹包揽前四，最深的Veryovkina洞穴达2,212米。",
+        "排名前四的洞穴深度均超过1,760米，与第五名差距显著。",
+        "欧洲国家（奥地利、法国、西班牙）在前十中占据五席。",
+        "墨西哥的Sistema Huautla洞穴深度达1,560米，是唯一上榜的非欧洲洞穴。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Cave",
+            "Depth (feet)",
+            "Depth (meters)",
+            "Country"
+          ],
+          "rows": [
+            [
+              "1",
+              "Veryovkina",
+              "7,257",
+              "2,212",
+              "Georgia / Abkhazia"
+            ],
+            [
+              "2",
+              "Krubera-Voronja",
+              "7,215",
+              "2,199",
+              "Georgia / Abkhazia"
+            ],
+            [
+              "3",
+              "Sarma",
+              "6,004",
+              "1,830",
+              "Georgia / Abkhazia"
+            ],
+            [
+              "4",
+              "Snezhnaja",
+              "5,774",
+              "1,760",
+              "Georgia / Abkhazia"
+            ],
+            [
+              "5",
+              "Lamprechtsofen",
+              "5,692",
+              "1,735",
+              "Austria"
+            ],
+            [
+              "6",
+              "Gouffre Mirolda",
+              "5,686",
+              "1,733",
+              "France"
+            ],
+            [
+              "7",
+              "Gouffre Jean-Bernard",
+              "5,305",
+              "1,617",
+              "France"
+            ],
+            [
+              "8",
+              "Sistema del Cerro del Cuevón",
+              "5,213",
+              "1,589",
+              "Spain"
+            ],
+            [
+              "9",
+              "Hirlatzhöhle",
+              "5,118",
+              "1,560",
+              "Austria"
+            ],
+            [
+              "10",
+              "Sistema Huautla",
+              "5,118",
+              "1,560",
+              "Mexico"
+            ]
+          ],
+          "caption": "全球最深洞穴TOP10"
+        }
+      ],
+      "deep_dive": "## 高加索地区的绝对主导地位\n数据显示，全球已知最深的四个洞穴均位于格鲁吉亚的阿布哈兹地区。排名前四的洞穴（Veryovkina、Krubera-Voronja、Sarma、Snezhnaja）深度均超过1,760米，与第五名奥地利的Lamprechtsofen（1,735米）相比，形成了明显的断层。这种集中性源于该地区独特的地质构造：高加索西麓由厚层的石灰岩构成，并经历了强烈的地壳抬升和复杂的水文侵蚀过程，为超深洞穴系统的形成提供了理想条件。这不仅是地理上的巧合，更是特定地质历史与环境动力学共同作用的结果。\n\n## 欧洲以外的探索与全球分布\n除了高加索核心区，榜单揭示了洞穴深度探索的全球图景。欧洲的阿尔卑斯山区（奥地利、法国）和伊比利亚半岛（西班牙）展现出强大的探索传统和技术实力，占据了十席中的五席。值得注意的是，墨西哥的Sistema Huautla以1,560米的深度位列第十，这代表了美洲在深洞穴探索中的重要成就。其深度与第九名奥地利的Hirlatzhöhle持平，表明全球不同地区都存在着达到相近深度的巨型洞穴系统，但探索和记录的广度与深度仍在发展之中。当前榜单主要反映的是已有详细测量记录的洞穴，未来随着探测技术的进步，排名和地理分布格局可能会发生变化。",
+      "glossary": [
+        {
+          "term": "洞穴系统",
+          "explanation": "由地下水侵蚀、溶解可溶性岩石（如石灰岩）而形成的相互连通的地下空间网络。"
+        },
+        {
+          "term": "高加索地区",
+          "explanation": "位于黑海和里海之间的山脉地区，拥有复杂的地质结构和丰富的喀斯特地貌。"
+        },
+        {
+          "term": "喀斯特地貌",
+          "explanation": "指由可溶性岩石（主要是石灰岩）经水化学溶蚀及物理侵蚀作用形成的地表和地下地貌形态的总称。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ecb654b9",
     "title": "Mapped: Press Freedom Around the World in 2026",
     "original_url": "https://www.visualcapitalist.com/mapped-press-freedom-around-the-world-in-2026/",
