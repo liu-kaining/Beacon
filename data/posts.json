@@ -1,5 +1,152 @@
 [
   {
+    "id": "fd4f0824",
+    "title": "Mapped: America’s Most Air-Conditioned States",
+    "original_url": "https://www.visualcapitalist.com/mapped-americas-most-air-conditioned-states/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/fd4f0824.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDWuZ9veq8V2N3Wor4nmqERO/rXrxgrHA5HRpcfKKKz4ydg5oqeRC5mf//Z",
+    "image_version": 1780253946,
+    "pub_date": "Sun, 31 May 2026 17:33:29 +0000",
+    "content_md": "| Rank | State | Share of households with air conditioning |\n| --- | --- | --- |\n| 1 | Florida | 99.50% |\n| 2 | Delaware | 99.49% |\n| 3 | Oklahoma | 99.49% |\n| 4 | Alabama | 99.20% |\n| 5 | Louisiana | 99.10% |\n| 6 | Nebraska | 99.10% |\n| 7 | Missouri | 99.10% |\n| 8 | Georgia | 99.09% |\n| 9 | Texas | 98.99% |\n| 10 | South Carolina | 98.91% |\n| 11 | Mississippi | 98.91% |\n| 12 | New Jersey | 98.91% |\n| 13 | Indiana | 98.90% |\n| 14 | Iowa | 98.90% |\n| 15 | Kansas | 98.61% |\n| 16 | Maryland | 98.31% |\n| 17 | Tennessee | 98.20% |\n| 18 | Virginia | 98.20% |\n| 19 | District of Columbia | 98.20% |\n| 20 | Illinois | 98.18% |\n| 21 | Arizona | 97.99% |\n| 22 | North Dakota | 97.91% |\n| 23 | Kentucky | 97.79% |\n| 24 | Arkansas | 97.39% |\n| 25 | North Carolina | 97.30% |\n| 26 | Ohio | 96.40% |\n| 27 | Nevada | 96.11% |\n| 28 | Minnesota | 96.10% |\n| 29 | South Dakota | 95.41% |\n| 30 | Connecticut | 94.90% |\n| 31 | Pennsylvania | 94.30% |\n| 32 | Massachusetts | 94.12% |\n| 33 | Wisconsin | 92.30% |\n| 34 | Utah | 91.81% |\n| 35 | West Virginia | 91.80% |\n| 36 | Rhode Island | 91.63% |\n| 37 | Michigan | 91.40% |\n| 38 | Idaho | 90.70% |\n| 39 | New York | 90.21% |\n| 40 | New Hampshire | 87.18% |\n| 41 | Colorado | 86.60% |\n| 42 | New Mexico | 85.89% |\n| 43 | Oregon | 81.91% |\n| 44 | Maine | 81.71% |\n| 45 | Wyoming | 78.89% |\n| 46 | California | 78.61% |\n| 47 | Montana | 72.99% |\n| 48 | Vermont | 72.79% |\n| 49 | Washington | 65.79% |\n| 50 | Hawaii | 56.57% |\n| 51 | Alaska | 7.01% |",
+    "ai_analysis": {
+      "core_insight": "美国空调普及率呈现显著的地域差异，南方州普遍高于北方及西海岸州。",
+      "data_highlights": [
+        "空调普及率前三名是佛罗里达、特拉华和俄克拉荷马，均超过99.49%。",
+        "阿拉斯加空调普及率仅7.01%，与佛罗里达相差92.49个百分点。",
+        "排名前10的州中有8个位于美国南部地区。",
+        "加利福尼亚和华盛顿等西海岸州的普及率低于80%。",
+        "51个州/地区中，有40个空调普及率超过90%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Share of households with air conditioning"
+          ],
+          "rows": [
+            [
+              "1",
+              "Florida",
+              "99.50%"
+            ],
+            [
+              "2",
+              "Delaware",
+              "99.49%"
+            ],
+            [
+              "3",
+              "Oklahoma",
+              "99.49%"
+            ],
+            [
+              "4",
+              "Alabama",
+              "99.20%"
+            ],
+            [
+              "5",
+              "Louisiana",
+              "99.10%"
+            ],
+            [
+              "6",
+              "Nebraska",
+              "99.10%"
+            ],
+            [
+              "7",
+              "Missouri",
+              "99.10%"
+            ],
+            [
+              "8",
+              "Georgia",
+              "99.09%"
+            ],
+            [
+              "9",
+              "Texas",
+              "98.99%"
+            ],
+            [
+              "10",
+              "South Carolina",
+              "98.91%"
+            ],
+            [
+              "11",
+              "Mississippi",
+              "98.91%"
+            ],
+            [
+              "12",
+              "New Jersey",
+              "98.91%"
+            ],
+            [
+              "13",
+              "Indiana",
+              "98.90%"
+            ],
+            [
+              "14",
+              "Iowa",
+              "98.90%"
+            ],
+            [
+              "15",
+              "Kansas",
+              "98.61%"
+            ],
+            [
+              "16",
+              "Maryland",
+              "98.31%"
+            ],
+            [
+              "17",
+              "Tennessee",
+              "98.20%"
+            ],
+            [
+              "18",
+              "Virginia",
+              "98.20%"
+            ],
+            [
+              "19",
+              "District of Columbia",
+              "98.20%"
+            ],
+            [
+              "20",
+              "Illinois",
+              "98.18%"
+            ]
+          ],
+          "caption": "美国各州家庭空调普及率排名（前20名）"
+        }
+      ],
+      "deep_dive": "## 地域分布：气候与经济的双重烙印\n美国空调普及率的地图呈现出清晰的地理分界线，这深刻反映了气候、经济和人口结构的综合影响。排名前10的州中，除内布拉斯加和密苏里外，其余均位于美国南部“阳光地带”，高温高湿的气候使得空调成为生活必需品。佛罗里达州以99.50%的普及率高居榜首，这与其全年炎热的亚热带气候和发达的旅游业、养老社区需求密不可分。相反，阿拉斯加（7.01%）和华盛顿州（65.79%）等北部或凉爽沿海地区，制冷需求较低，普及率自然垫底。\n\n值得注意的是，一些非传统“炎热”的州也跻身前列，如新泽西（第12）、马里兰（第16）和特拉华（第2）。这暗示了高经济水平、密集的郊区化发展以及近年来极端高温事件频率增加等因素，共同推动了空调在这些地区的广泛安装。中西部农业州如俄克拉荷马、爱荷华和堪萨斯的高普及率，则体现了农业现代化、家庭收入稳定增长与应对夏季高温的实际需求。\n\n## 普及率差距背后的启示与挑战\n高达92.49个百分点的首位差距（佛罗里达 vs. 阿拉斯加）揭示了美国家庭能源消费和舒适度标准的巨大不平等。高普及率地区面临的主要挑战是：\n- **能源依赖与碳排放**：电力需求在夏季激增，给电网带来巨大压力，并加剧温室气体排放。\n- **基础设施韧性**：在飓风频发的佛罗里达、得克萨斯等州，电力中断将直接导致数百万家庭失去制冷保障，凸显了电网现代化的紧迫性。\n- **社会公平**：即使在高普及率州，仍有约0.5%-2%的家庭没有空调，这些家庭可能集中在低收入群体，在极端热浪中面临更高的健康风险。\n\n对于普及率较低的州（如加州、华盛顿、俄勒冈），尽管气候相对温和，但随着全球变暖导致热浪更频繁、更强烈，其“相对舒适”的现状可能被打破。这些地区是否应未雨绸缪地提升空调普及率，还是投资于建筑被动式降温设计，是重要的政策议题。总体而言，这份数据不仅是一张制冷设备分布图，更是观察美国气候适应、能源政策和社会经济差异的一扇窗口。",
+      "glossary": [
+        {
+          "term": "阳光地带 (Sun Belt)",
+          "explanation": "泛指美国南部和西南部气候温暖、阳光充足的地区，包括从佛罗里达到加利福尼亚的广大区域，该地区人口增长和经济活力通常较强。"
+        },
+        {
+          "term": "普及率 (Share of households)",
+          "explanation": "指拥有某一特定物品（此处为空调）的家庭占该地区总家庭数的百分比，是衡量该物品在该地区渗透程度的关键指标。"
+        },
+        {
+          "term": "被动式降温设计 (Passive cooling design)",
+          "explanation": "一种建筑学策略，通过建筑设计本身（如朝向、遮阳、通风、隔热材料）来降低室内温度，从而减少对主动式机械制冷（如空调）的依赖。"
+        }
+      ]
+    }
+  },
+  {
     "id": "55077a75",
     "title": "Ranked: The World’s Deepest Caves",
     "original_url": "https://www.visualcapitalist.com/deepest-caves-in-the-world/",
