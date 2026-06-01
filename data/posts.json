@@ -1,5 +1,266 @@
 [
   {
+    "id": "78e0cf45",
+    "title": "Ranked: Where the Ultra-Rich Are Growing Fastest",
+    "original_url": "https://www.visualcapitalist.com/ranked-where-the-ultra-rich-are-growing-fastest/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/78e0cf45.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDi46m28VDH1qwOlDMyArzRTz1opAf/2Q==",
+    "image_version": 1780343367,
+    "pub_date": "Mon, 01 Jun 2026 17:09:48 +0000",
+    "content_md": "| Rank | Country | Growth in UHNWIs (2021-2026) |\n| --- | --- | --- |\n| 1 | U.S. | 66,916 |\n| 2 | China | 22,753 |\n| 3 | Germany | 9,273 |\n| 4 | India | 7,716 |\n| 5 | Switzerland | 4,968 |\n| 6 | Australia | 4,036 |\n| 7 | France | 3,781 |\n| 8 | UK | 3,005 |\n| 9 | Italy | 2,886 |\n| 10 | Spain | 2,708 |\n| 11 | Japan | 2,609 |\n| 12 | Singapore | 2,529 |\n| 13 | Israel | 2,276 |\n| 14 | Canada | 2,267 |\n| 15 | Türkiye | 2,034 |\n| 16 | Saudi Arabia | 1,795 |\n| 17 | UAE | 1,712 |\n| 18 | Poland | 1,575 |\n| 19 | Indonesia | 1,028 |\n| 20 | Czechia | 914 |\n\n| Rank | Country | Growth in UHNWIs (2021-2026) |\n| --- | --- | --- |\n| 1 | Poland | 109% |\n| 2 | Qatar | 107% |\n| 3 | Türkiye | 94% |\n| 4 | Romania | 93% |\n| 5 | Greece | 74% |\n| 6 | Israel | 71% |\n| 7 | Saudi Arabia | 69% |\n| 8 | Czechia | 67% |\n| 9 | India | 63% |\n| 10 | UAE | 55% |\n| 11 | Singapore | 54% |\n| 12 | Portugal | 50% |\n| 13 | Spain | 42% |\n| 14 | Morocco | 42% |\n| 15 | Switzerland | 39% |\n| 16 | Indonesia | 37% |\n| 17 | U.S. | 36% |\n| 18 | Argentina | 34% |\n| 19 | Australia | 32% |\n| 20 | Ireland | 32% |",
+    "ai_analysis": {
+      "core_insight": "美国绝对增长领先，波兰等新兴经济体增速最快。",
+      "data_highlights": [
+        "未来五年，美国超高净值人数绝对增长量将超过6.6万人，远超其他国家。",
+        "波兰超高净值人数预计增长109%，增速位居全球第一。",
+        "印度和沙特阿拉伯等国在绝对增量和相对增速上均表现亮眼。",
+        "欧洲多国（如波兰、土耳其、希腊）在增速榜单上占据主导地位。",
+        "新加坡、瑞士等传统财富中心保持稳健增长，但增速相对较慢。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Growth in UHNWIs (2021-2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "66,916"
+            ],
+            [
+              "2",
+              "China",
+              "22,753"
+            ],
+            [
+              "3",
+              "Germany",
+              "9,273"
+            ],
+            [
+              "4",
+              "India",
+              "7,716"
+            ],
+            [
+              "5",
+              "Switzerland",
+              "4,968"
+            ],
+            [
+              "6",
+              "Australia",
+              "4,036"
+            ],
+            [
+              "7",
+              "France",
+              "3,781"
+            ],
+            [
+              "8",
+              "UK",
+              "3,005"
+            ],
+            [
+              "9",
+              "Italy",
+              "2,886"
+            ],
+            [
+              "10",
+              "Spain",
+              "2,708"
+            ],
+            [
+              "11",
+              "Japan",
+              "2,609"
+            ],
+            [
+              "12",
+              "Singapore",
+              "2,529"
+            ],
+            [
+              "13",
+              "Israel",
+              "2,276"
+            ],
+            [
+              "14",
+              "Canada",
+              "2,267"
+            ],
+            [
+              "15",
+              "Türkiye",
+              "2,034"
+            ],
+            [
+              "16",
+              "Saudi Arabia",
+              "1,795"
+            ],
+            [
+              "17",
+              "UAE",
+              "1,712"
+            ],
+            [
+              "18",
+              "Poland",
+              "1,575"
+            ],
+            [
+              "19",
+              "Indonesia",
+              "1,028"
+            ],
+            [
+              "20",
+              "Czechia",
+              "914"
+            ]
+          ],
+          "caption": "2021-2026年超高净值人数绝对增长排名"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Growth in UHNWIs (2021-2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Poland",
+              "109%"
+            ],
+            [
+              "2",
+              "Qatar",
+              "107%"
+            ],
+            [
+              "3",
+              "Türkiye",
+              "94%"
+            ],
+            [
+              "4",
+              "Romania",
+              "93%"
+            ],
+            [
+              "5",
+              "Greece",
+              "74%"
+            ],
+            [
+              "6",
+              "Israel",
+              "71%"
+            ],
+            [
+              "7",
+              "Saudi Arabia",
+              "69%"
+            ],
+            [
+              "8",
+              "Czechia",
+              "67%"
+            ],
+            [
+              "9",
+              "India",
+              "63%"
+            ],
+            [
+              "10",
+              "UAE",
+              "55%"
+            ],
+            [
+              "11",
+              "Singapore",
+              "54%"
+            ],
+            [
+              "12",
+              "Portugal",
+              "50%"
+            ],
+            [
+              "13",
+              "Spain",
+              "42%"
+            ],
+            [
+              "14",
+              "Morocco",
+              "42%"
+            ],
+            [
+              "15",
+              "Switzerland",
+              "39%"
+            ],
+            [
+              "16",
+              "Indonesia",
+              "37%"
+            ],
+            [
+              "17",
+              "U.S.",
+              "36%"
+            ],
+            [
+              "18",
+              "Argentina",
+              "34%"
+            ],
+            [
+              "19",
+              "Australia",
+              "32%"
+            ],
+            [
+              "20",
+              "Ireland",
+              "32%"
+            ]
+          ],
+          "caption": "2021-2026年超高净值人数增速排名"
+        }
+      ],
+      "deep_dive": "## 绝对规模与相对增速：双重视角下的财富格局\n\n从绝对增长数量看，美国凭借其庞大的经济体量、成熟的资本市场和创新生态，仍将是未来五年全球超高净值人群（UHNWIs）增长的主要引擎，新增人数超过6.6万，几乎是第二名中国的3倍。这表明全球财富创造的核心阵地依然稳固。与此同时，中国、德国、印度等传统与新兴大国也位列前茅，反映了其内部经济增长与财富积累的持续动力。\n\n然而，从相对增速的视角观察，故事则截然不同。波兰、卡塔尔、土耳其等经济体展现出惊人的增长潜力，增速均超过90%。这一现象背后是多重因素的叠加：**经济转型红利**（如波兰、罗马尼亚）、**能源与地缘经济受益**（如卡塔尔、沙特、土耳其）、以及**特定产业（如科技、旅游）的快速崛起**（如以色列、希腊）。这些高增速市场往往基数较小，但增长动能强劲，预示着全球财富分布可能正在向新兴中心扩散。\n\n## 结构性启示与投资意涵\n\n这两张榜单的对比揭示了几个关键趋势：\n- **传统财富中心的“稳”与新兴市场的“快”**：美、欧、日等成熟市场增长稳健但增速放缓；而中东欧、中东、部分亚洲国家正成为财富增长的新热土。\n- **经济增长模式决定财富积累路径**：波兰等国的高增速可能与其产业升级、外资流入和股市表现密切相关；印度和沙特则分别受益于人口红利与能源经济的转型升级。\n- **多元化配置的战略意义**：对于全球财富管理机构而言，在关注美国等绝对增量市场的同时，必须深入研究波兰、卡塔尔等高增速市场，以捕捉早期增长机遇。\n\n需要注意的是，增速排名易受低基数效应影响，高增速未必等同于绝对规模的主导。此外，政治稳定性、监管环境以及全球宏观政策（如利率、税收）的变化，都可能对预测期内财富创造的路径产生重大影响。投资者和政策制定者需结合绝对量与增长率，进行动态、交叉的评估。",
+      "glossary": [
+        {
+          "term": "超高净值个人",
+          "explanation": "通常指可投资资产达到3000万美元或以上的个人，是全球财富金字塔顶端的核心群体。"
+        },
+        {
+          "term": "绝对增长",
+          "explanation": "指指标在特定时期内实际增加的数量，反映规模的扩张程度。"
+        },
+        {
+          "term": "相对增速",
+          "explanation": "指指标在特定时期内的增长百分比，反映变化的快慢，易受基数大小影响。"
+        },
+        {
+          "term": "低基数效应",
+          "explanation": "当初始数值较小时，即使绝对增量不大，也能计算出很高的增长率。解读高增速时需警惕此因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "17f7e6ce",
     "title": "Mapped: Where Electricity Prices Jumped the Most in America",
     "original_url": "https://www.visualcapitalist.com/mapped-where-electricity-prices-jumped-the-most-in-america/",
