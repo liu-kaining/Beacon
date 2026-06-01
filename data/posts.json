@@ -1,5 +1,549 @@
 [
   {
+    "id": "17f7e6ce",
+    "title": "Mapped: Where Electricity Prices Jumped the Most in America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-electricity-prices-jumped-the-most-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/17f7e6ce.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDunkpiyc0yTNRqTmuR1NTdQ0LwfiioA3FFXzE8pG7A1FuANDVE1TyK5iqrJxKMUVWorTlQe0Z//9k=",
+    "image_version": 1780325093,
+    "pub_date": "Mon, 01 Jun 2026 14:14:46 +0000",
+    "content_md": "| Rank | State | Annual Change in Residential Electricity PricesMar 2026 |\n| --- | --- | --- |\n| 1 | Maryland | 89.3% |\n| 2 | District of Columbia | 22.5% |\n| 3 | New Jersey | 18.2% |\n| 4 | New Hampshire | 18.0% |\n| 5 | Ohio | 16.6% |\n| 6 | Virginia | 14.5% |\n| 7 | Washington | 14.1% |\n| 8 | Pennsylvania | 13.6% |\n| 9 | Montana | 13.0% |\n| 10 | Tennessee | 12.8% |\n| 11 | Kentucky | 12.7% |\n| 12 | Idaho | 12.4% |\n| 13 | New York | 12.2% |\n| 14 | South Dakota | 12.1% |\n| 15 | Missouri | 11.9% |\n| 16 | Nebraska | 11.9% |\n| 17 | Mississippi | 11.3% |\n| 18 | Colorado | 11.3% |\n| 19 | Oklahoma | 9.6% |\n| 20 | Michigan | 9.6% |\n| 21 | Wyoming | 9.5% |\n| 22 | Indiana | 8.8% |\n| 23 | Louisiana | 8.4% |\n| 24 | Arkansas | 8.3% |\n| 25 | North Carolina | 8.1% |\n| 26 | Vermont | 7.7% |\n| 27 | South Carolina | 7.7% |\n| 28 | North Dakota | 7.6% |\n| 29 | Iowa | 7.5% |\n| 30 | Illinois | 7.5% |\n| 31 | Texas | 7.3% |\n| 32 | Kansas | 7.0% |\n| 33 | Utah | 6.3% |\n| 34 | Wisconsin | 5.9% |\n| 35 | Delaware | 5.6% |\n| 36 | Alaska | 5.4% |\n| 37 | Alabama | 3.6% |\n| 38 | West Virginia | 3.0% |\n| 39 | Arizona | 3.0% |\n| 40 | Hawaii | 2.7% |\n| 41 | California | 2.7% |\n| 42 | Georgia | 2.2% |\n| 43 | New Mexico | 0.2% |\n| 44 | Maine | 0.2% |\n| 45 | Massachusetts | 0.1% |\n| 46 | Minnesota | -0.1% |\n| 47 | Florida | -1.5% |\n| 48 | Oregon | -1.8% |\n| 49 | Nevada | -1.8% |\n| 50 | Connecticut | -6.2% |\n| 51 | Rhode Island | -7.4% |\n| -- | U.S. Average | 10.2% |",
+    "ai_analysis": {
+      "core_insight": "美国电价变动呈现显著地域分化，东部各州涨幅普遍领先全国。",
+      "data_highlights": [
+        "马里兰州以89.3%的年度涨幅高居榜首，远超其他州。",
+        "涨幅前十名中，东部及中大西洋地区州占绝大多数（7/10）。",
+        "美国全国平均电价涨幅为10.2%，但近半数州（24个）涨幅低于此水平。",
+        "有6个州（明尼苏达、佛罗里达等）电价出现同比下降。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Annual Change in Residential Electricity PricesMar 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Maryland",
+              "89.3%"
+            ],
+            [
+              "2",
+              "District of Columbia",
+              "22.5%"
+            ],
+            [
+              "3",
+              "New Jersey",
+              "18.2%"
+            ],
+            [
+              "4",
+              "New Hampshire",
+              "18.0%"
+            ],
+            [
+              "5",
+              "Ohio",
+              "16.6%"
+            ],
+            [
+              "6",
+              "Virginia",
+              "14.5%"
+            ],
+            [
+              "7",
+              "Washington",
+              "14.1%"
+            ],
+            [
+              "8",
+              "Pennsylvania",
+              "13.6%"
+            ],
+            [
+              "9",
+              "Montana",
+              "13.0%"
+            ],
+            [
+              "10",
+              "Tennessee",
+              "12.8%"
+            ],
+            [
+              "11",
+              "Kentucky",
+              "12.7%"
+            ],
+            [
+              "12",
+              "Idaho",
+              "12.4%"
+            ],
+            [
+              "13",
+              "New York",
+              "12.2%"
+            ],
+            [
+              "14",
+              "South Dakota",
+              "12.1%"
+            ],
+            [
+              "15",
+              "Missouri",
+              "11.9%"
+            ],
+            [
+              "16",
+              "Nebraska",
+              "11.9%"
+            ],
+            [
+              "17",
+              "Mississippi",
+              "11.3%"
+            ],
+            [
+              "18",
+              "Colorado",
+              "11.3%"
+            ],
+            [
+              "19",
+              "Oklahoma",
+              "9.6%"
+            ],
+            [
+              "20",
+              "Michigan",
+              "9.6%"
+            ],
+            [
+              "21",
+              "Wyoming",
+              "9.5%"
+            ],
+            [
+              "22",
+              "Indiana",
+              "8.8%"
+            ],
+            [
+              "23",
+              "Louisiana",
+              "8.4%"
+            ],
+            [
+              "24",
+              "Arkansas",
+              "8.3%"
+            ],
+            [
+              "25",
+              "North Carolina",
+              "8.1%"
+            ],
+            [
+              "26",
+              "Vermont",
+              "7.7%"
+            ],
+            [
+              "27",
+              "South Carolina",
+              "7.7%"
+            ],
+            [
+              "28",
+              "North Dakota",
+              "7.6%"
+            ],
+            [
+              "29",
+              "Iowa",
+              "7.5%"
+            ],
+            [
+              "30",
+              "Illinois",
+              "7.5%"
+            ],
+            [
+              "31",
+              "Texas",
+              "7.3%"
+            ],
+            [
+              "32",
+              "Kansas",
+              "7.0%"
+            ],
+            [
+              "33",
+              "Utah",
+              "6.3%"
+            ],
+            [
+              "34",
+              "Wisconsin",
+              "5.9%"
+            ],
+            [
+              "35",
+              "Delaware",
+              "5.6%"
+            ],
+            [
+              "36",
+              "Alaska",
+              "5.4%"
+            ],
+            [
+              "37",
+              "Alabama",
+              "3.6%"
+            ],
+            [
+              "38",
+              "West Virginia",
+              "3.0%"
+            ],
+            [
+              "39",
+              "Arizona",
+              "3.0%"
+            ],
+            [
+              "40",
+              "Hawaii",
+              "2.7%"
+            ],
+            [
+              "41",
+              "California",
+              "2.7%"
+            ],
+            [
+              "42",
+              "Georgia",
+              "2.2%"
+            ],
+            [
+              "43",
+              "New Mexico",
+              "0.2%"
+            ],
+            [
+              "44",
+              "Maine",
+              "0.2%"
+            ],
+            [
+              "45",
+              "Massachusetts",
+              "0.1%"
+            ],
+            [
+              "46",
+              "Minnesota",
+              "-0.1%"
+            ],
+            [
+              "47",
+              "Florida",
+              "-1.5%"
+            ],
+            [
+              "48",
+              "Oregon",
+              "-1.8%"
+            ],
+            [
+              "49",
+              "Nevada",
+              "-1.8%"
+            ],
+            [
+              "50",
+              "Connecticut",
+              "-6.2%"
+            ],
+            [
+              "51",
+              "Rhode Island",
+              "-7.4%"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "10.2%"
+            ]
+          ],
+          "caption": "美国各州住宅电价年度变化排名（2026年3月）"
+        }
+      ],
+      "deep_dive": "## 电价涨幅的地域图景：东部领跑，全国分化\n数据显示，美国住宅电价上涨并非均匀分布，而是呈现出清晰的**东强西弱**格局。涨幅前十名中，马里兰州（89.3%）、哥伦比亚特区（22.5%）、新泽西州（18.2%）等中大西洋和东北部州占据绝对主导。这种集中性上涨可能反映了这些地区共同面临的挑战，例如更高的能源需求、对传统能源的依赖、更严格的环保法规推高发电成本，或是区域性电网基础设施老化导致的维护与升级费用激增。相比之下，西部和南部部分州（如内华达、俄勒冈、康涅狄格）的电价甚至出现下降，这可能得益于本地丰富的可再生能源（如水电、太阳能）供应或竞争性更强的电力市场结构。\n\n## 涨幅背后的驱动与启示\n马里兰州89.3%的涨幅是一个极端异常值，这通常指向特定的政策调整（如费率结构改革）、大型核电站退役或关闭引发的供应紧张，或是当地监管机构批准了重大的基础设施投资回收。这一案例凸显了州级监管决策对电价的强大影响力。从全国平均10.2%的涨幅来看，通胀压力、燃料成本（天然气价格波动）以及电网现代化投资需求是普遍背景。然而，巨大的州际差异（从-7.4%到89.3%）揭示了美国能源市场的碎片化本质：各州在能源结构、监管政策、基础设施条件和市场竞争程度上千差万别。对于政策制定者和消费者而言，理解本州电价变动的具体驱动因素（是供给侧冲击、需求增长还是投资周期）至关重要，简单的全国性对策可能收效甚微。未来的电价走势将紧密依赖于各州能源转型的路径、联邦能源政策的方向以及全球大宗商品市场的表现。",
+      "glossary": [
+        {
+          "term": "住宅电价",
+          "explanation": "指居民家庭用电的销售价格，通常以每千瓦时（kWh）为单位计算，是衡量家庭能源成本的关键指标。"
+        },
+        {
+          "term": "能源结构",
+          "explanation": "指一个地区发电所依赖的能源类型构成，如煤炭、天然气、核能、水电、风电、太阳能等，直接影响发电成本和价格稳定性。"
+        },
+        {
+          "term": "电力市场",
+          "explanation": "指电力作为商品进行交易的体系，包括发电、输电、配电和售电的各个环节，其结构（如垄断或竞争性）对电价形成有重要影响。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d68ee98",
+    "title": "Ranked: America’s Top-Paying Jobs by Median Salary",
+    "original_url": "https://www.visualcapitalist.com/ranked-americas-highest-paying-jobs-median-salary/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/6d68ee98.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrZZKIWyahlPNPt+tRc0cDRX7tFKn3RRSIsf/Z",
+    "image_version": 1780325123,
+    "pub_date": "Mon, 01 Jun 2026 12:07:10 +0000",
+    "content_md": "| Occupation | Median Annual Wage | Total Employment | Field |\n| --- | --- | --- | --- |\n| Surgeons, cardiologists, and other medical specialists | ≥$239.2K | 572K | Healthcare |\n| Family Medicine Physicians | $238.4K | 108K | Healthcare |\n| General Internal Medicine Physicians | $236.3K | 67K | Healthcare |\n| Airline Pilots, Copilots, and Flight Engineers | $226.6K | 99K | Aviation |\n| Dentists, All Other Specialists | $225.8K | 6K | Healthcare |\n| Nurse Anesthetists | $223.2K | 50K | Healthcare |\n| Pediatricians, General | $210.1K | 43K | Healthcare |\n| Chief Executives | $206.4K | 212K | Management |\n| Dentists, General | $172.8K | 113K | Healthcare |\n| Computer and Information Systems Managers | $171.2K | 646K | Management |\n| Architectural and Engineering Managers | $167.7K | 210K | Management |\n| Physicists | $166.3K | 21K | STEM |\n| Financial Managers | $161.7K | 819K | Management |\n| Natural Sciences Managers | $161.2K | 101K | Management |\n| Marketing Managers | $161.0K | 385K | Management |\n| Judges, Magistrate Judges, and Magistrates | $156.2K | 26K | Legal |\n| Computer Hardware Engineers | $155.0K | 76K | STEM |\n| Podiatrists | $152.8K | 10K | Healthcare |\n| Lawyers | $151.2K | 748K | Legal |\n| Air Traffic Controllers | $144.6K | 22K | Aviation |\n| Petroleum Engineers | $141.3K | 19K | STEM |\n| Computer and Information Research Scientists | $140.9K | 38K | STEM |\n| Compensation and Benefits Managers | $140.4K | 20K | Management |\n| Human Resources Managers | $140.0K | 216K | Management |\n| Purchasing Managers | $139.5K | 81K | Management |\n| Political Scientists | $139.4K | 6K | STEM |\n| Public Relations Managers | $138.5K | 76K | Management |\n| Medical Dosimetrists | $138.1K | 4K | Healthcare |\n| Sales Managers | $138.1K | 604K | Management |\n| Pharmacists | $137.5K | 329K | Healthcare |\n| Managers, All Other | $136.6K | 631K | Management |",
+    "ai_analysis": {
+      "core_insight": "医疗专业主导高薪榜，管理类职位则提供了更广泛的就业机会。",
+      "data_highlights": [
+        "榜单前三名均被医疗专科医生占据，年薪中位数均超236,000美元。",
+        "首席执行官以206,400美元年薪位居第八，但其就业人数（212K）远低于多数高薪医疗职位。",
+        "管理类职位在榜单中占据了最大份额，提供了总计超过300万个就业岗位。",
+        "除医疗、管理外，航空、法律、STEM等领域也有代表进入高薪梯队。",
+        "计算机与信息系统经理的就业人数高达646K，是榜单中就业规模最大的职位之一。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Occupation",
+            "Median Annual Wage",
+            "Total Employment",
+            "Field"
+          ],
+          "rows": [
+            [
+              "Surgeons, cardiologists, and other medical specialists",
+              "≥$239.2K",
+              "572K",
+              "Healthcare"
+            ],
+            [
+              "Family Medicine Physicians",
+              "$238.4K",
+              "108K",
+              "Healthcare"
+            ],
+            [
+              "General Internal Medicine Physicians",
+              "$236.3K",
+              "67K",
+              "Healthcare"
+            ],
+            [
+              "Airline Pilots, Copilots, and Flight Engineers",
+              "$226.6K",
+              "99K",
+              "Aviation"
+            ],
+            [
+              "Dentists, All Other Specialists",
+              "$225.8K",
+              "6K",
+              "Healthcare"
+            ],
+            [
+              "Nurse Anesthetists",
+              "$223.2K",
+              "50K",
+              "Healthcare"
+            ],
+            [
+              "Pediatricians, General",
+              "$210.1K",
+              "43K",
+              "Healthcare"
+            ],
+            [
+              "Chief Executives",
+              "$206.4K",
+              "212K",
+              "Management"
+            ],
+            [
+              "Dentists, General",
+              "$172.8K",
+              "113K",
+              "Healthcare"
+            ],
+            [
+              "Computer and Information Systems Managers",
+              "$171.2K",
+              "646K",
+              "Management"
+            ],
+            [
+              "Architectural and Engineering Managers",
+              "$167.7K",
+              "210K",
+              "Management"
+            ],
+            [
+              "Physicists",
+              "$166.3K",
+              "21K",
+              "STEM"
+            ],
+            [
+              "Financial Managers",
+              "$161.7K",
+              "819K",
+              "Management"
+            ],
+            [
+              "Natural Sciences Managers",
+              "$161.2K",
+              "101K",
+              "Management"
+            ],
+            [
+              "Marketing Managers",
+              "$161.0K",
+              "385K",
+              "Management"
+            ],
+            [
+              "Judges, Magistrate Judges, and Magistrates",
+              "$156.2K",
+              "26K",
+              "Legal"
+            ],
+            [
+              "Computer Hardware Engineers",
+              "$155.0K",
+              "76K",
+              "STEM"
+            ],
+            [
+              "Podiatrists",
+              "$152.8K",
+              "10K",
+              "Healthcare"
+            ],
+            [
+              "Lawyers",
+              "$151.2K",
+              "748K",
+              "Legal"
+            ],
+            [
+              "Air Traffic Controllers",
+              "$144.6K",
+              "22K",
+              "Aviation"
+            ],
+            [
+              "Petroleum Engineers",
+              "$141.3K",
+              "19K",
+              "STEM"
+            ],
+            [
+              "Computer and Information Research Scientists",
+              "$140.9K",
+              "38K",
+              "STEM"
+            ],
+            [
+              "Compensation and Benefits Managers",
+              "$140.4K",
+              "20K",
+              "Management"
+            ],
+            [
+              "Human Resources Managers",
+              "$140.0K",
+              "216K",
+              "Management"
+            ],
+            [
+              "Purchasing Managers",
+              "$139.5K",
+              "81K",
+              "Management"
+            ],
+            [
+              "Political Scientists",
+              "$139.4K",
+              "6K",
+              "STEM"
+            ],
+            [
+              "Public Relations Managers",
+              "$138.5K",
+              "76K",
+              "Management"
+            ],
+            [
+              "Medical Dosimetrists",
+              "$138.1K",
+              "4K",
+              "Healthcare"
+            ],
+            [
+              "Sales Managers",
+              "$138.1K",
+              "604K",
+              "Management"
+            ],
+            [
+              "Pharmacists",
+              "$137.5K",
+              "329K",
+              "Healthcare"
+            ],
+            [
+              "Managers, All Other",
+              "$136.6K",
+              "631K",
+              "Management"
+            ]
+          ],
+          "caption": "美国高薪职业排名（按年薪中位数）"
+        }
+      ],
+      "deep_dive": "## 医疗专业：高薪与高壁垒的集中体现\n医疗专业在榜单顶部占据了绝对优势，前七名中有六个是医生或医疗专家。这反映了几个核心经济机制：首先，医疗服务的需求具有高度刚性，特别是专科医疗，市场愿意为稀缺且高风险的技能支付溢价。其次，极高的准入壁垒（长达十余年的教育、培训和执照要求）严格限制了供给，推高了薪资水平。例如，位列第一的“外科医生、心脏病专家及其他医疗专家”年薪中位数高达239,200美元以上，但其总就业人数仅为572K，体现了典型的“高门槛、高回报”模式。值得注意的是，护士麻醉师和儿科医生等职位也位列前茅，表明在医疗体系内部，专业技能和责任程度同样是决定薪酬的关键因素。\n\n## 管理类职位：规模化就业与稳健回报的平衡\n与医疗专业的顶端集中不同，管理类职位构成了榜单的“基石”，不仅数量众多，而且提供了极其广泛的就业机会。在榜单的31个职业中，有15个属于管理领域，其合计总就业人数超过300万。这揭示了另一个职业路径：通过积累行业经验、领导力和商业知识，同样可以实现高收入。例如，计算机与信息系统经理（年薪171,200美元，就业646K）和财务经理（年薪161,700美元，就业819K）的薪资虽低于顶尖医生，但其就业规模大得多，为更广泛的劳动力提供了可行的晋升通道。这种模式体现了经济体系中对组织、协调和决策能力的持续需求，其门槛虽高，但路径相对医疗专业更为多样。\n\n## 领域对比与启示\n- **薪资 vs. 就业规模**：医疗专业呈现出“高薪低量”特征，而管理类则更趋近“中高薪巨量”。这为个人职业规划提供了清晰的权衡：是追求极致的单薪回报，还是寻求更广泛的机会和相对稳健的上升路径。\n- **跨领域表现**：航空（飞行员、管制员）、法律（法官、律师）和STEM（物理学家、工程师、科学家）领域的代表成功进入榜单，表明在特定技术或专业领域做到顶尖，同样能获得极具竞争力的报酬。但这些职位的就业规模普遍较小（通常低于10万），竞争同样激烈。\n- **数据局限性**：本榜单基于“年薪中位数”，无法反映薪资分布（如顶尖与底层收入者的差距）、工作时长、福利、教育成本回收周期等关键因素。例如，外科医生的高薪可能伴随极长的工作时间和职业压力，而管理职位的薪酬可能包含大量绩效奖金和股权，使其实际总收入与中位数产生偏离。因此，此排名更适合作为薪资天花板的一个快照，而非职业选择的唯一依据。",
+      "glossary": [
+        {
+          "term": "中位数年薪",
+          "explanation": "将所有从业者年薪从高到低排列后，位于中间位置的数值。它比平均值更能避免极端高薪或低薪数据的干扰，反映典型收入水平。"
+        },
+        {
+          "term": "总就业人数",
+          "explanation": "在特定职业中全职和兼职工作的总人数（通常以千为单位）。它反映了该职业的劳动力市场规模。"
+        },
+        {
+          "term": "准入壁垒",
+          "explanation": "进入某一职业领域所需克服的障碍，如特定的高等教育、专业执照、长期培训或高昂的财务成本。高壁垒通常与高薪资相关联。"
+        },
+        {
+          "term": "STEM",
+          "explanation": "科学、技术、工程和数学领域的统称。这些领域通常需要高度专业化的知识和技能，是创新和经济增长的关键驱动力。"
+        }
+      ]
+    }
+  },
+  {
     "id": "fd4f0824",
     "title": "Mapped: America’s Most Air-Conditioned States",
     "original_url": "https://www.visualcapitalist.com/mapped-americas-most-air-conditioned-states/",
