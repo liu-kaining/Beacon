@@ -1,5 +1,173 @@
 [
   {
+    "id": "e78d6bfc",
+    "title": "Ranked: Military Spending by Country in 2025",
+    "original_url": "https://www.visualcapitalist.com/ranked-military-spending-by-country-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e78d6bfc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUu3xmqUb5ep7zvVSD74rlZRrR/cFFEf3BRUFH/9k=",
+    "image_version": 1780403547,
+    "pub_date": "Tue, 02 Jun 2026 11:53:38 +0000",
+    "content_md": "| Rank | Country | 2025 Spending (USD) | Share of World Total |\n| --- | --- | --- | --- |\n| 1 | United States | $954B | 33.06% |\n| 2 | China | $336B | 11.62% |\n| 3 | Russia | $190B | 6.60% |\n| 4 | Germany | $114B | 3.93% |\n| 5 | India | $92B | 3.19% |\n| 6 | United Kingdom | $89B | 3.08% |\n| 7 | Ukraine | $84B | 2.91% |\n| 8 | Saudi Arabia | $83B | 2.88% |\n| 9 | France | $68B | 2.36% |\n| 10 | Japan | $62B | 2.15% |\n| 11 | Israel | $48B | 1.67% |\n| 12 | Italy | $48B | 1.67% |\n| 13 | South Korea | $48B | 1.65% |\n| 14 | Poland | $47B | 1.62% |\n| 15 | Spain | $40B | 1.39% |\n| 16 | Canada | $37B | 1.30% |\n| 17 | Australia | $35B | 1.22% |\n| 18 | Türkiye | $30B | 1.04% |\n| 19 | Netherlands | $29B | 1.00% |\n| 20 | Algeria | $25B | 0.88% |\n| 21 | Brazil | $24B | 0.83% |\n| 22 | Taiwan | $18B | 0.63% |\n| 23 | Singapore | $17B | 0.60% |\n| 24 | Norway | $17B | 0.59% |\n| 25 | Sweden | $16B | 0.57% |\n| 26 | Indonesia | $15B | 0.52% |\n| 27 | Denmark | $15B | 0.52% |\n| 28 | Belgium | $15B | 0.50% |\n| 29 | Colombia | $15B | 0.50% |\n| 30 | Mexico | $14B | 0.47% |\n| 31 | Pakistan | $12B | 0.41% |\n| 32 | Vietnam | $10B | 0.36% |\n| 33 | Romania | $9.7B | 0.34% |\n| 34 | Greece | $8.4B | 0.29% |\n| 35 | Kuwait | $8.1B | 0.28% |\n| 36 | Finland | $8.1B | 0.28% |\n| 37 | Switzerland | $7.6B | 0.26% |\n| 38 | Iran | $7.4B | 0.26% |\n| 39 | Czechia | $7.1B | 0.24% |\n| 40 | Iraq | $6.4B | 0.22% |\n| 41 | Philippines | $6.4B | 0.22% |\n| 42 | Austria | $6.4B | 0.22% |\n| 43 | Morocco | $6.3B | 0.22% |\n| 44 | Oman | $6.0B | 0.21% |\n| 45 | Thailand | $6.0B | 0.21% |\n| 46 | Portugal | $5.9B | 0.20% |\n| 47 | Chile | $5.3B | 0.18% |\n| 48 | Hungary | $5.0B | 0.17% |\n| 49 | Azerbaijan | $4.9B | 0.17% |\n| 50 | Malaysia | $4.9B | 0.17% |\n| 51 | Argentina | $3.9B | 0.13% |\n| 52 | Bangladesh | $3.8B | 0.13% |\n| 53 | South Africa | $3.2B | 0.11% |\n| 54 | Slovakia | $3.1B | 0.11% |\n| 55 | Lithuania | $3.0B | 0.10% |\n| 56 | New Zealand | $2.9B | 0.10% |\n| 57 | Serbia | $2.8B | 0.10% |\n| 58 | Ecuador | $2.7B | 0.09% |\n| 59 | Peru | $2.6B | 0.09% |\n| 60 | Bulgaria | $2.6B | 0.09% |\n| 61 | Jordan | $2.6B | 0.09% |\n| 62 | Egypt | $2.5B | 0.09% |\n| 63 | Nigeria | $2.1B | 0.07% |\n| 64 | Croatia | $2.1B | 0.07% |\n| 65 | Uruguay | $2.0B | 0.07% |\n| 66 | Belarus | $1.9B | 0.07% |\n| 67 | Latvia | $1.7B | 0.06% |\n| 68 | Armenia | $1.7B | 0.06% |\n| 69 | Estonia | $1.6B | 0.05% |\n| 70 | Ireland | $1.6B | 0.05% |\n| 71 | Tunisia | $1.5B | 0.05% |\n| 72 | Kenya | $1.5B | 0.05% |\n| 73 | Bahrain | $1.5B | 0.05% |\n| 74 | Angola | $1.5B | 0.05% |\n| 75 | Sri Lanka | $1.4B | 0.05% |\n| 76 | Kazakhstan | $1.3B | 0.05% |\n| 77 | Uganda | $1.3B | 0.04% |\n| 78 | DR Congo | $1.2B | 0.04% |\n| 79 | Slovenia | $1.2B | 0.04% |\n| 80 | Dominican Republic | $1.0B | 0.04% |\n| 81 | Tanzania | $1.0B | 0.04% |\n| 82 | Mali | $0.95B | 0.03% |\n| 83 | Burkina Faso | $0.89B | 0.03% |\n| 84 | Luxembourg | $0.86B | 0.03% |\n| 85 | Lebanon | $0.83B | 0.03% |\n| 86 | Côte d'Ivoire | $0.76B | 0.03% |\n| 87 | Cambodia | $0.74B | 0.03% |\n| 88 | Bolivia | $0.69B | 0.02% |\n| 89 | Cyprus | $0.66B | 0.02% |\n| 90 | Georgia | $0.66B | 0.02% |\n| 91 | Chad | $0.65B | 0.02% |\n| 92 | Guatemala | $0.63B | 0.02% |\n| 93 | Cameroon | $0.63B | 0.02% |\n| 94 | Albania | $0.62B | 0.02% |\n| 95 | Botswana | $0.61B | 0.02% |\n| 96 | Kyrgyz Republic | $0.60B | 0.02% |\n| 97 | Guinea | $0.60B | 0.02% |\n| 98 | Honduras | $0.58B | 0.02% |\n| 99 | Senegal | $0.57B | 0.02% |\n| 100 | Ethiopia | $0.53B | 0.02% |\n| 101 | Ghana | $0.51B | 0.02% |\n| 102 | El Salvador | $0.49B | 0.02% |\n| 103 | Niger | $0.49B | 0.02% |\n| 104 | Mozambique | $0.47B | 0.02% |\n| 105 | Nepal | $0.43B | 0.01% |\n| 106 | Paraguay | $0.42B | 0.01% |\n| 107 | Namibia | $0.41B | 0.01% |\n| 108 | Zambia | $0.41B | 0.01% |\n| 109 | North Macedonia | $0.37B | 0.01% |\n| 110 | Gabon | $0.36B | 0.01% |\n| 111 | Mauritania | $0.32B | 0.01% |\n| 112 | Jamaica | $0.29B | 0.01% |\n| 113 | Guyana | $0.25B | 0.01% |\n| 114 | Tajikistan | $0.25B | 0.01% |\n| 115 | Kosovo | $0.23B | 0.01% |\n| 116 | Bosnia and Herzegovina | $0.23B | 0.01% |\n| 117 | Trinidad and Tobago | $0.23B | 0.01% |\n| 118 | Burundi | $0.23B | 0.01% |\n| 119 | Mongolia | $0.22B | 0.01% |\n| 120 | Benin | $0.22B | 0.01% |\n| 121 | Togo | $0.20B | 0.01% |\n| 122 | Republic of the Congo | $0.20B | 0.01% |\n| 123 | Somalia | $0.20B | 0.01% |\n| 124 | Rwanda | $0.19B | 0.01% |\n| 125 | South Sudan | $0.18B | 0.01% |\n| 126 | Montenegro | $0.18B | 0.01% |\n| 127 | Malawi | $0.16B | 0.01% |\n| 128 | Zimbabwe | $0.16B | 0.01% |\n| 129 | Malta | $0.12B | 0.00% |\n| 130 | Equatorial Guinea | $0.12B | 0.00% |\n| 131 | Madagascar | $0.12B | 0.00% |\n| 132 | Nicaragua | $0.12B | 0.00% |\n| 133 | Moldova | $0.11B | 0.00% |\n| 134 | Papua New Guinea | $0.11B | 0.00% |\n| 135 | Eswatini | $93M | 0.00% |\n| 136 | Fiji | $81M | 0.00% |\n| 137 | Central African Republic | $74M | 0.00% |\n| 138 | Timor Leste | $48M | 0.00% |\n| 139 | Liberia | $44M | 0.00% |\n| 140 | Lesotho | $40M | 0.00% |\n| 141 | Haiti | $39M | 0.00% |\n| 142 | Belize | $33M | 0.00% |\n| 143 | Sierra Leone | $32M | 0.00% |\n| 144 | Seychelles | $28M | 0.00% |\n| 145 | Mauritius | $24M | 0.00% |\n| 146 | Guinea-Bissau | $22M | 0.00% |\n| 147 | Cape Verde | $20M | 0.00% |\n| 148 | Gambia | $15M | 0.00% |",
+    "ai_analysis": {
+      "core_insight": "美国军费独占鳌头，前十国支出占全球近七成，地缘紧张推动多国加大投入。",
+      "data_highlights": [
+        "美国2025年军费预算高达9540亿美元，占全球总额的33.06%，稳居世界第一。",
+        "中国军费为3360亿美元，虽居第二，但仅为美国的三分之一。",
+        "受俄乌冲突影响，俄罗斯与乌克兰军费分列第三和第七，乌克兰军费占比显著提升。",
+        "德国、印度等国军费增长明显，反映全球安全格局的深刻变化。",
+        "前10名国家的军费总和约占全球的70%，全球军费支出高度集中。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2025 Spending (USD)",
+            "Share of World Total"
+          ],
+          "rows": [
+            [
+              "1",
+              "United States",
+              "$954B",
+              "33.06%"
+            ],
+            [
+              "2",
+              "China",
+              "$336B",
+              "11.62%"
+            ],
+            [
+              "3",
+              "Russia",
+              "$190B",
+              "6.60%"
+            ],
+            [
+              "4",
+              "Germany",
+              "$114B",
+              "3.93%"
+            ],
+            [
+              "5",
+              "India",
+              "$92B",
+              "3.19%"
+            ],
+            [
+              "6",
+              "United Kingdom",
+              "$89B",
+              "3.08%"
+            ],
+            [
+              "7",
+              "Ukraine",
+              "$84B",
+              "2.91%"
+            ],
+            [
+              "8",
+              "Saudi Arabia",
+              "$83B",
+              "2.88%"
+            ],
+            [
+              "9",
+              "France",
+              "$68B",
+              "2.36%"
+            ],
+            [
+              "10",
+              "Japan",
+              "$62B",
+              "2.15%"
+            ],
+            [
+              "11",
+              "Israel",
+              "$48B",
+              "1.67%"
+            ],
+            [
+              "12",
+              "Italy",
+              "$48B",
+              "1.67%"
+            ],
+            [
+              "13",
+              "South Korea",
+              "$48B",
+              "1.65%"
+            ],
+            [
+              "14",
+              "Poland",
+              "$47B",
+              "1.62%"
+            ],
+            [
+              "15",
+              "Spain",
+              "$40B",
+              "1.39%"
+            ],
+            [
+              "16",
+              "Canada",
+              "$37B",
+              "1.30%"
+            ],
+            [
+              "17",
+              "Australia",
+              "$35B",
+              "1.22%"
+            ],
+            [
+              "18",
+              "Türkiye",
+              "$30B",
+              "1.04%"
+            ],
+            [
+              "19",
+              "Netherlands",
+              "$29B",
+              "1.00%"
+            ],
+            [
+              "20",
+              "Algeria",
+              "$25B",
+              "0.88%"
+            ]
+          ],
+          "caption": "2025年全球军费支出前20名国家"
+        }
+      ],
+      "deep_dive": "## 大国博弈与支出格局：一超多强与区域热点\n\n2025年的全球军费排行清晰地勾勒出当前国际安全格局的核心特征：美国以压倒性的9540亿美元预算稳坐头把交椅，其支出额超过排名其后的九个国家之和，凸显了其全球军事存在的绝对优势。这形成了鲜明的“一超”格局。紧随其后的中国和俄罗斯作为“多强”的代表，其军费规模虽与美国有显著差距，但依然远超其他国家，构成了全球军事力量的第二梯队。\n\n值得关注的是，区域冲突对军费排名的影响极为显著。俄乌冲突的持续，不仅使俄罗斯（第3，1900亿美元）维持高额支出，更将乌克兰（第7，840亿美元）推至榜单前列，其军费占GDP比重预计已达到极高水平。同样，中东地区的沙特阿拉伯、以色列等国也常年保持高额军费，反映了该地区持续的安全紧张态势。这些热点地区的高额投入，是地缘政治风险的直接货币化体现。\n\n## 欧洲集体转向与新兴力量崛起\n\n欧洲国家在榜单中的表现尤为突出，显示出集体安全意识的觉醒。德国（第4，1140亿美元）的排名和金额远超英法等传统军事强国，标志着其国防政策的根本性转变。波兰（第14，470亿美元）和波罗的海三国等北约东翼国家的军费也处于高位，这直接源于对俄乌冲突外溢风险的应对。整个欧洲正在经历自冷战结束以来最深刻的军事能力重塑期。\n\n与此同时，亚洲的新兴力量也不容小觑。印度（第5，920亿美元）凭借其大国雄心和边境安全需求，稳居前五。日本（第10，620亿美元）和韩国（第13，480亿美元）的军费增长，则反映了东北亚安全环境的复杂性。这种“欧洲觉醒”与“亚洲强化”的并行趋势，正在重塑全球防务产业的供应链和战略伙伴关系。\n\n## 数据背后的经济与战略启示\n\n首先，军费支出与经济体量强相关，但并非线性。美国军费占GDP比重相对稳定，而像沙特、以色列等国则长期维持远高于世界平均水平的军费占比，这是其特殊地缘处境的反映。其次，数据揭示了全球安全公共品的提供模式：美国承担了巨额的全球安全成本，而许多中低军费国家（如榜单后段众多小国）则在一定程度上享受了这种“安全红利”或依赖于大国安全承诺。\n\n最后，这份榜单也是观察全球风险偏好的窗口。排名靠前的国家，无一不是面临重大安全挑战或拥有全球利益诉求的国家。其高昂的军费，既是应对威胁的盾牌，也可能成为加剧安全困境、引发军备竞赛的催化剂。未来，全球军费走势将继续与大国竞争、区域冲突的演变深度绑定。",
+      "glossary": [
+        {
+          "term": "军费支出",
+          "explanation": "指一个国家在一定时期内（通常为一年）用于军事目的的全部财政支出，包括人员、装备、研发、维护等费用。"
+        },
+        {
+          "term": "全球占比",
+          "explanation": "指单个国家军费支出占当年全球所有国家军费支出总额的百分比，用于衡量该国在全球军事投入中的相对分量。"
+        },
+        {
+          "term": "安全困境",
+          "explanation": "国际关系理论概念，指一国为自身安全而采取的增强军备等措施，可能被他国视为威胁，从而导致对方也采取相应行动，最终使双方都感到更不安全。"
+        }
+      ]
+    }
+  },
+  {
     "id": "78e0cf45",
     "title": "Ranked: Where the Ultra-Rich Are Growing Fastest",
     "original_url": "https://www.visualcapitalist.com/ranked-where-the-ultra-rich-are-growing-fastest/",
