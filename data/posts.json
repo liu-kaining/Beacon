@@ -1,5 +1,720 @@
 [
   {
+    "id": "9d2e9192",
+    "title": "Charted: Annual Space Launches by Superpowers (1957–2025)",
+    "original_url": "https://www.visualcapitalist.com/sp/hf09-charted-annual-space-launches-by-country-19572026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9d2e9192.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDt91KGqqZaBNTuRYubqKq+bRTuFigzmmhzQRSYrmuzZRJBIaKbRV8xXKj/2Q==",
+    "image_version": 1780424978,
+    "pub_date": "Tue, 02 Jun 2026 15:49:00 +0000",
+    "content_md": "| Launch Year | China | Russia/Soviet Union | United States | Space Ages |\n| --- | --- | --- | --- | --- |\n| 1957 | 0 | 2 | 1 | First Space Age |\n| 1958 | 0 | 5 | 23 | First Space Age |\n| 1959 | 0 | 4 | 21 | First Space Age |\n| 1960 | 0 | 9 | 29 | First Space Age |\n| 1961 | 0 | 9 | 41 | First Space Age |\n| 1962 | 0 | 22 | 59 | First Space Age |\n| 1963 | 0 | 24 | 46 | First Space Age |\n| 1964 | 0 | 36 | 64 | First Space Age |\n| 1965 | 0 | 53 | 71 | First Space Age |\n| 1966 | 0 | 51 | 77 | First Space Age |\n| 1967 | 0 | 74 | 60 | First Space Age |\n| 1968 | 0 | 80 | 48 | First Space Age |\n| 1969 | 0 | 82 | 41 | First Space Age |\n| 1970 | 1 | 87 | 29 | First Space Age |\n| 1971 | 1 | 91 | 33 | First Space Age |\n| 1972 | 0 | 79 | 32 | First Space Age |\n| 1973 | 1 | 90 | 25 | First Space Age |\n| 1974 | 2 | 85 | 23 | First Space Age |\n| 1975 | 3 | 93 | 30 | First Space Age |\n| 1976 | 3 | 100 | 26 | First Space Age |\n| 1977 | 0 | 102 | 26 | First Space Age |\n| 1978 | 1 | 91 | 33 | First Space Age |\n| 1979 | 1 | 89 | 16 | First Space Age |\n| 1980 | 0 | 90 | 15 | First Space Age |\n| 1981 | 1 | 100 | 19 | First Space Age |\n| 1982 | 1 | 108 | 18 | First Space Age |\n| 1983 | 1 | 100 | 22 | First Space Age |\n| 1984 | 3 | 97 | 23 | First Space Age |\n| 1985 | 1 | 100 | 19 | First Space Age |\n| 1986 | 2 | 94 | 9 | First Space Age |\n| 1987 | 2 | 97 | 9 | First Space Age |\n| 1988 | 4 | 94 | 11 | First Space Age |\n| 1989 | 0 | 75 | 18 | First Space Age |\n| 1990 | 5 | 79 | 27 | First Space Age |\n| 1991 | 1 | 61 | 19 | First Space Age |\n| 1992 | 4 | 55 | 29 | Second Space Age |\n| 1993 | 1 | 48 | 27 | Second Space Age |\n| 1994 | 5 | 49 | 28 | Second Space Age |\n| 1995 | 3 | 33 | 30 | Second Space Age |\n| 1996 | 4 | 27 | 33 | Second Space Age |\n| 1997 | 6 | 29 | 37 | Second Space Age |\n| 1998 | 6 | 25 | 36 | Second Space Age |\n| 1999 | 4 | 28 | 31 | Second Space Age |\n| 2000 | 5 | 36 | 28 | Second Space Age |\n| 2001 | 1 | 23 | 22 | Second Space Age |\n| 2002 | 5 | 25 | 17 | Second Space Age |\n| 2003 | 7 | 21 | 23 | Second Space Age |\n| 2004 | 8 | 23 | 16 | Second Space Age |\n| 2005 | 6 | 26 | 12 | Second Space Age |\n| 2006 | 6 | 25 | 18 | Second Space Age |\n| 2007 | 10 | 26 | 19 | Second Space Age |\n| 2008 | 11 | 27 | 15 | Second Space Age |\n| 2009 | 6 | 32 | 24 | Second Space Age |\n| 2010 | 15 | 31 | 15 | Second Space Age |\n| 2011 | 19 | 32 | 18 | Second Space Age |\n| 2012 | 19 | 24 | 13 | Second Space Age |\n| 2013 | 15 | 32 | 19 | Second Space Age |\n| 2014 | 16 | 32 | 23 | Second Space Age |\n| 2015 | 19 | 26 | 20 | Second Space Age |\n| 2016 | 22 | 17 | 23 | Third Space Age |\n| 2017 | 18 | 19 | 29 | Third Space Age |\n| 2018 | 39 | 17 | 31 | Third Space Age |\n| 2019 | 34 | 22 | 21 | Third Space Age |\n| 2020 | 39 | 15 | 37 | Third Space Age |\n| 2021 | 56 | 24 | 45 | Third Space Age |\n| 2022 | 64 | 21 | 78 | Third Space Age |\n| 2023 | 67 | 19 | 108 | Third Space Age |\n| 2024 | 68 | 17 | 145 | Third Space Age |\n| 2025 | 93 | 17 | 181 | Third Space Age |",
+    "ai_analysis": {
+      "core_insight": "美国重返航天巅峰，中国崛起迅猛，俄罗斯衰落，太空竞赛进入新格局。",
+      "data_highlights": [
+        "美国在2020年后发射次数激增，2025年预测高达181次，重回全球第一。",
+        "中国发射次数稳步增长，2018年后超越俄罗斯，2025年预测达93次，稳居第二。",
+        "俄罗斯/苏联发射量从1970年代巅峰的约100次/年，锐减至2020年代的约20次/年。",
+        "太空活动可划分为三个阶段：冷战竞争期（1957-1991）、多极化发展期（1992-2015）和商业新纪元（2016至今）。",
+        "2016年被视为“第三太空时代”的起点，以中美发射次数同时超越俄罗斯为标志。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Launch Year",
+            "China",
+            "Russia/Soviet Union",
+            "United States",
+            "Space Ages"
+          ],
+          "rows": [
+            [
+              "1957",
+              "0",
+              "2",
+              "1",
+              "First Space Age"
+            ],
+            [
+              "1958",
+              "0",
+              "5",
+              "23",
+              "First Space Age"
+            ],
+            [
+              "1959",
+              "0",
+              "4",
+              "21",
+              "First Space Age"
+            ],
+            [
+              "1960",
+              "0",
+              "9",
+              "29",
+              "First Space Age"
+            ],
+            [
+              "1961",
+              "0",
+              "9",
+              "41",
+              "First Space Age"
+            ],
+            [
+              "1962",
+              "0",
+              "22",
+              "59",
+              "First Space Age"
+            ],
+            [
+              "1963",
+              "0",
+              "24",
+              "46",
+              "First Space Age"
+            ],
+            [
+              "1964",
+              "0",
+              "36",
+              "64",
+              "First Space Age"
+            ],
+            [
+              "1965",
+              "0",
+              "53",
+              "71",
+              "First Space Age"
+            ],
+            [
+              "1966",
+              "0",
+              "51",
+              "77",
+              "First Space Age"
+            ],
+            [
+              "1967",
+              "0",
+              "74",
+              "60",
+              "First Space Age"
+            ],
+            [
+              "1968",
+              "0",
+              "80",
+              "48",
+              "First Space Age"
+            ],
+            [
+              "1969",
+              "0",
+              "82",
+              "41",
+              "First Space Age"
+            ],
+            [
+              "1970",
+              "1",
+              "87",
+              "29",
+              "First Space Age"
+            ],
+            [
+              "1971",
+              "1",
+              "91",
+              "33",
+              "First Space Age"
+            ],
+            [
+              "1972",
+              "0",
+              "79",
+              "32",
+              "First Space Age"
+            ],
+            [
+              "1973",
+              "1",
+              "90",
+              "25",
+              "First Space Age"
+            ],
+            [
+              "1974",
+              "2",
+              "85",
+              "23",
+              "First Space Age"
+            ],
+            [
+              "1975",
+              "3",
+              "93",
+              "30",
+              "First Space Age"
+            ],
+            [
+              "1976",
+              "3",
+              "100",
+              "26",
+              "First Space Age"
+            ],
+            [
+              "1977",
+              "0",
+              "102",
+              "26",
+              "First Space Age"
+            ],
+            [
+              "1978",
+              "1",
+              "91",
+              "33",
+              "First Space Age"
+            ],
+            [
+              "1979",
+              "1",
+              "89",
+              "16",
+              "First Space Age"
+            ],
+            [
+              "1980",
+              "0",
+              "90",
+              "15",
+              "First Space Age"
+            ],
+            [
+              "1981",
+              "1",
+              "100",
+              "19",
+              "First Space Age"
+            ],
+            [
+              "1982",
+              "1",
+              "108",
+              "18",
+              "First Space Age"
+            ],
+            [
+              "1983",
+              "1",
+              "100",
+              "22",
+              "First Space Age"
+            ],
+            [
+              "1984",
+              "3",
+              "97",
+              "23",
+              "First Space Age"
+            ],
+            [
+              "1985",
+              "1",
+              "100",
+              "19",
+              "First Space Age"
+            ],
+            [
+              "1986",
+              "2",
+              "94",
+              "9",
+              "First Space Age"
+            ],
+            [
+              "1987",
+              "2",
+              "97",
+              "9",
+              "First Space Age"
+            ],
+            [
+              "1988",
+              "4",
+              "94",
+              "11",
+              "First Space Age"
+            ],
+            [
+              "1989",
+              "0",
+              "75",
+              "18",
+              "First Space Age"
+            ],
+            [
+              "1990",
+              "5",
+              "79",
+              "27",
+              "First Space Age"
+            ],
+            [
+              "1991",
+              "1",
+              "61",
+              "19",
+              "First Space Age"
+            ],
+            [
+              "1992",
+              "4",
+              "55",
+              "29",
+              "Second Space Age"
+            ],
+            [
+              "1993",
+              "1",
+              "48",
+              "27",
+              "Second Space Age"
+            ],
+            [
+              "1994",
+              "5",
+              "49",
+              "28",
+              "Second Space Age"
+            ],
+            [
+              "1995",
+              "3",
+              "33",
+              "30",
+              "Second Space Age"
+            ],
+            [
+              "1996",
+              "4",
+              "27",
+              "33",
+              "Second Space Age"
+            ],
+            [
+              "1997",
+              "6",
+              "29",
+              "37",
+              "Second Space Age"
+            ],
+            [
+              "1998",
+              "6",
+              "25",
+              "36",
+              "Second Space Age"
+            ],
+            [
+              "1999",
+              "4",
+              "28",
+              "31",
+              "Second Space Age"
+            ],
+            [
+              "2000",
+              "5",
+              "36",
+              "28",
+              "Second Space Age"
+            ],
+            [
+              "2001",
+              "1",
+              "23",
+              "22",
+              "Second Space Age"
+            ],
+            [
+              "2002",
+              "5",
+              "25",
+              "17",
+              "Second Space Age"
+            ],
+            [
+              "2003",
+              "7",
+              "21",
+              "23",
+              "Second Space Age"
+            ],
+            [
+              "2004",
+              "8",
+              "23",
+              "16",
+              "Second Space Age"
+            ],
+            [
+              "2005",
+              "6",
+              "26",
+              "12",
+              "Second Space Age"
+            ],
+            [
+              "2006",
+              "6",
+              "25",
+              "18",
+              "Second Space Age"
+            ],
+            [
+              "2007",
+              "10",
+              "26",
+              "19",
+              "Second Space Age"
+            ],
+            [
+              "2008",
+              "11",
+              "27",
+              "15",
+              "Second Space Age"
+            ],
+            [
+              "2009",
+              "6",
+              "32",
+              "24",
+              "Second Space Age"
+            ],
+            [
+              "2010",
+              "15",
+              "31",
+              "15",
+              "Second Space Age"
+            ],
+            [
+              "2011",
+              "19",
+              "32",
+              "18",
+              "Second Space Age"
+            ],
+            [
+              "2012",
+              "19",
+              "24",
+              "13",
+              "Second Space Age"
+            ],
+            [
+              "2013",
+              "15",
+              "32",
+              "19",
+              "Second Space Age"
+            ],
+            [
+              "2014",
+              "16",
+              "32",
+              "23",
+              "Second Space Age"
+            ],
+            [
+              "2015",
+              "19",
+              "26",
+              "20",
+              "Second Space Age"
+            ],
+            [
+              "2016",
+              "22",
+              "17",
+              "23",
+              "Third Space Age"
+            ],
+            [
+              "2017",
+              "18",
+              "19",
+              "29",
+              "Third Space Age"
+            ],
+            [
+              "2018",
+              "39",
+              "17",
+              "31",
+              "Third Space Age"
+            ],
+            [
+              "2019",
+              "34",
+              "22",
+              "21",
+              "Third Space Age"
+            ],
+            [
+              "2020",
+              "39",
+              "15",
+              "37",
+              "Third Space Age"
+            ],
+            [
+              "2021",
+              "56",
+              "24",
+              "45",
+              "Third Space Age"
+            ],
+            [
+              "2022",
+              "64",
+              "21",
+              "78",
+              "Third Space Age"
+            ],
+            [
+              "2023",
+              "67",
+              "19",
+              "108",
+              "Third Space Age"
+            ],
+            [
+              "2024",
+              "68",
+              "17",
+              "145",
+              "Third Space Age"
+            ],
+            [
+              "2025",
+              "93",
+              "17",
+              "181",
+              "Third Space Age"
+            ]
+          ],
+          "caption": "1957-2025年主要航天国家年度发射次数及太空时代划分"
+        }
+      ],
+      "deep_dive": "## 格局演变：从两极争霸到中美主导\n\n数据清晰地勾勒出全球太空发射活动的三大阶段。\n\n- **第一太空时代（1957-1991）**：以美苏冷战为核心特征。苏联凭借先发优势，在1960年代中后期至1980年代末，发射次数长期维持在年均80-100次的惊人水平，成为当之无愧的“发射工厂”。美国在1960年代初与阿波罗计划期间达到高峰，随后在70-80年代因航天飞机研发和成本考量，发射量大幅回落。\n- **第二太空时代（1992-2015）**：苏联解体后，俄罗斯发射能力一落千丈，从年均近100次锐减至30次左右。与此同时，中国从1990年代的个位数起步，稳步增长，并在2010年前后发射量与俄罗斯持平甚至超越，标志着“第三极”的真正崛起。美国在这一时期发射量相对平稳，但已失去绝对领先优势。\n- **第三太空时代（2016至今）**：以2016年中美发射次数同时超越俄罗斯为标志，进入中美双雄并立的新阶段。特别是2020年后，受SpaceX等商业航天公司的推动，美国发射次数呈指数级增长，2025年预测值高达181次，展现出强大的商业和民用航天爆发力。中国则保持稳健高速增长，2025年预测值达93次，巩固了其作为全球航天第二强的地位。\n\n## 驱动力与启示：技术、商业与战略的分野\n\n发射数量的变迁背后，是技术路径、商业模式和国家战略的深刻差异。\n\n- **俄罗斯的困境**：其发射量的衰落远超简单的经济因素，反映了在电子元器件、资金投入、项目管理和创新模式上的系统性落后。过度依赖苏联遗产和政府订单，在商业航天新浪潮中几乎毫无建树，导致其国际发射市场份额被严重挤压。\n- **中国的崛起之路**：中国航天走的是“体系化追赶”与“自主创新”相结合的路径。从“长征”系列火箭的稳步迭代，到空间站建设、北斗导航和深空探测的系统性推进，其发射需求是长期战略规划驱动的。数据表明，自2018年起，中国发射量已稳居全球前二，且质量（如高成功率、高轨道占比）不断提升。\n- **美国的“第二曲线”**：美国近年来的爆发性增长，核心驱动力是 **“商业航天革命”** 。以SpaceX为代表的公司，通过可复用火箭技术大幅降低发射成本，并凭借庞大的卫星星座（如星链）创造了前所未有的发射需求。这标志着航天活动从“国家工程”时代，加速迈向“商业化和规模化”时代。\n\n## 局限与前瞻\n\n- **数据的局限性**：表格仅统计了中美俄三国，未包含欧洲航天局（ESA）、印度、日本等日益重要的行为体。此外，发射次数是衡量活跃度的关键指标，但不能直接等同于“航天实力”，还需结合载荷质量、任务复杂度、技术创新性等综合判断。\n- **未来趋势**：短期内，中美“双超多强”的格局将进一步巩固。中国的增长将更侧重于高价值任务和星座部署，而美国的增长将继续由商业公司主导。俄罗斯若不进行根本性改革，其市场份额可能持续萎缩。商业航天的活力和可持续性，将成为决定未来太空经济格局的最关键变量。",
+      "glossary": [
+        {
+          "term": "第三太空时代",
+          "explanation": "指2016年左右开始，以商业航天崛起、中美成为发射主导力量、太空活动日益多元化和常态化为特征的新阶段，区别于冷战时期的“第一太空时代”和后冷战过渡期的“第二太空时代”。"
+        },
+        {
+          "term": "可复用火箭技术",
+          "explanation": "指火箭的第一级（或更多部分）在完成发射任务后，能够自主返回地面或海上平台并安全着陆，经过检修后可用于下一次发射的技术。该技术大幅降低了发射成本，是商业航天得以规模化发展的关键。"
+        },
+        {
+          "term": "发射次数",
+          "explanation": "指一个国家或机构在特定年份内成功将航天器送入预定轨道的火箭发射活动次数。它是衡量航天活跃度和发射能力的基础量化指标。"
+        },
+        {
+          "term": "商业航天",
+          "explanation": "指由私营企业主导，以市场盈利为主要目的，开展卫星制造、发射服务、太空旅游、在轨服务等活动的航天产业模式。它已成为驱动全球航天发展的重要力量。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d461407c",
+    "title": "Mapped: Fast Food Wages in Every U.S. State",
+    "original_url": "https://www.visualcapitalist.com/mapped-fast-food-wages-in-every-u-s-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d461407c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqGkpUfmoMGpEFcCkd7irFsScUVCOlFXzGXKiNsU3eBSNUTUuVXMPayJ/NFFVD1oq+UnnZ/9k=",
+    "image_version": 1780425052,
+    "pub_date": "Tue, 02 Jun 2026 14:11:32 +0000",
+    "content_md": "| Rank | State | Median Hourly Fast Food Wage2025 | Total Employment |\n| --- | --- | --- | --- |\n| 1 | California | $20.33 | 450K |\n| 2 | Washington | $18.13 | 95K |\n| 3 | District of Columbia | $18.00 | 6K |\n| 4 | Colorado | $17.44 | 82K |\n| 5 | Vermont | $17.32 | 7K |\n| 6 | Massachusetts | $17.24 | 86K |\n| 7 | Connecticut | $17.01 | 36K |\n| 8 | Hawaii | $16.95 | 24K |\n| 9 | New York | $16.95 | 169K |\n| 10 | Oregon | $16.85 | 60K |\n| 11 | Maine | $16.69 | 17K |\n| 12 | Arizona | $16.46 | 77K |\n| 13 | New Jersey | $16.42 | 94K |\n| 14 | Illinois | $16.30 | 128K |\n| 15 | Maryland | $16.18 | 49K |\n| 16 | Alaska | $16.00 | 6K |\n| 17 | Nevada | $15.36 | 46K |\n| 18 | New Hampshire | $15.19 | 15K |\n| 19 | Rhode Island | $15.14 | 13K |\n| 20 | Minnesota | $15.08 | 59K |\n| 21 | Delaware | $15.05 | 13K |\n| 22 | Missouri | $14.61 | 29K |\n| 23 | Virginia | $14.48 | 104K |\n| 24 | North Dakota | $14.46 | 11K |\n| 25 | South Dakota | $14.18 | 15K |\n| 26 | Florida | $13.98 | 235K |\n| 27 | Montana | $13.98 | 15K |\n| 28 | Nebraska | $13.94 | 30K |\n| 29 | Idaho | $13.91 | 26K |\n| 30 | Michigan | $13.91 | 103K |\n| 31 | Indiana | $13.84 | 97K |\n| 32 | New Mexico | $13.80 | 28K |\n| 33 | Utah | $13.78 | 52K |\n| 34 | Wisconsin | $13.75 | 68K |\n| 35 | North Carolina | $13.74 | 92K |\n| 36 | Pennsylvania | $13.74 | 142K |\n| 37 | Ohio | $13.67 | 164K |\n| 38 | Iowa | $13.65 | 40K |\n| 39 | Wyoming | $13.40 | 7K |\n| 40 | Texas | $13.34 | 461K |\n| 41 | Kansas | $13.26 | 47K |\n| 42 | South Carolina | $13.23 | 65K |\n| 43 | Tennessee | $13.21 | 91K |\n| 44 | Kentucky | $13.04 | 42K |\n| 45 | Georgia | $12.94 | 145K |\n| 46 | Arkansas | $12.62 | 36K |\n| 47 | West Virginia | $12.54 | 6K |\n| 48 | Alabama | $11.40 | 41K |\n| 49 | Oklahoma | $11.27 | 53K |\n| 50 | Louisiana | $10.96 | 46K |\n| 51 | Mississippi | $10.87 | 31K |\n| -- | United States | $14.70 | 3.9M |",
+    "ai_analysis": {
+      "core_insight": "美国各州快餐业工资差异巨大，最高是最低的近两倍，且就业规模与工资水平不成正比。",
+      "data_highlights": [
+        "加州以$20.33的时薪领跑全国，远高于全美$14.70的中位数。",
+        "密西西比州时薪最低，仅$10.87，不及加州的一半。",
+        "德克萨斯州拥有全美最大的快餐业就业规模（46.1万人），但其工资（$13.34）低于全国中位数。",
+        "工资排名前五的州中，有四个位于美国西部和东北部高生活成本地区。",
+        "就业规模前五的州中，仅加州工资高于全国中位数，佛罗里达州和俄亥俄州工资显著偏低。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Median Hourly Fast Food Wage 2025",
+            "Total Employment"
+          ],
+          "rows": [
+            [
+              "1",
+              "California",
+              "$20.33",
+              "450K"
+            ],
+            [
+              "2",
+              "Washington",
+              "$18.13",
+              "95K"
+            ],
+            [
+              "3",
+              "District of Columbia",
+              "$18.00",
+              "6K"
+            ],
+            [
+              "4",
+              "Colorado",
+              "$17.44",
+              "82K"
+            ],
+            [
+              "5",
+              "Vermont",
+              "$17.32",
+              "7K"
+            ],
+            [
+              "6",
+              "Massachusetts",
+              "$17.24",
+              "86K"
+            ],
+            [
+              "7",
+              "Connecticut",
+              "$17.01",
+              "36K"
+            ],
+            [
+              "8",
+              "Hawaii",
+              "$16.95",
+              "24K"
+            ],
+            [
+              "9",
+              "New York",
+              "$16.95",
+              "169K"
+            ],
+            [
+              "10",
+              "Oregon",
+              "$16.85",
+              "60K"
+            ]
+          ],
+          "caption": "2025年美国各州快餐业中位数时薪排名（前10名）"
+        },
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Median Hourly Fast Food Wage 2025",
+            "Total Employment"
+          ],
+          "rows": [
+            [
+              "42",
+              "South Carolina",
+              "$13.23",
+              "65K"
+            ],
+            [
+              "43",
+              "Tennessee",
+              "$13.21",
+              "91K"
+            ],
+            [
+              "44",
+              "Kentucky",
+              "$13.04",
+              "42K"
+            ],
+            [
+              "45",
+              "Georgia",
+              "$12.94",
+              "145K"
+            ],
+            [
+              "46",
+              "Arkansas",
+              "$12.62",
+              "36K"
+            ],
+            [
+              "47",
+              "West Virginia",
+              "$12.54",
+              "6K"
+            ],
+            [
+              "48",
+              "Alabama",
+              "$11.40",
+              "41K"
+            ],
+            [
+              "49",
+              "Oklahoma",
+              "$11.27",
+              "53K"
+            ],
+            [
+              "50",
+              "Louisiana",
+              "$10.96",
+              "46K"
+            ],
+            [
+              "51",
+              "Mississippi",
+              "$10.87",
+              "31K"
+            ]
+          ],
+          "caption": "2025年美国各州快餐业中位数时薪排名（后10名）"
+        }
+      ],
+      "deep_dive": "## 区域分化：工资高地与经济版图\n美国快餐业工资呈现出显著的区域梯度。工资最高的前10个州及地区中，绝大多数位于美国西部沿海（如加州、华盛顿州、俄勒冈州）和东北部新英格兰地区（如马萨诸塞州、康涅狄格州），以及生活成本极高的夏威夷和华盛顿特区。这反映了**最低工资法案、生活成本、工会力量以及当地经济结构**的综合影响。例如，加州和华盛顿州近年来均通过了逐步提高州最低工资至每小时20美元左右的法案，直接推高了快餐等低工资行业的薪资水平。\n\n相比之下，工资较低的后10名州主要集中在南部和中西部（如密西西比、路易斯安那、阿拉巴马、俄克拉荷马等）。这些地区通常具有较低的法定最低工资、较弱的工会组织以及不同的生活成本结构。这种巨大的区域差异（最高与最低相差近一倍）凸显了美国劳动力市场的地方性特征，联邦层面的最低工资标准对各州的实际薪资水平影响有限。\n\n## 规模与薪酬的悖论：大州未必高薪\n数据揭示了一个有趣的悖论：**就业规模与工资水平并不直接相关**。德克萨斯州以46.1万人的快餐业就业规模位居全美第一，但其中位数时薪仅为$13.34，低于全国中位数$14.70。同样，就业规模第二的佛罗里达州（23.5万人）和第三的俄亥俄州（16.4万人），其工资也远低于全国中位数。\n\n反之，工资最高的加州虽然也拥有庞大的45万就业人口，实现了“高工资、高就业”的结合，但这更像是特例。对于大多数州而言，庞大的就业基数往往伴随着较低的工资，这可能意味着在这些人口大州，快餐业作为吸纳低技能劳动力的主要渠道，其薪资议价能力受限，企业更多依赖于规模而非高薪来运营。这引发了关于**低工资行业就业质量**的思考：在劳动力市场中，是创造更多“低薪岗位”还是提升现有岗位的“薪酬质量”更值得关注？",
+      "glossary": [
+        {
+          "term": "中位数时薪",
+          "explanation": "将所有快餐业员工按小时工资从低到高排序后，位于中间位置的数值。它比平均数更能反映普通员工的典型收入水平，避免了极高或极低工资的扭曲。"
+        },
+        {
+          "term": "总就业人数",
+          "explanation": "指在一个州内快餐行业从事有薪工作的总人数，是衡量该行业在该地区经济规模和劳动力市场重要性的一个关键指标。"
+        },
+        {
+          "term": "最低工资法案",
+          "explanation": "由各州或联邦政府制定的法律，规定雇主支付给员工的最低小时工资标准。州级最低工资高于联邦标准时，会直接提升该州低工资行业的薪资下限。"
+        }
+      ]
+    }
+  },
+  {
     "id": "e78d6bfc",
     "title": "Ranked: Military Spending by Country in 2025",
     "original_url": "https://www.visualcapitalist.com/ranked-military-spending-by-country-2025/",
