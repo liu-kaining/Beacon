@@ -1,5 +1,476 @@
 [
   {
+    "id": "b18ddca3",
+    "title": "Ranked: Which States Use AI the Most?",
+    "original_url": "https://www.visualcapitalist.com/ranked-which-states-use-ai-the-most/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b18ddca3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAhABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDDAprLUopGrRyuPksVytFOPWioCxNUbtVkx8VBIlRFmk5ogLc0UFOaKoy5jTPSoJKKKlEyID1oooqiD//Z",
+    "image_version": 1780511937,
+    "pub_date": "Wed, 03 Jun 2026 16:42:56 +0000",
+    "content_md": "| Rank | State or District | Share of Working-Age Population Using AIQ1 2026 |\n| --- | --- | --- |\n| 1 | District of Columbia | 40.3% |\n| 2 | Maryland | 36.3% |\n| 3 | Utah | 35.7% |\n| 4 | Texas | 35.3% |\n| 5 | Virginia | 34.7% |\n| 6 | New Jersey | 34.5% |\n| 7 | Nevada | 34.2% |\n| 8 | California | 34.0% |\n| 9 | Connecticut | 34.0% |\n| 10 | Georgia | 33.7% |\n| 11 | Florida | 33.6% |\n| 12 | Massachusetts | 33.4% |\n| 13 | Illinois | 33.3% |\n| 14 | New York | 32.7% |\n| 15 | Rhode Island | 32.5% |\n| 16 | Colorado | 32.3% |\n| 17 | Washington | 32.2% |\n| 18 | Arizona | 31.4% |\n| 19 | Hawaii | 30.6% |\n| 20 | Delaware | 30.6% |\n| 21 | New Hampshire | 30.2% |\n| 22 | North Carolina | 30.1% |\n| 23 | South Carolina | 29.1% |\n| 24 | Oklahoma | 28.9% |\n| 25 | Idaho | 28.8% |\n| 26 | Kansas | 28.6% |\n| 27 | Tennessee | 28.5% |\n| 28 | Oregon | 28.4% |\n| 29 | Ohio | 28.3% |\n| 30 | Wisconsin | 28.2% |\n| 31 | North Dakota | 28.2% |\n| 32 | Michigan | 27.4% |\n| 33 | South Dakota | 27.4% |\n| 34 | Alabama | 27.3% |\n| 35 | Pennsylvania | 27.2% |\n| 36 | Indiana | 26.8% |\n| 37 | Missouri | 26.8% |\n| 38 | Nebraska | 26.4% |\n| 39 | Minnesota | 26.3% |\n| 40 | Louisiana | 26.1% |\n| 41 | Arkansas | 26.0% |\n| 42 | Wyoming | 25.5% |\n| 43 | Kentucky | 25.1% |\n| 44 | Iowa | 24.4% |\n| 45 | New Mexico | 23.9% |\n| 46 | Alaska | 23.6% |\n| 47 | Vermont | 23.3% |\n| 48 | Mississippi | 22.9% |\n| 49 | Montana | 22.7% |\n| 50 | Maine | 21.4% |\n| 51 | West Virginia | 20.8% |\n| -- | U.S. Average | 31.3% |",
+    "ai_analysis": {
+      "core_insight": "美国各州AI使用率差异显著，首尾相差近一倍，首都圈与科技中心州领先。",
+      "data_highlights": [
+        "哥伦比亚特区以40.3%的AI使用率遥遥领先，是唯一超过40%的地区。",
+        "排名前五的地区（DC、马里兰、犹他、得州、弗吉尼亚）均位于东部或西部科技与政策中心。",
+        "全美平均使用率为31.3%，但超过半数的州（27个）使用率低于此平均水平。",
+        "排名末尾的西弗吉尼亚州（20.8%）与首位的哥伦比亚特区使用率相差近一倍。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or District",
+            "Share of Working-Age Population Using AI Q1 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "District of Columbia",
+              "40.3%"
+            ],
+            [
+              "2",
+              "Maryland",
+              "36.3%"
+            ],
+            [
+              "3",
+              "Utah",
+              "35.7%"
+            ],
+            [
+              "4",
+              "Texas",
+              "35.3%"
+            ],
+            [
+              "5",
+              "Virginia",
+              "34.7%"
+            ],
+            [
+              "6",
+              "New Jersey",
+              "34.5%"
+            ],
+            [
+              "7",
+              "Nevada",
+              "34.2%"
+            ],
+            [
+              "8",
+              "California",
+              "34.0%"
+            ],
+            [
+              "9",
+              "Connecticut",
+              "34.0%"
+            ],
+            [
+              "10",
+              "Georgia",
+              "33.7%"
+            ],
+            [
+              "11",
+              "Florida",
+              "33.6%"
+            ],
+            [
+              "12",
+              "Massachusetts",
+              "33.4%"
+            ],
+            [
+              "13",
+              "Illinois",
+              "33.3%"
+            ],
+            [
+              "14",
+              "New York",
+              "32.7%"
+            ],
+            [
+              "15",
+              "Rhode Island",
+              "32.5%"
+            ],
+            [
+              "16",
+              "Colorado",
+              "32.3%"
+            ],
+            [
+              "17",
+              "Washington",
+              "32.2%"
+            ],
+            [
+              "18",
+              "Arizona",
+              "31.4%"
+            ],
+            [
+              "19",
+              "Hawaii",
+              "30.6%"
+            ],
+            [
+              "20",
+              "Delaware",
+              "30.6%"
+            ],
+            [
+              "21",
+              "New Hampshire",
+              "30.2%"
+            ],
+            [
+              "22",
+              "North Carolina",
+              "30.1%"
+            ],
+            [
+              "23",
+              "South Carolina",
+              "29.1%"
+            ],
+            [
+              "24",
+              "Oklahoma",
+              "28.9%"
+            ],
+            [
+              "25",
+              "Idaho",
+              "28.8%"
+            ],
+            [
+              "26",
+              "Kansas",
+              "28.6%"
+            ],
+            [
+              "27",
+              "Tennessee",
+              "28.5%"
+            ],
+            [
+              "28",
+              "Oregon",
+              "28.4%"
+            ],
+            [
+              "29",
+              "Ohio",
+              "28.3%"
+            ],
+            [
+              "30",
+              "Wisconsin",
+              "28.2%"
+            ],
+            [
+              "31",
+              "North Dakota",
+              "28.2%"
+            ],
+            [
+              "32",
+              "Michigan",
+              "27.4%"
+            ],
+            [
+              "33",
+              "South Dakota",
+              "27.4%"
+            ],
+            [
+              "34",
+              "Alabama",
+              "27.3%"
+            ],
+            [
+              "35",
+              "Pennsylvania",
+              "27.2%"
+            ],
+            [
+              "36",
+              "Indiana",
+              "26.8%"
+            ],
+            [
+              "37",
+              "Missouri",
+              "26.8%"
+            ],
+            [
+              "38",
+              "Nebraska",
+              "26.4%"
+            ],
+            [
+              "39",
+              "Minnesota",
+              "26.3%"
+            ],
+            [
+              "40",
+              "Louisiana",
+              "26.1%"
+            ],
+            [
+              "41",
+              "Arkansas",
+              "26.0%"
+            ],
+            [
+              "42",
+              "Wyoming",
+              "25.5%"
+            ],
+            [
+              "43",
+              "Kentucky",
+              "25.1%"
+            ],
+            [
+              "44",
+              "Iowa",
+              "24.4%"
+            ],
+            [
+              "45",
+              "New Mexico",
+              "23.9%"
+            ],
+            [
+              "46",
+              "Alaska",
+              "23.6%"
+            ],
+            [
+              "47",
+              "Vermont",
+              "23.3%"
+            ],
+            [
+              "48",
+              "Mississippi",
+              "22.9%"
+            ],
+            [
+              "49",
+              "Montana",
+              "22.7%"
+            ],
+            [
+              "50",
+              "Maine",
+              "21.4%"
+            ],
+            [
+              "51",
+              "West Virginia",
+              "20.8%"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "31.3%"
+            ]
+          ],
+          "caption": "2026年第一季度美国各州及特区AI使用率排名（劳动年龄人口占比）"
+        }
+      ],
+      "deep_dive": "## AI使用率的区域分布：政策与科技的集聚效应\n\n数据清晰地揭示了AI技术在地理分布上的高度不均衡性。排名前列的地区呈现出明显的“政策-科技”双核驱动特征。\n- **首都圈效应显著**：哥伦比亚特区（40.3%）及其邻近的马里兰州（36.3%）、弗吉尼亚州（34.7%）构成的“首都圈”使用率包揽前三。这直接反映了联邦政府政策制定、国防科技（如五角大楼所在地弗吉尼亚）以及大量联邦承包商和智库对AI工具的强劲需求与早期采纳。\n- **科技与创新中心稳固**：加利福尼亚州（34.0%）、得克萨斯州（35.3%）、犹他州（35.7%）、科罗拉多州（32.3%）等科技产业聚集地同样位居前列。这些州拥有成熟的科技生态、高水平人才储备和风险投资，是AI技术商业化和企业应用的前沿阵地。\n- **“阳光地带”与人才流动**：佛罗里达州（33.6%）、内华达州（34.2%）、亚利桑那州（31.4%）等“阳光地带”州表现亮眼，可能受益于近年来科技企业搬迁和远程工作带来的人才流入，推动了新技术的普及。\n\n## 深层解读：数字鸿沟与潜在挑战\n\n高使用率背后隐藏着更深层次的经济社会结构差异，也预示着未来可能加剧的挑战。\n- **经济结构与产业基础是关键分水岭**：使用率较低的州（如西弗吉尼亚20.8%、缅因州21.4%、蒙大拿州22.7%）往往以传统农业、资源开采或制造业为经济支柱，这些行业的数字化转型和AI渗透相对缓慢。而高使用率州的经济结构更偏向于知识密集型服务业、信息技术和国防工业。\n- **教育水平与人才供给的直接影响**：排名靠前的州通常拥有更高的高等教育入学率和顶尖研究型大学（如马里兰、马萨诸塞、康涅狄格），这为AI技术的研发和应用提供了关键的人才池。反之，教育基础相对薄弱的地区在接触和掌握AI工具方面面临更大障碍。\n- **“数字鸿沟”可能演变为“经济鸿沟”**：AI使用率的差异不仅是技术采纳速度的差异，更可能转化为未来生产效率、创新能力和经济增长潜力的差异。长期来看，若不采取针对性干预，这种不平衡可能进一步固化区域间的发展差距。\n- **数据局限性说明**：本数据仅反映“使用”行为，未区分使用场景（如个人效率工具、企业流程自动化、科研等）和使用深度。因此，它衡量的是技术普及的广度，而非应用的强度或经济价值。此外，不同州的人口结构、互联网普及率等混杂因素也可能影响结果。",
+      "glossary": [
+        {
+          "term": "劳动年龄人口",
+          "explanation": "通常指处于工作年龄段的人口，具体界定因国家统计标准而异。本报告中指各州参与AI使用的劳动力主体。"
+        },
+        {
+          "term": "数字鸿沟",
+          "explanation": "指不同社会群体、地区或国家之间，在获取和使用信息通信技术（包括AI）方面存在的差距。"
+        },
+        {
+          "term": "首都圈效应",
+          "explanation": "指国家首都及其周边地区，由于聚集了政府机构、政策研究、国防安全及相关承包商，而对特定技术（如AI）产生高出平均水平的需求与采纳率的现象。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bd2998aa",
+    "title": "Ranked: Inflation Forecasts in G20 Economies",
+    "original_url": "https://www.visualcapitalist.com/ranked-inflation-g20-economies-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/bd2998aa.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkgKlRM0wVYh610GcpWQ4Q8UVbUDbRTOXnKHlVLEmDUlPTrU3HKTsSqPlop46UU7mB/9k=",
+    "image_version": 1780511980,
+    "pub_date": "Wed, 03 Jun 2026 14:21:40 +0000",
+    "content_md": "| Rank | Country | 2026 Proj. Inflation(Annual Avg.) | 2026 Proj. NominalGDP ($T) |\n| --- | --- | --- | --- |\n| 1 | Argentina | 30.4% | 0.7 |\n| 2 | Türkiye | 28.6% | 1.6 |\n| 3 | Russia | 5.6% | 2.7 |\n| 4 | India | 4.7% | 4.2 |\n| 5 | Brazil | 4.0% | 2.6 |\n| 6 | Australia | 4.0% | 2.1 |\n| 7 | Mexico | 3.9% | 2.1 |\n| 8 | South Africa | 3.9% | 0.5 |\n| 9 | United States | 3.2% | 32.4 |\n| 10 | United Kingdom | 3.2% | 4.3 |\n| 11 | Indonesia | 3.0% | 1.5 |\n| 12 | Germany | 2.7% | 5.5 |\n| 13 | Italy | 2.6% | 2.7 |\n| 14 | Canada | 2.5% | 2.5 |\n| 15 | South Korea | 2.5% | 1.9 |\n| 16 | Saudi Arabia | 2.3% | 1.4 |\n| 17 | Japan | 2.2% | 4.4 |\n| 18 | France | 1.8% | 3.6 |\n| 19 | China | 1.2% | 20.9 |",
+    "ai_analysis": {
+      "core_insight": "G20经济体通胀预测分化显著，新兴市场面临更大压力。",
+      "data_highlights": [
+        "阿根廷以30.4%的通胀预测高居榜首，土耳其紧随其后达28.6%。",
+        "发达经济体通胀预测普遍较低，法国、中国通胀控制最佳，均低于2%。",
+        "通胀高低与经济体规模无明显正相关，美国GDP巨大但通胀预测为3.2%。",
+        "大部分G20经济体2026年通胀预测在2%-5%区间，高于多数央行的2%目标。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Proj. Inflation(Annual Avg.)",
+            "2026 Proj. NominalGDP ($T)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Argentina",
+              "30.4%",
+              "0.7"
+            ],
+            [
+              "2",
+              "Türkiye",
+              "28.6%",
+              "1.6"
+            ],
+            [
+              "3",
+              "Russia",
+              "5.6%",
+              "2.7"
+            ],
+            [
+              "4",
+              "India",
+              "4.7%",
+              "4.2"
+            ],
+            [
+              "5",
+              "Brazil",
+              "4.0%",
+              "2.6"
+            ],
+            [
+              "6",
+              "Australia",
+              "4.0%",
+              "2.1"
+            ],
+            [
+              "7",
+              "Mexico",
+              "3.9%",
+              "2.1"
+            ],
+            [
+              "8",
+              "South Africa",
+              "3.9%",
+              "0.5"
+            ],
+            [
+              "9",
+              "United States",
+              "3.2%",
+              "32.4"
+            ],
+            [
+              "10",
+              "United Kingdom",
+              "3.2%",
+              "4.3"
+            ],
+            [
+              "11",
+              "Indonesia",
+              "3.0%",
+              "1.5"
+            ],
+            [
+              "12",
+              "Germany",
+              "2.7%",
+              "5.5"
+            ],
+            [
+              "13",
+              "Italy",
+              "2.6%",
+              "2.7"
+            ],
+            [
+              "14",
+              "Canada",
+              "2.5%",
+              "2.5"
+            ],
+            [
+              "15",
+              "South Korea",
+              "2.5%",
+              "1.9"
+            ],
+            [
+              "16",
+              "Saudi Arabia",
+              "2.3%",
+              "1.4"
+            ],
+            [
+              "17",
+              "Japan",
+              "2.2%",
+              "4.4"
+            ],
+            [
+              "18",
+              "France",
+              "1.8%",
+              "3.6"
+            ],
+            [
+              "19",
+              "China",
+              "1.2%",
+              "20.9"
+            ]
+          ],
+          "caption": "G20经济体2026年通胀及GDP预测排名"
+        }
+      ],
+      "deep_dive": "## 分化格局：新兴市场与发达经济体的通胀鸿沟\n\n该排名揭示了G20内部巨大的通胀预测分化。前两名阿根廷和土耳其的预测值（30.4%和28.6%）与其他经济体存在数量级差异，这通常反映了其深层次的经济结构问题、货币稳定性不足及财政纪律松弛。相比之下，发达经济体如法国、日本、德国和加拿大，其通胀预测均在3%以下或接近2%的央行目标，显示出更有效的通胀预期管理和货币政策传导机制。这种分化将导致各经济体货币政策的取向持续背离：新兴市场可能被迫维持紧缩以对抗高通胀，而发达经济体则可能更早开启降息周期。\n\n## 结构性因素与政策启示\n\n- **通胀成因差异**：阿根廷、土耳其的高通胀主要源于货币贬值、财政赤字货币化及外部冲击的放大效应。而发达经济体的通胀压力更多来自后疫情时代的供应链调整、劳动力市场紧张及地缘政治影响，其治理更多依赖独立的央行和可信的货币政策框架。\n- **经济增长与通胀的平衡**：高增长经济体（如印度4.7%）未必伴随最高通胀，而低增长或萎缩经济体（如德国预测2.7%）也非必然低通胀。这表明通胀控制能力与潜在经济增长率、政策协调效率密切相关。\n- **数据局限性**：预测数据本身存在不确定性，特别是对于政治经济波动剧烈的国家。此外，表格仅呈现单一通胀预测，未涵盖核心通胀、通胀预期锚定程度等关键细节，分析时需结合更多维度。\n\n## 对全球资本流动与投资的潜在影响\n\n持续的高通胀预测将侵蚀新兴市场资产的实际回报率，并可能引发资本外流压力，进一步加剧其货币贬值和通胀螺旋。相反，通胀接近目标的发达经济体，其债券等固定收益资产的吸引力将相对提升。这种差异是全球投资者进行资产配置和风险定价时必须考量的核心宏观变量。",
+      "glossary": [
+        {
+          "term": "通胀预测 (Inflation Forecast)",
+          "explanation": "对未来一段时间内物价总水平上涨幅度的预期性估算，是货币政策制定和金融市场定价的关键输入。"
+        },
+        {
+          "term": "名义GDP (Nominal GDP)",
+          "explanation": "按当前市场价格计算的国内生产总值，未剔除通货膨胀因素，反映一国经济的总体规模和名义增长。"
+        },
+        {
+          "term": "货币政策 (Monetary Policy)",
+          "explanation": "中央银行通过调节货币供应量和利率等工具，以实现稳定物价、充分就业等宏观经济目标的政策。"
+        },
+        {
+          "term": "资本外流 (Capital Outflow)",
+          "explanation": "投资者因经济或政治风险等原因，将资金从某一国家转移到其他国家的现象，常对该国货币汇率和金融市场造成压力。"
+        }
+      ]
+    }
+  },
+  {
     "id": "cfae0195",
     "title": "Ranked: America’s Biggest Industries by Economic Output",
     "original_url": "https://www.visualcapitalist.com/americas-biggest-industries-by-economic-output/",
