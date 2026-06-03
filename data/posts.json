@@ -1,5 +1,172 @@
 [
   {
+    "id": "cfae0195",
+    "title": "Ranked: America’s Biggest Industries by Economic Output",
+    "original_url": "https://www.visualcapitalist.com/americas-biggest-industries-by-economic-output/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/cfae0195.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkIRmpnT5ajt6syfdrtWxxt6lBhzRTn+9RUXLP/9k=",
+    "image_version": 1780491843,
+    "pub_date": "Wed, 03 Jun 2026 12:03:32 +0000",
+    "content_md": "| Rank | Industry | Value Added ($T) | Share | Category |\n| --- | --- | --- | --- | --- |\n| 1 | Finance, insurance, real estate, rental, leasing | 6.8 | 21.8% | Services |\n| 2 | Professional and business services | 4.1 | 13.1% | Services |\n| 3 | Manufacturing | 3.0 | 9.4% | Goods |\n| 4 | Educational services, health care, and social assistance | 2.8 | 8.9% | Services |\n| 5 | State and local government | 2.4 | 7.6% | Public |\n| 6 | Wholesale trade | 2.0 | 6.4% | Services |\n| 7 | Retail trade | 2.0 | 6.2% | Services |\n| 8 | Information | 1.8 | 5.6% | Services |\n| 9 | Arts, entertainment, recreation, accommodation, food services | 1.4 | 4.3% | Services |\n| 10 | Construction | 1.3 | 4.3% | Goods |\n| 11 | Federal government | 1.1 | 3.5% | Public |\n| 12 | Transportation and warehousing | 1.0 | 3.3% | Services |\n| 13 | Other services, except government | 0.66 | 2.1% | Services |\n| 14 | Utilities | 0.49 | 1.6% | Services |\n| 15 | Mining | 0.37 | 1.2% | Goods |\n| 16 | Agriculture, forestry, fishing, hunting | 0.26 | 0.8% | Goods |\n| -- | Total 2025 U.S. GDP | 31.4 | 100.0% | -- |",
+    "ai_analysis": {
+      "core_insight": "美国经济高度依赖以金融业为代表的服务业，制造业占GDP比重不足一成。",
+      "data_highlights": [
+        "金融业（含保险、房地产）以6.8万亿美元增加值高居榜首，占GDP的21.8%",
+        "专业与商业服务（13.1%）与制造业（9.4%）分列二、三位，服务业占前八名中的七席",
+        "公共部门（州/地方政府+联邦政府）合计贡献了GDP的11.1%",
+        "生产性部门（采矿+农业）增加值合计仅占GDP的2%，经济结构已深度转型"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Industry",
+            "Value Added ($T)",
+            "Share",
+            "Category"
+          ],
+          "rows": [
+            [
+              "1",
+              "Finance, insurance, real estate, rental, leasing",
+              "6.8",
+              "21.8%",
+              "Services"
+            ],
+            [
+              "2",
+              "Professional and business services",
+              "4.1",
+              "13.1%",
+              "Services"
+            ],
+            [
+              "3",
+              "Manufacturing",
+              "3.0",
+              "9.4%",
+              "Goods"
+            ],
+            [
+              "4",
+              "Educational services, health care, and social assistance",
+              "2.8",
+              "8.9%",
+              "Services"
+            ],
+            [
+              "5",
+              "State and local government",
+              "2.4",
+              "7.6%",
+              "Public"
+            ],
+            [
+              "6",
+              "Wholesale trade",
+              "2.0",
+              "6.4%",
+              "Services"
+            ],
+            [
+              "7",
+              "Retail trade",
+              "2.0",
+              "6.2%",
+              "Services"
+            ],
+            [
+              "8",
+              "Information",
+              "1.8",
+              "5.6%",
+              "Services"
+            ],
+            [
+              "9",
+              "Arts, entertainment, recreation, accommodation, food services",
+              "1.4",
+              "4.3%",
+              "Services"
+            ],
+            [
+              "10",
+              "Construction",
+              "1.3",
+              "4.3%",
+              "Goods"
+            ],
+            [
+              "11",
+              "Federal government",
+              "1.1",
+              "3.5%",
+              "Public"
+            ],
+            [
+              "12",
+              "Transportation and warehousing",
+              "1.0",
+              "3.3%",
+              "Services"
+            ],
+            [
+              "13",
+              "Other services, except government",
+              "0.66",
+              "2.1%",
+              "Services"
+            ],
+            [
+              "14",
+              "Utilities",
+              "0.49",
+              "1.6%",
+              "Services"
+            ],
+            [
+              "15",
+              "Mining",
+              "0.37",
+              "1.2%",
+              "Goods"
+            ],
+            [
+              "16",
+              "Agriculture, forestry, fishing, hunting",
+              "0.26",
+              "0.8%",
+              "Goods"
+            ],
+            [
+              "--",
+              "Total 2025 U.S. GDP",
+              "31.4",
+              "100.0%",
+              "--"
+            ]
+          ],
+          "caption": "2025年美国GDP行业构成排名（部分）"
+        }
+      ],
+      "deep_dive": "## 经济结构：服务业的压倒性主导\n美国经济的显著特征是服务业的压倒性优势。在前十大产业中，有八个属于服务业。排名第一的“金融、保险、房地产”产业增加值高达6.8万亿美元，占据了GDP超过五分之一的份额，其体量几乎是第三名制造业的两倍多。这反映了美国经济已从传统的“制造”转向了以资本运作、知识密集型服务和消费体验为核心的现代经济模式。这种结构也意味着经济增长对金融稳定、消费者信心和知识工作者生产率的依赖度极高。\n\n## 结构失衡与潜在挑战\n这种高度服务化的结构也引发了关于经济韧性、贸易平衡和收入分配的讨论。\n- **制造业占比偏低**：制造业仅占GDP的9.4%，虽然其绝对值依然庞大，但相对份额已显著低于传统强国。这可能导致供应链关键环节的对外依赖，以及在高端制造领域的竞争压力。\n- **公共部门规模**：州与地方及联邦政府合计贡献了11.1%的GDP，体现了公共部门在经济中的重要作用，但也关联到财政可持续性问题。\n- **基础产业微薄**：农业和采矿业合计占比不足2%，表明美国经济已远离资源依赖型增长，但也意味着大宗商品价格波动对整体宏观经济的影响有限。",
+      "glossary": [
+        {
+          "term": "增加值 (Value Added)",
+          "explanation": "指一个行业在生产过程中创造的新价值，是衡量该行业对GDP贡献的核心指标，等于总产出减去中间投入。"
+        },
+        {
+          "term": "GDP (国内生产总值)",
+          "explanation": "指一个国家或地区在一定时期内生产的所有最终产品和服务的市场价值总和，是衡量经济规模和健康程度的关键指标。"
+        },
+        {
+          "term": "服务业 (Services)",
+          "explanation": "与“商品生产”相对，指提供无形产品或体验的行业，如金融、教育、医疗、零售等，是后工业经济的主体。"
+        }
+      ]
+    }
+  },
+  {
     "id": "51ccc738",
     "title": "Ranked: Countries With the Most Ultra-Rich Residents in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-countries-most-ultra-rich-residents-2026/",
