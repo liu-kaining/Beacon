@@ -1,5 +1,302 @@
 [
   {
+    "id": "bb5acf9a",
+    "title": "Mapped: Health Care Costs as a Share of Income by State",
+    "original_url": "https://www.visualcapitalist.com/mapped-health-care-costs-share-of-income-by-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/bb5acf9a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCRRSsOKSOnv0rtvqbRgpQK560Up60Vtc4nBXP/2Q==",
+    "image_version": 1780583283,
+    "pub_date": "Thu, 04 Jun 2026 12:12:22 +0000",
+    "content_md": "| Rank | State | Health Care as % of Household Income |\n| --- | --- | --- |\n| 1 | Alaska | 10.08% |\n| 2 | Oregon | 9.32% |\n| 3 | Maine | 9.30% |\n| 4 | Mississippi | 9.18% |\n| 5 | West Virginia | 9.14% |\n| 6 | New Mexico | 9.07% |\n| 7 | North Carolina | 8.78% |\n| 8 | Montana | 8.62% |\n| 9 | South Dakota | 8.60% |\n| 10 | Louisiana | 8.13% |\n| 11 | North Dakota | 8.08% |\n| 12 | Massachusetts | 8.00% |\n| 13 | Hawaii | 8.00% |\n| 14 | Vermont | 7.98% |\n| 15 | New York | 7.98% |\n| 16 | Wyoming | 7.84% |\n| 17 | Idaho | 7.82% |\n| 18 | Illinois | 7.71% |\n| 19 | Arkansas | 7.67% |\n| 20 | Oklahoma | 7.51% |\n| 21 | Kentucky | 7.46% |\n| 22 | Missouri | 7.43% |\n| 23 | Alabama | 7.32% |\n| 24 | Kansas | 7.19% |\n| 25 | Washington | 7.01% |\n| 26 | Connecticut | 6.89% |\n| 27 | Nebraska | 6.87% |\n| 28 | Arizona | 6.81% |\n| 29 | Pennsylvania | 6.80% |\n| 30 | Texas | 6.77% |\n| 31 | Tennessee | 6.77% |\n| 32 | Maryland | 6.76% |\n| 33 | Wisconsin | 6.76% |\n| 34 | Iowa | 6.74% |\n| 35 | Ohio | 6.68% |\n| 36 | Delaware | 6.66% |\n| 37 | Michigan | 6.65% |\n| 38 | Indiana | 6.64% |\n| 39 | Georgia | 6.62% |\n| 40 | New Hampshire | 6.42% |\n| 41 | South Carolina | 6.13% |\n| 42 | Minnesota | 6.09% |\n| 43 | Rhode Island | 6.09% |\n| 44 | Florida | 6.05% |\n| 45 | Colorado | 6.05% |\n| 46 | Nevada | 5.87% |\n| 47 | New Jersey | 5.81% |\n| 48 | California | 5.64% |\n| 49 | Virginia | 5.62% |\n| 50 | Utah | 5.11% |",
+    "ai_analysis": {
+      "core_insight": "美国各州医疗负担差异巨大，阿拉斯加居民医疗开支占收入比最高。",
+      "data_highlights": [
+        "阿拉斯加州医疗开支占家庭收入10.08%，位居全国第一。",
+        "排名前五的州中，阿拉斯加、俄勒冈、缅因州占比均超过9%。",
+        "医疗负担最轻的州为犹他州，占比仅为5.11%。",
+        "医疗负担较重的州集中在阿拉斯加、太平洋西北部及部分南部州。",
+        "加利福尼亚、弗吉尼亚等人口大州医疗负担相对较轻。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Health Care as % of Household Income"
+          ],
+          "rows": [
+            [
+              "1",
+              "Alaska",
+              "10.08%"
+            ],
+            [
+              "2",
+              "Oregon",
+              "9.32%"
+            ],
+            [
+              "3",
+              "Maine",
+              "9.30%"
+            ],
+            [
+              "4",
+              "Mississippi",
+              "9.18%"
+            ],
+            [
+              "5",
+              "West Virginia",
+              "9.14%"
+            ],
+            [
+              "6",
+              "New Mexico",
+              "9.07%"
+            ],
+            [
+              "7",
+              "North Carolina",
+              "8.78%"
+            ],
+            [
+              "8",
+              "Montana",
+              "8.62%"
+            ],
+            [
+              "9",
+              "South Dakota",
+              "8.60%"
+            ],
+            [
+              "10",
+              "Louisiana",
+              "8.13%"
+            ],
+            [
+              "11",
+              "North Dakota",
+              "8.08%"
+            ],
+            [
+              "12",
+              "Massachusetts",
+              "8.00%"
+            ],
+            [
+              "13",
+              "Hawaii",
+              "8.00%"
+            ],
+            [
+              "14",
+              "Vermont",
+              "7.98%"
+            ],
+            [
+              "15",
+              "New York",
+              "7.98%"
+            ],
+            [
+              "16",
+              "Wyoming",
+              "7.84%"
+            ],
+            [
+              "17",
+              "Idaho",
+              "7.82%"
+            ],
+            [
+              "18",
+              "Illinois",
+              "7.71%"
+            ],
+            [
+              "19",
+              "Arkansas",
+              "7.67%"
+            ],
+            [
+              "20",
+              "Oklahoma",
+              "7.51%"
+            ],
+            [
+              "21",
+              "Kentucky",
+              "7.46%"
+            ],
+            [
+              "22",
+              "Missouri",
+              "7.43%"
+            ],
+            [
+              "23",
+              "Alabama",
+              "7.32%"
+            ],
+            [
+              "24",
+              "Kansas",
+              "7.19%"
+            ],
+            [
+              "25",
+              "Washington",
+              "7.01%"
+            ],
+            [
+              "26",
+              "Connecticut",
+              "6.89%"
+            ],
+            [
+              "27",
+              "Nebraska",
+              "6.87%"
+            ],
+            [
+              "28",
+              "Arizona",
+              "6.81%"
+            ],
+            [
+              "29",
+              "Pennsylvania",
+              "6.80%"
+            ],
+            [
+              "30",
+              "Texas",
+              "6.77%"
+            ],
+            [
+              "31",
+              "Tennessee",
+              "6.77%"
+            ],
+            [
+              "32",
+              "Maryland",
+              "6.76%"
+            ],
+            [
+              "33",
+              "Wisconsin",
+              "6.76%"
+            ],
+            [
+              "34",
+              "Iowa",
+              "6.74%"
+            ],
+            [
+              "35",
+              "Ohio",
+              "6.68%"
+            ],
+            [
+              "36",
+              "Delaware",
+              "6.66%"
+            ],
+            [
+              "37",
+              "Michigan",
+              "6.65%"
+            ],
+            [
+              "38",
+              "Indiana",
+              "6.64%"
+            ],
+            [
+              "39",
+              "Georgia",
+              "6.62%"
+            ],
+            [
+              "40",
+              "New Hampshire",
+              "6.42%"
+            ],
+            [
+              "41",
+              "South Carolina",
+              "6.13%"
+            ],
+            [
+              "42",
+              "Minnesota",
+              "6.09%"
+            ],
+            [
+              "43",
+              "Rhode Island",
+              "6.09%"
+            ],
+            [
+              "44",
+              "Florida",
+              "6.05%"
+            ],
+            [
+              "45",
+              "Colorado",
+              "6.05%"
+            ],
+            [
+              "46",
+              "Nevada",
+              "5.87%"
+            ],
+            [
+              "47",
+              "New Jersey",
+              "5.81%"
+            ],
+            [
+              "48",
+              "California",
+              "5.64%"
+            ],
+            [
+              "49",
+              "Virginia",
+              "5.62%"
+            ],
+            [
+              "50",
+              "Utah",
+              "5.11%"
+            ]
+          ],
+          "caption": "美国各州医疗开支占家庭收入比例排名（前50州）"
+        }
+      ],
+      "deep_dive": "## 医疗负担的地域格局与驱动因素\n\n报告显示，美国各州医疗开支占家庭收入的比例呈现显著的地域分化。这种差异并非随机分布，而是与各州的经济结构、人口特征及医疗保障政策紧密相关。\n\n- **高负担州**：阿拉斯加（10.08%）、俄勒冈（9.32%）、缅因（9.30%）等州位列前三。阿拉斯加的高负担主要源于其**极端地理环境**导致的物流成本高昂、医疗资源稀缺及服务价格高企。而密西西比（9.18%）、西弗吉尼亚（9.14%）等州的高负担则更可能反映其**较低的中位家庭收入**（分母较小）与相对不完善的公共医保覆盖（分子较大）的共同作用。一些南部和山地州的高排名也印证了经济欠发达地区居民医疗可及性与经济承受力的双重挑战。\n\n- **低负担州**：犹他州（5.11%）、弗吉尼亚（5.62%）、加利福尼亚（5.64%）等州负担较轻。这通常与**较高的人均收入水平**（拉高分母）以及**更完善的商业或公共医疗保险市场**有关。例如，加州拥有庞大的Medicaid（白卡）覆盖人群和发达的商业保险市场，有助于分散风险、降低个人自付比例。科罗拉多、明尼苏达等州也因稳健的经济和积极的医保改革而表现较好。\n\n## 区域经济与政策启示\n\n医疗负担的州际差异映射出更深层次的经济与社会议题。\n\n- **收入与成本的互动**：医疗开支占比是分子（医疗支出）与分母（家庭收入）共同决定的结果。高占比州可能面临“低收入”与“高医疗成本”的叠加困境，加剧贫困与健康不平等。反之，低占比州可能得益于经济增长与成本控制的良性循环。\n\n- **医保政策的州级实践**：美国医保体系复杂，各州在《平价医疗法案》（ACA）的执行力度、Medicaid扩展的参与程度上差异巨大。例如，未扩展Medicaid的州（多位于南部）其低收入居民的覆盖缺口可能更大，推高了整体负担。这凸显了州级政策选择对居民福祉的直接影响。\n\n- **对宏观经济的启示**：高医疗负担会挤占家庭的可支配收入，抑制消费和投资，尤其不利于中低收入家庭的经济安全。从区域发展角度看，这可能成为人才吸引和经济竞争力的潜在制约因素。因此，降低医疗负担不仅是社会政策目标，也是促进区域经济健康发展的关键一环。\n\n**局限性提示**：此数据为单一时间点的静态占比，未考虑医疗服务质量、个人健康状况及保险覆盖细节。进一步分析需结合保险类型、自付费用明细及健康结果指标，以得出更全面的结论。",
+      "glossary": [
+        {
+          "term": "医疗开支占家庭收入比例",
+          "explanation": "指家庭用于医疗保健（包括保险费、自付费用等）的年度总支出占其税前家庭总收入的百分比，是衡量医疗负担的核心指标。"
+        },
+        {
+          "term": "Medicaid扩展",
+          "explanation": "指美国各州根据《平价医疗法案》选择是否将Medicaid（医疗补助计划）的覆盖范围扩大至收入在联邦贫困线138%以下的成年人，此决策对低收入人群的医保覆盖影响重大。"
+        },
+        {
+          "term": "《平价医疗法案》（ACA）",
+          "explanation": "俗称“奥巴马医改”，是2010年颁布的美国联邦法律，旨在扩大医保覆盖范围、降低医疗成本并改革医保行业规则。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4aaad900",
     "title": "Mapped: Where Foreign Investment Is Flowing in Europe",
     "original_url": "https://www.visualcapitalist.com/mapped-foreign-investment-flowing-in-europe/",
