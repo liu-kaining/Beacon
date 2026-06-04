@@ -1,5 +1,70 @@
 [
   {
+    "id": "21df6277",
+    "title": "Mapped: The World’s Key Maritime Trade Chokepoints",
+    "original_url": "https://www.visualcapitalist.com/sp/ig02-mapped-the-worlds-maritime-trade-chokepoints/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/21df6277.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhlqTPFQqal6ioYxCeaKCvNFAECHmrCniqy1Kp4okBNkUVFk0VIz//2Q==",
+    "image_version": 1780594634,
+    "pub_date": "Thu, 04 Jun 2026 15:40:00 +0000",
+    "content_md": "| Chokepoints | Number of Ships YTD (thousands) |\n| --- | --- |\n| Suez Canal | 3.9 |\n| Cape of Good Hope | 8.9 |\n| Malacca Strait | 23.1 |\n| Panama Canal | 3.2 |\n| Strait of Hormuz | 5.2 |\n| Taiwan Strait | 22.8 |",
+    "ai_analysis": {
+      "core_insight": "马六甲与台湾海峡航运量遥遥领先，是全球贸易的绝对命脉。",
+      "data_highlights": [
+        "马六甲海峡以23.1千艘的船只通行量位居榜首，远超其他关键水道。",
+        "台湾海峡以22.8千艘紧随其后，显示其作为东亚航运枢纽的核心地位。",
+        "好望角航线船只通行量达8.9千艘，表明绕行非洲航线在特定时期仍具重要性。",
+        "苏伊士运河与巴拿马运河的通行船只数（3.9千与3.2千）相对较低，反映其体量限制。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Chokepoints",
+            "Number of Ships YTD (thousands)"
+          ],
+          "rows": [
+            [
+              "Suez Canal",
+              "3.9"
+            ],
+            [
+              "Cape of Good Hope",
+              "8.9"
+            ],
+            [
+              "Malacca Strait",
+              "23.1"
+            ],
+            [
+              "Panama Canal",
+              "3.2"
+            ],
+            [
+              "Strait of Hormuz",
+              "5.2"
+            ],
+            [
+              "Taiwan Strait",
+              "22.8"
+            ]
+          ],
+          "caption": "全球关键航运咽喉要道本年度至今船只通行量（千艘）"
+        }
+      ],
+      "deep_dive": "## 亚洲航运枢纽：集中与风险\n表格数据清晰地揭示，全球航运流量高度集中于亚洲的两大海峡。马六甲海峡与台湾海峡的船只通行量之和（45.9千艘）占本表所列六大要道总量的约67%，确立了它们作为连接太平洋与印度洋、东亚与全球市场关键通道的绝对主导地位。\n\n- **马六甲海峡**：作为中国、日本、韩国等主要经济体能源与货物进口的“咽喉”，其重要性不言而喻。巨大的通行量也意味着航道拥挤、事故风险及地缘政治敏感性。\n- **台湾海峡**：极高的通行量不仅反映了其商业价值，更凸显了该区域任何潜在的紧张局势都可能对全球供应链造成不可估量的冲击，其稳定性是全球贸易平稳运行的关键变量。\n\n## 传统运河与新兴航线：格局演变\n与亚洲双雄相比，连接大西洋与太平洋的两大传统运河——苏伊士运河和巴拿马运河——的船只通行数相对较低。这并非说明其不重要，而是反映了其物理容量限制、通行成本以及特定货种（如大型集装箱船、油轮）的分流效应。\n\n- **好望角航线的突出表现**：高达8.9千艘的通行量值得深思。这可能反映了在特定时期（如苏伊士运河拥堵或地缘政治冲突期间），船东主动选择绕行非洲以规避风险，也可能是受贸易格局变化影响。它凸显了全球航运路线的弹性和替代方案的存在。\n- **霍尔木兹海峡**：作为波斯湾石油外运的必经之路，其5.2千艘的通行量承载着全球能源安全的核心。尽管数量不及亚洲海峡，但其战略价值与敏感性极高，任何中断都将引发全球能源市场剧震。\n\n总体而言，当前全球海运格局呈现出“亚洲枢纽绝对主导、传统运河量受制、替代航线作用凸显”的鲜明特征，地缘政治风险与航运网络韧性成为影响全球贸易的关键考量。",
+      "glossary": [
+        {
+          "term": "Maritime Trade Chokepoint",
+          "explanation": "航运咽喉要道，指全球海运网络中因地理位置狭窄或关键而无法绕行、船只必须通过的特定航道或海峡。"
+        },
+        {
+          "term": "YTD",
+          "explanation": "Year-to-Date 的缩写，指从本年度1月1日到当前统计日期的累计数据。"
+        }
+      ]
+    }
+  },
+  {
     "id": "bb5acf9a",
     "title": "Mapped: Health Care Costs as a Share of Income by State",
     "original_url": "https://www.visualcapitalist.com/mapped-health-care-costs-share-of-income-by-state/",
