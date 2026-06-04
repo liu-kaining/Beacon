@@ -1,5 +1,172 @@
 [
   {
+    "id": "79e852c7",
+    "title": "Ranked: The Most Prosperous Advanced Economies",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-most-prosperous-advanced-economies/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/79e852c7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnIlzUjrgUkFSS/dr1OUzuUm60Uj/eoqLAf//Z",
+    "image_version": 1780602727,
+    "pub_date": "Thu, 04 Jun 2026 14:35:36 +0000",
+    "content_md": "| Rank | Country | Region | Prosperity score (0–100) |\n| --- | --- | --- | --- |\n| 1 | Norway | Europe | 77.65 |\n| 2 | Ireland | Europe | 75.06 |\n| 3 | Luxembourg | Europe | 74.39 |\n| 4 | Switzerland | Europe | 72.46 |\n| 5 | Iceland | Europe | 72.23 |\n| 6 | Singapore | Asia | 66.43 |\n| 7 | Denmark | Europe | 65.78 |\n| 8 | Netherlands | Europe | 58.17 |\n| 9 | Belgium | Europe | 54.83 |\n| 10 | Sweden | Europe | 54.62 |\n| 11 | Qatar | Middle East | 50.60 |\n| 12 | Germany | Europe | 50.41 |\n| 13 | United Arab Emirates | Middle East | 50.22 |\n| 14 | Finland | Europe | 49.13 |\n| 15 | Australia | Oceania | 46.24 |\n| 16 | Austria | Europe | 43.46 |\n| 17 | United States | North America | 43.39 |\n| 18 | Canada | North America | 39.44 |\n| 19 | Czech Republic | Europe | 38.49 |\n| 20 | France | Europe | 38.12 |",
+    "ai_analysis": {
+      "core_insight": "欧洲小国在繁荣指数上表现突出，前五均为欧洲国家。",
+      "data_highlights": [
+        "挪威以77.65分位居榜首，领先第二名爱尔兰超2.5分。",
+        "前十名中除新加坡（第6）外，其余均为欧洲国家，显示欧洲整体优势。",
+        "中东国家卡塔尔和阿联酋分列第11和第13位，表现不俗。",
+        "传统经济大国如美国（第17）和加拿大（第18）排名相对靠后。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Region",
+            "Prosperity score (0–100)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Norway",
+              "Europe",
+              "77.65"
+            ],
+            [
+              "2",
+              "Ireland",
+              "Europe",
+              "75.06"
+            ],
+            [
+              "3",
+              "Luxembourg",
+              "Europe",
+              "74.39"
+            ],
+            [
+              "4",
+              "Switzerland",
+              "Europe",
+              "72.46"
+            ],
+            [
+              "5",
+              "Iceland",
+              "Europe",
+              "72.23"
+            ],
+            [
+              "6",
+              "Singapore",
+              "Asia",
+              "66.43"
+            ],
+            [
+              "7",
+              "Denmark",
+              "Europe",
+              "65.78"
+            ],
+            [
+              "8",
+              "Netherlands",
+              "Europe",
+              "58.17"
+            ],
+            [
+              "9",
+              "Belgium",
+              "Europe",
+              "54.83"
+            ],
+            [
+              "10",
+              "Sweden",
+              "Europe",
+              "54.62"
+            ],
+            [
+              "11",
+              "Qatar",
+              "Middle East",
+              "50.60"
+            ],
+            [
+              "12",
+              "Germany",
+              "Europe",
+              "50.41"
+            ],
+            [
+              "13",
+              "United Arab Emirates",
+              "Middle East",
+              "50.22"
+            ],
+            [
+              "14",
+              "Finland",
+              "Europe",
+              "49.13"
+            ],
+            [
+              "15",
+              "Australia",
+              "Oceania",
+              "46.24"
+            ],
+            [
+              "16",
+              "Austria",
+              "Europe",
+              "43.46"
+            ],
+            [
+              "17",
+              "United States",
+              "North America",
+              "43.39"
+            ],
+            [
+              "18",
+              "Canada",
+              "North America",
+              "39.44"
+            ],
+            [
+              "19",
+              "Czech Republic",
+              "Europe",
+              "38.49"
+            ],
+            [
+              "20",
+              "France",
+              "Europe",
+              "38.12"
+            ]
+          ],
+          "caption": "最繁荣发达经济体排名（前20）"
+        }
+      ],
+      "deep_dive": "## 繁荣的地理格局：欧洲小国的集体优势\n本次排名揭示了繁荣程度的一个显著地理特征：**欧洲，尤其是西北欧的小型开放经济体，在榜单中占据压倒性优势**。前五名——挪威、爱尔兰、卢森堡、瑞士和冰岛——均为欧洲国家，且多为人口规模较小、经济高度开放的经济体。这打破了人们常将“大国”与“高繁荣”直接挂钩的固有认知。\n\n这种格局的形成机制可能在于：\n- **制度与治理质量**：这些国家通常拥有透明、高效的政府，健全的法治体系以及较低的腐败水平。\n- **高度开放的经济模式**：凭借特定领域的竞争优势（如挪威的能源、卢森堡的金融、瑞士的精密制造与制药）深度融入全球价值链。\n- **对人力资本的重视**：在教育、医疗和社会保障上的高投入，形成了良性循环。\n\n相比之下，美国（第17）、加拿大（第18）和法国（第20）等传统经济强国排名靠后，这可能暗示了“繁荣”指数不仅衡量经济规模或人均GDP，更综合考量了社会福祉、环境可持续性、个人自由等多维指标。在这些维度上，大国因内部差异大、社会问题复杂而可能面临更多挑战。\n\n## 指数内涵与启示：超越GDP的繁荣观\n“繁荣指数”通常由多个子指标加权构成，涵盖经济质量、商业环境、治理、教育、健康、个人自由、社会资本和自然环境等。因此，排名结果提供了与传统GDP排名迥异的视角。\n\n**关键启示包括：**\n- **规模非决定因素**：国家规模（人口、领土）与繁荣程度无必然正相关。小国可以通过精准的政策和专业化实现高繁荣。\n- **区域集群效应明显**：欧洲，特别是北欧和西欧地区，形成了高水平的繁荣集群，这与其长期的社会市场经济传统、区域一体化（如欧盟）以及共同的价值观密切相关。\n- **中东资源国的特殊路径**：卡塔尔和阿联酋凭借丰厚的能源收入，能够在经济质量、基建和安全等方面投入巨资，从而在发达经济体中占据一席之地，但其可持续性与社会结构的均衡性仍需观察。\n\n**局限与思考**：此类综合指数权重设置具有一定主观性，不同机构的结果可能差异显著。此外，繁荣是动态过程，排名变动才能更深刻反映各国政策与外部冲击的影响。对于排名靠后的发达经济体而言，需要审视其在社会保障、环境治理或社会公平等领域是否存在系统性短板。",
+      "glossary": [
+        {
+          "term": "繁荣指数 (Prosperity Index)",
+          "explanation": "一种衡量国家整体发展水平的综合性指标，通常超越经济产出（GDP），纳入治理、教育、健康、社会信任、个人自由和环境可持续性等多维度数据。"
+        },
+        {
+          "term": "发达经济体 (Advanced Economies)",
+          "explanation": "国际货币基金组织（IMF）等机构分类，通常指工业化程度高、人均收入高、金融市场成熟的国家或地区。"
+        },
+        {
+          "term": "小型开放经济体 (Small Open Economy)",
+          "explanation": "人口或经济规模相对较小，但贸易和资本流动高度自由化，对国际市场依赖度高的经济体。它们常通过专业化和全球化实现高收入。"
+        }
+      ]
+    }
+  },
+  {
     "id": "21df6277",
     "title": "Mapped: The World’s Key Maritime Trade Chokepoints",
     "original_url": "https://www.visualcapitalist.com/sp/ig02-mapped-the-worlds-maritime-trade-chokepoints/",
