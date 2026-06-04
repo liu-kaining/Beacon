@@ -1,5 +1,257 @@
 [
   {
+    "id": "4aaad900",
+    "title": "Mapped: Where Foreign Investment Is Flowing in Europe",
+    "original_url": "https://www.visualcapitalist.com/mapped-foreign-investment-flowing-in-europe/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4aaad900.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhoetXFOBVKLrVntXVFnHUHl6KhJ5orXmMuU//2Q==",
+    "image_version": 1780573354,
+    "pub_date": "Thu, 04 Jun 2026 03:45:06 +0000",
+    "content_md": "| Rank | Country | FDI Inflows in 2024 (billions of USD) |\n| --- | --- | --- |\n| 1 | Luxembourg | 105.99 |\n| 2 | France | 33.74 |\n| 3 | Spain | 30.54 |\n| 4 | Italy | 24.73 |\n| 5 | Sweden | 18.29 |\n| 6 | Portugal | 14.06 |\n| 7 | Poland | 12.74 |\n| 8 | Austria | 11.53 |\n| 9 | Norway | 10.76 |\n| 10 | Turkiye | 10.59 |\n| 11 | Czechia | 10.16 |\n| 12 | Netherlands | 9.27 |\n| 13 | Cyprus | 7.39 |\n| 14 | Greece | 7.30 |\n| 15 | Denmark | 6.90 |\n| 16 | Romania | 6.20 |\n| 17 | Hungary | 5.74 |\n| 18 | Germany | 5.72 |\n| 19 | Serbia | 5.64 |\n| 20 | Malta | 5.37 |\n| 21 | Croatia | 4.38 |\n| 22 | Russia | 3.35 |\n| 23 | Ukraine | 3.33 |\n| 24 | Lithuania | 3.27 |\n| 25 | Bulgaria | 3.09 |\n| 26 | Finland | 1.85 |\n| 27 | Slovakia | 1.84 |\n| 28 | Albania | 1.72 |\n| 29 | Belarus | 1.71 |\n| 30 | North Macedonia | 1.36 |\n| 31 | Slovenia | 1.30 |\n| 32 | Latvia | 1.21 |\n| 33 | Bosnia and Herzegovina | 1.11 |\n| 34 | Estonia | 0.78 |\n| 35 | Montenegro | 0.60 |\n| 36 | Moldova | 0.34 |\n| 37 | Iceland | 0.19 |\n| 38 | Belgium | -26.72 |\n| 39 | Ireland | -38.89 |\n| 40 | UK | -40.00 |\n| 41 | Switzerland | -60.71 |",
+    "ai_analysis": {
+      "core_insight": "卢森堡FDI流入遥遥领先，比利时、爱尔兰、英国及瑞士出现大幅净流出。",
+      "data_highlights": [
+        "卢森堡以1059.9亿美元FDI流入额断层式领跑欧洲，是第二名法国的31倍。",
+        "传统经济强国德国仅排第18位，流入额57.2亿美元，与其经济体量严重不符。",
+        "前20名中，南欧国家（西、意、葡、希）表现突出，吸引外资能力强劲。",
+        "比利时、爱尔兰、英国、瑞士四国FDI为负值，呈现显著的资本净流出状态。",
+        "中东欧国家如波兰、捷克、匈牙利等均实现正流入，显示区域投资吸引力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "FDI Inflows in 2024 (billions of USD)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Luxembourg",
+              "105.99"
+            ],
+            [
+              "2",
+              "France",
+              "33.74"
+            ],
+            [
+              "3",
+              "Spain",
+              "30.54"
+            ],
+            [
+              "4",
+              "Italy",
+              "24.73"
+            ],
+            [
+              "5",
+              "Sweden",
+              "18.29"
+            ],
+            [
+              "6",
+              "Portugal",
+              "14.06"
+            ],
+            [
+              "7",
+              "Poland",
+              "12.74"
+            ],
+            [
+              "8",
+              "Austria",
+              "11.53"
+            ],
+            [
+              "9",
+              "Norway",
+              "10.76"
+            ],
+            [
+              "10",
+              "Turkiye",
+              "10.59"
+            ],
+            [
+              "11",
+              "Czechia",
+              "10.16"
+            ],
+            [
+              "12",
+              "Netherlands",
+              "9.27"
+            ],
+            [
+              "13",
+              "Cyprus",
+              "7.39"
+            ],
+            [
+              "14",
+              "Greece",
+              "7.30"
+            ],
+            [
+              "15",
+              "Denmark",
+              "6.90"
+            ],
+            [
+              "16",
+              "Romania",
+              "6.20"
+            ],
+            [
+              "17",
+              "Hungary",
+              "5.74"
+            ],
+            [
+              "18",
+              "Germany",
+              "5.72"
+            ],
+            [
+              "19",
+              "Serbia",
+              "5.64"
+            ],
+            [
+              "20",
+              "Malta",
+              "5.37"
+            ],
+            [
+              "21",
+              "Croatia",
+              "4.38"
+            ],
+            [
+              "22",
+              "Russia",
+              "3.35"
+            ],
+            [
+              "23",
+              "Ukraine",
+              "3.33"
+            ],
+            [
+              "24",
+              "Lithuania",
+              "3.27"
+            ],
+            [
+              "25",
+              "Bulgaria",
+              "3.09"
+            ],
+            [
+              "26",
+              "Finland",
+              "1.85"
+            ],
+            [
+              "27",
+              "Slovakia",
+              "1.84"
+            ],
+            [
+              "28",
+              "Albania",
+              "1.72"
+            ],
+            [
+              "29",
+              "Belarus",
+              "1.71"
+            ],
+            [
+              "30",
+              "North Macedonia",
+              "1.36"
+            ],
+            [
+              "31",
+              "Slovenia",
+              "1.30"
+            ],
+            [
+              "32",
+              "Latvia",
+              "1.21"
+            ],
+            [
+              "33",
+              "Bosnia and Herzegovina",
+              "1.11"
+            ],
+            [
+              "34",
+              "Estonia",
+              "0.78"
+            ],
+            [
+              "35",
+              "Montenegro",
+              "0.60"
+            ],
+            [
+              "36",
+              "Moldova",
+              "0.34"
+            ],
+            [
+              "37",
+              "Iceland",
+              "0.19"
+            ],
+            [
+              "38",
+              "Belgium",
+              "-26.72"
+            ],
+            [
+              "39",
+              "Ireland",
+              "-38.89"
+            ],
+            [
+              "40",
+              "UK",
+              "-40.00"
+            ],
+            [
+              "41",
+              "Switzerland",
+              "-60.71"
+            ]
+          ],
+          "caption": "2024年欧洲各国/地区外国直接投资（FDI）流入排名"
+        }
+      ],
+      "deep_dive": "## 结构性分化：欧洲FDI版图的核心特征\n\n2024年欧洲外国直接投资（FDI）流入数据揭示出高度分化的格局，其核心特征可概括为“一超多强”与“传统大国失速”并存。\n\n- **卢森堡的“超级枢纽”地位**：卢森堡以1059.9亿美元的流入额占据绝对主导，这与其作为全球基金管理、控股公司和金融中介中心的地位密切相关。大量FDI可能并非源于实体生产投资，而是金融架构下的资本流动，这凸显了FDI数据在衡量实体经济吸引力时的局限性。\n- **南欧与中东欧的崛起**：法国、西班牙、意大利等传统西欧大国稳居前列，但葡萄牙（140.6亿）、希腊（73.0亿）等南欧国家以及波兰（127.4亿）、捷克（101.6亿）等中东欧国家表现抢眼。这些国家可能受益于欧盟结构基金、较低的生产成本、产业链重构以及数字经济等新兴领域的投资。\n- **德国的“意外”低迷**：作为欧洲最大经济体，德国仅位列第18，流入额仅57.2亿美元。这或反映出其能源成本高企、官僚主义、数字化基础设施相对滞后以及关键行业转型压力等因素对长期投资信心的影响。\n\n## 资本净流出：对特定模式的深度解读\n\n榜单末尾，比利时（-267.2亿）、爱尔兰（-388.9亿）、英国（-400.0亿）、瑞士（-607.1亿）四国出现大规模FDI净流出，这一现象需要辩证看待。\n\n- **不一定是经济“危机”信号**：对于爱尔兰、比利时、荷兰等拥有大量跨国企业总部的国家，FDI净流出可能源于母公司向海外子公司的资本划拨、利润汇回或企业内部结构调整，并非完全反映营商环境恶化。例如，爱尔兰的“负值”部分可能与其科技和制药巨头将利润进行全球再配置有关。\n- **英国与瑞士的独特挑战**：英国脱欧后的贸易壁垒、监管不确定性以及金融中心地位面临的竞争，可能是其资本外流的重要原因。瑞士则可能因全球最低企业税改革的预期，促使部分跨国企业调整其税收筹划策略，导致资本流出。\n- **对决策者的启示**：该数据警示，吸引FDI不能仅凭传统优势。各国需关注金融型FDI与实体型FDI的区别，同时在地缘政治变局、全球税收改革和供应链重组背景下，通过提升产业链韧性、投资绿色与数字转型、保持政策稳定性来构建可持续的引资竞争力。",
+      "glossary": [
+        {
+          "term": "外国直接投资（FDI）",
+          "explanation": "指一国居民或企业为获得对另一国企业持久的管理控制权而进行的投资，包括绿地投资、跨国并购等，是衡量经济开放度和吸引力的重要指标。"
+        },
+        {
+          "term": "资本净流出",
+          "explanation": "指在一定时期内，从一国流出的外国直接投资（包括外国企业撤资、本国企业对外投资等）超过流入该国的外国直接投资，导致净额为负。"
+        },
+        {
+          "term": "金融中介中心",
+          "explanation": "指像卢森堡、爱尔兰等国家，因其优惠的税收政策、完善的法律体系和监管环境，吸引了大量跨国企业设立控股、基金或知识产权管理公司，从而产生巨额金融性FDI流动。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b18ddca3",
     "title": "Ranked: Which States Use AI the Most?",
     "original_url": "https://www.visualcapitalist.com/ranked-which-states-use-ai-the-most/",
