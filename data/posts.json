@@ -1,5 +1,203 @@
 [
   {
+    "id": "b8d75e29",
+    "title": "Ranked: The World’s 25 Most Militarized Economies",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-25-most-militarized-economies/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b8d75e29.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnEGKmHSoxUgrABCKKdRTEf//Z",
+    "image_version": 1780660495,
+    "pub_date": "Fri, 05 Jun 2026 11:44:29 +0000",
+    "content_md": "| Rank | Country | Military Spending as a % of GDP | 2025 Military Spending |\n| --- | --- | --- | --- |\n| 1 | Ukraine | 39.6 | $84B |\n| 2 | Algeria | 8.8 | $25B |\n| 3 | Israel | 7.8 | $48B |\n| 4 | Russia | 7.5 | $190B |\n| 5 | Saudi Arabia | 6.5 | $83B |\n| 6 | Azerbaijan | 6.5 | $4.9B |\n| 7 | Armenia | 6.1 | $1.7B |\n| 8 | Oman | 5.7 | $6.0B |\n| 9 | Kuwait | 4.7 | $8.1B |\n| 10 | Jordan | 4.6 | $2.6B |\n| 11 | Poland | 4.5 | $47B |\n| 12 | Mali | 3.9 | $0.9B |\n| 13 | Latvia | 3.6 | $1.7B |\n| 14 | Morocco | 3.5 | $6.3B |\n| 15 | South Sudan | 3.4 | $0.2B |\n| 16 | Estonia | 3.4 | $1.6B |\n| 17 | Burkina Faso | 3.3 | $0.9B |\n| 18 | Norway | 3.3 | $17B |\n| 19 | Denmark | 3.3 | $15B |\n| 20 | Burundi | 3.2 | $0.2B |\n| 21 | Colombia | 3.2 | $14B |\n| 22 | Chad | 3.2 | $0.7B |\n| 23 | United States of America | 3.1 | $954B |\n| 24 | Bahrain | 3.1 | $1.5B |\n| 25 | Botswana | 3.1 | $0.6B |",
+    "ai_analysis": {
+      "core_insight": "乌克兰因战争军费占GDP比率遥遥领先，美国总支出最高但占比相对温和。",
+      "data_highlights": [
+        "乌克兰以39.6%的GDP占比高居榜首，远超其他国家，反映其处于全面战争状态。",
+        "美国2025年军费预算高达9540亿美元，总额全球第一，但占GDP比率仅为3.1%。",
+        "中东地区国家（阿尔及利亚、以色列、沙特阿拉伯等）普遍位列前十，凸显地缘安全压力。",
+        "波罗的海三国（拉脱维亚、爱沙尼亚）及波兰等北约东翼国家军费占比显著高于西欧。",
+        "多个非洲国家（马里、南苏丹等）上榜，表明安全与冲突是部分发展中国家的重要支出。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Military Spending as a % of GDP",
+            "2025 Military Spending"
+          ],
+          "rows": [
+            [
+              "1",
+              "Ukraine",
+              "39.6",
+              "$84B"
+            ],
+            [
+              "2",
+              "Algeria",
+              "8.8",
+              "$25B"
+            ],
+            [
+              "3",
+              "Israel",
+              "7.8",
+              "$48B"
+            ],
+            [
+              "4",
+              "Russia",
+              "7.5",
+              "$190B"
+            ],
+            [
+              "5",
+              "Saudi Arabia",
+              "6.5",
+              "$83B"
+            ],
+            [
+              "6",
+              "Azerbaijan",
+              "6.5",
+              "$4.9B"
+            ],
+            [
+              "7",
+              "Armenia",
+              "6.1",
+              "$1.7B"
+            ],
+            [
+              "8",
+              "Oman",
+              "5.7",
+              "$6.0B"
+            ],
+            [
+              "9",
+              "Kuwait",
+              "4.7",
+              "$8.1B"
+            ],
+            [
+              "10",
+              "Jordan",
+              "4.6",
+              "$2.6B"
+            ],
+            [
+              "11",
+              "Poland",
+              "4.5",
+              "$47B"
+            ],
+            [
+              "12",
+              "Mali",
+              "3.9",
+              "$0.9B"
+            ],
+            [
+              "13",
+              "Latvia",
+              "3.6",
+              "$1.7B"
+            ],
+            [
+              "14",
+              "Morocco",
+              "3.5",
+              "$6.3B"
+            ],
+            [
+              "15",
+              "South Sudan",
+              "3.4",
+              "$0.2B"
+            ],
+            [
+              "16",
+              "Estonia",
+              "3.4",
+              "$1.6B"
+            ],
+            [
+              "17",
+              "Burkina Faso",
+              "3.3",
+              "$0.9B"
+            ],
+            [
+              "18",
+              "Norway",
+              "3.3",
+              "$17B"
+            ],
+            [
+              "19",
+              "Denmark",
+              "3.3",
+              "$15B"
+            ],
+            [
+              "20",
+              "Burundi",
+              "3.2",
+              "$0.2B"
+            ],
+            [
+              "21",
+              "Colombia",
+              "3.2",
+              "$14B"
+            ],
+            [
+              "22",
+              "Chad",
+              "3.2",
+              "$0.7B"
+            ],
+            [
+              "23",
+              "United States of America",
+              "3.1",
+              "$954B"
+            ],
+            [
+              "24",
+              "Bahrain",
+              "3.1",
+              "$1.5B"
+            ],
+            [
+              "25",
+              "Botswana",
+              "3.1",
+              "$0.6B"
+            ]
+          ],
+          "caption": "2025年全球军费开支占GDP比率最高的25个经济体"
+        }
+      ],
+      "deep_dive": "## 一、 榜单揭示的核心模式：战争驱动与地缘政治压力\n本榜单清晰地反映了当前全球安全环境的两种主要驱动模式。**首先是生存性战争的直接冲击**，乌克兰以惊人的39.6%的GDP占比位居榜首，这并非其历史常态，而是俄乌全面战争状态下的极端表现。其2025年840亿美元的预算虽不及美国的零头，但相对其经济规模，已构成全面的国家动员。**其次是持续的区域安全竞争与威胁感知**，这体现在中东、北非及高加索地区（阿尔及利亚、以色列、沙特、阿塞拜疆、亚美尼亚等）的集中上榜。这些国家长期面临领土争端、地区冲突或恐怖主义威胁，军事支出居高不下成为常态。值得注意的是，以色列（7.8%）与沙特（6.5%）的高投入与其面临的复杂地缘环境和尖端装备采购需求密切相关。\n\n## 二、 结构性对比：绝对支出与相对负担\n榜单同时揭示了“绝对规模”与“相对负担”的巨大差异。**美国以9540亿美元的绝对支出额高居全球首位，是第二名（俄罗斯1900亿）的五倍**，彰显其全球军事霸权的物质基础。然而，其3.1%的GDP占比仅列第23位，说明其庞大的军事开支是建立在更为庞大的经济总量之上，财政负担相对可控。与之形成鲜明对比的是，波兰（4.5%）、拉脱维亚（3.6%）、爱沙尼亚（3.4%）等北约东翼国家，其军费占比显著高于多数西欧国家（如德国、法国未上榜）。这直接反映了自2014年克里米亚事件、特别是2022年俄乌战争以来，欧洲安全架构的重组与前线国家的深度焦虑，它们正以更高的经济代价来强化国防。\n\n## 三、 趋势与启示：安全成本的再分配\n此排名表实质上是一份全球安全成本的“压力分布图”。它预示着几个趋势：1）**冲突的长期化**会彻底重塑国家财政结构（如乌克兰）；2）**联盟体系的前沿防御**正显著增加成员国的财政投入（如波兰及波罗的海国家）；3）**资源富国**（如中东产油国、博茨瓦纳）有能力也有意愿将石油等资源收入转化为军事投资，以维护政权稳定和地区影响力；4）部分**非洲萨赫勒国家**（马里、布基纳法索等）上榜，反映出内部反叛乱、反恐任务对军费的刚性需求。然而，榜单也有其局限性：它仅展示了“支出”端，未涉及军事效率、装备技术代差或实际战力。一个占GDP 3%的现代化军队，其作战能力可能远超一个占GDP 6%但装备落后的军队。此外，数据主要基于预测和估算，且未包含情报、部分安全机构预算等隐性军事开支。",
+      "glossary": [
+        {
+          "term": "军事支出占GDP比率",
+          "explanation": "指一国年度国防开支总额除以其国内生产总值所得的百分比，用于衡量国家经济对军事活动的投入强度及财政负担。"
+        },
+        {
+          "term": "绝对军事支出",
+          "explanation": "指一国年度国防预算的货币总额，直接反映该国可投入军事领域的资源规模，是衡量军事硬实力的重要基础指标。"
+        },
+        {
+          "term": "北约东翼",
+          "explanation": "指北大西洋公约组织中地理位置靠近俄罗斯的成员国，如波兰、波罗的海三国等。这些国家因直接面临传统安全威胁，其国防政策与军费开支往往更具敏感性和反应性。"
+        }
+      ]
+    }
+  },
+  {
     "id": "79e852c7",
     "title": "Ranked: The Most Prosperous Advanced Economies",
     "original_url": "https://www.visualcapitalist.com/ranked-the-most-prosperous-advanced-economies/",
