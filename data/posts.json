@@ -1,5 +1,312 @@
 [
   {
+    "id": "22aca93d",
+    "title": "Mapped: Electricity Prices Across America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-electricity-prices-are-highest-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/22aca93d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAbABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC8sJpHiIrSSMGmTRDFaKrZniSw/u3MorzRVho/moro5zidMuxzCiWYEVSQn1pJCcda5eRXO32z5bDmkG6iqjE560VvY5XI/9k=",
+    "image_version": 1780679198,
+    "pub_date": "Fri, 05 Jun 2026 14:35:27 +0000",
+    "content_md": "| State or District | Avg. Residential Electricity Price(Cents per kWh Mar 2026) | Change (yoy) |\n| --- | --- | --- |\n| Hawaii | 42¢ | 2.7% |\n| California | 33¢ | 2.7% |\n| Connecticut | 30¢ | -6.2% |\n| Massachusetts | 30¢ | 0.1% |\n| Rhode Island | 30¢ | -7.4% |\n| New York | 29¢ | 12.2% |\n| Maine | 28¢ | 0.2% |\n| Alaska | 27¢ | 5.4% |\n| New Hampshire | 27¢ | 18.0% |\n| District of Columbia | 25¢ | 22.5% |\n| Vermont | 24¢ | 7.7% |\n| New Jersey | 23¢ | 18.2% |\n| Maryland | 22¢ | 17.2% |\n| Michigan | 21¢ | 9.6% |\n| Pennsylvania | 21¢ | 13.6% |\n| Illinois | 19¢ | 7.5% |\n| Wisconsin | 19¢ | 5.9% |\n| Ohio | 19¢ | 16.6% |\n| Indiana | 18¢ | 8.8% |\n| Delaware | 18¢ | 5.6% |\n| Alabama | 17¢ | 3.6% |\n| Virginia | 17¢ | 14.5% |\n| Colorado | 17¢ | 11.3% |\n| South Carolina | 16¢ | 7.7% |\n| Texas | 16¢ | 7.3% |\n| West Virginia | 16¢ | 3.0% |\n| Mississippi | 16¢ | 11.3% |\n| North Carolina | 16¢ | 8.1% |\n| Arizona | 16¢ | 3.0% |\n| Kansas | 15¢ | 7.0% |\n| Minnesota | 15¢ | -0.1% |\n| Tennessee | 15¢ | 12.8% |\n| Georgia | 15¢ | 2.2% |\n| Oregon | 15¢ | -1.8% |\n| Kentucky | 15¢ | 12.7% |\n| Florida | 15¢ | -1.5% |\n| New Mexico | 15¢ | 0.2% |\n| Washington | 14¢ | 14.1% |\n| South Dakota | 14¢ | 12.1% |\n| Nevada | 14¢ | -1.8% |\n| Louisiana | 14¢ | 8.4% |\n| Arkansas | 14¢ | 8.3% |\n| Wyoming | 14¢ | 9.5% |\n| Oklahoma | 14¢ | 9.6% |\n| Montana | 13¢ | 13.0% |\n| Missouri | 13¢ | 11.9% |\n| Iowa | 13¢ | 7.5% |\n| Utah | 13¢ | 6.3% |\n| Nebraska | 13¢ | 11.9% |\n| Idaho | 13¢ | 12.4% |\n| North Dakota | 12¢ | 7.6% |\n| U.S. Average | 19¢ | 8.6% |",
+    "ai_analysis": {
+      "core_insight": "美国电价呈现显著地域差异，东北部高电价区涨幅惊人。",
+      "data_highlights": [
+        "夏威夷以每度电42美分的价格，成为美国电价最贵的州，是全美平均价格的两倍多。",
+        "东北部多州价格高企，纽约州、新罕布什尔州等地同比涨幅超过12%，其中新罕布什尔州涨幅高达18%。",
+        "电价最低的州集中在中西部和西北部，如北达科他州、爱达荷州等，价格在12-13美分之间。",
+        "全美平均电价为19美分/度，同比上涨8.6%，大部分州电价呈上涨趋势。",
+        "部分州电价出现同比下降，如罗德岛州、佛罗里达州等，显示区域市场存在分化。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State or District",
+            "Avg. Residential Electricity Price(Cents per kWh Mar 2026)",
+            "Change (yoy)"
+          ],
+          "rows": [
+            [
+              "Hawaii",
+              "42¢",
+              "2.7%"
+            ],
+            [
+              "California",
+              "33¢",
+              "2.7%"
+            ],
+            [
+              "Connecticut",
+              "30¢",
+              "-6.2%"
+            ],
+            [
+              "Massachusetts",
+              "30¢",
+              "0.1%"
+            ],
+            [
+              "Rhode Island",
+              "30¢",
+              "-7.4%"
+            ],
+            [
+              "New York",
+              "29¢",
+              "12.2%"
+            ],
+            [
+              "Maine",
+              "28¢",
+              "0.2%"
+            ],
+            [
+              "Alaska",
+              "27¢",
+              "5.4%"
+            ],
+            [
+              "New Hampshire",
+              "27¢",
+              "18.0%"
+            ],
+            [
+              "District of Columbia",
+              "25¢",
+              "22.5%"
+            ],
+            [
+              "Vermont",
+              "24¢",
+              "7.7%"
+            ],
+            [
+              "New Jersey",
+              "23¢",
+              "18.2%"
+            ],
+            [
+              "Maryland",
+              "22¢",
+              "17.2%"
+            ],
+            [
+              "Michigan",
+              "21¢",
+              "9.6%"
+            ],
+            [
+              "Pennsylvania",
+              "21¢",
+              "13.6%"
+            ],
+            [
+              "Illinois",
+              "19¢",
+              "7.5%"
+            ],
+            [
+              "Wisconsin",
+              "19¢",
+              "5.9%"
+            ],
+            [
+              "Ohio",
+              "19¢",
+              "16.6%"
+            ],
+            [
+              "Indiana",
+              "18¢",
+              "8.8%"
+            ],
+            [
+              "Delaware",
+              "18¢",
+              "5.6%"
+            ],
+            [
+              "Alabama",
+              "17¢",
+              "3.6%"
+            ],
+            [
+              "Virginia",
+              "17¢",
+              "14.5%"
+            ],
+            [
+              "Colorado",
+              "17¢",
+              "11.3%"
+            ],
+            [
+              "South Carolina",
+              "16¢",
+              "7.7%"
+            ],
+            [
+              "Texas",
+              "16¢",
+              "7.3%"
+            ],
+            [
+              "West Virginia",
+              "16¢",
+              "3.0%"
+            ],
+            [
+              "Mississippi",
+              "16¢",
+              "11.3%"
+            ],
+            [
+              "North Carolina",
+              "16¢",
+              "8.1%"
+            ],
+            [
+              "Arizona",
+              "16¢",
+              "3.0%"
+            ],
+            [
+              "Kansas",
+              "15¢",
+              "7.0%"
+            ],
+            [
+              "Minnesota",
+              "15¢",
+              "-0.1%"
+            ],
+            [
+              "Tennessee",
+              "15¢",
+              "12.8%"
+            ],
+            [
+              "Georgia",
+              "15¢",
+              "2.2%"
+            ],
+            [
+              "Oregon",
+              "15¢",
+              "-1.8%"
+            ],
+            [
+              "Kentucky",
+              "15¢",
+              "12.7%"
+            ],
+            [
+              "Florida",
+              "15¢",
+              "-1.5%"
+            ],
+            [
+              "New Mexico",
+              "15¢",
+              "0.2%"
+            ],
+            [
+              "Washington",
+              "14¢",
+              "14.1%"
+            ],
+            [
+              "South Dakota",
+              "14¢",
+              "12.1%"
+            ],
+            [
+              "Nevada",
+              "14¢",
+              "-1.8%"
+            ],
+            [
+              "Louisiana",
+              "14¢",
+              "8.4%"
+            ],
+            [
+              "Arkansas",
+              "14¢",
+              "8.3%"
+            ],
+            [
+              "Wyoming",
+              "14¢",
+              "9.5%"
+            ],
+            [
+              "Oklahoma",
+              "14¢",
+              "9.6%"
+            ],
+            [
+              "Montana",
+              "13¢",
+              "13.0%"
+            ],
+            [
+              "Missouri",
+              "13¢",
+              "11.9%"
+            ],
+            [
+              "Iowa",
+              "13¢",
+              "7.5%"
+            ],
+            [
+              "Utah",
+              "13¢",
+              "6.3%"
+            ],
+            [
+              "Nebraska",
+              "13¢",
+              "11.9%"
+            ],
+            [
+              "Idaho",
+              "13¢",
+              "12.4%"
+            ],
+            [
+              "North Dakota",
+              "12¢",
+              "7.6%"
+            ],
+            [
+              "U.S. Average",
+              "19¢",
+              "8.6%"
+            ]
+          ],
+          "caption": "2026年3月美国各州/特区平均居民电价及同比变化"
+        }
+      ],
+      "deep_dive": "## 电价地域差异的驱动因素\n美国电价呈现鲜明的“东高西低、沿海高于内陆”格局。这种差异主要由以下因素驱动：\n- **能源结构与资源禀赋**：夏威夷长期依赖昂贵的进口石油发电，导致电价畸高。加利福尼亚州虽有丰富的太阳能，但其严格的环保法规、高昂的土地和输电成本推高了电价。相反，西北部的华盛顿州、爱达荷州拥有丰富且廉价的水电资源，电价较低。\n- **市场结构与监管政策**：东北部各州（如纽约、马萨诸塞）普遍采用受监管的垄断电力市场，且电价中包含大量用于支持可再生能源、能效计划的附加费。中西部和南部许多州实行更开放的竞争性市场，或拥有较低的州税，有助于控制成本。\n- **基础设施与需求密度**：东北部地区人口密集、电网老化，升级和维护成本高，最终转嫁给消费者。\n\n## 价格波动与未来展望\n- **同比涨幅的“热区”分析**：哥伦比亚特区（22.5%）、新罕布什尔州（18.0%）等东北部地区涨幅领先。这反映出该区域面临天然气价格波动、电网现代化投资加速以及政策性成本叠加的多重压力。值得关注的是，部分中部州如俄亥俄（16.6%）和弗吉尼亚（14.5%）涨幅也较高，可能与数据中心等大型负荷增长迅速有关。\n- **逆势下降的启示**：康涅狄格（-6.2%）、罗德岛（-7.4%）等州的价格下降，可能源于特定合同电价的到期、市场竞争的暂时缓和，或是一次性账单信用返还。这提示电价不仅受长期结构因素影响，也受短期市场交易和政策调整的扰动。\n- **对能源转型的启示**：高电价州可能加速居民和工商业的分布式光伏、储能部署，以规避高昂的电网电费。而低电价州在推动电气化（如电动汽车、热泵）方面则具有天然的成本优势。然而，电价差异也凸显了全国统一清洁能源政策和跨区输电基础设施建设的紧迫性，以平衡区域成本、促进更公平的能源转型。",
+      "glossary": [
+        {
+          "term": "居民电价",
+          "explanation": "指家庭用户消费电力所支付的价格，通常以每千瓦时（kWh）或每度电为单位，包含发电、输配电、税费和各类附加费。"
+        },
+        {
+          "term": "同比变化",
+          "explanation": "与上年同期相比的变化百分比，用于衡量价格或数据的年度趋势，排除了季节性波动的影响。"
+        },
+        {
+          "term": "能源结构",
+          "explanation": "指一个地区电力生产来源的构成比例，如煤电、天然气、核电、水电、风电、太阳能等，是影响电价的关键因素。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b8d75e29",
     "title": "Ranked: The World’s 25 Most Militarized Economies",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-25-most-militarized-economies/",
