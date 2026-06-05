@@ -1,5 +1,149 @@
 [
   {
+    "id": "d953fa05",
+    "title": "Mapped: The World’s Crude Oil Trade Flows by Region",
+    "original_url": "https://www.visualcapitalist.com/mapped-global-crude-oil-trade-flows-by-region-2024/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d953fa05.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtd1Kr81ETTd2DWaHNoth+KKriQYoqyLkTE1ExNFFSjMbuNFFFUB//2Q==",
+    "image_version": 1780697261,
+    "pub_date": "Fri, 05 Jun 2026 20:30:34 +0000",
+    "content_md": "| Million barrels/day (Mb/d) | North America Inflows | Europe Inflows | China Inflows | India Inflows | Japan & South Korea Inflows | Rest of Asia Pacific Inflows |\n| --- | --- | --- | --- | --- | --- | --- |\n| North America Outflows | n/a | 2.2 | 0.3 | 0.3 | 0.5 | 0.7 |\n| S. & Cent. America Outflows | 1.1 | 0.9 | 1.1 | <0.2 | <0.2 | 0.2 |\n| CIS Outflows | <0.2 | 2.2 | 2.2 | 1.7 | <0.2 | <0.2 |\n| Persian Gulf Outflows | 0.6 | 2.2 | 5.1 | 2.0 | 4.2 | 1.9 |\n| Africa Outflows | 0.4 | 2.3 | 1.0 | 0.3 | <0.2 | 0.4 |\n\n|  | Gross Exports (Mb/d) | Net Exports (Mb/d) | Implied Imports (Mb/d) |\n| --- | --- | --- | --- |\n| Persian Gulf | 16.4 | 15.7 | 0.7 |\n| North America | 9.2 | 2.1 | 7.1 |\n| CIS | 6.4 | 6.1 | 0.3 |\n| Africa | 4.9 | 4.6 | 0.3 |\n| Central & South America | 4.0 | 3.4 | 0.6 |",
+    "ai_analysis": {
+      "core_insight": "波斯湾是全球原油出口核心，中国是最大进口目的地。",
+      "data_highlights": [
+        "波斯湾地区以16.4百万桶/日的出口量居全球首位，其净出口高达15.7百万桶/日。",
+        "中国是波斯湾原油的最大买家，日进口量达5.1百万桶/日。",
+        "北美地区总出口量虽大（9.2百万桶/日），但净出口仅为2.1百万桶/日，是重要的净进口区域。",
+        "独联体（CIS）地区的原油主要流向欧洲和中国，出口结构较为集中。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "出口区域",
+            "北美",
+            "欧洲",
+            "中国",
+            "印度",
+            "日韩",
+            "亚太其他"
+          ],
+          "rows": [
+            [
+              "北美",
+              "n/a",
+              "2.2",
+              "0.3",
+              "0.3",
+              "0.5",
+              "0.7"
+            ],
+            [
+              "中南美",
+              "1.1",
+              "0.9",
+              "1.1",
+              "<0.2",
+              "<0.2",
+              "0.2"
+            ],
+            [
+              "独联体",
+              "<0.2",
+              "2.2",
+              "2.2",
+              "1.7",
+              "<0.2",
+              "<0.2"
+            ],
+            [
+              "波斯湾",
+              "0.6",
+              "2.2",
+              "5.1",
+              "2.0",
+              "4.2",
+              "1.9"
+            ],
+            [
+              "非洲",
+              "0.4",
+              "2.3",
+              "1.0",
+              "0.3",
+              "<0.2",
+              "0.4"
+            ]
+          ],
+          "caption": "全球各区域原油贸易流向（百万桶/日）"
+        },
+        {
+          "headers": [
+            "区域",
+            "总出口",
+            "净出口",
+            "隐含进口"
+          ],
+          "rows": [
+            [
+              "波斯湾",
+              "16.4",
+              "15.7",
+              "0.7"
+            ],
+            [
+              "北美",
+              "9.2",
+              "2.1",
+              "7.1"
+            ],
+            [
+              "独联体",
+              "6.4",
+              "6.1",
+              "0.3"
+            ],
+            [
+              "非洲",
+              "4.9",
+              "4.6",
+              "0.3"
+            ],
+            [
+              "中南美",
+              "4.0",
+              "3.4",
+              "0.6"
+            ]
+          ],
+          "caption": "主要区域原油出口与净出口（百万桶/日）"
+        }
+      ],
+      "deep_dive": "## 供应格局：以波斯湾为核心的出口体系\n\n数据清晰勾勒出全球原油供应格局呈现显著的“单极”特征。波斯湾地区以16.4百万桶/日的总出口量和15.7百万桶/日的净出口量，无可争议地占据全球原油供应中心的宝座。其出口流向极为广泛，覆盖了亚洲、欧洲和北美所有主要消费区，其中对中国的出口量高达5.1百万桶/日，对日韩的出口也达到4.2百万桶/日，凸显了其对亚太能源安全的关键作用。相比之下，独联体（CIS）和非洲是另外两个重要的出口方，但规模和影响力远不及波斯湾。北美虽然总出口量达到9.2百万桶/日，但其净出口仅为2.1百万桶/日，表明该区域内部消费与再出口贸易活跃，自身仍是原油净需求方。\n\n## 需求格局：亚太成为最大目的地，中国独占鳌头\n\n从需求侧看，亚太地区（包括中国、印度、日韩及其他亚太地区）是全球原油的“汇”。表格显示，波斯湾流向亚太的原油总量高达13.2百万桶/日（5.1+2.0+4.2+1.9），占其总出口的绝对大头。欧洲和北美作为传统消费中心，也保持着稳定的进口量，但增长引擎已明显东移。中国以从全球各产区（尤其波斯湾和独联体）大量进口而成为全球最大单一进口国，其庞大的需求深刻影响着全球贸易路线和定价。印度的需求规模相对较小，但亦是重要的新兴市场。\n\n## 潜在启示与局限\n\n这种贸易格局意味着全球能源安全高度依赖霍尔木兹海峡等关键海上通道，地缘政治风险集中。对于进口国而言，实现供应来源多元化（如增加从美洲、非洲的进口）是战略要务。对于出口国，经济对能源收入的依赖度高，面临能源转型压力。需要注意的是，数据为特定时间点的快照，未反映季节性波动和长期趋势。此外，表格中的“隐含进口”是基于总出口与净出口的差值推算，可能包含库存变动等因素，与直接统计的进口流量表在统计口径上可能存在细微差异。",
+      "glossary": [
+        {
+          "term": "总出口（Gross Exports）",
+          "explanation": "一个国家或地区在一定时期内出口的原油总量，不考虑其同期的进口。"
+        },
+        {
+          "term": "净出口（Net Exports）",
+          "explanation": "总出口减去总进口。正值表示该地区是原油的净供应方，负值表示是净需求方。"
+        },
+        {
+          "term": "隐含进口（Implied Imports）",
+          "explanation": "通过总出口减去净出口计算得出的进口量估算值，常用于平衡贸易流量表。"
+        },
+        {
+          "term": "独联体（CIS）",
+          "explanation": "独立国家联合体，主要包括俄罗斯等前苏联加盟共和国，是全球重要的原油出口区域。"
+        },
+        {
+          "term": "百万桶/日（Mb/d）",
+          "explanation": "衡量原油生产或消费流量的常用单位，表示每天处理的原油量，单位为百万桶。"
+        }
+      ]
+    }
+  },
+  {
     "id": "22aca93d",
     "title": "Mapped: Electricity Prices Across America",
     "original_url": "https://www.visualcapitalist.com/mapped-where-electricity-prices-are-highest-in-america/",
