@@ -1,5 +1,597 @@
 [
   {
+    "id": "faf4c786",
+    "title": "Mapped: The 48 Nations Playing in FIFA World Cup 2026",
+    "original_url": "https://www.visualcapitalist.com/every-country-playing-in-the-2026-world-cup/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/faf4c786.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDgxTXFOWkfpQBWI5opx60UAf/Z",
+    "image_version": 1780782775,
+    "pub_date": "Sat, 06 Jun 2026 20:41:53 +0000",
+    "content_md": "| Country | Group | Confederation |\n| --- | --- | --- |\n| Algeria | J | CAF |\n| Argentina | J | CONMEBOL |\n| Australia | D | AFC |\n| Austria | J | UEFA |\n| Belgium | G | UEFA |\n| Bosnia and Herzegovina | B | UEFA |\n| Brazil | C | CONMEBOL |\n| Cabo Verde | H | CAF |\n| Canada | B | CONCACAF |\n| Colombia | K | CONMEBOL |\n| Congo (DRC) | K | CAF |\n| Cote d'Ivoire | E | CAF |\n| Croatia | L | UEFA |\n| Curaçao | E | CONCACAF |\n| Czechia | A | UEFA |\n| Ecuador | E | CONMEBOL |\n| Egypt | G | CAF |\n| England | L | UEFA |\n| France | I | UEFA |\n| Germany | E | UEFA |\n| Ghana | L | CAF |\n| Haiti | C | CONCACAF |\n| Iran | G | AFC |\n| Iraq | I | AFC |\n| Japan | F | AFC |\n| Jordan | J | AFC |\n| Korea (South) | A | AFC |\n| Mexico | A | CONCACAF |\n| Morocco | C | CAF |\n| Netherlands | F | UEFA |\n| New Zealand | G | OFC |\n| Norway | I | UEFA |\n| Panama | L | CONCACAF |\n| Paraguay | D | CONMEBOL |\n| Portugal | K | UEFA |\n| Qatar | B | AFC |\n| Saudi Arabia | H | AFC |\n| Scotland | C | UEFA |\n| Senegal | I | CAF |\n| South Africa | A | CAF |\n| Spain | H | UEFA |\n| Sweden | F | UEFA |\n| Switzerland | B | UEFA |\n| Tunisia | F | CAF |\n| Turkiye | D | UEFA |\n| U.S. | D | CONCACAF |\n| Uruguay | H | CONMEBOL |\n| Uzbekistan | K | AFC |",
+    "ai_analysis": {
+      "core_insight": "2026世界杯首次扩军至48队，欧洲席位最多，亚洲与非洲参赛队伍显著增加。",
+      "data_highlights": [
+        "欧洲以16队占据最大份额，反映其足球实力与影响力。",
+        "亚洲（AFC）与非洲（CAF）各有9队参赛，创下历史最高纪录。",
+        "东道主美国、加拿大、墨西哥均获参赛资格，同处D组。",
+        "大洋洲（OFC）仅新西兰一队参赛，凸显洲际发展不均衡。",
+        "南美强队悉数入围，但参赛队数少于欧洲与亚非。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Group",
+            "Confederation"
+          ],
+          "rows": [
+            [
+              "Algeria",
+              "J",
+              "CAF"
+            ],
+            [
+              "Argentina",
+              "J",
+              "CONMEBOL"
+            ],
+            [
+              "Australia",
+              "D",
+              "AFC"
+            ],
+            [
+              "Austria",
+              "J",
+              "UEFA"
+            ],
+            [
+              "Belgium",
+              "G",
+              "UEFA"
+            ],
+            [
+              "Bosnia and Herzegovina",
+              "B",
+              "UEFA"
+            ],
+            [
+              "Brazil",
+              "C",
+              "CONMEBOL"
+            ],
+            [
+              "Cabo Verde",
+              "H",
+              "CAF"
+            ],
+            [
+              "Canada",
+              "B",
+              "CONCACAF"
+            ],
+            [
+              "Colombia",
+              "K",
+              "CONMEBOL"
+            ],
+            [
+              "Congo (DRC)",
+              "K",
+              "CAF"
+            ],
+            [
+              "Cote d'Ivoire",
+              "E",
+              "CAF"
+            ],
+            [
+              "Croatia",
+              "L",
+              "UEFA"
+            ],
+            [
+              "Curaçao",
+              "E",
+              "CONCACAF"
+            ],
+            [
+              "Czechia",
+              "A",
+              "UEFA"
+            ],
+            [
+              "Ecuador",
+              "E",
+              "CONMEBOL"
+            ],
+            [
+              "Egypt",
+              "G",
+              "CAF"
+            ],
+            [
+              "England",
+              "L",
+              "UEFA"
+            ],
+            [
+              "France",
+              "I",
+              "UEFA"
+            ],
+            [
+              "Germany",
+              "E",
+              "UEFA"
+            ],
+            [
+              "Ghana",
+              "L",
+              "CAF"
+            ],
+            [
+              "Haiti",
+              "C",
+              "CONCACAF"
+            ],
+            [
+              "Iran",
+              "G",
+              "AFC"
+            ],
+            [
+              "Iraq",
+              "I",
+              "AFC"
+            ],
+            [
+              "Japan",
+              "F",
+              "AFC"
+            ],
+            [
+              "Jordan",
+              "J",
+              "AFC"
+            ],
+            [
+              "Korea (South)",
+              "A",
+              "AFC"
+            ],
+            [
+              "Mexico",
+              "A",
+              "CONCACAF"
+            ],
+            [
+              "Morocco",
+              "C",
+              "CAF"
+            ],
+            [
+              "Netherlands",
+              "F",
+              "UEFA"
+            ],
+            [
+              "New Zealand",
+              "G",
+              "OFC"
+            ],
+            [
+              "Norway",
+              "I",
+              "UEFA"
+            ],
+            [
+              "Panama",
+              "L",
+              "CONCACAF"
+            ],
+            [
+              "Paraguay",
+              "D",
+              "CONMEBOL"
+            ],
+            [
+              "Portugal",
+              "K",
+              "UEFA"
+            ],
+            [
+              "Qatar",
+              "B",
+              "AFC"
+            ],
+            [
+              "Saudi Arabia",
+              "H",
+              "AFC"
+            ],
+            [
+              "Scotland",
+              "C",
+              "UEFA"
+            ],
+            [
+              "Senegal",
+              "I",
+              "CAF"
+            ],
+            [
+              "South Africa",
+              "A",
+              "CAF"
+            ],
+            [
+              "Spain",
+              "H",
+              "UEFA"
+            ],
+            [
+              "Sweden",
+              "F",
+              "UEFA"
+            ],
+            [
+              "Switzerland",
+              "B",
+              "UEFA"
+            ],
+            [
+              "Tunisia",
+              "F",
+              "CAF"
+            ],
+            [
+              "Turkiye",
+              "D",
+              "UEFA"
+            ],
+            [
+              "U.S.",
+              "D",
+              "CONCACAF"
+            ],
+            [
+              "Uruguay",
+              "H",
+              "CONMEBOL"
+            ],
+            [
+              "Uzbekistan",
+              "K",
+              "AFC"
+            ]
+          ],
+          "caption": "2026年世界杯48支参赛队伍及其分组与所属联合会"
+        }
+      ],
+      "deep_dive": "## 格局演变：扩军背后的权力版图\n\n2026年世界杯扩军至48队，是国际足联推动足球全球化的重要一步。从参赛队伍分布看，**欧洲（UEFA）以16队占据总名额的三分之一**，这既体现了其深厚的足球底蕴和竞技水平，也延续了其在世界杯体系中的传统强势地位。相比之下，**亚洲（AFC）和非洲（CAF）各获得9个席位**，创下了两大洲在世界杯历史上的参赛队伍数量新高。这一变化直接源于国际足联对“足球新兴市场”的资源倾斜，旨在提升世界杯的全球覆盖面和商业价值。然而，名额增加是否必然带来竞技水平的整体提升，仍需观察这些新晋球队在正赛中的表现。\n\n## 区域博弈与竞争焦点\n\n- **欧洲的广度与深度**：16支欧洲队伍覆盖了从传统豪强（如法国、德国、英格兰、西班牙）到新兴力量（如奥地利、捷克、土耳其）的广泛谱系，内部竞争将异常激烈。\n- **亚非的机遇与挑战**：亚洲的9队中，既有日本、韩国、伊朗等常客，也有约旦、乌兹别克斯坦等新面孔；非洲则首次有9队参赛，科特迪瓦、塞内加尔、摩洛哥等有望成为黑马。扩军为这些地区提供了更广阔的舞台，但也考验其整体备战和持续投入的能力。\n- **美洲的内部平衡**：南美（CONMEBOL）6队全部入围，传统强队地位稳固；中北美及加勒比海（CONCACAF）因东道主效应获得6席（含美国、加拿大、墨西哥），但除传统强队外，其他队伍如库拉索、海地等实力有待检验。\n- **大洋洲的孤岛现象**：新西兰作为OFC唯一代表，凸显了洲际足球发展的极度不均衡，其世界杯之旅往往止步于小组赛。\n\n**启示与局限**：扩军在政治和商业层面无疑是成功的，它让更多国家有机会参与顶级赛事，增强了世界杯的全球吸引力。但从竞技角度看，小组赛阶段可能出现实力悬殊的对决，影响比赛质量。长远看，如何平衡“普及”与“精英”，是国际足联需要持续权衡的课题。此外，新增的球队也需要配套的基础设施、青训体系和联赛支撑，否则扩军可能仅是短暂的“入场券”，而非实力的真正飞跃。",
+      "glossary": [
+        {
+          "term": "FIFA World Cup 2026",
+          "explanation": "2026年国际足联世界杯，首次由美国、加拿大和墨西哥三国联合举办，参赛队伍从32支扩军至48支。"
+        },
+        {
+          "term": "Confederation",
+          "explanation": "指国际足联下属的六大洲际足球联合会，负责组织本洲的俱乐部及国家队赛事，包括UEFA（欧足联）、CONMEBOL（南美足联）等。"
+        },
+        {
+          "term": "CAF",
+          "explanation": "非洲足球联合会（Confédération Africaine de Football），代表非洲地区的足球管理机构。"
+        },
+        {
+          "term": "AFC",
+          "explanation": "亚洲足球联合会（Asian Football Confederation），负责亚洲地区的足球事务。"
+        },
+        {
+          "term": "UEFA",
+          "explanation": "欧洲足球协会联盟（Union of European Football Associations），管理欧洲足球事务，是六大洲足联中竞技水平与商业价值最高的。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e0ca166c",
+    "title": "Mapped: America’s Most Forested States",
+    "original_url": "https://www.visualcapitalist.com/cp/mapped-most-forested-states/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e0ca166c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqDQDStTO9YnOSZopB0ooEf//Z",
+    "image_version": 1780782811,
+    "pub_date": "Sat, 06 Jun 2026 18:55:58 +0000",
+    "content_md": "| Rank | State | Percent Forest |\n| --- | --- | --- |\n| 1 | Maine | 89% |\n| 2 | New Hampshire | 83% |\n| 3 | West Virginia | 78% |\n| 4 | Vermont | 76% |\n| 5 | Alabama | 71% |\n| 6 | South Carolina | 67% |\n| 7 | Georgia | 67% |\n| 8 | Mississippi | 65% |\n| 9 | Virginia | 63% |\n| 10 | New York | 63% |\n| 11 | Massachusetts | 61% |\n| 12 | North Carolina | 61% |\n| 13 | Pennsylvania | 59% |\n| 14 | Connecticut | 58% |\n| 15 | Arkansas | 57% |\n| 16 | Michigan | 56% |\n| 17 | Rhode Island | 56% |\n| 18 | Louisiana | 54% |\n| 19 | Tennessee | 53% |\n| 20 | Washington | 53% |\n| 21 | Florida | 50% |\n| 22 | Wisconsin | 49% |\n| 23 | Kentucky | 49% |\n| 24 | Oregon | 48% |\n| 25 | New Jersey | 42% |\n| 26 | Idaho | 41% |\n| 27 | Maryland | 39% |\n| 28 | Texas | 38% |\n| 29 | Alaska | 37% |\n| 30 | California | 37% |\n| 31 | Hawaii | 36% |\n| 32 | Missouri | 35% |\n| 33 | Utah | 35% |\n| 34 | Colorado | 34% |\n| 35 | Minnesota | 34% |\n| 36 | New Mexico | 32% |\n| 37 | Ohio | 31% |\n| 38 | Delaware | 29% |\n| 39 | Oklahoma | 28% |\n| 40 | Montana | 28% |\n| 41 | Arizona | 26% |\n| 42 | Indiana | 21% |\n| 43 | Wyoming | 17% |\n| 44 | Nevada | 15% |\n| 45 | Illinois | 14% |\n| 46 | Iowa | 8% |\n| 47 | Kansas | 5% |\n| 48 | South Dakota | 4% |\n| 49 | Nebraska | 3% |\n| 50 | North Dakota | 2% |",
+    "ai_analysis": {
+      "core_insight": "美国森林覆盖率呈现显著地理差异，东北部及阿巴拉契亚地区领先，中西部大平原地区垫底。",
+      "data_highlights": [
+        "排名前五的州森林覆盖率均超70%，其中缅因州以89%高居榜首。",
+        "排名前十的州主要分布在美国东北部和东南部山区。",
+        "排名后十的州多位于中西部大平原，森林覆盖率均低于21%，北达科他州仅2%。",
+        "阿拉斯加州虽地广人稀，但森林覆盖率仅37%，排名中游。",
+        "加利福尼亚州森林覆盖率37%，与其作为科技和农业大州的形象形成对比。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Percent Forest"
+          ],
+          "rows": [
+            [
+              "1",
+              "Maine",
+              "89%"
+            ],
+            [
+              "2",
+              "New Hampshire",
+              "83%"
+            ],
+            [
+              "3",
+              "West Virginia",
+              "78%"
+            ],
+            [
+              "4",
+              "Vermont",
+              "76%"
+            ],
+            [
+              "5",
+              "Alabama",
+              "71%"
+            ],
+            [
+              "6",
+              "South Carolina",
+              "67%"
+            ],
+            [
+              "7",
+              "Georgia",
+              "67%"
+            ],
+            [
+              "8",
+              "Mississippi",
+              "65%"
+            ],
+            [
+              "9",
+              "Virginia",
+              "63%"
+            ],
+            [
+              "10",
+              "New York",
+              "63%"
+            ],
+            [
+              "11",
+              "Massachusetts",
+              "61%"
+            ],
+            [
+              "12",
+              "North Carolina",
+              "61%"
+            ],
+            [
+              "13",
+              "Pennsylvania",
+              "59%"
+            ],
+            [
+              "14",
+              "Connecticut",
+              "58%"
+            ],
+            [
+              "15",
+              "Arkansas",
+              "57%"
+            ],
+            [
+              "16",
+              "Michigan",
+              "56%"
+            ],
+            [
+              "17",
+              "Rhode Island",
+              "56%"
+            ],
+            [
+              "18",
+              "Louisiana",
+              "54%"
+            ],
+            [
+              "19",
+              "Tennessee",
+              "53%"
+            ],
+            [
+              "20",
+              "Washington",
+              "53%"
+            ],
+            [
+              "21",
+              "Florida",
+              "50%"
+            ],
+            [
+              "22",
+              "Wisconsin",
+              "49%"
+            ],
+            [
+              "23",
+              "Kentucky",
+              "49%"
+            ],
+            [
+              "24",
+              "Oregon",
+              "48%"
+            ],
+            [
+              "25",
+              "New Jersey",
+              "42%"
+            ],
+            [
+              "26",
+              "Idaho",
+              "41%"
+            ],
+            [
+              "27",
+              "Maryland",
+              "39%"
+            ],
+            [
+              "28",
+              "Texas",
+              "38%"
+            ],
+            [
+              "29",
+              "Alaska",
+              "37%"
+            ],
+            [
+              "30",
+              "California",
+              "37%"
+            ],
+            [
+              "31",
+              "Hawaii",
+              "36%"
+            ],
+            [
+              "32",
+              "Missouri",
+              "35%"
+            ],
+            [
+              "33",
+              "Utah",
+              "35%"
+            ],
+            [
+              "34",
+              "Colorado",
+              "34%"
+            ],
+            [
+              "35",
+              "Minnesota",
+              "34%"
+            ],
+            [
+              "36",
+              "New Mexico",
+              "32%"
+            ],
+            [
+              "37",
+              "Ohio",
+              "31%"
+            ],
+            [
+              "38",
+              "Delaware",
+              "29%"
+            ],
+            [
+              "39",
+              "Oklahoma",
+              "28%"
+            ],
+            [
+              "40",
+              "Montana",
+              "28%"
+            ],
+            [
+              "41",
+              "Arizona",
+              "26%"
+            ],
+            [
+              "42",
+              "Indiana",
+              "21%"
+            ],
+            [
+              "43",
+              "Wyoming",
+              "17%"
+            ],
+            [
+              "44",
+              "Nevada",
+              "15%"
+            ],
+            [
+              "45",
+              "Illinois",
+              "14%"
+            ],
+            [
+              "46",
+              "Iowa",
+              "8%"
+            ],
+            [
+              "47",
+              "Kansas",
+              "5%"
+            ],
+            [
+              "48",
+              "South Dakota",
+              "4%"
+            ],
+            [
+              "49",
+              "Nebraska",
+              "3%"
+            ],
+            [
+              "50",
+              "North Dakota",
+              "2%"
+            ]
+          ],
+          "caption": "美国各州森林覆盖率排名"
+        }
+      ],
+      "deep_dive": "## 森林分布的地理格局与历史成因\n美国森林覆盖率排名揭示了与气候、地形和历史开发进程紧密相关的地理分异规律。排名靠前的州（前五名均超70%）主要集中在两大区域：一是**东北部的新英格兰地区**（缅因、新罕布什尔、佛蒙特），其温带大陆性气候和多山地形适宜森林生长，且历史上工业化和城市化对原始森林的破坏相对较小；二是**阿巴拉契亚山脉及东南部**（西弗吉尼亚、阿拉巴马、南卡罗来纳等），该区域同样地形起伏，历史上以林业和农业为主，保留了大量次生林和人工林。相反，排名末尾的州（如北达科他、内布拉斯加、堪萨斯）位于中西部大平原，这里属于温带草原气候，天然植被以草地为主，后经大规模农业开垦，森林面积本底就少。\n\n## 关键启示与数据局限性\n1.  **生态与经济的平衡**：高森林覆盖率州（如缅因）可能依赖林业，但也面临保护与开发的矛盾；低覆盖率州（如加州）虽森林比例不高，但因其巨大的面积，森林绝对数量可能依然可观，且更侧重于特定树种的经济价值或生态保护（如红杉）。阿拉斯加（37%）排名中游的案例表明，**“面积巨大”不等于“森林茂密”**，其广袤的北部冻土和苔原拉低了比例。\n2.  **数据解读需谨慎**：“森林覆盖率”是一个静态比例指标，它反映了当前状态，但**不直接等同于森林质量、生物多样性或碳汇能力**。例如，一片茂密的原始林与一片单一树种的人工林在生态功能上差异巨大，但此表未予区分。此外，该数据也可能掩盖了各州内部的巨大差异，如加州沿海森林茂盛而内陆干旱少林。",
+      "glossary": [
+        {
+          "term": "森林覆盖率",
+          "explanation": "指森林面积占该行政区域土地总面积的百分比，是衡量一个地区森林资源丰富程度和生态状况的基本指标。"
+        },
+        {
+          "term": "次生林",
+          "explanation": "指原始森林经过自然或人为因素（如砍伐、火灾）破坏后，通过天然更新或人工促进恢复起来的森林。"
+        },
+        {
+          "term": "碳汇",
+          "explanation": "指通过植树造林、植被恢复等措施，吸收并储存大气中二氧化碳的过程、活动或机制。森林是重要的陆地碳汇。"
+        }
+      ]
+    }
+  },
+  {
     "id": "2c9b0735",
     "title": "Ranked: The Prices Surging Fastest in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-prices-surging-fastest-in-2026/",
