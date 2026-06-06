@@ -1,5 +1,262 @@
 [
   {
+    "id": "afdee82f",
+    "title": "Ranked: Jobs With the Highest and Lowest Divorce Rates",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-jobs-with-the-highest-and-lowest-divorce-rates-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/afdee82f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpZJMVEJ+ajmJxVXJ3VlPQ6aMOY0xMMdaKpKTiisrm3sSWXBqDaM09iaiJOa2qK55lDENE4xiioNxorLkOr6yz/9k=",
+    "image_version": 1780750915,
+    "pub_date": "Sat, 06 Jun 2026 11:47:43 +0000",
+    "content_md": "| Rank | Occupation | Divorce Rate |\n| --- | --- | --- |\n| 1 | Actuaries | 14.2% |\n| 2 | Other Physical Scientists | 17.2% |\n| 3 | IT Scientists | 18.7% |\n| 4 | Software Developers | 18.9% |\n| 5 | Physical Therapists | 19.0% |\n| 6 | Physicians | 20.1% |\n| 7 | Clergy | 20.2% |\n| 8 | Pharmacists | 20.3% |\n| 9 | Atmospheric Scientists | 20.4% |\n| 10 | Oil & Mining Engineers | 20.7% |\n| 11 | Surgeons | 20.8% |\n| 12 | Chemical Engineers | 20.8% |\n| 13 | Other Life Scientists | 20.8% |\n| 14 | Speech Pathologists | 21.1% |\n| 15 | Optometrists | 21.1% |\n| 16 | Occupational Therapists | 21.1% |\n| 17 | Chemists & Materials Scientists | 21.1% |\n| 18 | Dentists | 21.4% |\n| 19 | Mechanical Engineers | 21.6% |\n| 20 | Physician Assistants | 21.6% |\n\n| Rank | Occupation | Divorce Rate |\n| --- | --- | --- |\n| 1 | Other Healthcare Practitioners | 48.3% |\n| 2 | Telemarketers | 48.0% |\n| 3 | Massage Therapists | 47.9% |\n| 4 | Bus Drivers | 47.8% |\n| 5 | Press Machine Operators | 47.6% |\n| 6 | Care Service Supervisors | 47.6% |\n| 7 | Correctional Supervisors | 47.5% |\n| 8 | Ambulance Drivers & Attendants | 47.3% |\n| 9 | Psychiatric Aides | 47.2% |\n| 10 | Practical Nurses | 47.1% |\n| 11 | Casino Workers | 46.9% |\n| 12 | Bartenders | 46.8% |\n| 13 | Textile Pressers | 46.3% |\n| 14 | Metal Furnace Operators | 46.3% |\n| 15 | Ushers & Ticket Takers | 46.2% |\n| 16 | Home Health Aides | 45.9% |\n| 17 | Animal Control Officers | 45.9% |\n| 18 | Bus Monitors | 45.5% |\n| 19 | Forming Machine Operators | 45.4% |\n| 20 | Security & Casino Surveillance | 45.4% |",
+    "ai_analysis": {
+      "core_insight": "职业离婚率差异显著，高收入稳定职业与低技能服务业形成鲜明对比。",
+      "data_highlights": [
+        "离婚率最低的职业：精算师（14.2%）和物理科学家（17.2%）等高技能、高收入岗位。",
+        "离婚率最高的职业：其他医疗从业者（48.3%）和电话推销员（48.0%）等压力大、收入不稳定的服务性岗位。",
+        "排名前20的低离婚率职业多属于STEM（科学、技术、工程、数学）或医疗健康领域。",
+        "排名前20的高离婚率职业则集中在体力劳动、高压服务及运营维护类岗位。",
+        "两类榜单的职业特点对比鲜明：前者通常需要高学历、提供稳定收入和较好工作生活平衡；后者往往工作时间不规律、压力大且收入较低。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Occupation",
+            "Divorce Rate"
+          ],
+          "rows": [
+            [
+              "1",
+              "Actuaries",
+              "14.2%"
+            ],
+            [
+              "2",
+              "Other Physical Scientists",
+              "17.2%"
+            ],
+            [
+              "3",
+              "IT Scientists",
+              "18.7%"
+            ],
+            [
+              "4",
+              "Software Developers",
+              "18.9%"
+            ],
+            [
+              "5",
+              "Physical Therapists",
+              "19.0%"
+            ],
+            [
+              "6",
+              "Physicians",
+              "20.1%"
+            ],
+            [
+              "7",
+              "Clergy",
+              "20.2%"
+            ],
+            [
+              "8",
+              "Pharmacists",
+              "20.3%"
+            ],
+            [
+              "9",
+              "Atmospheric Scientists",
+              "20.4%"
+            ],
+            [
+              "10",
+              "Oil & Mining Engineers",
+              "20.7%"
+            ],
+            [
+              "11",
+              "Surgeons",
+              "20.8%"
+            ],
+            [
+              "12",
+              "Chemical Engineers",
+              "20.8%"
+            ],
+            [
+              "13",
+              "Other Life Scientists",
+              "20.8%"
+            ],
+            [
+              "14",
+              "Speech Pathologists",
+              "21.1%"
+            ],
+            [
+              "15",
+              "Optometrists",
+              "21.1%"
+            ],
+            [
+              "16",
+              "Occupational Therapists",
+              "21.1%"
+            ],
+            [
+              "17",
+              "Chemists & Materials Scientists",
+              "21.1%"
+            ],
+            [
+              "18",
+              "Dentists",
+              "21.4%"
+            ],
+            [
+              "19",
+              "Mechanical Engineers",
+              "21.6%"
+            ],
+            [
+              "20",
+              "Physician Assistants",
+              "21.6%"
+            ]
+          ],
+          "caption": "离婚率最低的职业排名前20"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Occupation",
+            "Divorce Rate"
+          ],
+          "rows": [
+            [
+              "1",
+              "Other Healthcare Practitioners",
+              "48.3%"
+            ],
+            [
+              "2",
+              "Telemarketers",
+              "48.0%"
+            ],
+            [
+              "3",
+              "Massage Therapists",
+              "47.9%"
+            ],
+            [
+              "4",
+              "Bus Drivers",
+              "47.8%"
+            ],
+            [
+              "5",
+              "Press Machine Operators",
+              "47.6%"
+            ],
+            [
+              "6",
+              "Care Service Supervisors",
+              "47.6%"
+            ],
+            [
+              "7",
+              "Correctional Supervisors",
+              "47.5%"
+            ],
+            [
+              "8",
+              "Ambulance Drivers & Attendants",
+              "47.3%"
+            ],
+            [
+              "9",
+              "Psychiatric Aides",
+              "47.2%"
+            ],
+            [
+              "10",
+              "Practical Nurses",
+              "47.1%"
+            ],
+            [
+              "11",
+              "Casino Workers",
+              "46.9%"
+            ],
+            [
+              "12",
+              "Bartenders",
+              "46.8%"
+            ],
+            [
+              "13",
+              "Textile Pressers",
+              "46.3%"
+            ],
+            [
+              "14",
+              "Metal Furnace Operators",
+              "46.3%"
+            ],
+            [
+              "15",
+              "Ushers & Ticket Takers",
+              "46.2%"
+            ],
+            [
+              "16",
+              "Home Health Aides",
+              "45.9%"
+            ],
+            [
+              "17",
+              "Animal Control Officers",
+              "45.9%"
+            ],
+            [
+              "18",
+              "Bus Monitors",
+              "45.5%"
+            ],
+            [
+              "19",
+              "Forming Machine Operators",
+              "45.4%"
+            ],
+            [
+              "20",
+              "Security & Casino Surveillance",
+              "45.4%"
+            ]
+          ],
+          "caption": "离婚率最高的职业排名前20"
+        }
+      ],
+      "deep_dive": "## 数据背后的核心机制：经济稳定性与工作压力\n职业离婚率的差异，本质上是经济基础与社会心理压力共同作用的结果。\n\n- **低离婚率职业（如精算师、物理科学家、医生）**：通常具备高教育门槛、高且稳定的收入、清晰的职业发展路径和较强的社会地位。这些因素为婚姻提供了坚实的经济基础，降低了因经济问题引发的冲突。同时，较高的职业自主权和体面的工作环境有助于维持工作与生活的平衡，减少了职业对家庭生活的直接侵蚀。\n- **高离婚率职业（如电话推销员、巴士司机、护工）**：往往从事高强度、重复性或情绪劳动密集的工作。其特点是收入较低且不稳定、工作时间不规律（如夜班、轮班）、工作自主性低、职业压力大。这些因素直接挤压了个人时间和情感资源，增加了家庭沟通障碍和矛盾，从而显著提升了离婚风险。\n\n## 深度对比与启示\n对比两张榜单，可以得出以下关键启示：\n\n1.  **教育与技能的价值**：STEM（科学、技术、工程、数学）和高级医疗健康领域几乎垄断了低离婚率榜单，这不仅反映了其经济回报，也暗示了持续学习和认知挑战可能对维持个人生活稳定性的积极作用。\n2.  **“情绪劳动”的隐形成本**：高离婚率榜单中，大量职业涉及直接的情绪劳动（如护工、电话推销员、赌场工作人员）或高压力应急响应（如急救员、惩教人员）。这类工作导致的情绪耗竭容易被带入家庭生活，成为关系的腐蚀剂。\n3.  **局限性说明**：需要强调的是，该数据反映的是群体统计规律，不能用于预测任何个体的婚姻状况。离婚是复杂现象，受个人性格、伴侣关系、社会支持网络等多重因素影响。职业仅是其中一个环境变量。\n4.  **社会政策与职场设计的启示**：这一对比凸显了改善高风险职业的工作条件（如提高收入保障、优化排班制度、提供心理支持）不仅关乎生产效率，也可能对员工的家庭稳定和社会和谐产生积极的外部性。",
+      "glossary": [
+        {
+          "term": "STEM",
+          "explanation": "科学（Science）、技术（Technology）、工程（Engineering）和数学（Mathematics）四类学科的简称，通常指代需要高教育水平和专业技能的领域。"
+        },
+        {
+          "term": "情绪劳动",
+          "explanation": "指员工在工作过程中需要管理自己的情绪，以展现出组织所要求的特定表情或情绪状态，常见于服务业、医疗和客服等领域，容易导致职业倦怠。"
+        },
+        {
+          "term": "离婚率",
+          "explanation": "在本数据背景下，指特定职业群体中，处于离婚状态（包括离异、分居）的人口占该职业总人口的百分比，是衡量婚姻稳定性的群体统计指标。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d953fa05",
     "title": "Mapped: The World’s Crude Oil Trade Flows by Region",
     "original_url": "https://www.visualcapitalist.com/mapped-global-crude-oil-trade-flows-by-region-2024/",
