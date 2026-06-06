@@ -1,5 +1,247 @@
 [
   {
+    "id": "2c9b0735",
+    "title": "Ranked: The Prices Surging Fastest in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-prices-surging-fastest-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2c9b0735.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDoXlqITc1HIahB5rz3LU9KEE0XxLxRUC9KKLi5Uf/Z",
+    "image_version": 1780761618,
+    "pub_date": "Sat, 06 Jun 2026 15:54:06 +0000",
+    "content_md": "| Rank | Category/Item | YTD Change (Dec 2025 → Apr 2026) |\n| --- | --- | --- |\n| 1 | Heating oil | 45.1% |\n| 2 | Gasoline | 39.8% |\n| 3 | Tomatoes | 31.1% |\n| 4 | Airline fares | 21.6% |\n| 5 | Hotels and motels | 19.3% |\n| 6 | Public transportation | 13.5% |\n| 7 | Apparel | 7.8% |\n| 8 | Fresh vegetables | 7.1% |\n| 9 | Coffee | 5.3% |\n| 10 | Footwear | 4.4% |\n| 11 | Beef and veal | 3.2% |\n| 12 | Electricity | 3.0% |\n| 13 | Tobacco and smoking products | 2.8% |\n| 14 | Personal care products | 2.6% |\n| 15 | Fresh fruits (overall) | 2.0% |\n| 16 | Bread | 1.9% |\n| 17 | Milk | 1.7% |\n| 18 | Pork | 1.5% |\n| 19 | Sugar and sweets | 1.3% |\n| 20 | Alcohol at restaurants and bars | 1.2% |\n| 21 | Breakfast cereal | 0.8% |\n| 22 | New cars and trucks | 0.7% |\n| 23 | Alcohol at home (store-bought) | 0.4% |\n| 24 | Auto parts | 0.4% |\n| 25 | Concert, sport, and movie admissions | 0.4% |\n| 26 | Wireless phone service | 0.3% |\n| 27 | Bananas | 0.2% |\n| 28 | K-12 private school tuition | 0.2% |\n| 29 | College tuition and fees | 0.2% |\n| 30 | Auto insurance | 0.2% |\n| 31 | Haircuts and personal care services | -0.1% |\n| 32 | Cheese | -1.0% |\n| 33 | Chicken | -1.0% |\n| 34 | Natural gas (home utility) | -1.5% |\n| 35 | Prescription drugs | -1.6% |\n| 36 | Over-the-counter medications | -1.7% |\n| 37 | Used cars and trucks | -2.9% |\n| 38 | Health insurance | -3.9% |\n| 39 | Eggs | -10.9% |",
+    "ai_analysis": {
+      "core_insight": "2026年初能源与交通价格飙升，食品与健康类价格分化明显。",
+      "data_highlights": [
+        "取暖油和汽油价格涨幅居前，分别达45.1%和39.8%，是推动通胀的主要因素。",
+        "部分食品如西红柿（+31.1%）和咖啡（+5.3%）价格显著上涨，而鸡蛋（-10.9%）和奶酪（-1.0%）价格下跌。",
+        "交通出行成本全面上升，航空票价（+21.6%）和酒店住宿（+19.3%）涨幅突出。",
+        "健康相关支出普遍下降，健康保险（-3.9%）和处方药（-1.6%）价格走低。",
+        "教育类服务如私立K-12学费（+0.2%）和大学学费（+0.2%）涨幅极为温和。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Category/Item",
+            "YTD Change (Dec 2025 → Apr 2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Heating oil",
+              "45.1%"
+            ],
+            [
+              "2",
+              "Gasoline",
+              "39.8%"
+            ],
+            [
+              "3",
+              "Tomatoes",
+              "31.1%"
+            ],
+            [
+              "4",
+              "Airline fares",
+              "21.6%"
+            ],
+            [
+              "5",
+              "Hotels and motels",
+              "19.3%"
+            ],
+            [
+              "6",
+              "Public transportation",
+              "13.5%"
+            ],
+            [
+              "7",
+              "Apparel",
+              "7.8%"
+            ],
+            [
+              "8",
+              "Fresh vegetables",
+              "7.1%"
+            ],
+            [
+              "9",
+              "Coffee",
+              "5.3%"
+            ],
+            [
+              "10",
+              "Footwear",
+              "4.4%"
+            ],
+            [
+              "11",
+              "Beef and veal",
+              "3.2%"
+            ],
+            [
+              "12",
+              "Electricity",
+              "3.0%"
+            ],
+            [
+              "13",
+              "Tobacco and smoking products",
+              "2.8%"
+            ],
+            [
+              "14",
+              "Personal care products",
+              "2.6%"
+            ],
+            [
+              "15",
+              "Fresh fruits (overall)",
+              "2.0%"
+            ],
+            [
+              "16",
+              "Bread",
+              "1.9%"
+            ],
+            [
+              "17",
+              "Milk",
+              "1.7%"
+            ],
+            [
+              "18",
+              "Pork",
+              "1.5%"
+            ],
+            [
+              "19",
+              "Sugar and sweets",
+              "1.3%"
+            ],
+            [
+              "20",
+              "Alcohol at restaurants and bars",
+              "1.2%"
+            ],
+            [
+              "21",
+              "Breakfast cereal",
+              "0.8%"
+            ],
+            [
+              "22",
+              "New cars and trucks",
+              "0.7%"
+            ],
+            [
+              "23",
+              "Alcohol at home (store-bought)",
+              "0.4%"
+            ],
+            [
+              "24",
+              "Auto parts",
+              "0.4%"
+            ],
+            [
+              "25",
+              "Concert, sport, and movie admissions",
+              "0.4%"
+            ],
+            [
+              "26",
+              "Wireless phone service",
+              "0.3%"
+            ],
+            [
+              "27",
+              "Bananas",
+              "0.2%"
+            ],
+            [
+              "28",
+              "K-12 private school tuition",
+              "0.2%"
+            ],
+            [
+              "29",
+              "College tuition and fees",
+              "0.2%"
+            ],
+            [
+              "30",
+              "Auto insurance",
+              "0.2%"
+            ],
+            [
+              "31",
+              "Haircuts and personal care services",
+              "-0.1%"
+            ],
+            [
+              "32",
+              "Cheese",
+              "-1.0%"
+            ],
+            [
+              "33",
+              "Chicken",
+              "-1.0%"
+            ],
+            [
+              "34",
+              "Natural gas (home utility)",
+              "-1.5%"
+            ],
+            [
+              "35",
+              "Prescription drugs",
+              "-1.6%"
+            ],
+            [
+              "36",
+              "Over-the-counter medications",
+              "-1.7%"
+            ],
+            [
+              "37",
+              "Used cars and trucks",
+              "-2.9%"
+            ],
+            [
+              "38",
+              "Health insurance",
+              "-3.9%"
+            ],
+            [
+              "39",
+              "Eggs",
+              "-10.9%"
+            ]
+          ],
+          "caption": "2026年初价格涨幅排名（前39项）"
+        }
+      ],
+      "deep_dive": "## 能源与交通成本：通胀的核心驱动力\n2026年初的价格数据揭示了一个清晰的通胀结构。**能源价格，特别是运输燃料，是本轮价格上涨的绝对主力**。取暖油（+45.1%）和汽油（+39.8%）的涨幅遥遥领先，这不仅直接推高了居民能源支出，更通过供应链和运输成本，将压力传导至几乎所有商品和服务，尤其是食品和出行领域。\n\n交通出行成本全面飙升。航空票价（+21.6%）、酒店住宿（+19.3%）和公共交通（+13.5%）的涨幅均远高于整体通胀水平。这反映了燃料成本上升的直接影响，以及在后疫情时代，居民对出行和旅游服务的旺盛需求共同作用的结果。**能源与交通构成了一个紧密的“价格上涨同心圆”**。\n\n## 食品与健康：涨跌分化的两个世界\n食品内部出现了显著分化。部分生鲜农产品如西红柿（+31.1%）和新鲜蔬菜（+7.1%）价格大涨，这可能与气候、供应链或特定作物周期有关。咖啡（+5.3%）等大宗商品驱动的品类也上涨明显。然而，鸡蛋（-10.9%）、奶酪（-1.0%）和鸡肉（-1.0%）等则出现下跌，显示农产品市场的供应和价格波动较大，并未形成全面的食品通胀。\n\n更引人注目的是**健康相关商品与服务的价格普降**。健康保险（-3.9%）、处方药（-1.6%）和非处方药（-1.7%）均呈跌势。这可能源于政策调控、市场竞争加剧或特定技术/采购模式的变化，为消费者提供了一定的缓冲。与之相对，教育类服务（学费）涨幅极低，近乎停滞，反映了该领域的价格刚性或政策约束。\n\n## 启示与展望\n当前的价格图景表明，通胀压力高度集中于**能源和由此衍生的交通、物流密集型领域**。这对中低收入家庭的影响尤为直接，因为他们将更高比例的收入用于能源、食品和出行必需品。政策制定者需要密切关注能源市场的稳定性。同时，健康和教育支出的相对稳定，在一定程度上缓解了整体生活成本的攀升，但并未改变由能源驱动的核心通胀结构。未来的通胀路径将极大取决于能源价格的走势以及供应链压力能否持续缓和。",
+      "glossary": [
+        {
+          "term": "YTD Change",
+          "explanation": "年初至今变动百分比，衡量从年初（此处为2025年12月）至报告期（2026年4月）的价格变化幅度。"
+        },
+        {
+          "term": "通胀传导",
+          "explanation": "指基础商品或服务（如能源）价格上涨，通过生产成本、运输成本等途径，最终推高更广泛领域商品与服务价格的经济过程。"
+        },
+        {
+          "term": "价格刚性",
+          "explanation": "指某些商品或服务（如学费、长期合同价格）的价格在短期内难以根据市场供需变化而迅速调整的特性。"
+        }
+      ]
+    }
+  },
+  {
     "id": "afdee82f",
     "title": "Ranked: Jobs With the Highest and Lowest Divorce Rates",
     "original_url": "https://www.visualcapitalist.com/ranked-the-jobs-with-the-highest-and-lowest-divorce-rates-in-america/",
