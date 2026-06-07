@@ -1,5 +1,446 @@
 [
   {
+    "id": "8915a68e",
+    "title": "Mapped: Where Canadian Travel to America Is Falling Fastest",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-canadian-travel-to-usa-is-falling-fastest/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/8915a68e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDr5RRCvNTSgUxODWHMa8pZUcUUiuMUU7k2KsktQebg016gbrWbWpKmy4LjjrRVHNFXYXMz/9k=",
+    "image_version": 1780858939,
+    "pub_date": "Sun, 07 Jun 2026 18:33:48 +0000",
+    "content_md": "| Rank | Metro | State | Annual % Decline in Canadian Visits Mar 2026 |\n| --- | --- | --- | --- |\n| 1 | Myrtle Beach | SC | -65.4% |\n| 2 | Yuma | AZ | -62.3% |\n| 3 | Panama City | FL | -60.3% |\n| 4 | Brownsville | TX | -58.5% |\n| 5 | Orlando | FL | -58.2% |\n| 6 | Cape Coral | FL | -58.2% |\n| 7 | Miami | FL | -58.1% |\n| 8 | Naples | FL | -57.4% |\n| 9 | San Francisco | CA | -56.9% |\n| 10 | North Port | FL | -56.3% |\n| 11 | Palm Bay | FL | -55.9% |\n| 12 | Providence | RI | -55.6% |\n| 13 | New York | NY | -55.5% |\n| 14 | Las Vegas | NV | -55.5% |\n| 15 | Flint | MI | -55.3% |\n| 16 | Deltona | FL | -55.1% |\n| 17 | Albany | NY | -54.9% |\n| 18 | Port St. Lucie | FL | -54.6% |\n| 19 | Barnstable Town | MA | -54.4% |\n| 20 | Ann Arbor | MI | -53.9% |\n| 21 | Anchorage | AK | -53.5% |\n| 22 | Urban Honolulu | HI | -53.3% |\n| 23 | Grand Rapids | MI | -53.2% |\n| 24 | Tampa | FL | -53.2% |\n| 25 | San Diego | CA | -53.0% |",
+    "ai_analysis": {
+      "core_insight": "加拿大赴美旅游在佛罗里达及美墨边境城市下降最为剧烈，呈现显著地域集中性。",
+      "data_highlights": [
+        "佛罗里达州占据前25名中的12席，是受影响最集中的州。",
+        "降幅前四名均为非传统核心旅游城市，如默特尔比奇、尤马。",
+        "传统热门城市如奥兰多、迈阿密、纽约、拉斯维加斯降幅均超过55%，无一幸免。",
+        "降幅在53%至65.4%之间，整体下降幅度巨大且范围广泛。",
+        "美墨边境城市（尤马、布朗斯维尔）及部分工业城市（弗林特）也位列前茅。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Metro",
+            "State",
+            "Annual % Decline in Canadian Visits Mar 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Myrtle Beach",
+              "SC",
+              "-65.4%"
+            ],
+            [
+              "2",
+              "Yuma",
+              "AZ",
+              "-62.3%"
+            ],
+            [
+              "3",
+              "Panama City",
+              "FL",
+              "-60.3%"
+            ],
+            [
+              "4",
+              "Brownsville",
+              "TX",
+              "-58.5%"
+            ],
+            [
+              "5",
+              "Orlando",
+              "FL",
+              "-58.2%"
+            ],
+            [
+              "6",
+              "Cape Coral",
+              "FL",
+              "-58.2%"
+            ],
+            [
+              "7",
+              "Miami",
+              "FL",
+              "-58.1%"
+            ],
+            [
+              "8",
+              "Naples",
+              "FL",
+              "-57.4%"
+            ],
+            [
+              "9",
+              "San Francisco",
+              "CA",
+              "-56.9%"
+            ],
+            [
+              "10",
+              "North Port",
+              "FL",
+              "-56.3%"
+            ],
+            [
+              "11",
+              "Palm Bay",
+              "FL",
+              "-55.9%"
+            ],
+            [
+              "12",
+              "Providence",
+              "RI",
+              "-55.6%"
+            ],
+            [
+              "13",
+              "New York",
+              "NY",
+              "-55.5%"
+            ],
+            [
+              "14",
+              "Las Vegas",
+              "NV",
+              "-55.5%"
+            ],
+            [
+              "15",
+              "Flint",
+              "MI",
+              "-55.3%"
+            ],
+            [
+              "16",
+              "Deltona",
+              "FL",
+              "-55.1%"
+            ],
+            [
+              "17",
+              "Albany",
+              "NY",
+              "-54.9%"
+            ],
+            [
+              "18",
+              "Port St. Lucie",
+              "FL",
+              "-54.6%"
+            ],
+            [
+              "19",
+              "Barnstable Town",
+              "MA",
+              "-54.4%"
+            ],
+            [
+              "20",
+              "Ann Arbor",
+              "MI",
+              "-53.9%"
+            ],
+            [
+              "21",
+              "Anchorage",
+              "AK",
+              "-53.5%"
+            ],
+            [
+              "22",
+              "Urban Honolulu",
+              "HI",
+              "-53.3%"
+            ],
+            [
+              "23",
+              "Grand Rapids",
+              "MI",
+              "-53.2%"
+            ],
+            [
+              "24",
+              "Tampa",
+              "FL",
+              "-53.2%"
+            ],
+            [
+              "25",
+              "San Diego",
+              "CA",
+              "-53.0%"
+            ]
+          ],
+          "caption": "加拿大赴美旅游访问量下降最快的25个都会区（2026年3月同比）"
+        }
+      ],
+      "deep_dive": "## 下降趋势的地理集中性与非典型性\n数据显示，加拿大游客赴美旅行意愿的减弱并非均匀分布，而是呈现出强烈的地域集中特征。最显著的冲击波直接打在了佛罗里达州。在前25名中，佛州占据了近乎一半的席位（12个），且涵盖了从奥兰多、迈阿密等国际旅游枢纽到开普科勒尔、北港等地区性休闲目的地。这表明，加拿大游客对佛州的“用脚投票”是全方位、多层次的，而非仅限于特定主题公园或海滩。值得注意的是，降幅榜首并非传统意义的旅游大都市，而是南卡罗来纳州的默特尔比奇、亚利桑那州的尤马等。尤马和布朗斯维尔等美墨边境城市的上榜，暗示除了旅游动机外，跨境经济活动、探亲或跨境购物等行为可能也受到了显著抑制。\n\n## 潜在驱动因素与宏观经济启示\n如此广泛而急剧的下降，其背后原因必然是多重宏观因素的叠加。首先，最直接的因素可能是加元兑美元汇率的持续疲软。当加拿大游客的购买力因汇率而大幅缩水时，旅行成本（包括住宿、餐饮、购物）会显得异常昂贵，尤其对价格敏感的家庭度假和休闲旅游打击巨大。其次，这可能反映了更深层次的经济压力。加拿大国内若面临通胀高企、生活成本上升等问题，居民会首先削减非必需的跨境旅游支出。佛州和加州等地的旅游消费门槛本就较高，因此首当其冲。此外，边境政策、旅行便利性以及目的地竞争（如欧洲或加拿大国内旅游的吸引力上升）也可能在其中扮演角色。此数据对依赖加拿大游客的美国地方经济是一个强烈的预警信号，特别是佛州众多中小城市，其旅游相关产业（酒店、餐饮、零售）可能面临严峻的营收压力，需要及时调整营销策略或开拓新的客源市场。",
+      "glossary": [
+        {
+          "term": "同比百分比下降",
+          "explanation": "指与去年同期（如2025年3月）相比，2026年3月加拿大游客访问量减少的百分比，负值表示下降。"
+        },
+        {
+          "term": "都会区",
+          "explanation": "以一个或多个核心城市为中心，包含周边紧密相连的社会经济区域的统计地理单元，通常比单一城市范围更广。"
+        },
+        {
+          "term": "加元兑美元汇率",
+          "explanation": "指加拿大元与美国美元的兑换比率。加元疲软意味着需要更多加元才能兑换1美元，从而增加加拿大人在美国消费的成本。"
+        },
+        {
+          "term": "跨境经济活动",
+          "explanation": "指跨越国境进行的商业、购物、探亲等经济行为，在此语境下特指加拿大人前往美国的相关活动。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "414fe2f8",
+    "title": "Ranked: The Biggest U.S. Cities (1790-2025)",
+    "original_url": "https://www.visualcapitalist.com/ranked-biggest-us-cities-1790-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/414fe2f8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvXSmqnNWDTR1oAQLxRUoooA//2Q==",
+    "image_version": 1780858970,
+    "pub_date": "Sun, 07 Jun 2026 16:41:15 +0000",
+    "content_md": "| Rank | 1790 | 1900 | 1950 | 2025 |\n| --- | --- | --- | --- | --- |\n| 1 | New York | New York | New York | New York |\n| 2 | Philadelphia | Chicago | Chicago | Los Angeles |\n| 3 | Boston | Philadelphia | Philadelphia | Chicago |\n| 4 | Charleston | St. Louis | Los Angeles | Houston |\n| 5 | Baltimore | Boston | Detroit | Phoenix |\n| 6 | Northern Liberties | Baltimore | Baltimore | Philadelphia |\n| 7 | Salem | Cleveland | Cleveland | San Antonio |\n| 8 | Newport | Buffalo | St. Louis | San Diego |\n| 9 | Providence | San Francisco | D.C. | Dallas |\n| 10 | Marblehead | Cincinnati | Boston | Fort Worth |\n| 11 | Southwark | Pittsburgh | San Francisco | Jacksonville |\n| 12 | Gloucester | New Orleans | Pittsburgh | Austin |\n| 13 | Newburyport | Detroit | Milwaukee | San Jose |\n| 14 | Portsmouth | Milwaukee | Houston | Charlotte |\n| 15 | Nantucket | D.C. | Buffalo | Columbus |\n\n| Rank | City | Population in 2025 |\n| --- | --- | --- |\n| 1 | New York | 8,596,825 |\n| 2 | Los Angeles | 3,872,710 |\n| 3 | Chicago | 2,726,332 |\n| 4 | Houston | 2,385,800 |\n| 5 | Phoenix | 1,662,324 |\n| 6 | Philadelphia | 1,572,735 |\n| 7 | San Antonio | 1,534,063 |\n| 8 | San Diego | 1,400,232 |\n| 9 | Dallas | 1,331,299 |\n| 10 | Jacksonville | 1,009,370 |\n| 11 | Fort Worth | 1,008,605 |\n| 12 | Austin | 998,607 |\n| 13 | San Jose | 987,831 |\n| 14 | Charlotte | 944,053 |\n| 15 | Columbus | 930,700 |",
+    "ai_analysis": {
+      "core_insight": "美国最大城市排名从东北部转向南部与西部，纽约长期居首。",
+      "data_highlights": [
+        "纽约自1790年至今始终占据美国最大城市首位。",
+        "洛杉矶和芝加哥自20世纪初稳居第二、三名，引领西部和中西部崛起。",
+        "2025年人口排名中，南部与西部城市占据主导地位。",
+        "东北部传统工业城市如波士顿、费城排名显著下降。",
+        "德州城市休斯顿、圣安东尼奥、达拉斯等快速进入前15名。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "1790",
+            "1900",
+            "1950",
+            "2025"
+          ],
+          "rows": [
+            [
+              "1",
+              "New York",
+              "New York",
+              "New York",
+              "New York"
+            ],
+            [
+              "2",
+              "Philadelphia",
+              "Chicago",
+              "Chicago",
+              "Los Angeles"
+            ],
+            [
+              "3",
+              "Boston",
+              "Philadelphia",
+              "Philadelphia",
+              "Chicago"
+            ],
+            [
+              "4",
+              "Charleston",
+              "St. Louis",
+              "Los Angeles",
+              "Houston"
+            ],
+            [
+              "5",
+              "Baltimore",
+              "Boston",
+              "Detroit",
+              "Phoenix"
+            ],
+            [
+              "6",
+              "Northern Liberties",
+              "Baltimore",
+              "Baltimore",
+              "Philadelphia"
+            ],
+            [
+              "7",
+              "Salem",
+              "Cleveland",
+              "Cleveland",
+              "San Antonio"
+            ],
+            [
+              "8",
+              "Newport",
+              "Buffalo",
+              "St. Louis",
+              "San Diego"
+            ],
+            [
+              "9",
+              "Providence",
+              "San Francisco",
+              "D.C.",
+              "Dallas"
+            ],
+            [
+              "10",
+              "Marblehead",
+              "Cincinnati",
+              "Boston",
+              "Fort Worth"
+            ],
+            [
+              "11",
+              "Southwark",
+              "Pittsburgh",
+              "San Francisco",
+              "Jacksonville"
+            ],
+            [
+              "12",
+              "Gloucester",
+              "New Orleans",
+              "Pittsburgh",
+              "Austin"
+            ],
+            [
+              "13",
+              "Newburyport",
+              "Detroit",
+              "Milwaukee",
+              "San Jose"
+            ],
+            [
+              "14",
+              "Portsmouth",
+              "Milwaukee",
+              "Houston",
+              "Charlotte"
+            ],
+            [
+              "15",
+              "Nantucket",
+              "D.C.",
+              "Buffalo",
+              "Columbus"
+            ]
+          ],
+          "caption": "美国最大城市排名变化 (1790-2025)"
+        },
+        {
+          "headers": [
+            "Rank",
+            "City",
+            "Population in 2025"
+          ],
+          "rows": [
+            [
+              "1",
+              "New York",
+              "8,596,825"
+            ],
+            [
+              "2",
+              "Los Angeles",
+              "3,872,710"
+            ],
+            [
+              "3",
+              "Chicago",
+              "2,726,332"
+            ],
+            [
+              "4",
+              "Houston",
+              "2,385,800"
+            ],
+            [
+              "5",
+              "Phoenix",
+              "1,662,324"
+            ],
+            [
+              "6",
+              "Philadelphia",
+              "1,572,735"
+            ],
+            [
+              "7",
+              "San Antonio",
+              "1,534,063"
+            ],
+            [
+              "8",
+              "San Diego",
+              "1,400,232"
+            ],
+            [
+              "9",
+              "Dallas",
+              "1,331,299"
+            ],
+            [
+              "10",
+              "Jacksonville",
+              "1,009,370"
+            ],
+            [
+              "11",
+              "Fort Worth",
+              "1,008,605"
+            ],
+            [
+              "12",
+              "Austin",
+              "998,607"
+            ],
+            [
+              "13",
+              "San Jose",
+              "987,831"
+            ],
+            [
+              "14",
+              "Charlotte",
+              "944,053"
+            ],
+            [
+              "15",
+              "Columbus",
+              "930,700"
+            ]
+          ],
+          "caption": "2025年美国人口前15大城市"
+        }
+      ],
+      "deep_dive": "## 城市格局的世纪演变：从东北部单极到全国多中心\n美国城市化的历史是一部人口与经济重心迁移的史诗。表格清晰显示，1790年建国初期，前15大城市几乎全部位于东北部沿海，如波士顿、费城、巴尔的摩，反映了早期以航运和贸易为主的经济模式。进入20世纪，随着工业化和铁路网扩张，芝加哥凭借其交通枢纽地位跃升第二，中西部工业城市（底特律、克利夫兰）崛起。二战后至21世纪，阳光地带（Sun Belt）城市如洛杉矶、休斯顿、凤凰城等后来居上，其驱动力包括温暖的气候、国防工业布局、较低的生活成本和多元化的产业结构。而许多东北部老工业城市则因产业空心化和人口外流而排名下滑。\n\n## 2025年的人口图景与未来启示\n2025年的预测数据巩固了这一趋势。纽约以其全球金融、文化中心的绝对优势保持第一，但其人口规模（约860万）与第二名洛杉矶（约387万）之间的巨大差距，凸显了其超级中心的地位。德州三城（休斯顿、圣安东尼奥、达拉斯）集体跻身前十，彰显了能源、科技和军事基地带来的强劲增长动力。西部的菲尼克斯、圣迭戈等城市也表现突出。这种地理重心的转移不仅影响政治（选举人票分布）、经济（资源分配），也对基础设施和公共服务提出了新的区域挑战。\n\n### 机制与局限性分析\n这种迁移的机制主要包括：产业转移（从制造业到服务业与科技业）、人口自然增长与国际移民的流向、以及阳光地带州更低的税收和更宽松的监管环境吸引企业与个人。然而，解读此数据需注意其局限性。首先，“城市”人口通常指行政市边界内居民，不包括都会区，例如旧金山-圣何塞都会区人口远超圣何塞市本身。其次，人口预测存在不确定性，会受到未来移民政策、气候变化和重大经济事件的影响。最后，人口规模不等同于城市活力或经济产出，人均收入、创新指数等指标同样关键。",
+      "glossary": [
+        {
+          "term": "Sun Belt",
+          "explanation": "阳光地带，指美国南部和西部气候温暖的地区，自20世纪中后期成为人口和经济增长的主要区域。"
+        },
+        {
+          "term": "都会区 (Metropolitan Statistical Area)",
+          "explanation": "包括一个或多个城市中心及其周边在经济和社会上高度融合的县，是衡量城市影响力和人口规模的更常用单位。"
+        },
+        {
+          "term": "产业空心化",
+          "explanation": "指一个国家或地区因制造业等实体经济部门向海外转移，导致国内制造业衰落、就业机会减少的经济现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "844b075c",
     "title": "Ranked: Countries With the Most World Cup Titles",
     "original_url": "https://www.visualcapitalist.com/countries-with-most-world-cup-titles/",
