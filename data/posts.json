@@ -1,5 +1,91 @@
 [
   {
+    "id": "844b075c",
+    "title": "Ranked: Countries With the Most World Cup Titles",
+    "original_url": "https://www.visualcapitalist.com/countries-with-most-world-cup-titles/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/844b075c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDLR9tPabIxVd6aCc1hzGJKeTRSDpRT5mI//9k=",
+    "image_version": 1780848298,
+    "pub_date": "Sun, 07 Jun 2026 14:25:32 +0000",
+    "content_md": "| Team | Number of World Cup Trophies | Years Won |\n| --- | --- | --- |\n| Brazil | 5 | 1958, 1962, 1970, 1994, 2002 |\n| Germany | 4 | 1954, 1974, 1990, 2014 |\n| Italy | 4 | 1934, 1938, 1982, 2006 |\n| Argentina | 3 | 1978, 1986, 2022 |\n| France | 2 | 1998, 2018 |\n| Uruguay | 2 | 1930, 1950 |\n| England | 1 | 1966 |\n| Spain | 1 | 2010 |",
+    "ai_analysis": {
+      "core_insight": "世界杯冠军高度集中于传统足球强国，欧洲与南美完全垄断。",
+      "data_highlights": [
+        "巴西以5次夺冠独占鳌头，是唯一五星球队。",
+        "德国与意大利均4次夺冠，并列第二，展现欧洲足球的深厚底蕴。",
+        "阿根廷在2022年夺冠后，以3次冠军紧随其后，巩固南美双雄格局。",
+        "法国、乌拉圭各2次夺冠，英格兰、西班牙各1次，冠军版图自2010年后再未扩围。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Team",
+            "Number of World Cup Trophies",
+            "Years Won"
+          ],
+          "rows": [
+            [
+              "Brazil",
+              "5",
+              "1958, 1962, 1970, 1994, 2002"
+            ],
+            [
+              "Germany",
+              "4",
+              "1954, 1974, 1990, 2014"
+            ],
+            [
+              "Italy",
+              "4",
+              "1934, 1938, 1982, 2006"
+            ],
+            [
+              "Argentina",
+              "3",
+              "1978, 1986, 2022"
+            ],
+            [
+              "France",
+              "2",
+              "1998, 2018"
+            ],
+            [
+              "Uruguay",
+              "2",
+              "1930, 1950"
+            ],
+            [
+              "England",
+              "1",
+              "1966"
+            ],
+            [
+              "Spain",
+              "1",
+              "2010"
+            ]
+          ],
+          "caption": "世界杯冠军国家排名"
+        }
+      ],
+      "deep_dive": "## 一、 格局：欧洲南美双峰对峙，冠军高度集中\n世界杯冠军的归属清晰地勾勒出世界足球的传统势力版图。历史上所有冠军均由来自欧洲和南美洲的国家获得，形成了稳固的“双峰”格局。\n- **南美强势**：巴西、阿根廷、乌拉圭三强贡献了合计10次冠军，其中巴西一国便独占5冠，展现了其“足球王国”的绝对统治力。\n- **欧洲集团优势**：德国、意大利、法国、英格兰、西班牙五国共夺冠11次，凭借更多国家入围冠军俱乐部，体现了欧洲足球整体的厚度和竞争力。尤其德国和意大利各4次夺冠，是欧洲足球的稳定支柱。\n\n## 二、 时空脉络：冠军更迭与足球重心变迁\n从夺冠年份可以窥见世界足球重心的微妙变化。\n- **早期探索（1930-1950）**：冠军被乌拉圭、意大利、巴西早期瓜分，反映了足球运动在全球的早期传播与地方特色。\n- **南美黄金期（1958-1970）**：巴西在此期间三夺冠军，确立了其技术足球的巅峰地位。\n- **欧洲复兴与抗衡（1974-1990）**：德国和意大利交替夺冠，与阿根廷的崛起（1978，1986）形成激烈对抗。\n- **新王登基与格局固化（1998-2022）**：法国、西班牙先后首夺冠军，打破了传统四强的垄断。然而，2010年后，冠军再次回归阿根廷（2022），表明冠军俱乐部并未进一步扩容，传统强队依然拥有最强大的夺冠基因。这种格局的固化，使得世界杯的竞技悬念更多集中于传统豪强之间的对决。\n\n## 三、 关键启示与局限\n**启示**：\n1.  **青训与足球文化是基石**：长期稳定的冠军输出，离不开深厚的青训体系、广泛的群众基础和独特的足球哲学（如巴西的技术、德国的纪律）。\n2.  **联赛水平至关重要**：强大的国内联赛（如五大联赛）为国家队输送人才并提供高水平竞技环境，是欧洲强队保持竞争力的引擎。\n\n**局限**：\n1.  **“冠军俱乐部”的封闭性**：自2010年西班牙夺冠后，再无新的国家首次捧杯。这反映出在现代足球高度体系化、资本化的背景下，新兴足球国家突破传统壁垒、实现历史性突破的难度日益加大。\n2.  **数据未完全体现竞争**：此排名仅反映冠军数量，未能体现亚军、四强等成绩，也无法展现比赛过程的激烈程度。例如，荷兰三次获得亚军却无一冠，其“无冕之王”的悲情同样是世界杯历史的重要组成部分。",
+      "glossary": [
+        {
+          "term": "五星巴西",
+          "explanation": "指巴西国家男子足球队共获得五次世界杯冠军，是历史上夺冠次数最多的球队，因此得名。"
+        },
+        {
+          "term": "无冕之王",
+          "explanation": "常用来指代那些实力强劲、多次闯入决赛或四强，但始终未能赢得冠军的球队，如荷兰队。"
+        },
+        {
+          "term": "青训体系",
+          "explanation": "指足球俱乐部或足球协会为培养年轻球员而建立的系统性培训机制，是国家队人才储备的源头。"
+        }
+      ]
+    }
+  },
+  {
     "id": "78f0b42d",
     "title": "Ranked: America’s Most Popular Cities for Overseas Tourists",
     "original_url": "https://www.visualcapitalist.com/ranked-u-s-cities-overseas-tourists/",
