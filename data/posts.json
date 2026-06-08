@@ -1,5 +1,113 @@
 [
   {
+    "id": "abf2a8d6",
+    "title": "The Boom, Bust, and Rebound of Battery Material Prices",
+    "original_url": "https://www.visualcapitalist.com/the-boom-bust-and-rebound-of-battery-material-prices/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/abf2a8d6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDGjNWQMiqsXWradKAGFeaKeetFAH//2Q==",
+    "image_version": 1780957079,
+    "pub_date": "Mon, 08 Jun 2026 20:10:49 +0000",
+    "content_md": "| Year (January price/tonne) | Cobalt | Lithium | Natural Graphite | Nickel |\n| --- | --- | --- | --- | --- |\n| 2019 | $29,250 | $13,500 | $795 | $24,705 |\n| 2020 | $22,570 | $8,625 | $550 | $24,500 |\n| 2021 | $33,800 | $8,250 | $550 | $32,000 |\n| 2022 | $65,208 | $30,000 | $665 | $37,500 |\n| 2023 | $21,545 | $66,500 | $813 | $35,250 |\n| 2024 | $15,322 | $16,500 | $538 | $26,100 |\n| 2025 | $13,007 | $10,100 | $435 | $25,965 |\n| 2026 | $57,320 | $13,750 | $412 | $32,800 |",
+    "ai_analysis": {
+      "core_insight": "电池材料价格经历剧烈波动后，2024-25年触底，2026年预计迎来强劲反弹。",
+      "data_highlights": [
+        "钴价在2022年达到峰值$65,208/吨，随后在2025年暴跌至$13,007/吨，跌幅超80%。",
+        "锂价走势最为戏剧性，从2020年的$8,625/吨飙升至2023年的$66,500/吨，随后又在2025年回落至$10,100/吨。",
+        "2026年预测数据显示，钴、镍价格将显著反弹，而锂和天然石墨价格则相对温和回升或持平。",
+        "天然石墨价格在所有材料中最为稳定，长期维持在$400-$800/吨的区间内。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year (January price/tonne)",
+            "Cobalt",
+            "Lithium",
+            "Natural Graphite",
+            "Nickel"
+          ],
+          "rows": [
+            [
+              "2019",
+              "$29,250",
+              "$13,500",
+              "$795",
+              "$24,705"
+            ],
+            [
+              "2020",
+              "$22,570",
+              "$8,625",
+              "$550",
+              "$24,500"
+            ],
+            [
+              "2021",
+              "$33,800",
+              "$8,250",
+              "$550",
+              "$32,000"
+            ],
+            [
+              "2022",
+              "$65,208",
+              "$30,000",
+              "$665",
+              "$37,500"
+            ],
+            [
+              "2023",
+              "$21,545",
+              "$66,500",
+              "$813",
+              "$35,250"
+            ],
+            [
+              "2024",
+              "$15,322",
+              "$16,500",
+              "$538",
+              "$26,100"
+            ],
+            [
+              "2025",
+              "$13,007",
+              "$10,100",
+              "$435",
+              "$25,965"
+            ],
+            [
+              "2026",
+              "$57,320",
+              "$13,750",
+              "$412",
+              "$32,800"
+            ]
+          ],
+          "caption": "电池材料价格年度走势（每年1月价格，单位：美元/吨）"
+        }
+      ],
+      "deep_dive": "## 价格周期剖析：繁荣、萧条与再平衡\n电池材料市场呈现出清晰的周期性特征，其核心驱动力是供需基本面的错配与市场预期的放大效应。\n\n1.  **繁荣期（2021-2022）**：在电动汽车需求爆发和全球供应链紧张的共同作用下，钴、锂、镍价格于2022年集体冲高。其中，锂价因资源属性强、扩产周期长而涨幅最为惊人，从2020年低点到2023年高点涨幅近670%。\n2.  **萧条期（2023-2025）**：高价刺激了全球范围内上游矿山和加工产能的快速扩张，新增供应于2023-2024年集中释放。与此同时，产业链中下游因前期高价积累了大量库存，开始主动去库存，叠加2023-2024年全球电动汽车增速因高基数而放缓，导致供需关系迅速逆转，价格断崖式下跌。锂价跌幅尤为剧烈，这反映了其金融属性强、投机资金退潮的影响。\n3.  **再平衡与反弹（2026预测）**：深度下跌导致部分高成本产能关停，供应增长放缓。同时，随着库存消耗和需求持续增长（尽管增速可能放缓），市场再次趋于紧平衡。预测数据显示2026年钴、镍价格将强力反弹，这或预示着市场对供应收紧的预期；而锂价温和回升、石墨价继续疲软，则可能表明市场认为其当前供需仍相对宽松。\n\n## 材料分化与供应链启示\n不同材料的价格波动幅度和节奏存在显著差异，这对产业链企业提出了差异化的风险管理要求。\n\n- **钴与镍**：价格波动剧烈，具有明显的工业金属属性，受宏观经济、地缘政治（如钴的刚果（金）供应集中度）及新能源技术路线（如高镍低钴）影响大。其价格的V型反弹预测暗示着供应端的脆弱性。\n- **锂**：经历了“超级周期”般的暴涨暴跌，其金融化趋势显著。价格的剧烈波动对电池成本控制和项目投资决策构成巨大挑战，企业需建立更灵活的采购和库存策略。\n- **天然石墨**：价格相对稳定，波动远小于其他金属。这与其供应来源相对分散、技术成熟度高有关。但其稳定的价格也反映出行业可能面临结构性的供过于求压力。\n\n**核心启示**：电池原材料市场已告别单边上涨时代，进入高波动、结构性分化的“新常态”。下游电池和整车厂需摒弃简单的成本转嫁思维，转而通过长期协议、投资上游、技术替代（如钠电池对锂需求的潜在分流）和循环回收等多元化策略来管理供应链风险和成本。",
+      "glossary": [
+        {
+          "term": "周期性（Cyclicality）",
+          "explanation": "指商品价格因供需关系在时间上的规律性波动，通常经历繁荣、衰退、萧条和复苏四个阶段。"
+        },
+        {
+          "term": "供需基本面（Supply-Demand Fundamentals）",
+          "explanation": "决定商品长期价格的核心因素，即市场的总供给量与总需求量之间的平衡关系。"
+        },
+        {
+          "term": "金融属性（Financial Attributes）",
+          "explanation": "指商品除了实际使用价值外，还被作为投资或投机工具，其价格受金融市场情绪、资金流动等因素显著影响。"
+        },
+        {
+          "term": "供应链风险管理（Supply Chain Risk Management）",
+          "explanation": "企业为应对供应中断、价格波动、地缘政治等不确定性，采取的多元化采购、战略库存、垂直整合等策略。"
+        }
+      ]
+    }
+  },
+  {
     "id": "68698589",
     "title": "The Biggest Summer Blockbusters Since 2010, by Box Office Sales",
     "original_url": "https://www.visualcapitalist.com/sp/ter02-ranked-highest-grossing-summer-movies-2010-2026/",
