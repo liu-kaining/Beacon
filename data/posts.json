@@ -1,5 +1,312 @@
 [
   {
+    "id": "9cda2691",
+    "title": "Mapped: Which States Grew Fastest Since 2021",
+    "original_url": "https://www.visualcapitalist.com/mapped-states-grew-the-fastest-since-2021-real-gdp/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9cda2691.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC7Sq1OZKZtOa8x0VY0dZ3Jw3FFMA4ormdNG3tGSnFNIFLTTXTzOxzdRciimUVga3P/2Q==",
+    "image_version": 1780923318,
+    "pub_date": "Mon, 08 Jun 2026 11:52:37 +0000",
+    "content_md": "| Rank | State or District | Real GDP Growth (2021-2025) |\n| --- | --- | --- |\n| 1 | Texas | 19.5% |\n| 2 | New Mexico | 19.1% |\n| 3 | Florida | 18.9% |\n| 4 | South Carolina | 16.7% |\n| 5 | Montana | 16.1% |\n| 6 | Delaware | 16.1% |\n| 7 | Nevada | 15.5% |\n| 8 | Arizona | 15.0% |\n| 9 | Washington | 14.6% |\n| 10 | Idaho | 14.2% |\n| 11 | Utah | 14.0% |\n| 12 | North Carolina | 13.9% |\n| 13 | Colorado | 12.8% |\n| 14 | Tennessee | 11.9% |\n| 15 | Alabama | 11.4% |\n| 16 | Hawaii | 11.4% |\n| 17 | Nebraska | 11.1% |\n| 18 | Alaska | 11.1% |\n| 19 | North Dakota | 10.8% |\n| 20 | Georgia | 10.4% |\n| 21 | Virginia | 10.3% |\n| 22 | Vermont | 9.9% |\n| 23 | Maine | 9.6% |\n| 24 | Oklahoma | 9.5% |\n| 25 | Arkansas | 9.4% |\n| 26 | Indiana | 9.2% |\n| 27 | West Virginia | 9.1% |\n| 28 | New Jersey | 9.0% |\n| 29 | Kansas | 8.7% |\n| 30 | Kentucky | 8.2% |\n| 31 | New York | 8.2% |\n| 32 | Connecticut | 8.2% |\n| 33 | Mississippi | 8.0% |\n| 34 | Missouri | 8.0% |\n| 35 | Massachusetts | 7.8% |\n| 36 | Michigan | 7.6% |\n| 37 | Wyoming | 7.6% |\n| 38 | California | 7.5% |\n| 39 | Wisconsin | 7.4% |\n| 40 | Minnesota | 7.4% |\n| 41 | New Hampshire | 7.3% |\n| 42 | Louisiana | 7.2% |\n| 43 | Maryland | 7.1% |\n| 44 | Pennsylvania | 6.9% |\n| 45 | Illinois | 6.6% |\n| 46 | Ohio | 6.2% |\n| 47 | Oregon | 6.0% |\n| 48 | Rhode Island | 5.8% |\n| 49 | South Dakota | 4.5% |\n| 50 | Iowa | 3.1% |\n| 51 | District of Columbia | 1.6% |\n| -- | United States | 10.8% |",
+    "ai_analysis": {
+      "core_insight": "德州领跑全美，阳光地带及西部州占据增长前十。",
+      "data_highlights": [
+        "德州以19.5%的GDP增速高居榜首。",
+        "增速前十的州中，有8个位于美国南部和西部。",
+        "全美平均增速为10.8%，约一半的州低于此水平。",
+        "首都华盛顿特区增速垫底，仅为1.6%。",
+        "增速最慢的五个州均为中西部传统农业或工业州。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or District",
+            "Real GDP Growth (2021-2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Texas",
+              "19.5%"
+            ],
+            [
+              "2",
+              "New Mexico",
+              "19.1%"
+            ],
+            [
+              "3",
+              "Florida",
+              "18.9%"
+            ],
+            [
+              "4",
+              "South Carolina",
+              "16.7%"
+            ],
+            [
+              "5",
+              "Montana",
+              "16.1%"
+            ],
+            [
+              "6",
+              "Delaware",
+              "16.1%"
+            ],
+            [
+              "7",
+              "Nevada",
+              "15.5%"
+            ],
+            [
+              "8",
+              "Arizona",
+              "15.0%"
+            ],
+            [
+              "9",
+              "Washington",
+              "14.6%"
+            ],
+            [
+              "10",
+              "Idaho",
+              "14.2%"
+            ],
+            [
+              "11",
+              "Utah",
+              "14.0%"
+            ],
+            [
+              "12",
+              "North Carolina",
+              "13.9%"
+            ],
+            [
+              "13",
+              "Colorado",
+              "12.8%"
+            ],
+            [
+              "14",
+              "Tennessee",
+              "11.9%"
+            ],
+            [
+              "15",
+              "Alabama",
+              "11.4%"
+            ],
+            [
+              "16",
+              "Hawaii",
+              "11.4%"
+            ],
+            [
+              "17",
+              "Nebraska",
+              "11.1%"
+            ],
+            [
+              "18",
+              "Alaska",
+              "11.1%"
+            ],
+            [
+              "19",
+              "North Dakota",
+              "10.8%"
+            ],
+            [
+              "20",
+              "Georgia",
+              "10.4%"
+            ],
+            [
+              "21",
+              "Virginia",
+              "10.3%"
+            ],
+            [
+              "22",
+              "Vermont",
+              "9.9%"
+            ],
+            [
+              "23",
+              "Maine",
+              "9.6%"
+            ],
+            [
+              "24",
+              "Oklahoma",
+              "9.5%"
+            ],
+            [
+              "25",
+              "Arkansas",
+              "9.4%"
+            ],
+            [
+              "26",
+              "Indiana",
+              "9.2%"
+            ],
+            [
+              "27",
+              "West Virginia",
+              "9.1%"
+            ],
+            [
+              "28",
+              "New Jersey",
+              "9.0%"
+            ],
+            [
+              "29",
+              "Kansas",
+              "8.7%"
+            ],
+            [
+              "30",
+              "Kentucky",
+              "8.2%"
+            ],
+            [
+              "31",
+              "New York",
+              "8.2%"
+            ],
+            [
+              "32",
+              "Connecticut",
+              "8.2%"
+            ],
+            [
+              "33",
+              "Mississippi",
+              "8.0%"
+            ],
+            [
+              "34",
+              "Missouri",
+              "8.0%"
+            ],
+            [
+              "35",
+              "Massachusetts",
+              "7.8%"
+            ],
+            [
+              "36",
+              "Michigan",
+              "7.6%"
+            ],
+            [
+              "37",
+              "Wyoming",
+              "7.6%"
+            ],
+            [
+              "38",
+              "California",
+              "7.5%"
+            ],
+            [
+              "39",
+              "Wisconsin",
+              "7.4%"
+            ],
+            [
+              "40",
+              "Minnesota",
+              "7.4%"
+            ],
+            [
+              "41",
+              "New Hampshire",
+              "7.3%"
+            ],
+            [
+              "42",
+              "Louisiana",
+              "7.2%"
+            ],
+            [
+              "43",
+              "Maryland",
+              "7.1%"
+            ],
+            [
+              "44",
+              "Pennsylvania",
+              "6.9%"
+            ],
+            [
+              "45",
+              "Illinois",
+              "6.6%"
+            ],
+            [
+              "46",
+              "Ohio",
+              "6.2%"
+            ],
+            [
+              "47",
+              "Oregon",
+              "6.0%"
+            ],
+            [
+              "48",
+              "Rhode Island",
+              "5.8%"
+            ],
+            [
+              "49",
+              "South Dakota",
+              "4.5%"
+            ],
+            [
+              "50",
+              "Iowa",
+              "3.1%"
+            ],
+            [
+              "51",
+              "District of Columbia",
+              "1.6%"
+            ],
+            [
+              "--",
+              "United States",
+              "10.8%"
+            ]
+          ],
+          "caption": "2021-2025年美国各州实际GDP增长率排名"
+        }
+      ],
+      "deep_dive": "## 区域增长格局：阳光地带与西部的崛起\n自2021年以来的四年间，美国经济增长呈现出显著的区域分化。以德州、佛罗里达州和南卡罗来纳州为代表的**阳光地带**以及蒙大拿、爱达荷等**西部山地州**占据了增速排行榜的顶端。这种格局的形成主要得益于几大长期趋势：\n- **人口迁移与低生活成本**：疫情后远程办公的普及，促使人口从高税收、高生活成本的东北部和西海岸传统中心，向税收友好、生活成本较低、自然环境优越的南部和西部州迁移，直接拉动了当地住房和消费市场。\n- **产业结构差异**：增长快的州往往拥有更具活力的产业，如德州的能源、科技与制造业，佛州的旅游、金融和养老服务业，以及西部州的数据中心、户外休闲和新兴产业。而增速垫底的州多为传统农业州（如爱荷华州）或产业转型缓慢的工业州（如俄亥俄州）。\n- **政策环境**：许多增长迅速的州提供了更友好的商业监管环境和税收政策，吸引了企业投资和创业活动。\n\n## 增长动能与潜在隐忧\n尽管区域增长亮点突出，但深入分析也揭示出一些值得关注的现象和挑战：\n- **增速分化加剧**：增长最快的德州（19.5%）与最慢的华盛顿特区（1.6%）之间差距巨大，远超过全美10.8%的平均增速。超过半数的州（26个）增速低于全国平均水平，表明复苏和增长并不均衡。\n- **头部州的共性**：前十名中，除特拉华州（可能受企业注册地效应影响）和华盛顿州（科技中心）外，其余均符合“人口流入+成本优势+政策友好”的模型。这揭示了当前美国区域经济竞争力的核心要素。\n- **中部与东北部的挑战**：中西部“铁锈带”各州和部分东北部州表现疲软，面临产业空心化、人口流失和财政压力等结构性问题，这些地区的经济转型任务艰巨。\n- **首都特区的特殊性**：华盛顿特区作为政治中心，其经济表现可能受联邦政府预算、政策周期影响较大，增长乏力或许反映了特定时期的政治经济环境。\n\n总体而言，这份数据描绘了一幅后疫情时代美国经济重心进一步南移和西移的图景，但同时也凸显了区域间发展不平衡的深层挑战。",
+      "glossary": [
+        {
+          "term": "Real GDP Growth",
+          "explanation": "实际国内生产总值增长率。指剔除通货膨胀因素后，衡量一个国家或地区在一定时期内生产的所有最终商品和服务市场价值的总和增长情况。"
+        },
+        {
+          "term": "Sun Belt",
+          "explanation": "阳光地带。指美国南部和西南部气候温暖、人口增长迅速的州，通常包括德州、佛州、亚利桑那州等。"
+        },
+        {
+          "term": "Rust Belt",
+          "explanation": "铁锈地带。指美国中西部和东北部传统工业衰退的地区，包括俄亥俄、密歇根、宾夕法尼亚等州，常面临工厂关闭和人口外流。"
+        }
+      ]
+    }
+  },
+  {
     "id": "8915a68e",
     "title": "Mapped: Where Canadian Travel to America Is Falling Fastest",
     "original_url": "https://www.visualcapitalist.com/mapped-where-canadian-travel-to-usa-is-falling-fastest/",
