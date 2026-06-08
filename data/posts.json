@@ -1,5 +1,158 @@
 [
   {
+    "id": "68698589",
+    "title": "The Biggest Summer Blockbusters Since 2010, by Box Office Sales",
+    "original_url": "https://www.visualcapitalist.com/sp/ter02-ranked-highest-grossing-summer-movies-2010-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/68698589.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAANABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlxSMtCmnUAiErRUtFBVj/2Q==",
+    "image_version": 1780948620,
+    "pub_date": "Mon, 08 Jun 2026 17:56:00 +0000",
+    "content_md": "| Year | #1 Movie | Summer Gross Sales | Category |\n| --- | --- | --- | --- |\n| 2026 | The Devil Wears Prada 2* | $203M | Sequel |\n| 2025 | Lilo & Stitch | $424M | Remake |\n| 2024 | Inside Out 2 | $653M | Sequel |\n| 2023 | Barbie | $636M | IP adaptation |\n| 2022 | Top Gun: Maverick | $719M | Sequel |\n| 2021 | Shang-Chi and the Legend of the Ten Rings | $225M | Franchise |\n| 2020 | Tenet | $59M | Original |\n| 2019 | The Lion King | $544M | Remake |\n| 2018 | Incredibles 2 | $609M | Sequel |\n| 2017 | Wonder Woman | $413M | Franchise |\n| 2016 | Finding Dory | $486M | Sequel |\n| 2015 | Jurassic World | $652M | Franchise |\n| 2014 | Guardians of the Galaxy | $333M | Franchise |\n| 2013 | Iron Man 3 | $409M | Sequel |\n| 2012 | The Avengers | $623M | Franchise |\n| 2011 | Harry Potter and the Deathly Hallows: Part 2 | $381M | Sequel |\n| 2010 | Toy Story 3 | $415M | Sequel |",
+    "ai_analysis": {
+      "core_insight": "过去十五年暑期档冠军以IP续集为主导，票房头部集中效应显著。",
+      "data_highlights": [
+        "续集类电影占据绝对主导，在17部暑期档冠军中占比超过70%。",
+        "2022年的《壮志凌云：独行侠》以7.19亿美元创下本表最高票房纪录。",
+        "2020年受疫情影响，票房冠军《信条》票房仅5900万美元，为表中最低。",
+        "2020年后，续集与改编电影持续称霸，原创电影再无上榜。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "#1 Movie",
+            "Summer Gross Sales",
+            "Category"
+          ],
+          "rows": [
+            [
+              "2026",
+              "The Devil Wears Prada 2*",
+              "$203M",
+              "Sequel"
+            ],
+            [
+              "2025",
+              "Lilo & Stitch",
+              "$424M",
+              "Remake"
+            ],
+            [
+              "2024",
+              "Inside Out 2",
+              "$653M",
+              "Sequel"
+            ],
+            [
+              "2023",
+              "Barbie",
+              "$636M",
+              "IP adaptation"
+            ],
+            [
+              "2022",
+              "Top Gun: Maverick",
+              "$719M",
+              "Sequel"
+            ],
+            [
+              "2021",
+              "Shang-Chi and the Legend of the Ten Rings",
+              "$225M",
+              "Franchise"
+            ],
+            [
+              "2020",
+              "Tenet",
+              "$59M",
+              "Original"
+            ],
+            [
+              "2019",
+              "The Lion King",
+              "$544M",
+              "Remake"
+            ],
+            [
+              "2018",
+              "Incredibles 2",
+              "$609M",
+              "Sequel"
+            ],
+            [
+              "2017",
+              "Wonder Woman",
+              "$413M",
+              "Franchise"
+            ],
+            [
+              "2016",
+              "Finding Dory",
+              "$486M",
+              "Sequel"
+            ],
+            [
+              "2015",
+              "Jurassic World",
+              "$652M",
+              "Franchise"
+            ],
+            [
+              "2014",
+              "Guardians of the Galaxy",
+              "$333M",
+              "Franchise"
+            ],
+            [
+              "2013",
+              "Iron Man 3",
+              "$409M",
+              "Sequel"
+            ],
+            [
+              "2012",
+              "The Avengers",
+              "$623M",
+              "Franchise"
+            ],
+            [
+              "2011",
+              "Harry Potter and the Deathly Hallows: Part 2",
+              "$381M",
+              "Sequel"
+            ],
+            [
+              "2010",
+              "Toy Story 3",
+              "$415M",
+              "Sequel"
+            ]
+          ],
+          "caption": "2010-2026年暑期档票房冠军一览"
+        }
+      ],
+      "deep_dive": "## 市场格局：IP续集的统治与原创的式微\n\n本表清晰地揭示了过去十五年好莱坞暑期档的商业模式核心：**依赖知名知识产权（IP）进行续集或系列化开发**。在17部年度冠军中，明确标注为“Sequel”（续集）的电影有10部，占比高达58.8%；若将“Franchise”（系列电影）和“Remake”（翻拍）计入广义IP电影范畴，则统治力达到惊人的94%。唯一上榜的原创电影《信条》（Tenet）诞生于2020年这一特殊年份，其极低的票房恰恰反衬出当时全球院线市场的萎缩，并非常态下的市场选择。\n\n这种模式背后是制片方对**商业风险的极致规避**。已有成功作品背书的IP，拥有稳定的观众基础和市场认知度，宣发成本相对更低，票房回报的确定性远高于原创项目。2010年代初期，系列电影如《复仇者联盟》、《钢铁侠3》开启了漫威的统治；中期被《侏罗纪世界》、《海底总动员2》等续作接力；直至2020年后，市场几乎完全被续集、翻拍和IP改编（如《芭比》）占据，原创剧本在头部阵营已无立足之地。\n\n## 票房趋势与外部冲击\n\n从票房数据看，头部电影的吸金能力呈现波动上升趋势，但存在明显断层。**2015-2019年及2022年以后是票房高峰期**，冠军票房均超过5亿美元，其中2022年的《壮志凌云：独行侠》以7.19亿美元登顶，既是情怀续作的胜利，也标志着疫情后影院复苏的里程碑。相反，**2020-2021年是显著的低谷期**，冠军票房均低于2.5亿美元，直接反映了新冠疫情对全球线下娱乐活动的毁灭性打击。\n\n值得注意的是，票房冠军的分类也在悄然变化。早期（2010-2012年）以迪士尼/皮克斯的动画续集和漫威的系列电影为主。随后，华纳、环球等公司的知名IP（如《神奇女侠》、《侏罗纪世界》）加入竞争。而近两年，则出现了像《芭比》（基于玩具的IP改编）和《头脑特工队2》（动画续集）这样多元化的成功案例，显示出IP来源的拓宽和观众对优质内容本身的渴求，但其内核仍是对已有品牌的开发，而非纯粹的原创故事。\n\n## 启示与局限\n\n**对产业的启示**：这份数据是好莱坞“续集文化”和“IP中心制”的缩影。它证明了在高风险的电影行业，依托经过验证的IP是确保暑期档票房安全最有效的策略。然而，这种模式也带来了**创意枯竭和市场同质化**的风险。观众可能产生“续集疲劳”，长期来看可能削弱电影文化的生命力。\n\n**分析的局限性**：首先，本表仅展示了年度冠军，无法反映中小成本原创电影的市场表现，它们可能在流媒体平台取得成功。其次，“暑期档”的定义可能因地区而异，且票房数据未考虑通货膨胀影响，例如2010年的4.15亿美元与2024年的6.53亿美元实际购买力差异巨大。最后，2020和2021年的数据是极端异常值，应谨慎用于长期趋势分析。",
+      "glossary": [
+        {
+          "term": "Sequel (续集)",
+          "explanation": "基于前作故事、角色或世界观开发的后续电影作品，旨在利用前作积累的观众基础。"
+        },
+        {
+          "term": "Franchise (系列电影)",
+          "explanation": "指一个共享同一世界观、角色或主题的系列电影集合，通常由多部独立电影或续集构成，如漫威电影宇宙。"
+        },
+        {
+          "term": "IP Adaptation (知识产权改编)",
+          "explanation": "将其他媒体形式（如玩具、书籍、游戏）中已建立知名度的知识产权改编为电影，如《芭比》。"
+        },
+        {
+          "term": "Summer Gross Sales (暑期档票房)",
+          "explanation": "通常指每年5月至9月期间，电影在特定市场（本表为北美）上映所获得的总票房收入，是衡量电影商业表现的关键周期。"
+        }
+      ]
+    }
+  },
+  {
     "id": "85539170",
     "title": "Ranked: The World’s Biggest Sources of Foreign Investment",
     "original_url": "https://www.visualcapitalist.com/the-worlds-largest-investor-countries/",
