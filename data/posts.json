@@ -1,5 +1,311 @@
 [
   {
+    "id": "ec624bc3",
+    "title": "Mapped: Where Workers Outnumber Jobs in America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-workers-outnumber-jobs-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ec624bc3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAXABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnY4Ce1LJbkDpV6BRT5lXbSuNpGI0XNFWnA3GiquSXIziiWTiiipSMeZlJj81FFFWF2f/Z",
+    "image_version": 1781014489,
+    "pub_date": "Tue, 09 Jun 2026 13:51:44 +0000",
+    "content_md": "| State | Workers per 100 Job OpeningsJan 2026 | Total Labor Surplus or Shortage |\n| --- | --- | --- |\n| California | 184 | 494,000 |\n| Washington | 169 | 83,000 |\n| Nevada | 154 | 31,000 |\n| New Jersey | 152 | 88,000 |\n| Oregon | 149 | 38,000 |\n| Illinois | 146 | 100,000 |\n| Massachusetts | 144 | 57,000 |\n| Arizona | 140 | 49,000 |\n| New Mexico | 134 | 11,000 |\n| Connecticut | 128 | 19,000 |\n| Delaware | 127 | 6,000 |\n| New York | 125 | 93,000 |\n| Michigan | 123 | 47,000 |\n| Florida | 117 | 72,000 |\n| Rhode Island | 117 | 4,000 |\n| Pennsylvania | 116 | 39,000 |\n| Colorado | 115 | 16,000 |\n| South Carolina | 115 | 17,000 |\n| Texas | 114 | 85,000 |\n| Alaska | 111 | 2,000 |\n| Maryland | 109 | 11,000 |\n| Kentucky | 103 | 2,000 |\n| Utah | 103 | 2,000 |\n| New Hampshire | 101 | 0 |\n| Arkansas | 98 | -1,000 |\n| Louisiana | 95 | -5,000 |\n| Indiana | 94 | -8,000 |\n| Minnesota | 93 | -11,000 |\n| Wyoming | 93 | -1,000 |\n| Montana | 92 | -2,000 |\n| Ohio | 92 | -23,000 |\n| Iowa | 91 | -6,000 |\n| Missouri | 91 | -13,000 |\n| Kansas | 90 | -7,000 |\n| Tennessee | 89 | -15,000 |\n| North Carolina | 88 | -28,000 |\n| Wisconsin | 87 | -16,000 |\n| Maine | 84 | -5,000 |\n| Nebraska | 84 | -6,000 |\n| Vermont | 84 | -2,000 |\n| District of Columbia | 82 | -6,000 |\n| West Virginia | 82 | -8,000 |\n| Idaho | 79 | -10,000 |\n| Virginia | 79 | -45,000 |\n| Mississippi | 77 | -14,000 |\n| Oklahoma | 77 | -23,000 |\n| Hawaii | 73 | -6,000 |\n| Georgia | 70 | -82,000 |\n| Alabama | 65 | -34,000 |\n| South Dakota | 55 | -9,000 |\n| North Dakota | 54 | -10,000 |",
+    "ai_analysis": {
+      "core_insight": "美国劳动力市场区域失衡显著，西海岸及东北部各州劳动力供过于求，而南部及中西部多州面临劳动力短缺。",
+      "data_highlights": [
+        "加州劳动力供给最为过剩，每100个职位有184名求职者，盈余达49.4万人。",
+        "华盛顿州与内华达州紧随其后，劳动力过剩比例分别高达169%和154%。",
+        "南达科他州、北达科他州劳动力最为紧缺，每100个职位仅有约55名求职者。",
+        "佐治亚州劳动力缺口最大，达8.2万人，反映其经济扩张迅速。",
+        "新罕布什尔州劳动力市场处于完美平衡状态，盈余为零。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Workers per 100 Job Openings Jan 2026",
+            "Total Labor Surplus or Shortage"
+          ],
+          "rows": [
+            [
+              "California",
+              "184",
+              "494,000"
+            ],
+            [
+              "Washington",
+              "169",
+              "83,000"
+            ],
+            [
+              "Nevada",
+              "154",
+              "31,000"
+            ],
+            [
+              "New Jersey",
+              "152",
+              "88,000"
+            ],
+            [
+              "Oregon",
+              "149",
+              "38,000"
+            ],
+            [
+              "Illinois",
+              "146",
+              "100,000"
+            ],
+            [
+              "Massachusetts",
+              "144",
+              "57,000"
+            ],
+            [
+              "Arizona",
+              "140",
+              "49,000"
+            ],
+            [
+              "New Mexico",
+              "134",
+              "11,000"
+            ],
+            [
+              "Connecticut",
+              "128",
+              "19,000"
+            ],
+            [
+              "Delaware",
+              "127",
+              "6,000"
+            ],
+            [
+              "New York",
+              "125",
+              "93,000"
+            ],
+            [
+              "Michigan",
+              "123",
+              "47,000"
+            ],
+            [
+              "Florida",
+              "117",
+              "72,000"
+            ],
+            [
+              "Rhode Island",
+              "117",
+              "4,000"
+            ],
+            [
+              "Pennsylvania",
+              "116",
+              "39,000"
+            ],
+            [
+              "Colorado",
+              "115",
+              "16,000"
+            ],
+            [
+              "South Carolina",
+              "115",
+              "17,000"
+            ],
+            [
+              "Texas",
+              "114",
+              "85,000"
+            ],
+            [
+              "Alaska",
+              "111",
+              "2,000"
+            ],
+            [
+              "Maryland",
+              "109",
+              "11,000"
+            ],
+            [
+              "Kentucky",
+              "103",
+              "2,000"
+            ],
+            [
+              "Utah",
+              "103",
+              "2,000"
+            ],
+            [
+              "New Hampshire",
+              "101",
+              "0"
+            ],
+            [
+              "Arkansas",
+              "98",
+              "-1,000"
+            ],
+            [
+              "Louisiana",
+              "95",
+              "-5,000"
+            ],
+            [
+              "Indiana",
+              "94",
+              "-8,000"
+            ],
+            [
+              "Minnesota",
+              "93",
+              "-11,000"
+            ],
+            [
+              "Wyoming",
+              "93",
+              "-1,000"
+            ],
+            [
+              "Montana",
+              "92",
+              "-2,000"
+            ],
+            [
+              "Ohio",
+              "92",
+              "-23,000"
+            ],
+            [
+              "Iowa",
+              "91",
+              "-6,000"
+            ],
+            [
+              "Missouri",
+              "91",
+              "-13,000"
+            ],
+            [
+              "Kansas",
+              "90",
+              "-7,000"
+            ],
+            [
+              "Tennessee",
+              "89",
+              "-15,000"
+            ],
+            [
+              "North Carolina",
+              "88",
+              "-28,000"
+            ],
+            [
+              "Wisconsin",
+              "87",
+              "-16,000"
+            ],
+            [
+              "Maine",
+              "84",
+              "-5,000"
+            ],
+            [
+              "Nebraska",
+              "84",
+              "-6,000"
+            ],
+            [
+              "Vermont",
+              "84",
+              "-2,000"
+            ],
+            [
+              "District of Columbia",
+              "82",
+              "-6,000"
+            ],
+            [
+              "West Virginia",
+              "82",
+              "-8,000"
+            ],
+            [
+              "Idaho",
+              "79",
+              "-10,000"
+            ],
+            [
+              "Virginia",
+              "79",
+              "-45,000"
+            ],
+            [
+              "Mississippi",
+              "77",
+              "-14,000"
+            ],
+            [
+              "Oklahoma",
+              "77",
+              "-23,000"
+            ],
+            [
+              "Hawaii",
+              "73",
+              "-6,000"
+            ],
+            [
+              "Georgia",
+              "70",
+              "-82,000"
+            ],
+            [
+              "Alabama",
+              "65",
+              "-34,000"
+            ],
+            [
+              "South Dakota",
+              "55",
+              "-9,000"
+            ],
+            [
+              "North Dakota",
+              "54",
+              "-10,000"
+            ]
+          ],
+          "caption": "2026年1月美国各州劳动力供需状态（劳动力与职位比例及盈余/短缺）"
+        }
+      ],
+      "deep_dive": "## 区域失衡：劳动力市场的“冰与火之歌”\n\n美国劳动力市场呈现出鲜明的区域分化格局。表格数据清晰地揭示了两种截然不同的图景：\n\n- **劳动力严重过剩区（Ratio > 115）**：主要集中在**西海岸**（加州、华盛顿、俄勒冈）、**东北部**（新泽西、马萨诸塞、纽约）以及**伊利诺伊州**等传统经济中心。这些地区每100个职位有超过115名工人竞争，就业压力巨大，尤其是加州（184:100）和华盛顿州（169:100）。\n- **劳动力显著短缺区（Ratio < 85）**：主要分布在**南部**（佐治亚、阿拉巴马、密西西比）、**中西部北部**（北达科他、南达科他）及部分山地州（爱达荷）。这些地区职位空缺多于求职者，经济面临“有活没人干”的挑战，其中佐治亚州缺口高达8.2万人。\n\n这种分化并非偶然，它深刻反映了美国经济结构的变迁。过剩州往往以**科技、金融、专业服务**等知识密集型产业为主，这些行业增长放缓或自动化替代效应更强。而短缺州则与**制造业回流、能源开采、农业及快速扩张的中型城市经济**相关，对蓝领劳动力需求旺盛。\n\n## 潜在动因与政策启示\n\n造成这种区域失衡的因素是多元的：\n\n1.  **产业结构与自动化**：知识经济州受远程办公和AI冲击，部分白领岗位减少。传统工业州因基建法案和供应链重组吸引制造业投资，创造大量实体岗位。\n2.  **生活成本与人口流动**：高成本州（如加州）迫使部分劳动力外流至生活成本更低的短缺州，但技能匹配存在时滞。\n3.  **劳动力流动性与技能错配**：从过剩州迁移到短缺州的工人，可能因技能不匹配或不愿搬迁而无法填补缺口。\n\n**对政策制定的启示**：\n- **对于过剩州**：重点应转向**职业再培训**、扶持新兴产业以创造更多高质量就业，并关注结构性失业问题。\n- **对于短缺州**：核心是**吸引和留住人才**，通过改善基础设施、提供住房补贴、与职业学校合作定向培养技能人才来缓解压力。\n- **联邦层面**：应推动跨州劳动力市场信息平台建设，优化税收政策以鼓励劳动力合理流动，并投资于全国性的技能提升计划。\n\n## 数据局限性\n\n需注意，此数据为**预测值（2026年1月）**，基于特定经济模型，实际发展可能受技术突破、政策变化或全球事件影响。此外，“工人”与“职位”的统计口径可能未完全覆盖零工经济或非正规就业。比率（Workers per 100 Job Openings）是核心指标，但盈余/短缺的绝对值更能反映问题的规模。两者结合分析，方能全面把握市场状况。",
+      "glossary": [
+        {
+          "term": "Workers per 100 Job Openings",
+          "explanation": "衡量劳动力供需的核心比率指标。数值大于100表示劳动力供过于求（求职竞争激烈），小于100表示劳动力供不应求（职位空缺难填）。"
+        },
+        {
+          "term": "Labor Surplus",
+          "explanation": "劳动力盈余，指在特定区域和时间内，求职者数量超过可用的职位空缺数量，导致失业或就业不足。"
+        },
+        {
+          "term": "Labor Shortage",
+          "explanation": "劳动力短缺，指在特定区域和时间内，可用的职位空缺数量超过求职者数量，可能导致企业招聘困难、工资上涨。"
+        },
+        {
+          "term": "Structural Unemployment",
+          "explanation": "结构性失业，指由于经济结构变化（如技术革新、产业转移）导致劳动力的技能、经验与空缺职位要求不匹配而产生的失业。"
+        }
+      ]
+    }
+  },
+  {
     "id": "65fbc0dc",
     "title": "America’s Biggest Companies Are Bigger Than Entire Regions",
     "original_url": "https://www.visualcapitalist.com/americas-biggest-companies-bigger-than-entire-regions/",
