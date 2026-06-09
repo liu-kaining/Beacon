@@ -1,5 +1,266 @@
 [
   {
+    "id": "18527571",
+    "title": "Ranked: The World’s Inflation Extremes in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-worlds-inflation-extremes-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/18527571.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtZHqISc0S1ADzSRbWhbD8UVADxRVGR//Z",
+    "image_version": 1781034763,
+    "pub_date": "Tue, 09 Jun 2026 17:17:44 +0000",
+    "content_md": "| Rank | Country | 2026 Inflation (%) |\n| --- | --- | --- |\n| 1 | Venezuela | 387.4 |\n| 2 | Sudan | 75.1 |\n| 3 | Iran | 68.9 |\n| 4 | Argentina | 30.4 |\n| 5 | Türkiye | 28.6 |\n| 6 | Yemen | 26.5 |\n| 7 | Malawi | 24.4 |\n| 8 | Haiti | 23.5 |\n| 9 | Bolivia | 20.7 |\n| 10 | Myanmar | 19.0 |\n| 11 | Nigeria | 16.0 |\n| 12 | Burundi | 14.5 |\n| 13 | South Sudan | 14.0 |\n| 14 | Egypt | 13.2 |\n| 15 | Angola | 12.9 |\n| 16 | Suriname | 11.8 |\n| 17 | Ethiopia | 11.8 |\n| 18 | Kazakhstan | 10.7 |\n| 19 | Kyrgyzstan | 10.6 |\n| 20 | Libya | 10.5 |\n\n| Rank | Country | 2026 Inflation (%) |\n| --- | --- | --- |\n| 1 | Costa Rica | -0.4 |\n| 2 | Niger | 0.4 |\n| 3 | Chad | 0.5 |\n| 4 | Switzerland | 0.5 |\n| 5 | Liechtenstein | 0.5 |\n| 6 | Saint Vincent and the Grenadines | 0.9 |\n| 7 | Thailand | 0.9 |\n| 8 | Aruba | 1.2 |\n| 9 | China | 1.2 |\n| 10 | Morocco | 1.3 |\n| 11 | Grenada | 1.3 |\n| 12 | Panama | 1.4 |\n| 13 | Belize | 1.5 |\n| 14 | Taiwan | 1.5 |\n| 15 | Sweden | 1.5 |\n| 16 | Djibouti | 1.5 |\n| 17 | Central African Republic | 1.5 |\n| 18 | Burkina Faso | 1.5 |\n| 19 | Brunei | 1.6 |\n| 20 | Bahamas | 1.6 |",
+    "ai_analysis": {
+      "core_insight": "2026年全球通胀呈现极端分化，部分经济体深陷恶性通胀，而通缩风险亦在多地显现。",
+      "data_highlights": [
+        "委内瑞拉以387.4%的通胀率断层领跑，远超其他国家。",
+        "高通胀榜单前20名中，非洲国家占据8席，区域压力突出。",
+        "哥斯达黎加以-0.4%的通胀率位列全球最低，进入通缩区间。",
+        "低通胀/通缩阵营中，瑞士、瑞典等发达经济体与泰国、中国等新兴市场并存。",
+        "前20高通胀国家的平均通胀率（约46.3%）与前20低通胀/通缩国家（约1.1%）相差超过40倍。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Inflation (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Venezuela",
+              "387.4"
+            ],
+            [
+              "2",
+              "Sudan",
+              "75.1"
+            ],
+            [
+              "3",
+              "Iran",
+              "68.9"
+            ],
+            [
+              "4",
+              "Argentina",
+              "30.4"
+            ],
+            [
+              "5",
+              "Türkiye",
+              "28.6"
+            ],
+            [
+              "6",
+              "Yemen",
+              "26.5"
+            ],
+            [
+              "7",
+              "Malawi",
+              "24.4"
+            ],
+            [
+              "8",
+              "Haiti",
+              "23.5"
+            ],
+            [
+              "9",
+              "Bolivia",
+              "20.7"
+            ],
+            [
+              "10",
+              "Myanmar",
+              "19.0"
+            ],
+            [
+              "11",
+              "Nigeria",
+              "16.0"
+            ],
+            [
+              "12",
+              "Burundi",
+              "14.5"
+            ],
+            [
+              "13",
+              "South Sudan",
+              "14.0"
+            ],
+            [
+              "14",
+              "Egypt",
+              "13.2"
+            ],
+            [
+              "15",
+              "Angola",
+              "12.9"
+            ],
+            [
+              "16",
+              "Suriname",
+              "11.8"
+            ],
+            [
+              "17",
+              "Ethiopia",
+              "11.8"
+            ],
+            [
+              "18",
+              "Kazakhstan",
+              "10.7"
+            ],
+            [
+              "19",
+              "Kyrgyzstan",
+              "10.6"
+            ],
+            [
+              "20",
+              "Libya",
+              "10.5"
+            ]
+          ],
+          "caption": "2026年全球高通胀经济体排名（前20）"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Inflation (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Costa Rica",
+              "-0.4"
+            ],
+            [
+              "2",
+              "Niger",
+              "0.4"
+            ],
+            [
+              "3",
+              "Chad",
+              "0.5"
+            ],
+            [
+              "4",
+              "Switzerland",
+              "0.5"
+            ],
+            [
+              "5",
+              "Liechtenstein",
+              "0.5"
+            ],
+            [
+              "6",
+              "Saint Vincent and the Grenadines",
+              "0.9"
+            ],
+            [
+              "7",
+              "Thailand",
+              "0.9"
+            ],
+            [
+              "8",
+              "Aruba",
+              "1.2"
+            ],
+            [
+              "9",
+              "China",
+              "1.2"
+            ],
+            [
+              "10",
+              "Morocco",
+              "1.3"
+            ],
+            [
+              "11",
+              "Grenada",
+              "1.3"
+            ],
+            [
+              "12",
+              "Panama",
+              "1.4"
+            ],
+            [
+              "13",
+              "Belize",
+              "1.5"
+            ],
+            [
+              "14",
+              "Taiwan",
+              "1.5"
+            ],
+            [
+              "15",
+              "Sweden",
+              "1.5"
+            ],
+            [
+              "16",
+              "Djibouti",
+              "1.5"
+            ],
+            [
+              "17",
+              "Central African Republic",
+              "1.5"
+            ],
+            [
+              "18",
+              "Burkina Faso",
+              "1.5"
+            ],
+            [
+              "19",
+              "Brunei",
+              "1.6"
+            ],
+            [
+              "20",
+              "Bahamas",
+              "1.6"
+            ]
+          ],
+          "caption": "2026年全球低通胀/通缩经济体排名（前20）"
+        }
+      ],
+      "deep_dive": "## 恶性通胀的根源与结构性特征\n2026年的通胀榜单清晰地勾勒出全球经济图景中的“失衡极点”。高通胀榜单前列的国家，其通胀成因具有高度的同质性，集中表现为深层次的**结构性与政治性危机**。委内瑞拉、苏丹、伊朗等国位居榜首，并非偶然的经济波动，而是长期恶性通胀的延续或恶化。其共同驱动因素包括：\n- **货币与财政纪律崩溃**：政府为应对财政赤字或战争开支而过度依赖央行“印钞”，导致货币信用体系瓦解。\n- **供应链与生产体系破坏**：如也门、缅甸、海地等国的内战或社会动荡严重破坏了国内生产和商品流通，造成供给端极度短缺。\n- **地缘政治与国际制裁**：伊朗、委内瑞拉等国持续遭受的国际制裁，极大地限制了其获取外汇和关键物资的能力，推高进口成本。\n- **汇率制度失效**：阿根廷、土耳其等国尽管具备一定工业基础，但面临严重的资本外流和货币贬值压力，输入性通胀显著。\n这种“通胀-贬值-资本外逃”的恶性循环，往往需要根本性的政治和经济结构改革才能打破。\n\n## 通缩风险的多样性与政策启示\n与高通胀榜单相比，低通胀/通缩榜单呈现出更为复杂和多元的图景，其成因和政策含义截然不同。\n- **通缩的典型代表：哥斯达黎加**。其-0.4%的通胀率是明确的通缩信号，可能源于内需长期疲软、投资不足或人口结构等因素。通缩预期一旦形成，会抑制消费与投资，加剧经济停滞，是比温和通胀更棘手的难题。\n- **“稳定”阵营的构成**：该阵营可分为两类。一是**瑞士、瑞典、新加坡**等发达经济体，其通胀率长期接近目标水平，反映出成熟的央行信誉、有效的通胀预期锚定以及相对稳定的总供给总需求关系。二是**泰国、中国、摩洛哥**等新兴市场，低通胀往往与大宗商品价格周期（如能源食品价格走低）、相对稳定的汇率管理以及国内需求复苏偏弱有关。\n- **非洲国家的普遍低通胀**：尼日尔、乍得等非洲国家通胀率极低，但其“低通胀”更多是**经济体量小、市场深度不足、价格传导机制不畅**的结果，而非需求不足或通缩，其政策挑战在于促进增长而非对抗通缩。\n\n全球通胀的极端分化对投资者和政策制定者提出警示：在制定全球资产配置策略时，必须对不同国家的**通胀病根**进行精细诊断，而非简单套用“加息抗通胀”或“放水抗通缩”的普适药方。对于深陷恶性通胀的经济体，国际援助和债务重组往往是必要前提；而对于面临通缩风险的国家，结构性改革与财政政策的协同发力可能比单纯依赖货币政策更为关键。",
+      "glossary": [
+        {
+          "term": "恶性通货膨胀",
+          "explanation": "通常指月通胀率超过50%或年通胀率极高的状态（如超过100%），导致货币迅速贬值、经济秩序崩溃。"
+        },
+        {
+          "term": "通货紧缩",
+          "explanation": "指一般物价水平持续、普遍下降的现象，通常伴随经济活动收缩，可能引发债务-通缩螺旋。"
+        },
+        {
+          "term": "输入性通货膨胀",
+          "explanation": "指由于进口商品（如能源、原材料）价格大幅上涨，或本币大幅贬值导致进口成本上升，从而推动国内物价上涨。"
+        },
+        {
+          "term": "通胀预期锚定",
+          "explanation": "指公众和市场对未来通胀率的预期稳定在央行目标附近，这是央行信誉和货币政策有效性的关键体现。"
+        }
+      ]
+    }
+  },
+  {
     "id": "6575fae9",
     "title": "U.S. Climate Disasters Have Cost Nearly $1 Trillion This Decade",
     "original_url": "https://www.visualcapitalist.com/sp/ig02-rising-cost-of-climate-driven-natural-disasters-since-1980/",
