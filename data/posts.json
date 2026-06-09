@@ -1,5 +1,100 @@
 [
   {
+    "id": "6575fae9",
+    "title": "U.S. Climate Disasters Have Cost Nearly $1 Trillion This Decade",
+    "original_url": "https://www.visualcapitalist.com/sp/ig02-rising-cost-of-climate-driven-natural-disasters-since-1980/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/6575fae9.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiYlyatCLimwR1cKgLUqDZnKpYpGPmipWIzRVcjF7UbFIBUjzDFUFY0pY4qlKwpQuStJzRVYk5oo5w9mj/2Q==",
+    "image_version": 1781025369,
+    "pub_date": "Tue, 09 Jun 2026 15:39:00 +0000",
+    "content_md": "| Time Period | Tropical Cyclone Cost | Severe Storm Cost | Wildfire Cost | Drought Cost | Other Cost | Decade Total |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1980s | $48B | $13B | - | $122B | $44B | $227B |\n| 1990s | $130B | $43B | $14B | $28B | $131B | $347B |\n| 2000s | $451B | $73B | $21B | $70B | $28B | $643B |\n| 2010s | $554B | $207B | $73B | $100B | $95B | $1T |\n| 2020s | $412B | $252B | $106B | $65B | $66B | $901B |",
+    "ai_analysis": {
+      "core_insight": "美国气候灾害损失十年内激增，热带气旋与强风暴成本飙升是主因。",
+      "data_highlights": [
+        "2010年代总损失首破万亿美元，是1980年代的四倍多。",
+        "热带气旋成本从1980年代的480亿飙升至2010年代的5540亿，增长超十倍。",
+        "强风暴成本在2020年代（截至数据统计）已达2520亿，远超前几个十年。",
+        "2020年代前四年损失已近万亿，预示该十年损失或将再创新高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Time Period",
+            "Tropical Cyclone Cost",
+            "Severe Storm Cost",
+            "Wildfire Cost",
+            "Drought Cost",
+            "Other Cost",
+            "Decade Total"
+          ],
+          "rows": [
+            [
+              "1980s",
+              "$48B",
+              "$13B",
+              "-",
+              "$122B",
+              "$44B",
+              "$227B"
+            ],
+            [
+              "1990s",
+              "$130B",
+              "$43B",
+              "$14B",
+              "$28B",
+              "$131B",
+              "$347B"
+            ],
+            [
+              "2000s",
+              "$451B",
+              "$73B",
+              "$21B",
+              "$70B",
+              "$28B",
+              "$643B"
+            ],
+            [
+              "2010s",
+              "$554B",
+              "$207B",
+              "$73B",
+              "$100B",
+              "$95B",
+              "$1T"
+            ],
+            [
+              "2020s",
+              "$412B",
+              "$252B",
+              "$106B",
+              "$65B",
+              "$66B",
+              "$901B"
+            ]
+          ],
+          "caption": "美国各年代主要气候灾害成本（十亿美元）"
+        }
+      ],
+      "deep_dive": "## 成本演变的核心驱动力\n从数据中可以清晰地看到，美国气候灾害经济损失呈指数级增长，其核心驱动力发生了显著变化。\n\n- **热带气旋（如飓风）是长期头号“成本杀手”**：其成本从1980年代的480亿美元激增至2010年代的5540亿美元，增幅超过10倍。这反映了沿海地区资产密度的急剧增加、气候变化可能导致风暴强度增强，以及通胀等因素的综合影响。2020年代前四年已花费4120亿，预示其破坏力持续高企。\n- **强风暴成为新兴的主要负担**：强风暴（如龙卷风、冰雹）的成本增长轨迹同样惊人，尤其在2020年代（前四年）已达2520亿美元，超过了2010年代全十年的总额（2070亿）。这凸显了内陆地区面临的极端天气风险正在快速上升，对基础设施和农业构成巨大威胁。\n- **损失结构多元化**：虽然干旱在1980年代是最大单项成本（1220亿），但其在后续年代的占比相对下降。野火成本则从无到有，在2020年代已升至1060亿，反映了干旱和热浪加剧带来的长期生态与经济风险。\n\n## 经济影响与未来启示\n这些激增的损失数字不仅是天文数字，更预示着深刻的经济与政策挑战。\n\n- **对国家财政与保险体系的压力**：万亿美元级别的损失意味着联邦救灾支出、保险赔付和再保险成本将持续飙升，可能引发保险市场收缩和保费上涨，最终由纳税人和消费者承担。\n- **资产估值与投资风险重估**：位于高风险区域（如沿海、野火易发区）的房地产和基础设施价值面临长期下行压力。投资者和信贷机构必须将气候物理风险更系统地纳入考量。\n- **数据局限性**：表中“其他成本”项数额不小但归类模糊，可能掩盖了部分关键风险。此外，损失数据主要反映直接经济损失，未涵盖生态破坏、健康影响等长期隐性成本。\n- **政策紧迫性**：数据明确显示，气候灾害不再是小概率事件，而是持续且加剧的常规经济负担。这要求在基础设施韧性建设、灾害预警系统、城市规划和碳减排政策上进行更大规模、更前瞻性的投资。",
+      "glossary": [
+        {
+          "term": "热带气旋 (Tropical Cyclone)",
+          "explanation": "生成于热带海洋的低压天气系统，包括飓风、台风等，常带来强风、暴雨和风暴潮，造成巨大破坏。"
+        },
+        {
+          "term": "强风暴 (Severe Storm)",
+          "explanation": "泛指造成显著破坏的剧烈天气现象，如龙卷风、冰雹、雷暴大风等，在美国常引发巨额经济损失。"
+        },
+        {
+          "term": "物理风险 (Physical Risk)",
+          "explanation": "指气候变化通过极端天气事件（如洪水、热浪）或长期环境变化（如海平面上升）对资产和经济活动造成的直接威胁。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ec624bc3",
     "title": "Mapped: Where Workers Outnumber Jobs in America",
     "original_url": "https://www.visualcapitalist.com/mapped-where-workers-outnumber-jobs-in-america/",
