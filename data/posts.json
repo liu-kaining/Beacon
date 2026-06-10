@@ -1,5 +1,158 @@
 [
   {
+    "id": "98ee0067",
+    "title": "Ranked: The World’s Richest Countries by GDP Per Capita",
+    "original_url": "https://www.visualcapitalist.com/ranked-richest-countries-by-gdp-per-capita/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/98ee0067.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDj0XNOaPilhqwV+WtkYszynNFWmTmiquFiSOPFTkcULTm6VFzBTZWI5opx60Ui+dn/2Q==",
+    "image_version": 1781093532,
+    "pub_date": "Wed, 10 Jun 2026 12:01:29 +0000",
+    "content_md": "| Rank (2026) | Country | Region | GDP Per Capita 2000($, thousands, nominal) | GDP Per Capita 2026($, thousands, nominal) |\n| --- | --- | --- | --- | --- |\n| 1 | Luxembourg | Europe | 48.98 | 158.73 |\n| 2 | Ireland | Europe | 26.19 | 140.19 |\n| 3 | Switzerland | Europe | 39.42 | 126.18 |\n| 4 | Iceland | Europe | 32.75 | 110.05 |\n| 5 | Singapore | Asia-Pacific | 23.85 | 107.76 |\n| 6 | Norway | Europe | 37.91 | 105.88 |\n| 7 | U.S. | N. America | 36.31 | 94.43 |\n| 8 | Denmark | Europe | 30.78 | 83.45 |\n| 9 | Netherlands | Europe | 26.34 | 79.92 |\n| 10 | Macao SAR* | Asia-Pacific | 15.72 | 76.45 |\n| 11 | Australia | Asia-Pacific | 20.95 | 75.65 |\n| 12 | Sweden | Europe | 29.6 | 70.68 |\n| 13 | Israel | Middle East | 21.7 | 69.8 |\n| 14 | Qatar | Middle East | 30.46 | 68.14 |\n| 15 | Austria | Europe | 24.5 | 67.76 |",
+    "ai_analysis": {
+      "core_insight": "欧洲小型经济体人均GDP遥遥领先，区域发展极不平衡。",
+      "data_highlights": [
+        "卢森堡人均GDP在26年内增长超3倍，2026年高达15.87万美元，稳居全球首位。",
+        "前15强中欧洲经济体占据11席，绝对主导，亚洲与中东分别占3席和1席。",
+        "爱尔兰、新加坡等开放型小经济体增速惊人，爱尔兰人均GDP从2.62万跃升至14.02万美元。",
+        "美国人均GDP增速相对温和，从第4位（2000年）滑落至第7位（2026年预测）。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank (2026)",
+            "Country",
+            "Region",
+            "GDP Per Capita 2000($, thousands, nominal)",
+            "GDP Per Capita 2026($, thousands, nominal)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Luxembourg",
+              "Europe",
+              "48.98",
+              "158.73"
+            ],
+            [
+              "2",
+              "Ireland",
+              "Europe",
+              "26.19",
+              "140.19"
+            ],
+            [
+              "3",
+              "Switzerland",
+              "Europe",
+              "39.42",
+              "126.18"
+            ],
+            [
+              "4",
+              "Iceland",
+              "Europe",
+              "32.75",
+              "110.05"
+            ],
+            [
+              "5",
+              "Singapore",
+              "Asia-Pacific",
+              "23.85",
+              "107.76"
+            ],
+            [
+              "6",
+              "Norway",
+              "Europe",
+              "37.91",
+              "105.88"
+            ],
+            [
+              "7",
+              "U.S.",
+              "N. America",
+              "36.31",
+              "94.43"
+            ],
+            [
+              "8",
+              "Denmark",
+              "Europe",
+              "30.78",
+              "83.45"
+            ],
+            [
+              "9",
+              "Netherlands",
+              "Europe",
+              "26.34",
+              "79.92"
+            ],
+            [
+              "10",
+              "Macao SAR*",
+              "Asia-Pacific",
+              "15.72",
+              "76.45"
+            ],
+            [
+              "11",
+              "Australia",
+              "Asia-Pacific",
+              "20.95",
+              "75.65"
+            ],
+            [
+              "12",
+              "Sweden",
+              "Europe",
+              "29.6",
+              "70.68"
+            ],
+            [
+              "13",
+              "Israel",
+              "Middle East",
+              "21.7",
+              "69.8"
+            ],
+            [
+              "14",
+              "Qatar",
+              "Middle East",
+              "30.46",
+              "68.14"
+            ],
+            [
+              "15",
+              "Austria",
+              "Europe",
+              "24.5",
+              "67.76"
+            ]
+          ],
+          "caption": "2026年全球人均GDP预测排名前15位经济体"
+        }
+      ],
+      "deep_dive": "## 格局解析：欧洲小国的“人均”统治力\n2026年的预测数据显示，全球人均财富金字塔的顶端几乎被欧洲小型开放经济体所垄断。前六名中，有五个来自欧洲（卢森堡、爱尔兰、瑞士、冰岛、挪威），这些国家的共同特征是：人口规模小、经济高度专业化（如卢森堡的金融业、瑞士的精密制造与金融、挪威的能源），并且深度融入全球价值链。这种模式使得它们能够通过少数高附加值产业，实现人均产出的极大化，从而在人均GDP指标上形成对大国的显著优势。\n\n值得注意的是，表中唯一的非欧洲前五名经济体是新加坡，其“亚洲-欧洲”之间的独特枢纽地位与高度自由的经济政策，使其表现与欧洲小国类似。这种格局凸显了“人均GDP”指标的特殊性：它衡量的是平均产出效率，而非经济总量或综合国力，因此更利于人口少、产业精的经济体。\n\n## 动态对比：增长分化与排名洗牌\n对比2000年的基准数据，可以观察到清晰的增长分化：\n1.  **“超级赢家”**：爱尔兰的表现最为耀眼。其人均GDP在26年间实现了超过5倍的增长（从2.62万到14.02万美元），这主要得益于其极具吸引力的低企业税率政策，成功吸引了大量跨国公司（尤其是科技与制药巨头）将欧洲总部或知识产权资产设在爱尔兰，创造了巨额GDP但实际国民收入（GNI）可能存在差异。\n2.  **稳健的守成者**：卢森堡、瑞士等传统富国继续保持着极高的基数上的稳健增长，其财富积累具有深厚的制度与产业基础。\n3.  **相对的放缓**：美国人均GDP的排名从2000年的第4位下滑至2026年的第7位，其绝对值（从3.63万到9.44万美元）虽仍大幅增长，但增速落后于前述欧洲小国。这可能反映了大型成熟经济体在人均层面维持高速增长的内在难度，以及全球竞争加剧的影响。\n\n## 启示与局限\n此排名提供了关于经济效率与财富分布的独特视角，但解读时需注意：\n- **指标局限**：人均GDP是“平均数”，无法反映国内收入分配状况。高人均GDP可能伴随着严重的贫富分化。\n- **结构性因素**：爱尔兰等国的案例显示，跨国公司利润转移会严重扭曲人均GDP数据，使其与当地居民的实际生活水平脱节。因此，结合国民总收入（GNI）数据进行分析更为全面。\n- **发展路径**：表格中清一色的发达经济体表明，实现高人均GDP需要法治、开放、教育、技术创新等一套复杂的制度与社会条件，单纯依赖资源或人口红利难以持久。",
+      "glossary": [
+        {
+          "term": "GDP Per Capita (人均国内生产总值)",
+          "explanation": "一个国家或地区在一定时期内（通常为一年）国内生产总值（GDP）除以同期常住人口总数。它常被用作衡量经济发展水平和平均生活水平的指标。"
+        },
+        {
+          "term": "Nominal GDP (名义GDP)",
+          "explanation": "以当前市场价格计算的国内生产总值，未经过通货膨胀调整。与实际GDP相对，名义GDP包含了价格变动的影响。"
+        },
+        {
+          "term": "GNI (国民总收入)",
+          "explanation": "指一个国家或地区所有常住单位在一定时期内获得的初次分配收入总额。与GDP的区别在于，GNI考虑了跨国收入流动（如侨汇、公司海外利润），能更准确地反映一国居民的实际总收入。"
+        }
+      ]
+    }
+  },
+  {
     "id": "7c474735",
     "title": "Ranked: Europe’s Most Forested Countries",
     "original_url": "https://www.visualcapitalist.com/cp/europes-most-forested-countries/",
