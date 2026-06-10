@@ -1,5 +1,583 @@
 [
   {
+    "id": "e308a173",
+    "title": "Mapped: Where the World’s Ultra-Rich Live in 2026",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-the-worlds-ultra-rich-live-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e308a173.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDk0FJIOKctEnStJChqU2Xmint1oqbmnKf/2Q==",
+    "image_version": 1781113725,
+    "pub_date": "Wed, 10 Jun 2026 17:18:41 +0000",
+    "content_md": "| Rank | Country | Ultra-high-net-worth individuals (2026) |\n| --- | --- | --- |\n| 1 | U.S. | 251,352 |\n| 2 | China | 121,677 |\n| 3 | Germany | 38,215 |\n| 4 | UK | 27,876 |\n| 5 | France | 21,518 |\n| 6 | India | 19,877 |\n| 7 | Japan | 18,914 |\n| 8 | Switzerland | 17,692 |\n| 9 | Australia | 16,460 |\n| 10 | Italy | 15,433 |\n| 11 | Canada | 12,920 |\n| 12 | Spain | 9,186 |\n| 13 | Russia | 8,399 |\n| 14 | Singapore | 7,171 |\n| 15 | Sweden | 6,845 |\n| 16 | Hong Kong SAR | 6,788 |\n| 17 | Brazil | 5,808 |\n| 18 | Israel | 5,462 |\n| 19 | Netherlands | 5,077 |\n| 20 | UAE | 4,851 |\n| 21 | Denmark | 4,657 |\n| 22 | Saudi Arabia | 4,388 |\n| 23 | Turkey | 4,208 |\n| 24 | Austria | 4,188 |\n| 25 | Mexico | 3,860 |\n| 26 | Indonesia | 3,833 |\n| 27 | Poland | 3,017 |\n| 28 | Thailand | 2,853 |\n| 29 | Norway | 2,460 |\n| 30 | Czech Republic | 2,270 |\n| 31 | Ireland | 2,196 |\n| 32 | Portugal | 2,187 |\n| 33 | Philippines | 1,910 |\n| 34 | New Zealand | 1,710 |\n| 35 | Malaysia | 1,566 |\n| 36 | Argentina | 1,554 |\n| 37 | South Africa | 1,347 |\n| 38 | Finland | 1,317 |\n| 39 | Vietnam | 1,233 |\n| 40 | Greece | 910 |\n| 41 | Qatar | 838 |\n| 42 | Egypt | 822 |\n| 43 | Romania | 749 |\n| 44 | Morocco | 432 |\n| 45 | Monaco | 239 |",
+    "ai_analysis": {
+      "core_insight": "美国以绝对优势占据全球超高净值人群分布榜首，中国紧随其后，财富集中度显著。",
+      "data_highlights": [
+        "美国（251,352人）的超高净值人群数量远超其他国家，约占全球（前45国）总量的近四成。",
+        "中国（121,677人）位居第二，但数量仅为美国的一半左右，差距明显。",
+        "欧洲国家（如德国、英国、法国）在前10名中占据5席，显示其财富积累的深厚基础。",
+        "新兴经济体如印度（19,877人）、巴西（5,808人）上榜，但与发达国家仍有数量级差距。",
+        "人口小国瑞士（17,692人）、新加坡（7,171人）排名靠前，反映了其作为全球财富管理中心的地位。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Ultra-high-net-worth individuals (2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "251,352"
+            ],
+            [
+              "2",
+              "China",
+              "121,677"
+            ],
+            [
+              "3",
+              "Germany",
+              "38,215"
+            ],
+            [
+              "4",
+              "UK",
+              "27,876"
+            ],
+            [
+              "5",
+              "France",
+              "21,518"
+            ],
+            [
+              "6",
+              "India",
+              "19,877"
+            ],
+            [
+              "7",
+              "Japan",
+              "18,914"
+            ],
+            [
+              "8",
+              "Switzerland",
+              "17,692"
+            ],
+            [
+              "9",
+              "Australia",
+              "16,460"
+            ],
+            [
+              "10",
+              "Italy",
+              "15,433"
+            ],
+            [
+              "11",
+              "Canada",
+              "12,920"
+            ],
+            [
+              "12",
+              "Spain",
+              "9,186"
+            ],
+            [
+              "13",
+              "Russia",
+              "8,399"
+            ],
+            [
+              "14",
+              "Singapore",
+              "7,171"
+            ],
+            [
+              "15",
+              "Sweden",
+              "6,845"
+            ],
+            [
+              "16",
+              "Hong Kong SAR",
+              "6,788"
+            ],
+            [
+              "17",
+              "Brazil",
+              "5,808"
+            ],
+            [
+              "18",
+              "Israel",
+              "5,462"
+            ],
+            [
+              "19",
+              "Netherlands",
+              "5,077"
+            ],
+            [
+              "20",
+              "UAE",
+              "4,851"
+            ],
+            [
+              "21",
+              "Denmark",
+              "4,657"
+            ],
+            [
+              "22",
+              "Saudi Arabia",
+              "4,388"
+            ],
+            [
+              "23",
+              "Turkey",
+              "4,208"
+            ],
+            [
+              "24",
+              "Austria",
+              "4,188"
+            ],
+            [
+              "25",
+              "Mexico",
+              "3,860"
+            ],
+            [
+              "26",
+              "Indonesia",
+              "3,833"
+            ],
+            [
+              "27",
+              "Poland",
+              "3,017"
+            ],
+            [
+              "28",
+              "Thailand",
+              "2,853"
+            ],
+            [
+              "29",
+              "Norway",
+              "2,460"
+            ],
+            [
+              "30",
+              "Czech Republic",
+              "2,270"
+            ],
+            [
+              "31",
+              "Ireland",
+              "2,196"
+            ],
+            [
+              "32",
+              "Portugal",
+              "2,187"
+            ],
+            [
+              "33",
+              "Philippines",
+              "1,910"
+            ],
+            [
+              "34",
+              "New Zealand",
+              "1,710"
+            ],
+            [
+              "35",
+              "Malaysia",
+              "1,566"
+            ],
+            [
+              "36",
+              "Argentina",
+              "1,554"
+            ],
+            [
+              "37",
+              "South Africa",
+              "1,347"
+            ],
+            [
+              "38",
+              "Finland",
+              "1,317"
+            ],
+            [
+              "39",
+              "Vietnam",
+              "1,233"
+            ],
+            [
+              "40",
+              "Greece",
+              "910"
+            ],
+            [
+              "41",
+              "Qatar",
+              "838"
+            ],
+            [
+              "42",
+              "Egypt",
+              "822"
+            ],
+            [
+              "43",
+              "Romania",
+              "749"
+            ],
+            [
+              "44",
+              "Morocco",
+              "432"
+            ],
+            [
+              "45",
+              "Monaco",
+              "239"
+            ]
+          ],
+          "caption": "2026年全球超高净值人群数量国家/地区排名（前45）"
+        }
+      ],
+      "deep_dive": "## 格局分析：两极分化与区域集聚\n\n全球超高净值人群的分布呈现出极为清晰的“两超多强”格局。\n\n- **绝对核心：美国**。美国以25.1万的庞大体量独占鳌头，其数量接近其后第二至第五名（中国、德国、英国、法国）的总和。这得益于其发达的资本市场、科技创新生态以及成熟的财富管理体系，是全球资本与人才汇聚的磁极。\n- **快速追赶者：中国**。中国以12.2万人稳居第二，其庞大的经济规模、快速的财富积累以及企业家群体的崛起是其支撑。但中美之间超过一倍的差距，也反映出在顶级财富创造效率和存量上的阶段性差距。\n- **传统与新兴中心的共舞**。欧洲（德、英、法等）凭借深厚的工业、金融底蕴，仍是全球财富的重要存量地。同时，亚洲的印度、日本，中东的阿联酋、沙特，以及新加坡、中国香港等金融枢纽，分别代表着不同模式的财富增长与聚集。\n\n## 内在机制与深层启示\n\n超高净值人群的地理分布是多重因素长期作用的结果：\n\n- **制度与市场吸引力**：健全的法治、透明的税收制度、稳定的政治环境以及开放的金融市场，是吸引和留住财富的关键。瑞士、新加坡、中国香港等地的排名印证了这一点。\n- **产业升级与创新动能**：美国的领先地位与其在科技、生物医药等前沿领域的持续领先密不可分。中国、印度等国的上榜人数增长，也与其互联网经济、制造业升级等产业浪潮息息相关。\n- **资源禀赋与区位优势**：中东国家凭借能源财富上榜，而澳大利亚、加拿大等则受益于丰富的自然资源。地理位置优越、连接东西方的土耳其等国也占据一席之地。\n\n**启示与局限**：该排名直观反映了国家/地区的经济活力与财富吸引力，但需注意，它衡量的是“人”的聚集地，而非财富的最终所有地（可能存在资产配置于海外的情况）。此外，财富的代际传承、分配公平性等深层社会问题，并未在此数据中体现。对于政策制定者而言，创造有利于企业家精神和财富持续增长的营商环境，是提升国家在榜单上位置的核心路径。",
+      "glossary": [
+        {
+          "term": "超高净值人群 (Ultra-high-net-worth individuals, UHNWIs)",
+          "explanation": "通常指可投资资产达到3000万美元（或等值货币）以上的个人。他们是全球财富金字塔的顶端，其分布是衡量一个国家或地区财富集中度和经济活力的关键指标。"
+        },
+        {
+          "term": "财富管理中心",
+          "explanation": "指瑞士、新加坡、中国香港等凭借稳定的法治、优惠的税收政策、高度发达的金融服务业和严格的保密制度，吸引全球富豪进行资产配置和财富管理的地区或城市。"
+        },
+        {
+          "term": "两超多强",
+          "explanation": "借用国际关系术语，形容在某一领域内，存在两个处于绝对领先地位的超级实体，以及多个实力较强但与超级实体有差距的实体并存的格局。本文中特指美国和中国在超高净值人群数量上的领先态势。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2cb76dd7",
+    "title": "Mapped: How Household Income Varies Across Major U.S. Metros",
+    "original_url": "https://www.visualcapitalist.com/mapped-household-income-varies-major-us-metros/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2cb76dd7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDs3NMDc0slRDrVnLcsg8UUwdKKBn//2Q==",
+    "image_version": 1781113779,
+    "pub_date": "Wed, 10 Jun 2026 14:11:43 +0000",
+    "content_md": "| Rank | Metro | Median Household Income (2026) |\n| --- | --- | --- |\n| 1 | San Jose, CA | $175,491 |\n| 2 | San Francisco, CA | $141,277 |\n| 3 | Washington, DC | $130,587 |\n| 4 | Boston, MA | $125,025 |\n| 5 | San Diego, CA | $115,012 |\n| 6 | Seattle, WA | $114,804 |\n| 7 | Denver, CO | $112,231 |\n| 8 | Raleigh, NC | $107,446 |\n| 9 | Portland, OR | $104,269 |\n| 10 | Salt Lake City, UT | $104,059 |\n| 11 | Sacramento, CA | $103,447 |\n| 12 | New York, NY | $103,166 |\n| 13 | Baltimore, MD | $102,578 |\n| 14 | Austin, TX | $101,583 |\n| 15 | Los Angeles, CA | $101,268 |\n| 16 | Minneapolis, MN | $101,123 |\n| 17 | Hartford, CT | $98,059 |\n| 18 | Dallas, TX | $97,808 |\n| 19 | Atlanta, GA | $96,651 |\n| 20 | Riverside, CA | $95,039 |\n| 21 | Philadelphia, PA | $94,766 |\n| 22 | Phoenix, AZ | $93,845 |\n| 23 | Chicago, IL | $93,572 |\n| 24 | Nashville, TN | $92,333 |\n| 25 | Charlotte, NC | $91,059 |\n| 26 | Kansas City, MO | $88,033 |\n| 27 | Columbus, OH | $87,273 |\n| 28 | Virginia Beach, VA | $86,046 |\n| 29 | Orlando, FL | $84,866 |\n| 30 | Jacksonville, FL | $84,841 |\n| 31 | Miami, FL | $84,814 |\n| 32 | Houston, TX | $84,610 |\n| 33 | Cincinnati, OH | $84,546 |\n| 34 | St. Louis, MO | $84,425 |\n| 35 | Las Vegas, NV | $83,859 |\n| 36 | Richmond, VA | $83,637 |\n| 37 | Tampa, FL | $82,721 |\n| 38 | Providence, RI | $82,527 |\n| 39 | San Antonio, TX | $82,130 |\n| 40 | Pittsburgh, PA | $81,967 |\n| 41 | Indianapolis, IN | $81,718 |\n| 42 | Milwaukee, WI | $80,485 |\n| 43 | Birmingham, AL | $79,463 |\n| 44 | Detroit, MI | $79,294 |\n| 45 | Louisville, KY | $77,221 |\n| 46 | Oklahoma City, OK | $76,960 |\n| 47 | Cleveland, OH | $76,118 |\n| 48 | Buffalo, NY | $74,258 |\n| 49 | Memphis, TN | $70,056 |\n| 50 | New Orleans, LA | $65,021 |\n| — | United States | $85,828 |",
+    "ai_analysis": {
+      "core_insight": "美国主要大都会区家庭收入两极分化显著，科技中心领先，传统工业城市落后。",
+      "data_highlights": [
+        "圣何塞以$175,491的中位数收入高居榜首，领先全美平均水平一倍以上。",
+        "排名前六位均超过$11万，且高度集中于西海岸和东北部科技、金融及政治中心。",
+        "底特律、新奥尔良等50个城市中位数收入低于全国平均，其中新奥尔良以$65,021垫底。",
+        "加利福尼亚州表现分化，既有圣何塞、旧金山等顶尖城市，也有萨克拉门托、河滨等中游城市。",
+        "德克萨斯州主要城市收入差异明显，达拉斯和奥斯汀超过$10万，而圣安东尼奥仅为$8.2万。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Metro",
+            "Median Household Income (2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "San Jose, CA",
+              "$175,491"
+            ],
+            [
+              "2",
+              "San Francisco, CA",
+              "$141,277"
+            ],
+            [
+              "3",
+              "Washington, DC",
+              "$130,587"
+            ],
+            [
+              "4",
+              "Boston, MA",
+              "$125,025"
+            ],
+            [
+              "5",
+              "San Diego, CA",
+              "$115,012"
+            ],
+            [
+              "6",
+              "Seattle, WA",
+              "$114,804"
+            ],
+            [
+              "7",
+              "Denver, CO",
+              "$112,231"
+            ],
+            [
+              "8",
+              "Raleigh, NC",
+              "$107,446"
+            ],
+            [
+              "9",
+              "Portland, OR",
+              "$104,269"
+            ],
+            [
+              "10",
+              "Salt Lake City, UT",
+              "$104,059"
+            ],
+            [
+              "11",
+              "Sacramento, CA",
+              "$103,447"
+            ],
+            [
+              "12",
+              "New York, NY",
+              "$103,166"
+            ],
+            [
+              "13",
+              "Baltimore, MD",
+              "$102,578"
+            ],
+            [
+              "14",
+              "Austin, TX",
+              "$101,583"
+            ],
+            [
+              "15",
+              "Los Angeles, CA",
+              "$101,268"
+            ],
+            [
+              "16",
+              "Minneapolis, MN",
+              "$101,123"
+            ],
+            [
+              "17",
+              "Hartford, CT",
+              "$98,059"
+            ],
+            [
+              "18",
+              "Dallas, TX",
+              "$97,808"
+            ],
+            [
+              "19",
+              "Atlanta, GA",
+              "$96,651"
+            ],
+            [
+              "20",
+              "Riverside, CA",
+              "$95,039"
+            ],
+            [
+              "21",
+              "Philadelphia, PA",
+              "$94,766"
+            ],
+            [
+              "22",
+              "Phoenix, AZ",
+              "$93,845"
+            ],
+            [
+              "23",
+              "Chicago, IL",
+              "$93,572"
+            ],
+            [
+              "24",
+              "Nashville, TN",
+              "$92,333"
+            ],
+            [
+              "25",
+              "Charlotte, NC",
+              "$91,059"
+            ],
+            [
+              "26",
+              "Kansas City, MO",
+              "$88,033"
+            ],
+            [
+              "27",
+              "Columbus, OH",
+              "$87,273"
+            ],
+            [
+              "28",
+              "Virginia Beach, VA",
+              "$86,046"
+            ],
+            [
+              "29",
+              "Orlando, FL",
+              "$84,866"
+            ],
+            [
+              "30",
+              "Jacksonville, FL",
+              "$84,841"
+            ],
+            [
+              "31",
+              "Miami, FL",
+              "$84,814"
+            ],
+            [
+              "32",
+              "Houston, TX",
+              "$84,610"
+            ],
+            [
+              "33",
+              "Cincinnati, OH",
+              "$84,546"
+            ],
+            [
+              "34",
+              "St. Louis, MO",
+              "$84,425"
+            ],
+            [
+              "35",
+              "Las Vegas, NV",
+              "$83,859"
+            ],
+            [
+              "36",
+              "Richmond, VA",
+              "$83,637"
+            ],
+            [
+              "37",
+              "Tampa, FL",
+              "$82,721"
+            ],
+            [
+              "38",
+              "Providence, RI",
+              "$82,527"
+            ],
+            [
+              "39",
+              "San Antonio, TX",
+              "$82,130"
+            ],
+            [
+              "40",
+              "Pittsburgh, PA",
+              "$81,967"
+            ],
+            [
+              "41",
+              "Indianapolis, IN",
+              "$81,718"
+            ],
+            [
+              "42",
+              "Milwaukee, WI",
+              "$80,485"
+            ],
+            [
+              "43",
+              "Birmingham, AL",
+              "$79,463"
+            ],
+            [
+              "44",
+              "Detroit, MI",
+              "$79,294"
+            ],
+            [
+              "45",
+              "Louisville, KY",
+              "$77,221"
+            ],
+            [
+              "46",
+              "Oklahoma City, OK",
+              "$76,960"
+            ],
+            [
+              "47",
+              "Cleveland, OH",
+              "$76,118"
+            ],
+            [
+              "48",
+              "Buffalo, NY",
+              "$74,258"
+            ],
+            [
+              "49",
+              "Memphis, TN",
+              "$70,056"
+            ],
+            [
+              "50",
+              "New Orleans, LA",
+              "$65,021"
+            ],
+            [
+              "—",
+              "United States",
+              "$85,828"
+            ]
+          ],
+          "caption": "2026年美国主要大都会区家庭中位数收入排名（前50）"
+        }
+      ],
+      "deep_dive": "## 收入分布格局：地理与产业的双重烙印\n\n这张收入地图清晰地揭示了美国经济地理的深刻变迁。收入高地高度集中于三大区域：\n- **西海岸科技走廊**：以圣何塞、旧金山、西雅图为核心，硅谷和科技巨头的聚集效应创造了极高的收入天花板，这些城市的收入比全美中位数高出30%-105%。\n- **东北部知识经济枢纽**：华盛顿特区（政策与国防科技）、波士顿（高等教育、生物医药与金融）、纽约（全球金融、媒体）构成了传统高收入带。\n- **新兴科技/能源中心**：丹佛、奥斯汀、罗利等城市凭借较低的生活成本和吸引科技人才的能力，收入排名迅速攀升。\n\n与之形成鲜明对比的是，排名靠后的城市多集中于“锈带”地区（如底特律、克利夫兰、密尔沃基）和传统资源型或农业主导的南方城市（如新奥尔良、孟菲斯）。这些地区面临产业结构单一、人口外流等挑战，收入增长乏力。全美中位数线（$85,828）本身就是一个分水岭，仅有17个城市达到或超过这一水平，凸显了发展的不均衡。\n\n## 深度启示：繁荣背后的挑战与思考\n\n1.  **生活成本的抵消效应**：榜单顶端的高收入城市（如圣何塞、旧金山）同时也是全美生活成本最高的地区。高收入在很大程度上被高昂的住房、交通等支出所抵消，实际购买力优势可能远小于名义收入差距。这引发了关于“高收入”是否等于“高生活质量”的讨论。\n2.  **加州的“分裂”状态**：加州在榜单中呈现极端分化。除了顶尖的科技都市圈，加州也拥有萨克拉门托、河滨等收入处于中游的城市，这反映了该州内部巨大的经济梯度差异。\n3.  **南方阳光地带的分化**：德州和佛罗里达州作为人口流入大州，其主要城市收入普遍接近或略低于全美中位数，表现稳健但缺乏顶尖表现。而亚特兰大、夏洛特等东南部新兴枢纽则展现出较强的增长潜力。\n4.  **政策与未来竞争力**：收入差距不仅是经济结果，也影响着人才吸引、税收基础和公共服务能力。如何促进收入较低的都会区进行产业升级，避免“赢家通吃”的格局加剧，是区域经济政策面临的核心课题。例如，将科技产业向中西部“锈带”城市迁移的“心地带倡议”等政策尝试值得关注。\n\n总体而言，这份排名不仅是一份收入清单，更是观察美国经济结构、区域竞争力和社会变迁的一面镜子。",
+      "glossary": [
+        {
+          "term": "Median Household Income",
+          "explanation": "家庭中位数收入，指将所有家庭收入从低到高排列后，位于正中间位置的数值。它比平均收入更能反映典型家庭的收入水平，避免被极端高收入者拉高。"
+        },
+        {
+          "term": "Metropolitan Statistical Area (MSA)",
+          "explanation": "大都会统计区，由美国管理和预算办公室定义，包含一个核心城市化区域及与之高度社会经济融合的周边县。是进行城市层面经济比较的标准地理单元。"
+        },
+        {
+          "term": "Rust Belt",
+          "explanation": "锈带，指美国中西部和东北部传统制造业（如钢铁、汽车）衰退的地区。这些地区常面临工厂关闭、人口外流和收入增长停滞等问题。"
+        },
+        {
+          "term": "Knowledge Economy",
+          "explanation": "知识经济，指以知识、信息和创新为核心驱动力的经济形态，高度依赖受过高等教育的劳动力，集中在科技、金融、专业服务等行业。"
+        }
+      ]
+    }
+  },
+  {
     "id": "98ee0067",
     "title": "Ranked: The World’s Richest Countries by GDP Per Capita",
     "original_url": "https://www.visualcapitalist.com/ranked-richest-countries-by-gdp-per-capita/",
