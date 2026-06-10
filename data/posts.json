@@ -1,5 +1,127 @@
 [
   {
+    "id": "7c474735",
+    "title": "Ranked: Europe’s Most Forested Countries",
+    "original_url": "https://www.visualcapitalist.com/cp/europes-most-forested-countries/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7c474735.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsHWoSnNW2qPHNXY5CIJxRUwFFKwH/2Q==",
+    "image_version": 1781074530,
+    "pub_date": "Wed, 10 Jun 2026 04:23:47 +0000",
+    "content_md": "| Rank | Country | Percent Forest |\n| --- | --- | --- |\n| 1 | Finland | 74% |\n| 2 | Sweden | 69% |\n| 3 | Montenegro | 62% |\n| 4 | Slovenia | 61% |\n| 5 | Estonia | 57% |\n| 6 | Latvia | 55% |\n| 7 | Russia | 50% |\n| 8 | Austria | 47% |\n| 9 | Belarus | 43% |\n| 10 | Bosnia & Herzegovina | 43% |\n| 11 | Slovakia | 40% |\n| 12 | North Macedonia | 40% |\n| 13 | Spain | 37% |\n| 14 | Bulgaria | 36% |\n| 15 | Portugal | 36% |\n| 16 | Lithuania | 35% |\n| 17 | Croatia | 35% |\n| 18 | Czechia | 35% |\n| 19 | Luxembourg | 35% |\n| 20 | Norway | 34% |\n| 21 | Italy | 33% |\n| 22 | Germany | 33% |\n| 23 | France | 33% |\n| 24 | Serbia | 32% |\n| 25 | Switzerland | 32% |\n| 26 | Poland | 31% |\n| 27 | Greece | 30% |\n| 28 | Romania | 30% |\n| 29 | Türkiye | 30% |\n| 30 | Albania | 29% |\n| 31 | Belgium | 23% |\n| 32 | Hungary | 22% |\n| 33 | Cyprus | 19% |\n| 34 | Ukraine | 17% |\n| 35 | Denmark | 16% |\n| 36 | United Kingdom | 13% |\n| 37 | Moldova | 12% |\n| 38 | Ireland | 12% |\n| 39 | Netherlands | 11% |\n| 40 | Malta | 1.40% |\n| 41 | Iceland | 0.50% |",
+    "ai_analysis": {
+      "core_insight": "北欧与波罗的海国家森林覆盖率领先，地中海及西北欧国家则相对较低。",
+      "data_highlights": [
+        "芬兰以74%的森林覆盖率位居欧洲第一，瑞典以69%紧随其后。",
+        "森林覆盖率排名前六的国家均位于北欧或波罗的海地区。",
+        "西北欧主要经济体（如英、法、德）森林覆盖率均在33%左右，相对中等。",
+        "马耳他和冰岛森林覆盖率极低，分别仅为1.4%和0.5%。",
+        "俄罗斯作为面积最大的欧洲国家，森林覆盖率为50%，位列第七。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Percent Forest"
+          ],
+          "rows": [
+            [
+              "1",
+              "Finland",
+              "74%"
+            ],
+            [
+              "2",
+              "Sweden",
+              "69%"
+            ],
+            [
+              "3",
+              "Montenegro",
+              "62%"
+            ],
+            [
+              "4",
+              "Slovenia",
+              "61%"
+            ],
+            [
+              "5",
+              "Estonia",
+              "57%"
+            ],
+            [
+              "6",
+              "Latvia",
+              "55%"
+            ],
+            [
+              "7",
+              "Russia",
+              "50%"
+            ],
+            [
+              "8",
+              "Austria",
+              "47%"
+            ],
+            [
+              "9",
+              "Belarus",
+              "43%"
+            ],
+            [
+              "10",
+              "Bosnia & Herzegovina",
+              "43%"
+            ],
+            [
+              "11",
+              "Slovakia",
+              "40%"
+            ],
+            [
+              "12",
+              "North Macedonia",
+              "40%"
+            ],
+            [
+              "13",
+              "Spain",
+              "37%"
+            ],
+            [
+              "14",
+              "Bulgaria",
+              "36%"
+            ],
+            [
+              "15",
+              "Portugal",
+              "36%"
+            ]
+          ],
+          "caption": "欧洲森林覆盖率国家排名（前15名）"
+        }
+      ],
+      "deep_dive": "## 地理与历史因素塑造森林分布格局\n欧洲森林覆盖率的排名清晰地反映了地理、气候和历史发展的深远影响。\n\n- **北欧与波罗的海地区的自然优势**：芬兰、瑞典以及爱沙尼亚、拉脱维亚等国拥有广阔的针叶林（泰加林）和混交林。其高覆盖率得益于相对较低的人口密度、较长的森林管理历史（如芬兰的“每棵树都有主人”的传统）以及适合树木生长的气候条件。这些国家的森林不仅是碳汇，更是其国家身份和林业经济的重要组成部分。\n- **山地与巴尔干地区的贡献**：斯洛文尼亚、黑山、奥地利等山地国家，其地形不适合大规模农业开发，从而保留了大面积的森林。巴尔干地区的波黑、北马其顿等国也因相似原因拥有较高覆盖率，尽管其森林管理可能面临不同的挑战。\n- **西欧与地中海国家的相对低值**：英国、荷兰、丹麦等西北欧国家森林覆盖率低，主要源于历史上长期的农业开垦、工业化和城市化进程。而希腊、土耳其、意大利南部等地中海沿岸国家，其典型的地中海气候（夏季干热）和悠久的农业文明历史限制了自然森林的大规模生长。\n\n## 数据对比中的启示与局限\n对这份排名的深入解读需要超越简单的数字对比。\n\n- **覆盖率不等于生态质量**：高森林覆盖率并不自动等同于生物多样性丰富或生态健康。例如，单一树种的人工林虽然提升了覆盖率数字，但其生态价值可能远低于天然林。相反，像英国（13%）这样看似覆盖率低的国家，近年来正通过雄心勃勃的植树计划（如“2500万棵树”倡议）积极恢复生态，其努力方向值得关注。\n- **规模与比例的悖论**：俄罗斯以50%的覆盖率位列第七，但其森林的绝对面积是欧洲乃至世界最大的，对全球碳循环至关重要。而像马耳他（1.4%）这样的微型岛国，其极低的覆盖率与其地理环境（干旱、面积小、人口密集）直接相关，并非管理不善的直接结果。因此，在评估国家森林资源时，必须同时考虑绝对面积和相对比例。\n- **未来挑战与政策导向**：气候变化、山火频发、病虫害以及对木材的需求增长，正对所有欧洲国家的森林构成压力。排名靠后的国家可能面临更大的生态系统恢复压力，而排名靠前的国家则需平衡森林保护与可持续利用。欧盟的《森林战略》等政策试图在泛欧层面协调这些挑战，但各国的具体实施路径将取决于其独特的国情和资源禀赋。",
+      "glossary": [
+        {
+          "term": "森林覆盖率",
+          "explanation": "指一个国家或地区森林面积占土地总面积的百分比，是衡量森林资源丰富程度和生态状况的基本指标。"
+        },
+        {
+          "term": "泰加林",
+          "explanation": "又称北方针叶林，主要分布在北半球高纬度地区（如芬兰、瑞典），以耐寒的云杉、松树等针叶树种为主，是地球上最大的陆地生物群落之一。"
+        },
+        {
+          "term": "碳汇",
+          "explanation": "指能够吸收并储存大气中二氧化碳的森林、海洋等自然系统，在应对气候变化中发挥关键作用。"
+        }
+      ]
+    }
+  },
+  {
     "id": "18527571",
     "title": "Ranked: The World’s Inflation Extremes in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-worlds-inflation-extremes-in-2026/",
