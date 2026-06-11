@@ -1,5 +1,177 @@
 [
   {
+    "id": "f80bf135",
+    "title": "China Added More Solar Than the Rest of the World Combined",
+    "original_url": "https://www.visualcapitalist.com/china-overshadows-the-world-in-2025-solar-power-growth/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f80bf135.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCsBUiHmoxTl610ORgkWVbiimDpRSuVY//Z",
+    "image_version": 1781200759,
+    "pub_date": "Thu, 11 Jun 2026 17:11:07 +0000",
+    "content_md": "| Country/Region | 2025 Solar Power Additions (TWh) |\n| --- | --- |\n| China | 336 |\n| Asia (ex. China) | 90 |\n| North America | 86 |\n| Europe | 80 |\n| Latin America & Caribbean | 24 |\n| Middle East | 10 |\n| Oceania | 6 |\n| Africa | 4 |",
+    "ai_analysis": {
+      "core_insight": "2025年，中国新增太阳能发电量远超世界其他地区总和。",
+      "data_highlights": [
+        "中国2025年新增太阳能发电量高达336 TWh，占据绝对主导地位。",
+        "除中国外的亚洲（90 TWh）与北美（86 TWh）位居第二、第三，但体量远不及中国。",
+        "拉丁美洲与加勒比地区（24 TWh）、中东（10 TWh）、大洋洲（6 TWh）及非洲（4 TWh）的新增量相对较小，增长潜力有待释放。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country/Region",
+            "2025 Solar Power Additions (TWh)"
+          ],
+          "rows": [
+            [
+              "China",
+              "336"
+            ],
+            [
+              "Asia (ex. China)",
+              "90"
+            ],
+            [
+              "North America",
+              "86"
+            ],
+            [
+              "Europe",
+              "80"
+            ],
+            [
+              "Latin America & Caribbean",
+              "24"
+            ],
+            [
+              "Middle East",
+              "10"
+            ],
+            [
+              "Oceania",
+              "6"
+            ],
+            [
+              "Africa",
+              "4"
+            ]
+          ],
+          "caption": "2025年各国家/地区新增太阳能发电量预测"
+        }
+      ],
+      "deep_dive": "## 一、数据揭示的全球格局：中国“一骑绝尘”\n该预测数据清晰勾勒出2025年全球太阳能产业格局的极端集中态势。中国以336 TWh的预期新增量，不仅位列全球第一，更是其后所有其他国家与地区之和（约300 TWh）的1.12倍，实现了真正的“超越全球总和”。这种压倒性优势反映了中国在光伏全产业链（从硅料、硅片、电池片到组件）的绝对主导地位，以及其在政策驱动、市场规模、制造成本和并网消纳能力上的综合领先。\n\n## 二、区域对比与启示：潜力与瓶颈并存\n- **第二梯队的差距**：亚洲其他地区（90 TWh）与北美（86 TWh）、欧洲（80 TWh）构成第二梯队，三者体量相近，但与中国相比差距巨大。这表明，即便是在传统发达国家或新兴经济体集中区域，太阳能部署速度和规模也难以比肩中国。\n- **新兴市场的缓慢起步**：拉丁美洲、中东、大洋洲及非洲的新增量普遍较低。尽管这些地区拥有丰富的光照资源，但其增长受制于电力基础设施、融资能力、政策稳定性和供应链成熟度等多重瓶颈。尤其是非洲（4 TWh），与其巨大的能源缺口和太阳能潜力形成鲜明对比，凸显了发展上的不匹配。\n- **启示**：全球能源转型进程高度不均衡。中国的领先地位既是其系统工程能力的体现，也为全球供应链提供了关键支撑。其他地区要加速转型，需在完善本地产业生态、创新融资模式、加强电网建设等方面多管齐下。\n\n## 三、数据局限与前瞻\n需注意，此表仅反映“新增发电量”预测，未涵盖存量、技术类型（如分布式与集中式）、投资成本及对电网的具体影响。未来，全球太阳能增长能否更加均衡，将取决于技术扩散速度、国际资本流动以及各国政策协同。",
+      "glossary": [
+        {
+          "term": "TWh",
+          "explanation": "太瓦时，电能单位，1太瓦时等于10亿千瓦时，用于衡量大型电力系统的发电量。"
+        },
+        {
+          "term": "光伏全产业链",
+          "explanation": "指太阳能光伏产业从上游原材料（如硅料）到中游制造（硅片、电池片、组件）再到下游电站建设与运营的完整生产链条。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指能源系统从以化石燃料为主导，向以可再生能源（如太阳能、风能）为主导的结构性转变过程。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b0aa5df",
+    "title": "Ranked: The World’s Biggest Reserve Currencies Today",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-reserve-currencies-today/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3b0aa5df.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDMhTNWTH8tR2w6VbYfLWrYIoMnNFSv96imM//Z",
+    "image_version": 1781200805,
+    "pub_date": "Thu, 11 Jun 2026 14:06:13 +0000",
+    "content_md": "| Currency | Reserves (USD trillions) | Share of Total Reserves |\n| --- | --- | --- |\n| U.S. dollars | 7.46 | 56.8% |\n| Euros | 2.66 | 20.2% |\n| Japanese yen | 0.76 | 5.8% |\n| Pounds sterling | 0.58 | 4.4% |\n| Canadian dollars | 0.33 | 2.5% |\n| Australian dollars | 0.27 | 2.0% |\n| Chinese renminbi | 0.26 | 2.0% |\n| Swiss francs | 0.03 | 0.2% |\n| Other currencies | 0.81 | 6.1% |\n| Total foreign reserves | 13.14 | 100.0% |",
+    "ai_analysis": {
+      "core_insight": "美元主导地位稳固，占比超一半，但新兴货币份额微升。",
+      "data_highlights": [
+        "美元以7.46万亿美元和56.8%份额占据绝对主导地位。",
+        "欧元是第二大储备货币，占比20.2%，与美元差距显著。",
+        "人民币占比2.0%，在主要货币中位列第七，份额与加元、澳元相近。",
+        "瑞士法郎份额最小，仅0.2%，反映其储备功能受限。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Currency",
+            "Reserves (USD trillions)",
+            "Share of Total Reserves"
+          ],
+          "rows": [
+            [
+              "U.S. dollars",
+              "7.46",
+              "56.8%"
+            ],
+            [
+              "Euros",
+              "2.66",
+              "20.2%"
+            ],
+            [
+              "Japanese yen",
+              "0.76",
+              "5.8%"
+            ],
+            [
+              "Pounds sterling",
+              "0.58",
+              "4.4%"
+            ],
+            [
+              "Canadian dollars",
+              "0.33",
+              "2.5%"
+            ],
+            [
+              "Australian dollars",
+              "0.27",
+              "2.0%"
+            ],
+            [
+              "Chinese renminbi",
+              "0.26",
+              "2.0%"
+            ],
+            [
+              "Swiss francs",
+              "0.03",
+              "0.2%"
+            ],
+            [
+              "Other currencies",
+              "0.81",
+              "6.1%"
+            ],
+            [
+              "Total foreign reserves",
+              "13.14",
+              "100.0%"
+            ]
+          ],
+          "caption": "全球主要储备货币排名"
+        }
+      ],
+      "deep_dive": "## 美元霸权的现状与基石\n数据清晰地揭示了当前国际货币体系的金字塔结构。美元以56.8%的份额遥遥领先，其主导地位建立在三根支柱上：一是美国拥有全球最深厚、流动性最强的国债市场，为各国央行提供了无可替代的安全资产池；二是大宗商品和国际贸易计价结算高度依赖美元，形成了强大的网络效应和路径依赖；三是美元体系的政治与经济背书。尽管其份额已从历史高点（如2000年的71%）有所下降，但仍占据半壁江山，短期内无可撼动。\n\n## 主要货币的竞争格局与分化\n- **欧元的稳定第二极**：欧元份额约20%，体现了欧盟作为大型统一经济体的货币吸引力。然而，受制于财政一体化不足、主权债务风险以及地缘政治冲击，其挑战美元的能力始终有限。\n- **日元与英镑的稳定份额**：日元（5.8%）和英镑（4.4%）作为传统发达经济体货币，份额相对稳定，但增长空间受本国经济结构和金融市场深度限制。\n- **商品货币与新兴货币**：加元和澳元作为商品货币，份额相近（2.5%和2.0%），反映了大宗商品周期和资源型国家的货币属性。人民币占比2.0%，虽在政策推动下成为全球储备货币，但资本账户管制、金融市场开放度及汇率机制等因素制约了其快速扩张。\n\n## 趋势启示与潜在局限\n储备货币构成的变化是全球经济实力、金融市场发展和地缘政治博弈的慢速映射。人民币份额的微升是国际化进程的缩影，但距离成为主要储备货币仍有长路。需注意的是，储备货币地位不仅是经济问题，也涉及强大的制度惯性。未来的看点在于：主要经济体政策分化是否会动摇现有格局，以及数字货币等新技术是否可能重塑储备资产的形式与竞争维度。本数据仅反映静态的存量结构，未包含流动性和估值变化的动态影响。",
+      "glossary": [
+        {
+          "term": "外汇储备",
+          "explanation": "一国中央银行持有的外国货币及其他资产，主要用于维护本币汇率稳定和应对外部金融冲击。"
+        },
+        {
+          "term": "储备货币",
+          "explanation": "被各国央行大量持有作为外汇储备的国际货币，如美元、欧元。其地位取决于发行国的经济实力、金融市场深度及制度信誉。"
+        },
+        {
+          "term": "国际货币体系",
+          "explanation": "调节各国货币关系及国际支付的规则与安排，当前以美元为主导、多种货币并存的浮动汇率制为特征。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4c6b9d1c",
     "title": "Ranked: Where Electricity Costs the Most and Least",
     "original_url": "https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/",
