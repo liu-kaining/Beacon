@@ -1,5 +1,166 @@
 [
   {
+    "id": "4c6b9d1c",
+    "title": "Ranked: Where Electricity Costs the Most and Least",
+    "original_url": "https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4c6b9d1c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDBiqSTpUcNSSdK6OUzuVG+9RSt1oqLFH//2Q==",
+    "image_version": 1781181311,
+    "pub_date": "Thu, 11 Jun 2026 12:01:07 +0000",
+    "content_md": "| Rank | Country | Electricity ratesin USD/kWh,(2023–2026 average) |\n| --- | --- | --- |\n| 1 | Bermuda | 0.466 |\n| 2 | Ireland | 0.447 |\n| 3 | Italy | 0.415 |\n| 4 | Cayman Islands | 0.411 |\n| 5 | Germany | 0.406 |\n| 6 | Belgium | 0.404 |\n| 7 | UK | 0.404 |\n| 8 | Liechtenstein | 0.402 |\n| 9 | Switzerland | 0.366 |\n| 10 | Denmark | 0.361 |\n| 11 | Czech Republic | 0.352 |\n| 12 | Austria | 0.351 |\n| 13 | Bahamas | 0.348 |\n| 14 | Cyprus | 0.340 |\n| 15 | Cape Verde | 0.329 |\n| 16 | Barbados | 0.313 |\n| 17 | Guatemala | 0.297 |\n| 18 | Estonia | 0.290 |\n| 19 | Jamaica | 0.287 |\n| 20 | Netherlands | 0.284 |\n| 21 | Latvia | 0.281 |\n| 22 | Lithuania | 0.281 |\n| 23 | France | 0.276 |\n| 24 | Luxembourg | 0.258 |\n| 25 | Australia | 0.257 |\n| 26 | Uruguay | 0.254 |\n| 27 | El Salvador | 0.253 |\n| 28 | Spain | 0.253 |\n| 29 | Greece | 0.251 |\n| 30 | Sweden | 0.241 |\n| 31 | Portugal | 0.237 |\n| 32 | Poland | 0.234 |\n| 33 | Honduras | 0.233 |\n| 34 | Singapore | 0.233 |\n| 35 | Sierra Leone | 0.231 |\n| 36 | Japan | 0.228 |\n| 37 | Slovenia | 0.227 |\n| 38 | Chile | 0.224 |\n| 39 | Mali | 0.221 |\n| 40 | Kenya | 0.218 |\n| 41 | Belize | 0.217 |\n| 42 | Slovakia | 0.213 |\n| 43 | Romania | 0.212 |\n| 44 | Aruba | 0.211 |\n| 45 | New Zealand | 0.209 |\n| 46 | Burkina Faso | 0.208 |\n| 47 | Rwanda | 0.208 |\n| 48 | Philippines | 0.207 |\n| 49 | Gabon | 0.207 |\n| 50 | Colombia | 0.205 |\n| 51 | South Africa | 0.204 |\n| 52 | Togo | 0.198 |\n| 53 | Andorra | 0.195 |\n| 54 | Peru | 0.187 |\n| 55 | USA | 0.186 |\n| 56 | Hong Kong | 0.184 |\n| 57 | Senegal | 0.183 |\n| 58 | Israel | 0.182 |\n| 59 | Croatia | 0.178 |\n| 60 | Moldova | 0.177 |\n| 61 | Iceland | 0.177 |\n| 62 | Panama | 0.176 |\n| 63 | Nicaragua | 0.176 |\n| 64 | Finland | 0.174 |\n| 65 | Uganda | 0.171 |\n| 66 | Costa Rica | 0.170 |\n| 67 | Brazil | 0.162 |\n| 68 | Norway | 0.162 |\n| 69 | Bulgaria | 0.154 |\n| 70 | Cambodia | 0.150 |\n| 71 | Malta | 0.148 |\n| 72 | Ghana | 0.143 |\n| 73 | Namibia | 0.141 |\n| 74 | Mauritius | 0.134 |\n| 75 | Ivory Coast | 0.131 |\n| 76 | Madagascar | 0.129 |\n| 77 | Serbia | 0.128 |\n| 78 | North Macedonia | 0.128 |\n| 79 | Eswatini | 0.127 |\n| 80 | Thailand | 0.127 |\n| 81 | Mozambique | 0.127 |\n| 82 | South Korea | 0.126 |\n| 83 | Canada | 0.123 |\n| 84 | Montenegro | 0.121 |\n| 85 | Morocco | 0.120 |\n| 86 | Albania | 0.118 |\n| 87 | Sri Lanka | 0.116 |\n| 88 | Dominican Republic | 0.115 |\n| 89 | Armenia | 0.112 |\n| 90 | Hungary | 0.110 |\n| 91 | Mexico | 0.108 |\n| 92 | Lesotho | 0.106 |\n| 93 | Bosnia & Herzegovina | 0.106 |\n| 94 | Maldives | 0.101 |\n| 95 | Taiwan | 0.098 |\n| 96 | Ecuador | 0.097 |\n| 97 | Botswana | 0.094 |\n| 98 | Indonesia | 0.091 |\n| 99 | Tanzania | 0.091 |\n| 100 | Jordan | 0.090 |\n| 101 | Malawi | 0.087 |\n| 102 | Belarus | 0.085 |\n| 103 | Cameroon | 0.084 |\n| 104 | Argentina | 0.083 |\n| 105 | Ukraine | 0.083 |\n| 106 | UAE | 0.080 |\n| 107 | Vietnam | 0.078 |\n| 108 | India | 0.077 |\n| 109 | China | 0.076 |\n| 110 | Venezuela | 0.069 |\n| 111 | Russia | 0.068 |\n| 112 | Turkey | 0.067 |\n| 113 | Tunisia | 0.067 |\n| 114 | Georgia | 0.066 |\n| 115 | DR Congo | 0.065 |\n| 116 | Pakistan | 0.064 |\n| 117 | Bangladesh | 0.062 |\n| 118 | Trinidad & Tobago | 0.057 |\n| 119 | Kazakhstan | 0.056 |\n| 120 | Paraguay | 0.054 |\n| 121 | Afghanistan | 0.052 |\n| 122 | Saudi Arabia | 0.052 |\n| 123 | Malaysia | 0.050 |\n| 124 | Suriname | 0.049 |\n| 125 | Bahrain | 0.048 |\n| 126 | Azerbaijan | 0.048 |\n| 127 | Nepal | 0.043 |\n| 128 | Algeria | 0.041 |\n| 129 | Kuwait | 0.039 |\n| 130 | Uzbekistan | 0.037 |\n| 131 | Nigeria | 0.036 |\n| 132 | Qatar | 0.032 |\n| 133 | Oman | 0.030 |\n| 134 | Laos | 0.029 |\n| 135 | Myanmar | 0.025 |\n| 136 | Egypt | 0.024 |\n| 137 | Zambia | 0.023 |\n| 138 | Angola | 0.016 |\n| 139 | Bhutan | 0.015 |\n| 140 | Cuba | 0.015 |\n| 141 | Sudan | 0.015 |\n| 142 | Iraq | 0.015 |\n| 143 | Kyrgyzstan | 0.014 |\n| 144 | Ethiopia | 0.006 |\n| 145 | Iran | 0.003 |",
+    "ai_analysis": {
+      "core_insight": "欧洲和岛国电价最高，资源富国和政府补贴国家电价最低，电价结构反映能源禀赋与政策选择。",
+      "data_highlights": [
+        "电价最高前四名均为欧洲国家或地区，百慕大以0.466美元/千瓦时居首。",
+        "电价最低后四名中，埃塞俄比亚以0.006美元/千瓦时垫底，与榜首相差近78倍。",
+        "美国电价0.186美元/千瓦时，在全球排名第55位，处于中游水平。",
+        "中东油气资源国如卡塔尔、阿曼、科威特等电价普遍低于0.04美元/千瓦时。",
+        "亚洲主要经济体电价分化明显：中国0.076，印度0.077，日本0.228，韩国0.126。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity rates (USD/kWh)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bermuda",
+              "0.466"
+            ],
+            [
+              "2",
+              "Ireland",
+              "0.447"
+            ],
+            [
+              "3",
+              "Italy",
+              "0.415"
+            ],
+            [
+              "4",
+              "Cayman Islands",
+              "0.411"
+            ],
+            [
+              "5",
+              "Germany",
+              "0.406"
+            ],
+            [
+              "6",
+              "Belgium",
+              "0.404"
+            ],
+            [
+              "7",
+              "UK",
+              "0.404"
+            ],
+            [
+              "8",
+              "Liechtenstein",
+              "0.402"
+            ],
+            [
+              "9",
+              "Switzerland",
+              "0.366"
+            ],
+            [
+              "10",
+              "Denmark",
+              "0.361"
+            ]
+          ],
+          "caption": "全球电价最高前十名国家/地区"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Electricity rates (USD/kWh)"
+          ],
+          "rows": [
+            [
+              "136",
+              "Egypt",
+              "0.024"
+            ],
+            [
+              "137",
+              "Zambia",
+              "0.023"
+            ],
+            [
+              "138",
+              "Angola",
+              "0.016"
+            ],
+            [
+              "139",
+              "Bhutan",
+              "0.015"
+            ],
+            [
+              "140",
+              "Cuba",
+              "0.015"
+            ],
+            [
+              "141",
+              "Sudan",
+              "0.015"
+            ],
+            [
+              "142",
+              "Iraq",
+              "0.015"
+            ],
+            [
+              "143",
+              "Kyrgyzstan",
+              "0.014"
+            ],
+            [
+              "144",
+              "Ethiopia",
+              "0.006"
+            ],
+            [
+              "145",
+              "Iran",
+              "0.003"
+            ]
+          ],
+          "caption": "全球电价最低前十名国家/地区"
+        }
+      ],
+      "deep_dive": "## 电价全球分布的深层逻辑\n\n全球电价的巨大差异并非随机形成，而是由一系列结构性因素共同塑造。首先，**能源资源禀赋**是基础。排名靠后的国家，如伊朗、卡塔尔、科威特等中东国家，拥有极其丰富且开采成本低廉的石油和天然气资源，这直接压低了发电成本。其次，**政府补贴政策**是关键干预手段。许多发展中国家（如埃及、古巴）和部分产油国（如沙特阿拉伯、委内瑞拉）通过高额财政补贴来维持低电价，以此作为社会福利和稳定经济的工具，但这通常会给政府财政带来巨大压力。第三，**电力市场结构与定价机制**差异显著。欧洲高电价国家（如德国、丹麦）的电价中，税费、可再生能源附加费和碳税等占比很高，这反映了其推动能源转型、应对气候变化的政策导向，但也显著推高了终端价格。\n\n## 高电价经济体的启示与挑战\n\n电价最高的国家/地区呈现出几个显著特征。其一，**高度依赖进口能源**的经济体电价居高不下，如百慕大、开曼群岛、日本等岛屿或资源匮乏地区，其能源安全风险与价格波动性极高。其二，**成熟的、实施激进绿色政策的发达经济体**是高电价的另一代表，西欧的德国、英国、丹麦等是典型。高电价虽然促进了能效提升和可再生能源投资，但也引发了关于产业竞争力、居民生活成本和能源贫困的持续争论。值得注意的是，美国凭借其丰富的页岩气资源和相对多元的能源结构，电价在发达国家中处于相对较低水平，这为其制造业提供了一定的成本优势。\n\n## 对中国与投资者的启示\n\n对于中国而言，当前0.076美元/千瓦时的电价水平在全球范围内处于较低区间，这得益于国内相对丰富的煤炭资源以及有效的电力价格管制。然而，随着能源转型的深入和碳定价机制的探索，未来电价面临上行压力。如何平衡减碳目标、能源安全、经济发展和民生负担，是重大政策课题。对于投资者，电价数据是评估一国工业生产成本、居民消费潜力和公用事业板块投资价值的重要先行指标。低电价地区可能意味着较低的营商成本，但也可能隐藏着电力基础设施投资不足的风险；高电价地区则可能催生对节能技术、分布式能源和储能解决方案的巨大市场需求。",
+      "glossary": [
+        {
+          "term": "电价",
+          "explanation": "电力终端用户为每单位用电量支付的综合费用，通常包含电能成本、输配电成本、政府性基金及附加、税费等。"
+        },
+        {
+          "term": "能源禀赋",
+          "explanation": "一个国家或地区所拥有的化石能源（如煤、石油、天然气）或可再生能源（如水、风、太阳能）等天然资源的丰裕程度。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指能源体系从以化石燃料为主导，向以可再生能源等清洁能源为主导的系统性转变过程，旨在应对气候变化和提升能源可持续性。"
+        },
+        {
+          "term": "电力市场结构",
+          "explanation": "指电力从发电、输电、配电到售电各环节的组织形式和竞争程度，如垂直一体化垄断、发电竞争售电垄断、或全环节竞争等不同模式。"
+        }
+      ]
+    }
+  },
+  {
     "id": "dfdc7ebb",
     "title": "Mapped: The Trust Gap Across Europe",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-the-trust-gap-across-europe/",
