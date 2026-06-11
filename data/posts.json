@@ -1,5 +1,185 @@
 [
   {
+    "id": "28a3055c",
+    "title": "Ranked: Which Countries Produce the Most Silver?",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-which-countries-produce-the-most-silver/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/28a3055c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnYTuNWGXC1VtTVqVgEqOU19oyqzfNRUEknzmijlD2jCGTbUkk2VqslK/StGjBMiZstRTT1oosO5//2Q==",
+    "image_version": 1781209148,
+    "pub_date": "Thu, 11 Jun 2026 15:52:00 +0000",
+    "content_md": "| Country | Region | Million ounces |\n| --- | --- | --- |\n| Mexico | North America | 173 |\n| Peru | South America | 131 |\n| China | Asia | 113 |\n| Russia | Europe | 56 |\n| Bolivia | South America | 50 |\n| Chile | South America | 43 |\n| Poland | Europe | 43 |\n| United States | North America | 36 |\n| Australia | Oceania | 33 |\n| Argentina | South America | 22 |\n| India | Asia | 20 |\n| Kazakhstan | Asia | 17 |\n| Sweden | Europe | 14 |\n| Morocco | Africa | 12 |\n| Uzbekistan | Asia | 11 |\n| Canada | North America | 10 |\n| Indonesia | Asia | 9 |\n| Iran | Middle East | 4 |\n| Spain | Europe | 4 |\n| Papua New Guinea | Asia | 4 |\n| Others | - | 45 |\n| Global Total | - | 847 |",
+    "ai_analysis": {
+      "core_insight": "全球白银生产高度集中于前七国，墨西哥、秘鲁、中国占全球近半。",
+      "data_highlights": [
+        "墨西哥以1.73亿盎司的产量位居全球第一，远超其他国家。",
+        "南美洲是白银生产的核心区域，秘鲁、玻利维亚、智利和阿根廷四国合计贡献了2.46亿盎司。",
+        "亚洲产量主要由中国（1.13亿盎司）和印度、哈萨克斯坦等国构成，中国贡献了全球约13.3%的产量。",
+        "欧洲的俄罗斯（5600万盎司）和波兰（4300万盎司）是主要生产国，但总量与美洲和亚洲有差距。",
+        "全球白银总产量为8.47亿盎司，前七大生产国合计产量占全球总产量的约78%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Region",
+            "Million ounces"
+          ],
+          "rows": [
+            [
+              "1",
+              "Mexico",
+              "North America",
+              "173"
+            ],
+            [
+              "2",
+              "Peru",
+              "South America",
+              "131"
+            ],
+            [
+              "3",
+              "China",
+              "Asia",
+              "113"
+            ],
+            [
+              "4",
+              "Russia",
+              "Europe",
+              "56"
+            ],
+            [
+              "5",
+              "Bolivia",
+              "South America",
+              "50"
+            ],
+            [
+              "6",
+              "Chile",
+              "South America",
+              "43"
+            ],
+            [
+              "7",
+              "Poland",
+              "Europe",
+              "43"
+            ],
+            [
+              "8",
+              "United States",
+              "North America",
+              "36"
+            ],
+            [
+              "9",
+              "Australia",
+              "Oceania",
+              "33"
+            ],
+            [
+              "10",
+              "Argentina",
+              "South America",
+              "22"
+            ],
+            [
+              "11",
+              "India",
+              "Asia",
+              "20"
+            ],
+            [
+              "12",
+              "Kazakhstan",
+              "Asia",
+              "17"
+            ],
+            [
+              "13",
+              "Sweden",
+              "Europe",
+              "14"
+            ],
+            [
+              "14",
+              "Morocco",
+              "Africa",
+              "12"
+            ],
+            [
+              "15",
+              "Uzbekistan",
+              "Asia",
+              "11"
+            ],
+            [
+              "16",
+              "Canada",
+              "North America",
+              "10"
+            ],
+            [
+              "17",
+              "Indonesia",
+              "Asia",
+              "9"
+            ],
+            [
+              "18",
+              "Iran",
+              "Middle East",
+              "4"
+            ],
+            [
+              "19",
+              "Spain",
+              "Europe",
+              "4"
+            ],
+            [
+              "20",
+              "Papua New Guinea",
+              "Asia",
+              "4"
+            ],
+            [
+              "21",
+              "Others",
+              "-",
+              "45"
+            ],
+            [
+              "-",
+              "Global Total",
+              "-",
+              "847"
+            ]
+          ],
+          "caption": "2023年全球主要白银生产国产量排名"
+        }
+      ],
+      "deep_dive": "## 区域生产格局：美洲主导，亚洲崛起\n\n全球白银生产呈现明显的区域集中特征，**美洲**是无可争议的生产中心。北美洲的墨西哥（1.73亿盎司）和美国（3600万盎司），加上南美洲的秘鲁（1.31亿盎司）、玻利维亚（5000万盎司）、智利（4300万盎司）和阿根廷（2200万盎司），六国合计产量高达4.55亿盎司，占全球总产量的53.7%。这得益于安第斯山脉和墨西哥丰富的银矿资源以及悠久的开采历史。相比之下，**亚洲**以中国（1.13亿盎司）为核心，辅以印度、哈萨克斯坦等国，形成了第二大生产集群，但总量（约1.74亿盎司）仍不及美洲的一半。**欧洲**则以俄罗斯和波兰为代表，但其生产更多与其丰富的铅锌铜等多金属矿伴生银有关。\n\n## 生产集中度与市场启示\n\n白银生产表现出极高的市场集中度。**前七大生产国**（墨西哥、秘鲁、中国、俄罗斯、玻利维亚、智利、波兰）的产量合计达5.99亿盎司，占全球8.47亿盎司总产量的约78%。这种高度集中的供给格局意味着，这些国家的政策变动、劳工关系、自然灾害或地缘政治风险都可能对全球白银供应链产生显著冲击，从而影响白银价格。例如，墨西哥的矿业政策、秘鲁的社会动荡或中国的环保政策都是市场需要密切关注的风险点。\n\n对于投资者和产业方而言，理解这种地理分布至关重要。它不仅揭示了供应链的脆弱环节，也指明了未来勘探开发的重点区域。同时，“Others”类别下4500万盎司的产量表明，仍有众多中小型生产国分散在全球各地，为市场提供了一定的供给韧性，但难以改变由头部国家主导的基本面。",
+      "glossary": [
+        {
+          "term": "Million ounces",
+          "explanation": "百万盎司，是衡量白银等贵金属产量或储量的常用单位。1盎司约合31.1克。"
+        },
+        {
+          "term": "伴生银",
+          "explanation": "白银常作为铅、锌、铜等基础金属矿开采过程中的副产品产出，这类白银称为伴生银，是全球白银供给的重要来源。"
+        },
+        {
+          "term": "供给集中度",
+          "explanation": "指某一商品（如白银）的生产集中于少数几个国家或公司的程度。高集中度通常意味着供给风险较高，价格易受单一事件影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "f80bf135",
     "title": "China Added More Solar Than the Rest of the World Combined",
     "original_url": "https://www.visualcapitalist.com/china-overshadows-the-world-in-2025-solar-power-growth/",
