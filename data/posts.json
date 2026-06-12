@@ -1,5 +1,186 @@
 [
   {
+    "id": "fce2fca6",
+    "title": "Charted: Where Cooling Is Becoming a Luxury in Europe",
+    "original_url": "https://www.visualcapitalist.com/cp/charted-where-cooling-is-becoming-a-luxury-in-europe/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/fce2fca6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmvtHFVppc1FTHoAYzc0Uw9aKAP//Z",
+    "image_version": 1781248192,
+    "pub_date": "Fri, 12 Jun 2026 05:18:13 +0000",
+    "content_md": "| Country | 2024 Net Income (€, thousands) | Cooling Degree Days Avg. |\n| --- | --- | --- |\n| Belgium | 30.4 | 21.2 |\n| Bulgaria | 7.8 | 237.1 |\n| Czechia | 15.1 | 23.8 |\n| Denmark | 34.8 | 1.0 |\n| Germany | 27.6 | 21.8 |\n| Estonia | 16.1 | 13.0 |\n| Ireland | 33.0 | 0.1 |\n| Greece | 10.9 | 418.4 |\n| Spain | 19.3 | 308.8 |\n| France | 25.6 | 74.8 |\n| Croatia | 12.3 | 207.8 |\n| Italy | 20.6 | 317.4 |\n| Cyprus | 20.7 | 804.9 |\n| Latvia | 12.8 | 14.0 |\n| Lithuania | 12.3 | 19.3 |\n| Luxembourg | 50.8 | 15.5 |\n| Hungary | 8.8 | 158.7 |\n| Malta | 20.4 | 772.5 |\n| Netherlands | 32.0 | 15.9 |\n| Austria | 33.2 | 31.8 |\n| Poland | 11.9 | 29.9 |\n| Portugal | 12.6 | 226.4 |\n| Romania | 7.8 | 158.7 |\n| Slovenia | 19.6 | 74.3 |\n| Slovakia | 10.2 | 64.4 |\n| Finland | 28.7 | 2.6 |\n| Sweden | 26.9 | 0.5 |",
+    "ai_analysis": {
+      "core_insight": "欧洲南部高温国家收入偏低，制冷正成为经济负担。",
+      "data_highlights": [
+        "塞浦路斯制冷需求最高（804.9日），但收入仅2.07万欧元。",
+        "卢森堡收入最高（5.08万欧元），制冷需求极低（15.5日）。",
+        "希腊、西班牙、意大利等南欧国家制冷需求超300日，收入不足2.1万欧元。",
+        "爱尔兰、丹麦制冷需求几乎为零，收入均超3.3万欧元。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "2024 Net Income (€, thousands)",
+            "Cooling Degree Days Avg."
+          ],
+          "rows": [
+            [
+              "Belgium",
+              "30.4",
+              "21.2"
+            ],
+            [
+              "Bulgaria",
+              "7.8",
+              "237.1"
+            ],
+            [
+              "Czechia",
+              "15.1",
+              "23.8"
+            ],
+            [
+              "Denmark",
+              "34.8",
+              "1.0"
+            ],
+            [
+              "Germany",
+              "27.6",
+              "21.8"
+            ],
+            [
+              "Estonia",
+              "16.1",
+              "13.0"
+            ],
+            [
+              "Ireland",
+              "33.0",
+              "0.1"
+            ],
+            [
+              "Greece",
+              "10.9",
+              "418.4"
+            ],
+            [
+              "Spain",
+              "19.3",
+              "308.8"
+            ],
+            [
+              "France",
+              "25.6",
+              "74.8"
+            ],
+            [
+              "Croatia",
+              "12.3",
+              "207.8"
+            ],
+            [
+              "Italy",
+              "20.6",
+              "317.4"
+            ],
+            [
+              "Cyprus",
+              "20.7",
+              "804.9"
+            ],
+            [
+              "Latvia",
+              "12.8",
+              "14.0"
+            ],
+            [
+              "Lithuania",
+              "12.3",
+              "19.3"
+            ],
+            [
+              "Luxembourg",
+              "50.8",
+              "15.5"
+            ],
+            [
+              "Hungary",
+              "8.8",
+              "158.7"
+            ],
+            [
+              "Malta",
+              "20.4",
+              "772.5"
+            ],
+            [
+              "Netherlands",
+              "32.0",
+              "15.9"
+            ],
+            [
+              "Austria",
+              "33.2",
+              "31.8"
+            ],
+            [
+              "Poland",
+              "11.9",
+              "29.9"
+            ],
+            [
+              "Portugal",
+              "12.6",
+              "226.4"
+            ],
+            [
+              "Romania",
+              "7.8",
+              "158.7"
+            ],
+            [
+              "Slovenia",
+              "19.6",
+              "74.3"
+            ],
+            [
+              "Slovakia",
+              "10.2",
+              "64.4"
+            ],
+            [
+              "Finland",
+              "28.7",
+              "2.6"
+            ],
+            [
+              "Sweden",
+              "26.9",
+              "0.5"
+            ]
+          ],
+          "caption": "欧洲部分国家2024年收入与制冷需求对比"
+        }
+      ],
+      "deep_dive": "## 收入与制冷需求的显著地域失衡\n数据清晰地揭示了欧洲内部的“气候-经济”鸿沟。南部地中海国家（如希腊、西班牙、意大利、塞浦路斯、马耳他）面临极高的制冷需求（年均制冷度日普遍超过300），但其国民净收入中位数远低于西北欧国家。这意味着，对于这些国家的居民，尤其是低收入群体，夏季维持室内凉爽的能源成本将占据其可支配收入的更高比例，制冷正从“舒适选项”变为“经济负担”。\n\n反之，西北欧及斯堪的纳维亚国家（如丹麦、爱尔兰、卢森堡、荷兰、奥地利）收入水平最高，但对制冷的需求几乎可以忽略不计。这种错配不仅关乎个人舒适度，更深刻影响着国家层面的能源安全、公共健康（热应激风险）和财政政策（是否需提供制冷补贴）。\n\n## 制冷的“奢侈品化”与政策挑战\n当制冷需求与支付能力倒挂时，就出现了所谓的“制冷奢侈品化”现象。这与传统的“能源贫困”概念（通常关注冬季取暖）形成互补，构成了独特的“夏季能源贫困”挑战。高需求地区可能因基础设施投资不足、建筑能效低下而进一步加剧能源消耗和居民负担。\n\n对于欧盟政策制定者而言，数据暗示了结构性的不平等。绿色转型和能源效率指令需要更多考虑地理与气候差异。例如，对南欧国家的建筑节能改造（如隔热、被动式设计）和高效空调设备推广进行定向支持，其减缓需求增长和减轻居民负担的效益，可能远高于在制冷需求极低的国家采取相同措施。此外，需警惕在需求最高地区，因经济压力导致低效、高耗能老旧空调无法被替换，从而形成“能源效率陷阱”。",
+      "glossary": [
+        {
+          "term": "制冷度日",
+          "explanation": "衡量气候对制冷需求的指标。指日平均温度超过某一基准温度（通常为18°C或65°F）的度数总和，数值越高表示空调需求越大。"
+        },
+        {
+          "term": "净收入",
+          "explanation": "指个人或家庭在缴纳所有税费和社会保障缴款后实际可支配的收入。"
+        },
+        {
+          "term": "能源贫困",
+          "explanation": "指家庭难以负担其住宅内充足供暖、制冷、照明等基本能源服务的状况。传统上多关注冬季取暖，但夏季制冷贫困也日益凸显。"
+        }
+      ]
+    }
+  },
+  {
     "id": "28a3055c",
     "title": "Ranked: Which Countries Produce the Most Silver?",
     "original_url": "https://www.visualcapitalist.com/sp/gx04-which-countries-produce-the-most-silver/",
