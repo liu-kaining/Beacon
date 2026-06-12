@@ -1,5 +1,146 @@
 [
   {
+    "id": "df074d4d",
+    "title": "Ranked: The Biggest IPOs in History—and Where SpaceX Fits In",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-biggest-ipos-in-history-spacex/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/df074d4d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDn4hT5F4pIqkk6Vtexha5RYfNRTm+9RU87K5Ef/9k=",
+    "image_version": 1781293718,
+    "pub_date": "Fri, 12 Jun 2026 10:38:20 +0000",
+    "content_md": "| Rank | Company | Year | Country | Sector | IPO Gross Proceeds(billions of USD) |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Saudi Aramco | 2019 | Saudi Arabia | Energy | 25.6 |\n| 2 | Alibaba | 2014 | China | Tech | 21.8 |\n| 3 | SoftBank Corp | 2018 | Japan | Comm. services | 21.3 |\n| 4 | Agricultural Bank of China | 2010 | China | Financial services | 19.2 |\n| 5 | ICBC | 2006 | China | Financial services | 19.1 |\n| 6 | AIA Group | 2010 | Hong Kong | Financial services | 17.8 |\n| 7 | Visa | 2008 | USA | Financial services, tech | 17.9 |\n| 8 | NTT DoCoMo | 1998 | Japan | Comm. services | 18.4 |\n| 9 | Meta (Facebook) | 2012 | USA | Tech | 16.0 |\n| 10 | Enel | 1999 | Italy | Energy | 16.4 |\n| -- | SpaceX | 2026 | USA | Space | 75 |",
+    "ai_analysis": {
+      "core_insight": "SpaceX潜在IPO规模将颠覆历史纪录，重塑全球资本格局。",
+      "data_highlights": [
+        "SpaceX预计2026年IPO募集750亿美元，是现有纪录保持者沙特阿美的近3倍。",
+        "中国与美国公司主导了历史前十，各占三席，反映其资本市场深度。",
+        "历史前十大IPO主要集中在金融、科技和能源三大行业。",
+        "亚洲公司在榜单中表现突出，日本和中国香港均有公司上榜。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Year",
+            "Country",
+            "Sector",
+            "IPO Gross Proceeds (billions of USD)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saudi Aramco",
+              "2019",
+              "Saudi Arabia",
+              "Energy",
+              "25.6"
+            ],
+            [
+              "2",
+              "Alibaba",
+              "2014",
+              "China",
+              "Tech",
+              "21.8"
+            ],
+            [
+              "3",
+              "SoftBank Corp",
+              "2018",
+              "Japan",
+              "Comm. services",
+              "21.3"
+            ],
+            [
+              "4",
+              "Agricultural Bank of China",
+              "2010",
+              "China",
+              "Financial services",
+              "19.2"
+            ],
+            [
+              "5",
+              "ICBC",
+              "2006",
+              "China",
+              "Financial services",
+              "19.1"
+            ],
+            [
+              "6",
+              "AIA Group",
+              "2010",
+              "Hong Kong",
+              "Financial services",
+              "17.8"
+            ],
+            [
+              "7",
+              "Visa",
+              "2008",
+              "USA",
+              "Financial services, tech",
+              "17.9"
+            ],
+            [
+              "8",
+              "NTT DoCoMo",
+              "1998",
+              "Japan",
+              "Comm. services",
+              "18.4"
+            ],
+            [
+              "9",
+              "Meta (Facebook)",
+              "2012",
+              "USA",
+              "Tech",
+              "16.0"
+            ],
+            [
+              "10",
+              "Enel",
+              "1999",
+              "Italy",
+              "Energy",
+              "16.4"
+            ],
+            [
+              "--",
+              "SpaceX",
+              "2026",
+              "USA",
+              "Space",
+              "75"
+            ]
+          ],
+          "caption": "史上最大IPO排名及SpaceX预期对比"
+        }
+      ],
+      "deep_dive": "## 规模跃迁：从国家级企业到太空科技巨头\n\nSpaceX高达750亿美元的预期募资规模，不仅意味着将打破由沙特阿美保持多年的纪录，更象征着全球顶级IPO的驱动力正在发生根本性转变。沙特阿美的巨额IPO本质上是国有石油资源的资本化，代表传统能源时代的巅峰。而SpaceX则代表了由私营科技公司主导的、以前沿技术为核心的新增长范式。这一跃迁凸显了资本市场对颠覆性技术和巨大增长潜力的估值逻辑已超越了对传统资产和稳定现金流的依赖。\n\n## 格局透视：中美主导与行业变迁\n\n纵观历史前十榜单，中国与美国公司各占三席，且行业分布广泛（金融、科技、通信），这直接反映了两国作为全球最大经济体和资本市场的深度与活力。值得注意的是，历史前十大IPO的时间跨度从1998年到2019年，行业涵盖了金融、科技、能源和通信，但**没有出现“太空”或类似硬科技领域**。SpaceX的潜在上榜，标志着一个全新、高资本密度的行业正式进入顶级IPO俱乐部。这可能会刺激更多私人资本涌入航天、人工智能等长周期、高风险的硬科技领域，推动相关产业链的快速发展。然而，其超乎寻常的规模也隐含了风险，即市场预期是否已过于乐观，以及公司上市后如何维持其创新速度和估值水平。",
+      "glossary": [
+        {
+          "term": "IPO (首次公开募股)",
+          "explanation": "指公司首次向公众投资者发行股票并在证券交易所上市的过程，是重要的融资和估值里程碑。"
+        },
+        {
+          "term": "募资总额 (Gross Proceeds)",
+          "explanation": "指公司通过发行新股所筹集的资金总额，是衡量IPO规模的关键指标。"
+        },
+        {
+          "term": "颠覆性技术 (Disruptive Technology)",
+          "explanation": "指能够创造新市场并最终颠覆现有市场的创新技术，如SpaceX的可重复使用火箭技术。"
+        },
+        {
+          "term": "资本密度 (Capital Intensity)",
+          "explanation": "指企业业务运营所需投入的资本量，太空、半导体等行业通常资本密度极高。"
+        }
+      ]
+    }
+  },
+  {
     "id": "85ce88d5",
     "title": "Mapped: How Japan Lost Its Economic Dominance in Asia",
     "original_url": "https://www.visualcapitalist.com/japan-lost-its-economic-dominance-in-asia/",
