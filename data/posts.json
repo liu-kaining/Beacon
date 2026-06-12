@@ -1,5 +1,701 @@
 [
   {
+    "id": "85ce88d5",
+    "title": "Mapped: How Japan Lost Its Economic Dominance in Asia",
+    "original_url": "https://www.visualcapitalist.com/japan-lost-its-economic-dominance-in-asia/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/85ce88d5.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDLp60ynCvOZ9sh+aKSipLP/9k=",
+    "image_version": 1781285381,
+    "pub_date": "Fri, 12 Jun 2026 16:44:40 +0000",
+    "content_md": "| Country/Region | 1995 GDP (trillions of USD) |\n| --- | --- |\n| Japan | 5.6 |\n| Asia (ex. Japan) | 3.9 |\n| Eastern Europe | 0.8 |\n| Africa | 0.8 |\n\n| Country/Province | 2025 GDP (trillions of USD) |\n| --- | --- |\n| Japan | 4.4 |\n| Guangdong | 2.1 |\n| Fujian | 0.8 |\n| Zhejiang | 1.4 |\n| Shanghai | 0.8 |",
+    "ai_analysis": {
+      "core_insight": "日本经济规模在亚洲的相对主导地位已被其自身停滞和中国省份崛起所削弱。",
+      "data_highlights": [
+        "1995年，日本GDP（5.6万亿美元）远超除日本外的整个亚洲（3.9万亿美元）。",
+        "到2025年，日本GDP预测为4.4万亿美元，出现显著收缩。",
+        "同期，中国单一省份广东的GDP（2.1万亿美元）已接近日本GDP的一半。",
+        "浙江、福建、上海等中国省份的GDP总和（3.1万亿美元）已逼近2025年日本的水平。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country/Region",
+            "1995 GDP (trillions of USD)"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "5.6"
+            ],
+            [
+              "Asia (ex. Japan)",
+              "3.9"
+            ],
+            [
+              "Eastern Europe",
+              "0.8"
+            ],
+            [
+              "Africa",
+              "0.8"
+            ]
+          ],
+          "caption": "1995年主要经济体/区域GDP对比"
+        },
+        {
+          "headers": [
+            "Country/Province",
+            "2025 GDP (trillions of USD)"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "4.4"
+            ],
+            [
+              "Guangdong",
+              "2.1"
+            ],
+            [
+              "Fujian",
+              "0.8"
+            ],
+            [
+              "Zhejiang",
+              "1.4"
+            ],
+            [
+              "Shanghai",
+              "0.8"
+            ]
+          ],
+          "caption": "2025年日本与中国部分省份GDP预测对比"
+        }
+      ],
+      "deep_dive": "## 从绝对优势到相对衰退：日本经济地位的变迁\n\n1995年的数据清晰地描绘了日本在亚洲乃至全球的经济霸权。其5.6万亿美元的GDP不仅比除日本外的整个亚洲（3.9万亿美元）高出44%，也远超当时东欧和非洲的总量。这标志着战后日本经济奇迹的顶峰，其制造业、科技和金融实力在区域内无可匹敌。\n\n然而，此后的三十年见证了日本经济的长期停滞。到2025年预测，其GDP不增反降至4.4万亿美元。与此同时，以中国为代表的亚洲新兴经济体，尤其是其沿海省份，经历了爆发式增长。数据显示，仅广东省一省的GDP就将达到日本的近半，而广东、浙江、福建、上海四地的GDP总和（约3.1万亿美元）已与日本的预测规模处于同一数量级。这表明经济活力和增长动力已从日本单极转向了中国多点开花的格局。\n\n## 内部活力 vs. 结构僵化：增长分化的深层逻辑\n\n日本的相对衰退并非单纯源于中国的崛起，更根源在于其自身经济模式的困境。长期的通货紧缩、人口老龄化和劳动力短缺、庞大的公共债务以及企业改革缓慢，共同抑制了其增长潜力。相比之下，中国省份在改革开放政策下，充分发挥了市场活力、基础设施投资和融入全球产业链的优势，实现了持续的高速增长。\n\n这种对比揭示了现代经济竞争的核心：持续的制度创新和人口活力至关重要。日本的经验表明，曾经的成功模式可能成为未来的桎梏。而中国省份的崛起则展示了在正确政策框架下，地方经济活力所能释放的巨大能量。这对全球投资者和政策制定者意味着，分析经济重心必须从国家层面细化到区域层面，增长引擎的地理分布已经发生了深刻变化。",
+      "glossary": [
+        {
+          "term": "GDP (国内生产总值)",
+          "explanation": "一个国家或地区在一定时期内生产的所有最终商品和服务的市场价值总和，是衡量经济规模的核心指标。"
+        },
+        {
+          "term": "经济停滞 (Stagnation)",
+          "explanation": "指经济增长率长期处于极低水平甚至为零，伴随通货紧缩和需求不足的经济状态。日本自1990年代后常被视为典型。"
+        },
+        {
+          "term": "产业升级 (Industrial Upgrading)",
+          "explanation": "经济结构从低附加值产业向高附加值、高技术含量产业转型的过程，是维持长期竞争力的关键。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c34035d7",
+    "title": "What Happens to $10M in Investment Gains After Taxes?",
+    "original_url": "https://www.visualcapitalist.com/sp/pic02-what-happens-to-10m-in-investment-gains-after-taxes/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c34035d7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqWjxTNlWpBUOOa3jJmqZH5dFTgUVpzMq5aePNR+TzVsijArmUiLlYR0VYxRT5wuf/2Q==",
+    "image_version": 1781285419,
+    "pub_date": "Fri, 12 Jun 2026 15:11:00 +0000",
+    "content_md": "| Income Type | Gross End Value(No Tax) | Net End Value(After Tax) | Total Tax Paid(30 Years) |\n| --- | --- | --- | --- |\n| Interest/Foreign/Rental | $10,062,657 | $3,191,411 | $6,871,246 |\n| Eligible Dividend | $10,062,657 | $4,498,204 | $5,564,453 |\n| Realized Capital Gains | $10,062,657 | $5,698,151 | $4,364,506 |\n| Deferred CG (Liquidated) | $10,062,657 | $7,511,773 | $2,550,884 |\n| Non-Taxed | $10,062,657 | $10,062,657 | $0 |\n\n|  | Tax Rate |  |  |  |\n| --- | --- | --- | --- | --- |\n| Province | Interest Income | Capital Gains* | Non-Eligible Div. | Eligible Div. |\n| Newfoundland & Labrador | 54.8% | 27.4% | 49.0% | 54.8% |\n| Nova Scotia | 54.0% | 27.0% | 50.0% | 54.0% |\n| Ontario | 53.5% | 26.8% | 47.7% | 53.5% |\n| Quebec | 53.3% | 26.7% | 48.7% | 53.3% |\n| New Brunswick | 52.5% | 26.3% | 46.8% | 52.5% |\n| Prince Edward Island | 52.0% | 26.0% | 47.9% | 52.0% |\n| British Columbia | 53.5% | 26.8% | 48.9% | 53.5% |\n| Alberta | 48.0% | 24.0% | 42.3% | 48.0% |\n| Saskatchewan | 47.5% | 23.8% | 41.3% | 47.5% |\n| Manitoba | 50.4% | 25.2% | 46.7% | 50.4% |\n| Yukon | 48.0% | 24.0% | 44.0% | 48.0% |\n| Northwest Territories | 47.1% | 23.5% | 36.8% | 47.1% |\n| Nunavut | 44.50% | 22.30% | 37.80% | 44.50% |",
+    "ai_analysis": {
+      "core_insight": "税收对投资回报影响巨大，不同收入类型和省份导致最终价值差异悬殊。",
+      "data_highlights": [
+        "同等初始投资下，30年后非应税收入终值最高，而利息/外币/租金收入终值最低，相差超680万美元。",
+        "利息类收入30年总税负高达约687万美元，占本金68%，而资本利得税负最低。",
+        "延迟资本利得在清算时税负较低，终值显著高于当期实现的资本利得。",
+        "各省税率差异明显，阿尔伯塔省整体税率较低，而纽芬兰与拉布拉多省最高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Income Type",
+            "Gross End Value(No Tax)",
+            "Net End Value(After Tax)",
+            "Total Tax Paid(30 Years)"
+          ],
+          "rows": [
+            [
+              "Interest/Foreign/Rental",
+              "$10,062,657",
+              "$3,191,411",
+              "$6,871,246"
+            ],
+            [
+              "Eligible Dividend",
+              "$10,062,657",
+              "$4,498,204",
+              "$5,564,453"
+            ],
+            [
+              "Realized Capital Gains",
+              "$10,062,657",
+              "$5,698,151",
+              "$4,364,506"
+            ],
+            [
+              "Deferred CG (Liquidated)",
+              "$10,062,657",
+              "$7,511,773",
+              "$2,550,884"
+            ],
+            [
+              "Non-Taxed",
+              "$10,062,657",
+              "$10,062,657",
+              "$0"
+            ]
+          ],
+          "caption": "不同收入类型投资30年后终值与税负对比（初始投资1000万美元）"
+        },
+        {
+          "headers": [
+            "Province",
+            "Interest Income",
+            "Capital Gains*",
+            "Non-Eligible Div.",
+            "Eligible Div."
+          ],
+          "rows": [
+            [
+              "Newfoundland & Labrador",
+              "54.8%",
+              "27.4%",
+              "49.0%",
+              "54.8%"
+            ],
+            [
+              "Nova Scotia",
+              "54.0%",
+              "27.0%",
+              "50.0%",
+              "54.0%"
+            ],
+            [
+              "Ontario",
+              "53.5%",
+              "26.8%",
+              "47.7%",
+              "53.5%"
+            ],
+            [
+              "Quebec",
+              "53.3%",
+              "26.7%",
+              "48.7%",
+              "53.3%"
+            ],
+            [
+              "New Brunswick",
+              "52.5%",
+              "26.3%",
+              "46.8%",
+              "52.5%"
+            ],
+            [
+              "Prince Edward Island",
+              "52.0%",
+              "26.0%",
+              "47.9%",
+              "52.0%"
+            ],
+            [
+              "British Columbia",
+              "53.5%",
+              "26.8%",
+              "48.9%",
+              "53.5%"
+            ],
+            [
+              "Alberta",
+              "48.0%",
+              "24.0%",
+              "42.3%",
+              "48.0%"
+            ],
+            [
+              "Saskatchewan",
+              "47.5%",
+              "23.8%",
+              "41.3%",
+              "47.5%"
+            ],
+            [
+              "Manitoba",
+              "50.4%",
+              "25.2%",
+              "46.7%",
+              "50.4%"
+            ],
+            [
+              "Yukon",
+              "48.0%",
+              "24.0%",
+              "44.0%",
+              "48.0%"
+            ],
+            [
+              "Northwest Territories",
+              "47.1%",
+              "23.5%",
+              "36.8%",
+              "47.1%"
+            ],
+            [
+              "Nunavut",
+              "44.50%",
+              "22.30%",
+              "37.80%",
+              "44.50%"
+            ]
+          ],
+          "caption": "加拿大各省主要投资收入最高边际税率（百分比）"
+        }
+      ],
+      "deep_dive": "## 税收是侵蚀长期财富的核心变量\n该分析以1000万美元初始投资、30年持有期为模型，清晰揭示了税收对复利增长的毁灭性影响。在无税收情况下，所有投资终值相同。然而，一旦引入税收，最终财富净值产生天壤之别。利息、外国收入和租金收入面临最严苛的税收待遇，其终值仅为初始本金的32%左右，近70%的财富被税收消耗。这凸显了投资收益的**税务处理方式**（Tax Treatment）与投资标的选择同等重要。忽视税收规划的长期投资，其实际回报可能远低于预期。\n\n## 收入类型与税务筹划的梯度效应\n数据显示了一个明确的“税务效率阶梯”：\n1.  **非应税收入**（如某些储蓄账户或免税债券）位于顶端，实现财富完全增长。\n2.  **延迟实现的资本利得**位列第二，通过推迟纳税义务，让资金在更长时间内参与复利，最终税负较低，终值可观。这体现了**税延效应**（Tax Deferral）的巨大威力。\n3.  **当期实现的资本利得**因其较低的边际税率和部分抵扣机制，税负远低于股息和利息收入。\n4.  **合格股息**享受税收抵免，税负高于资本利得但低于利息收入。\n5.  **利息、外国及租金收入**作为普通收入，按最高边际税率征税，处于税务效率阶梯的底端。\n这一梯度直接指导资产配置：在同等预期收益下，优先配置能产生资本利得或享受优惠税率的资产。\n\n## 地域差异：省份选择的税务考量\n加拿大各省份的税率差异为投资者提供了额外的优化空间。数据显示，**努纳武特地区**的税率整体最低，而**纽芬兰与拉布拉多省**最高，两者在利息收入税率上相差超过10个百分点。这意味着，对于高收入投资者，选择居住地或投资于特定省份的资产（如省级债券）可能带来可观的税务节约。然而，这仅是最高边际税率的比较，实际税负还取决于收入水平、抵扣项和个人财务状况。省份税率差异主要影响利息、股息和资本利得的最终税后回报，是跨境或跨省资产配置时不可忽视的因素。\n\n## 局限与启示\n本分析是一个简化的理想模型，未考虑通胀、管理费用、税法变动以及投资者在不同阶段收入水平的变化。它使用了相同的终值（约1006万美元）作为起点，这可能对应一种特定的、扣除管理费后的净回报率假设。尽管如此，其核心启示极为深刻：**长期投资者必须进行税务筹划**。有效的策略包括：利用注册账户（如RRSP、TFSA）实现税延或免税增长；优先投资于税务效率高的资产类别（如指数基金）；合理安排资本利得的实现时机；并考虑居住地的税务环境。税收是确定性的成本，而主动管理这一成本是提升长期投资回报的关键杠杆。",
+      "glossary": [
+        {
+          "term": "Eligible Dividend（合格股息）",
+          "explanation": "在加拿大税法中，由公司支付的股息，享受较高的股息税收抵免，其有效税率高于资本利得但低于利息等普通收入。"
+        },
+        {
+          "term": "Capital Gains（资本利得）",
+          "explanation": "资产出售价格高于其调整后成本基数的收益。在加拿大，通常只有50%的资本利得需要计入应税收入，因此享有优惠税率。"
+        },
+        {
+          "term": "Deferred CG (Liquidated)（延迟资本利得（清算时））",
+          "explanation": "指在投资期间未实现（未卖出）的资本利得，直到资产最终被出售（清算）时才确认并纳税。延迟纳税让税款继续投资，产生复利效应。"
+        },
+        {
+          "term": "Marginal Tax Rate（边际税率）",
+          "explanation": "对最后一块钱收入征收的税率。本表中显示的是各省对不同类型投资收入适用的最高边际税率。"
+        },
+        {
+          "term": "Tax Deferral（税延效应）",
+          "explanation": "通过推迟纳税义务（如使用RRSP、持有未实现资本利得），使得本应用于纳税的资金能够继续投资并增长，从而增加长期财富积累的策略。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99bdf70f",
+    "title": "Ranked: Which States Are Leading America’s Economy?",
+    "original_url": "https://www.visualcapitalist.com/ranked-which-states-are-leading-americas-economy/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/99bdf70f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCTzx61G849aoLKTTZJDisEjmsWjcDPWiswynNFOxVieNTSyrxUiUkvSl1M7lBhzRT2+9RVlXP/2Q==",
+    "image_version": 1781285483,
+    "pub_date": "Fri, 12 Jun 2026 14:49:54 +0000",
+    "content_md": "| Rank | State | Total State Economy Score 2026 |\n| --- | --- | --- |\n| 1 | Massachusetts | 69.4 |\n| 2 | Washington | 67.3 |\n| 3 | Utah | 65.9 |\n| 4 | California | 65.0 |\n| 5 | Delaware | 63.0 |\n| 6 | North Carolina | 60.3 |\n| 7 | New York | 57.6 |\n| 8 | Texas | 57.0 |\n| 9 | Colorado | 56.4 |\n| 10 | Florida | 54.3 |\n| 11 | Idaho | 53.4 |\n| 12 | Georgia | 53.1 |\n| 13 | New Hampshire | 52.9 |\n| 14 | Virginia | 51.2 |\n| 15 | Arizona | 51.1 |\n| 16 | Connecticut | 51.0 |\n| 17 | Tennessee | 50.8 |\n| 18 | South Carolina | 49.3 |\n| 19 | Montana | 48.9 |\n| 20 | Maryland | 48.7 |\n| 21 | Minnesota | 48.1 |\n| 22 | Indiana | 47.4 |\n| 23 | Kansas | 47.3 |\n| 24 | Oregon | 47.1 |\n| 25 | New Jersey | 46.2 |\n| 26 | New Mexico | 45.7 |\n| 27 | Michigan | 44.6 |\n| 28 | Alabama | 44.4 |\n| 29 | Vermont | 44.4 |\n| 30 | Pennsylvania | 44.2 |\n| 31 | Wisconsin | 43.5 |\n| 32 | Alaska | 42.9 |\n| 33 | District of Columbia | 42.1 |\n| 34 | Nebraska | 41.7 |\n| 35 | Nevada | 41.1 |\n| 36 | Arkansas | 40.3 |\n| 37 | Illinois | 40.1 |\n| 38 | Ohio | 39.8 |\n| 39 | Iowa | 39.3 |\n| 40 | North Dakota | 38.8 |\n| 41 | South Dakota | 38.7 |\n| 42 | Missouri | 38.4 |\n| 43 | Oklahoma | 38.3 |\n| 44 | Hawaii | 38.3 |\n| 45 | Mississippi | 36.2 |\n| 46 | Wyoming | 35.9 |\n| 47 | Rhode Island | 35.4 |\n| 48 | Maine | 33.8 |\n| 49 | Louisiana | 33.2 |\n| 50 | Kentucky | 32.4 |\n| 51 | West Virginia | 25.4 |",
+    "ai_analysis": {
+      "core_insight": "马萨诸塞州领跑美国经济，科技与人才驱动的州优势显著。",
+      "data_highlights": [
+        "马萨诸塞州以69.4分位居榜首，华盛顿州和犹他州紧随其后。",
+        "前五名中，西海岸与东海岸经济强州各占两席，体现区域平衡。",
+        "排名后十位的州主要集中在中西部和南部，得分普遍低于40分。",
+        "加利福尼亚州（第4）与德克萨斯州（第8）虽经济体量大，但综合得分并非最高。",
+        "西弗吉尼亚州以25.4分垫底，与榜首差距巨大，凸显区域发展不均。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Total State Economy Score 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Massachusetts",
+              "69.4"
+            ],
+            [
+              "2",
+              "Washington",
+              "67.3"
+            ],
+            [
+              "3",
+              "Utah",
+              "65.9"
+            ],
+            [
+              "4",
+              "California",
+              "65.0"
+            ],
+            [
+              "5",
+              "Delaware",
+              "63.0"
+            ],
+            [
+              "6",
+              "North Carolina",
+              "60.3"
+            ],
+            [
+              "7",
+              "New York",
+              "57.6"
+            ],
+            [
+              "8",
+              "Texas",
+              "57.0"
+            ],
+            [
+              "9",
+              "Colorado",
+              "56.4"
+            ],
+            [
+              "10",
+              "Florida",
+              "54.3"
+            ],
+            [
+              "11",
+              "Idaho",
+              "53.4"
+            ],
+            [
+              "12",
+              "Georgia",
+              "53.1"
+            ],
+            [
+              "13",
+              "New Hampshire",
+              "52.9"
+            ],
+            [
+              "14",
+              "Virginia",
+              "51.2"
+            ],
+            [
+              "15",
+              "Arizona",
+              "51.1"
+            ],
+            [
+              "16",
+              "Connecticut",
+              "51.0"
+            ],
+            [
+              "17",
+              "Tennessee",
+              "50.8"
+            ],
+            [
+              "18",
+              "South Carolina",
+              "49.3"
+            ],
+            [
+              "19",
+              "Montana",
+              "48.9"
+            ],
+            [
+              "20",
+              "Maryland",
+              "48.7"
+            ],
+            [
+              "21",
+              "Minnesota",
+              "48.1"
+            ],
+            [
+              "22",
+              "Indiana",
+              "47.4"
+            ],
+            [
+              "23",
+              "Kansas",
+              "47.3"
+            ],
+            [
+              "24",
+              "Oregon",
+              "47.1"
+            ],
+            [
+              "25",
+              "New Jersey",
+              "46.2"
+            ],
+            [
+              "26",
+              "New Mexico",
+              "45.7"
+            ],
+            [
+              "27",
+              "Michigan",
+              "44.6"
+            ],
+            [
+              "28",
+              "Alabama",
+              "44.4"
+            ],
+            [
+              "29",
+              "Vermont",
+              "44.4"
+            ],
+            [
+              "30",
+              "Pennsylvania",
+              "44.2"
+            ],
+            [
+              "31",
+              "Wisconsin",
+              "43.5"
+            ],
+            [
+              "32",
+              "Alaska",
+              "42.9"
+            ],
+            [
+              "33",
+              "District of Columbia",
+              "42.1"
+            ],
+            [
+              "34",
+              "Nebraska",
+              "41.7"
+            ],
+            [
+              "35",
+              "Nevada",
+              "41.1"
+            ],
+            [
+              "36",
+              "Arkansas",
+              "40.3"
+            ],
+            [
+              "37",
+              "Illinois",
+              "40.1"
+            ],
+            [
+              "38",
+              "Ohio",
+              "39.8"
+            ],
+            [
+              "39",
+              "Iowa",
+              "39.3"
+            ],
+            [
+              "40",
+              "North Dakota",
+              "38.8"
+            ],
+            [
+              "41",
+              "South Dakota",
+              "38.7"
+            ],
+            [
+              "42",
+              "Missouri",
+              "38.4"
+            ],
+            [
+              "43",
+              "Oklahoma",
+              "38.3"
+            ],
+            [
+              "44",
+              "Hawaii",
+              "38.3"
+            ],
+            [
+              "45",
+              "Mississippi",
+              "36.2"
+            ],
+            [
+              "46",
+              "Wyoming",
+              "35.9"
+            ],
+            [
+              "47",
+              "Rhode Island",
+              "35.4"
+            ],
+            [
+              "48",
+              "Maine",
+              "33.8"
+            ],
+            [
+              "49",
+              "Louisiana",
+              "33.2"
+            ],
+            [
+              "50",
+              "Kentucky",
+              "32.4"
+            ],
+            [
+              "51",
+              "West Virginia",
+              "25.4"
+            ]
+          ],
+          "caption": "2026年美国各州经济总评分排名"
+        }
+      ],
+      "deep_dive": "## 排名解读：知识经济与创新驱动的胜利\n\n这份2026年预测的经济综合评分榜单，清晰地揭示了驱动美国州级经济竞争力的核心要素。排名靠前的州，如马萨诸塞州、华盛顿州、犹他州和加利福尼亚州，无一例外都是高科技产业、高等教育和研发密集的区域。它们的领先优势并非单纯依赖传统资源或制造业规模，而是建立在人才聚集、创新生态系统和高附加值产业的基础之上。这表明，在未来的经济格局中，“软实力”与“硬创新”的结合至关重要。\n\n## 区域格局与潜在挑战\n\n从地理分布看，经济强州呈现“沿海引领，内陆分化”的态势。东海岸（马萨诸塞、纽约）和西海岸（华盛顿、加州）的传统优势依旧稳固，而内陆的科罗拉多、犹他等州凭借科技和新兴产业实现了强势崛起。然而，榜单也凸显了深刻的区域不平衡问题。排名后十位的州主要集中在阿巴拉契亚地区、南部及部分中西部州，这些地区往往面临产业结构单一、人口流出和创新动力不足等挑战。\n\n一个值得关注的现象是，一些传统经济大州如德克萨斯州（第8）和伊利诺伊州（第37），其综合得分与其庞大的GDP总量并不完全匹配。这可能源于该评分体系更侧重经济质量、增长潜力和居民福祉等多元维度，而非单纯的经济规模。这对于地方政府的政策制定具有启示意义：追求经济“大而全”不如聚焦于“强而优”，通过提升教育水平、优化营商环境、扶持创新产业来提升综合竞争力。\n\n## 方法论启示与局限性\n\n需要指出的是，该评分的具体构成指标未予说明，这在一定程度上影响了对排名深层原因的精确分析。例如，它是否充分考虑了生活成本、债务水平或环境可持续性等因素？一个州的高分可能源于多个维度的平衡表现，也可能在某一核心维度上表现极端突出。因此，在引用此排名时，需结合具体指标进行审慎解读。尽管如此，该榜单依然提供了一个有价值的宏观视角，指明了美国经济活力的空间分布格局及其背后的驱动逻辑。",
+      "glossary": [
+        {
+          "term": "经济总评分 (Total State Economy Score)",
+          "explanation": "一个综合性指数，用于衡量各州经济的整体健康度、竞争力和发展潜力，通常基于经济增长、就业、收入、创新等多个维度的指标加权计算得出。"
+        },
+        {
+          "term": "知识经济 (Knowledge Economy)",
+          "explanation": "以知识和信息的生产、分配和使用为基础的经济形态，其核心驱动力是人力资本、技术创新和知识产权，常见于高科技产业和教育研发密集区域。"
+        },
+        {
+          "term": "区域经济不平衡 (Regional Economic Imbalance)",
+          "explanation": "指在一个国家或地区内部，不同地理单元之间在经济水平、增长速度和发展机会上存在的显著差异，常导致人口流动和资源分配问题。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a0263221",
+    "title": "Elon Musk Becomes the World’s First Trillionaire",
+    "original_url": "https://www.visualcapitalist.com/elon-musk-becomes-worlds-first-trillionaire/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a0263221.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDZvDwaoxnD1du+9UV+9XMjob0NFH+UUVCn3aKdzKx//9k=",
+    "image_version": 1781285538,
+    "pub_date": "Fri, 12 Jun 2026 12:32:06 +0000",
+    "content_md": "| Rank | Name | Net Worth (USD Billions) | Primary Source of Wealth |\n| --- | --- | --- | --- |\n| 1 | Elon Musk* | $1,100.0 | Tesla & SpaceX |\n| 2 | Larry Page | $292.7 | Google |\n| 3 | Sergey Brin | $270.0 | Google |\n| 4 | Jeff Bezos | $251.5 | Amazon |\n| 5 | Larry Ellison | $230.1 | Oracle |\n| 6 | Michael Dell | $224.4 | Dell Technologies |\n| 7 | Mark Zuckerberg | $195.3 | Meta |\n| 8 | Jensen Huang | $177.1 | Nvidia |\n| 9 | Bernard Arnault & family | $152.3 | LVMH |\n| 10 | Warren Buffett | $143.4 | Berkshire Hathaway |",
+    "ai_analysis": {
+      "core_insight": "马斯克凭借特斯拉与SpaceX的颠覆性创新，成为全球首位万亿富翁。",
+      "data_highlights": [
+        "埃隆·马斯克净资产达1.1万亿美元，断层领先，是第二名的近四倍。",
+        "榜单前十财富高度集中于科技行业，占据八席。",
+        "谷歌、亚马逊等老牌科技巨头创始人财富位居前列，但与马斯克差距显著。",
+        "英伟达因AI浪潮异军突起，其CEO黄仁勋跻身前十。",
+        "传统行业仅LVMH和伯克希尔·哈撒韦入榜，代表消费与金融力量。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Name",
+            "Net Worth (USD Billions)",
+            "Primary Source of Wealth"
+          ],
+          "rows": [
+            [
+              "1",
+              "Elon Musk*",
+              "$1,100.0",
+              "Tesla & SpaceX"
+            ],
+            [
+              "2",
+              "Larry Page",
+              "$292.7",
+              "Google"
+            ],
+            [
+              "3",
+              "Sergey Brin",
+              "$270.0",
+              "Google"
+            ],
+            [
+              "4",
+              "Jeff Bezos",
+              "$251.5",
+              "Amazon"
+            ],
+            [
+              "5",
+              "Larry Ellison",
+              "$230.1",
+              "Oracle"
+            ],
+            [
+              "6",
+              "Michael Dell",
+              "$224.4",
+              "Dell Technologies"
+            ],
+            [
+              "7",
+              "Mark Zuckerberg",
+              "$195.3",
+              "Meta"
+            ],
+            [
+              "8",
+              "Jensen Huang",
+              "$177.1",
+              "Nvidia"
+            ],
+            [
+              "9",
+              "Bernard Arnault & family",
+              "$152.3",
+              "LVMH"
+            ],
+            [
+              "10",
+              "Warren Buffett",
+              "$143.4",
+              "Berkshire Hathaway"
+            ]
+          ],
+          "caption": "全球富豪榜前十名（截至统计时间）"
+        }
+      ],
+      "deep_dive": "## 财富格局：科技寡头时代的巅峰\n马斯克的万亿身家并非孤立现象，而是全球财富向顶尖科技企业家加速集中的缩影。榜单前十中，八位富豪的财富源于科技或互联网平台经济（包括半导体），这标志着数字资本主义与硬科技投资的巅峰。他们的共同特点是掌控着具有全球网络效应、技术壁垒或定义未来赛道（如电动车、AI、太空）的核心企业。这种财富积累速度远超过去由石油、制造业或传统零售业创造的巨头，反映了资本市场对高增长、颠覆性科技的无限追捧。\n\n## 内部对比：从平台到硬科技的财富跃迁\n尽管同属科技阵营，财富来源的差异揭示了产业趋势的变迁。\n- **平台经济巨头（Page, Brin, Bezos, Zuckerberg）**：凭借搜索引擎、电商、社交媒体等平台积累了巨额财富，但其增长已趋于稳健，财富量级被马斯克大幅超越。\n- **硬科技与基础设施（Musk, Huang）**：马斯克（特斯拉、SpaceX）和黄仁勋（英伟达）代表了当前资本最热衷的“硬科技”叙事——直接推动能源革命、太空探索与人工智能算力革命。黄仁勋的入榜更是AI算力需求爆炸式增长的直接体现。\n- **传统行业代表（Arnault, Buffett）**：LVMH和伯克希尔的上榜，表明顶级奢侈品消费与多元化投资帝国在财富榜单上仍占有一席之地，但其财富增长模式和想象空间与科技公司有本质区别。\n\n## 启示与局限\n此榜单凸显了当代财富创造的“赢家通吃”特性，创新与垄断之间的界限变得模糊。然而，我们也需注意：\n1. **估值波动性**：富豪财富与股价高度挂钩，存在巨大的市场波动风险。\n2. **数据时效性**：财富值为特定时间点的快照，随市场变化而剧烈变动。\n3. **社会影响**：如此极端的财富集中引发了关于税收、社会公平与经济权力的广泛讨论。马斯克的万亿里程碑，不仅是个人财富的象征，更是观察全球资本流向、产业周期与社会张力的一个关键窗口。",
+      "glossary": [
+        {
+          "term": "净资产",
+          "explanation": "个人或实体拥有的全部资产减去总负债后的价值，是衡量财富的核心指标。"
+        },
+        {
+          "term": "颠覆性创新",
+          "explanation": "指通过新技术或商业模式，从根本上改变市场格局或创造全新市场的创新。"
+        },
+        {
+          "term": "网络效应",
+          "explanation": "产品或服务的价值随用户数量增加而提升的现象，是许多科技平台巨头的核心壁垒。"
+        },
+        {
+          "term": "硬科技",
+          "explanation": "基于科学发现和技术发明，需要长期研发投入和积累，具有较高技术门槛的科技领域，如人工智能、航空航天、半导体等。"
+        },
+        {
+          "term": "赢家通吃",
+          "explanation": "在特定市场中，领先者凭借规模、网络效应等优势获得绝大部分市场份额和利润，使后来者难以竞争的经济现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "fce2fca6",
     "title": "Charted: Where Cooling Is Becoming a Luxury in Europe",
     "original_url": "https://www.visualcapitalist.com/cp/charted-where-cooling-is-becoming-a-luxury-in-europe/",
