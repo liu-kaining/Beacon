@@ -1,5 +1,179 @@
 [
   {
+    "id": "0670115b",
+    "title": "Ranked: Which Countries Americans Like Most—and Least",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0670115b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCmEpGSrAAFRSMBXJzagpNsgK80UhfmitLm1mXGOBVSZjVuTpVOXrRyGEJakOTRS4oq7G/Of//Z",
+    "image_version": 1781366832,
+    "pub_date": "Sat, 13 Jun 2026 14:21:56 +0000",
+    "content_md": "| Country | % Favorable | % No Opinion | % Unfavorable |\n| --- | --- | --- | --- |\n| Japan | 85% | 6% | 9% |\n| Italy | 84% | 6% | 10% |\n| Canada | 80% | 5% | 15% |\n| Denmark | 80% | 10% | 10% |\n| France | 76% | 7% | 17% |\n| United Kingdom | 76% | 6% | 18% |\n| Germany | 75% | 6% | 19% |\n| Mexico | 66% | 2% | 32% |\n| Ukraine | 63% | 6% | 31% |\n| India | 61% | 9% | 30% |\n| Egypt | 59% | 13% | 28% |\n| Israel | 46% | 6% | 48% |\n| Palestine | 37% | 10% | 53% |\n| Venezuela | 37% | 7% | 56% |\n| Cuba | 36% | 6% | 58% |\n| Saudi Arabia | 36% | 8% | 56% |\n| China | 34% | 5% | 61% |\n| Iraq | 21% | 8% | 71% |\n| Russia | 17% | 4% | 79% |\n| Iran | 13% | 8% | 79% |\n| North Korea | 13% | 5% | 82% |",
+    "ai_analysis": {
+      "core_insight": "美国人对盟友和民主国家好感度高，对地缘政治对手则普遍负面。",
+      "data_highlights": [
+        "日本、意大利、加拿大等传统盟友位居好感度前三，超过80%的美国人持正面看法。",
+        "以色列是唯一一个“无感”和“反感”比例几乎持平的主要国家，反映其议题的争议性。",
+        "俄罗斯、伊朗和朝鲜的好感度最低，均低于20%，且负面看法超过79%，凸显深刻的战略对立。",
+        "墨西哥与乌克兰的好感度超过60%，显示美国人对邻国及正在经历冲突的国家抱有相对同情。",
+        "数据显示“无感”比例普遍较低，表明美国人对多数国家已形成较为明确的观点。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "% Favorable",
+            "% No Opinion",
+            "% Unfavorable"
+          ],
+          "rows": [
+            [
+              "Japan",
+              "85%",
+              "6%",
+              "9%"
+            ],
+            [
+              "Italy",
+              "84%",
+              "6%",
+              "10%"
+            ],
+            [
+              "Canada",
+              "80%",
+              "5%",
+              "15%"
+            ],
+            [
+              "Denmark",
+              "80%",
+              "10%",
+              "10%"
+            ],
+            [
+              "France",
+              "76%",
+              "7%",
+              "17%"
+            ],
+            [
+              "United Kingdom",
+              "76%",
+              "6%",
+              "18%"
+            ],
+            [
+              "Germany",
+              "75%",
+              "6%",
+              "19%"
+            ],
+            [
+              "Mexico",
+              "66%",
+              "2%",
+              "32%"
+            ],
+            [
+              "Ukraine",
+              "63%",
+              "6%",
+              "31%"
+            ],
+            [
+              "India",
+              "61%",
+              "9%",
+              "30%"
+            ],
+            [
+              "Egypt",
+              "59%",
+              "13%",
+              "28%"
+            ],
+            [
+              "Israel",
+              "46%",
+              "6%",
+              "48%"
+            ],
+            [
+              "Palestine",
+              "37%",
+              "10%",
+              "53%"
+            ],
+            [
+              "Venezuela",
+              "37%",
+              "7%",
+              "56%"
+            ],
+            [
+              "Cuba",
+              "36%",
+              "6%",
+              "58%"
+            ],
+            [
+              "Saudi Arabia",
+              "36%",
+              "8%",
+              "56%"
+            ],
+            [
+              "China",
+              "34%",
+              "5%",
+              "61%"
+            ],
+            [
+              "Iraq",
+              "21%",
+              "8%",
+              "71%"
+            ],
+            [
+              "Russia",
+              "17%",
+              "4%",
+              "79%"
+            ],
+            [
+              "Iran",
+              "13%",
+              "8%",
+              "79%"
+            ],
+            [
+              "North Korea",
+              "13%",
+              "5%",
+              "82%"
+            ]
+          ],
+          "caption": "美国人对各国好感度排名"
+        }
+      ],
+      "deep_dive": "## 地缘政治阵营与盟友关系的鲜明映射\n\n这份美国人对各国好感度的排名，清晰地勾勒出基于价值观、历史联盟和当前地缘政治立场的情感光谱。排名靠前的国家，如日本、意大利、加拿大和北欧国家，无一例外都是与美国共享民主价值观、长期保持紧密安全与经济合作的盟友。这表明美国人的好感度很大程度上由国家间的战略同盟和制度相似性所驱动。\n\n值得注意的是，**以色列**的好感度（46%）与反感度（48%）几乎持平，成为榜单中观点最两极分化的国家。这反映了在美国国内，围绕以色列-巴勒斯坦冲突等议题存在显著的公众舆论分歧。\n\n## 从“同情”到“战略警惕”的中间地带\n\n位于榜单中部的国家呈现出更复杂的图景。**墨西哥**（66%）作为邻国和主要贸易伙伴，获得了相对积极的评价，尽管存在移民等争议问题。**乌克兰**（63%）的高好感度，很可能受到当前俄乌冲突背景下，美国公众对其同情与支持情绪的影响。**印度**（61%）和**埃及**（59%）则可能分别因其作为新兴民主大国和区域稳定伙伴的角色而获得一定认可。\n\n然而，好感度在50%以下的国家，尤其是低于40%的群体，则进入了明显的负面区间。这包括与美国存在长期意识形态对立或复杂冲突历史的国家，如**古巴**、**委内瑞拉**、**沙特阿拉伯**（其人权记录和卡舒吉事件影响深远）以及**巴勒斯坦**。\n\n## 面向“战略对手”的压倒性负面看法\n\n榜单末尾的**中国**、**俄罗斯**、**伊朗**和**朝鲜**，其好感度均低于35%，而反感度均超过60%，甚至高达82%。这清晰地表明，美国人对这些被政府定义为“战略竞争对手”或“敌对国家”的看法是极度负面的。这种压倒性的负面情绪是历史积怨、意识形态冲突、地缘政治竞争以及近期热点事件（如乌克兰战争、核问题、贸易摩擦）共同作用的结果。**俄罗斯**和**伊朗**的反感度并列最高（79%），而**朝鲜**的反感度更是达到了82%，凸显了美国公众对这些国家安全威胁的深刻忧虑。\n\n## 数据局限与启示\n\n需要指出的是，此类民调数据反映的是特定时间点的瞬时民意，容易受到近期重大新闻事件的影响。例如，乌克兰的好感度可能因战事进展而波动。此外，数据没有区分对“政府”与“人民”的看法，这在对华、对俄等国民众态度上可能存在重要差异。\n\n总体而言，这份排名不仅是一份情感清单，更是一幅理解美国公众如何看待其国家在世界中所处位置、识别朋友与对手的地图。它揭示了价值观同盟、安全承诺和当前地缘政治现实对塑造公众认知的决定性作用，对于理解美国国内政治对外交政策的支持度具有重要参考价值。",
+      "glossary": [
+        {
+          "term": "地缘政治",
+          "explanation": "指地理因素（如位置、资源）对国家间政治和战略关系的影响。在此报告中，用以解释美国对不同国家的好感度差异背后的地理位置和战略利益考量。"
+        },
+        {
+          "term": "战略竞争对手",
+          "explanation": "美国外交政策术语，指在军事、经济、技术等领域对美国领导地位构成全面挑战的国家，如中国、俄罗斯。这直接影响了美国公众对这些国家的负面认知。"
+        },
+        {
+          "term": "价值观同盟",
+          "explanation": "指因共享自由、民主、人权等核心政治价值观而结成的国家间紧密关系。美国与日本、西欧国家等的高好感度部分源于此。"
+        }
+      ]
+    }
+  },
+  {
     "id": "56932fd4",
     "title": "Ranked: The World’s Most Spoken Languages in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-spoken-languages-in-2026/",
