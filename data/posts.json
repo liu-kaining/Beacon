@@ -1,5 +1,176 @@
 [
   {
+    "id": "da3384d6",
+    "title": "Mapped: Which States Brew the Most Craft Beer?",
+    "original_url": "https://www.visualcapitalist.com/mapped-states-brewing-most-craft-beer-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/da3384d6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAVABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqwM1Ki4pi4FShhXGdHMh4opu8UVQroqFjTPMNFFUcybF8xqKKKoLn/9k=",
+    "image_version": 1781377430,
+    "pub_date": "Sat, 13 Jun 2026 16:47:41 +0000",
+    "content_md": "| Rank | State | Barrels of Craft Beer Produced (2025) |\n| --- | --- | --- |\n| 1 | California | 3,450,329 |\n| 2 | Pennsylvania | 2,004,382 |\n| 3 | Texas | 1,422,277 |\n| 4 | Ohio | 1,298,489 |\n| 5 | New York | 1,281,220 |\n| 6 | Florida | 1,153,556 |\n| 7 | Oregon | 1,109,391 |\n| 8 | Colorado | 854,707 |\n| 9 | Massachusetts | 812,974 |\n| 10 | North Carolina | 772,964 |\n| 11 | Wisconsin | 609,271 |\n| 12 | Georgia | 601,462 |\n| 13 | Washington | 533,296 |\n| 14 | Minnesota | 466,625 |\n| 15 | Connecticut | 450,232 |\n| 16 | Illinois | 409,589 |\n| 17 | Vermont | 357,138 |\n| 18 | Virginia | 342,075 |\n| 19 | Maine | 338,405 |\n| 20 | Missouri | 284,297 |\n| 21 | Michigan | 267,660 |\n| 22 | Arizona | 229,212 |\n| 23 | Indiana | 222,088 |\n| 24 | Montana | 216,992 |\n| 25 | Delaware | 186,803 |\n| 26 | Hawaii | 179,149 |\n| 27 | Maryland | 176,644 |\n| 28 | Tennessee | 174,083 |\n| 29 | New Jersey | 161,094 |\n| 30 | Louisiana | 155,643 |\n| 31 | Iowa | 134,108 |\n| 32 | Alaska | 133,395 |\n| 33 | New Mexico | 132,852 |\n| 34 | South Carolina | 125,086 |\n| 35 | Kentucky | 121,865 |\n| 36 | Utah | 102,241 |\n| 37 | New Hampshire | 88,320 |\n| 38 | Alabama | 80,869 |\n| 39 | Arkansas | 71,520 |\n| 40 | Oklahoma | 69,318 |\n| 41 | Idaho | 64,945 |\n| 42 | Wyoming | 63,130 |\n| 43 | Rhode Island | 59,768 |\n| 44 | Nevada | 54,683 |\n| 45 | Nebraska | 46,358 |\n| 46 | Kansas | 35,059 |\n| 47 | District of Columbia | 30,036 |\n| 48 | West Virginia | 21,562 |\n| 49 | South Dakota | 21,183 |\n| 50 | North Dakota | 19,051 |\n| 51 | Mississippi | 18,262 |",
+    "ai_analysis": {
+      "core_insight": "加州精酿啤酒产量遥遥领先，东西海岸与中部部分州构成生产主力。",
+      "data_highlights": [
+        "加州以345万桶产量稳居榜首，是第二名宾夕法尼亚州的1.7倍。",
+        "排名前五的州（加州、宾州、德州、俄亥俄州、纽约州）合计产量占全美前20州总产量的近四成。",
+        "精酿啤酒生产高度集中于经济发达或传统啤酒消费大州，如加州、纽约州、科罗拉多州。",
+        "排名末尾的州（如北达科他、密西西比）产量仅为加州的千分之五左右，地域差距巨大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Barrels of Craft Beer Produced (2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "California",
+              "3,450,329"
+            ],
+            [
+              "2",
+              "Pennsylvania",
+              "2,004,382"
+            ],
+            [
+              "3",
+              "Texas",
+              "1,422,277"
+            ],
+            [
+              "4",
+              "Ohio",
+              "1,298,489"
+            ],
+            [
+              "5",
+              "New York",
+              "1,281,220"
+            ],
+            [
+              "6",
+              "Florida",
+              "1,153,556"
+            ],
+            [
+              "7",
+              "Oregon",
+              "1,109,391"
+            ],
+            [
+              "8",
+              "Colorado",
+              "854,707"
+            ],
+            [
+              "9",
+              "Massachusetts",
+              "812,974"
+            ],
+            [
+              "10",
+              "North Carolina",
+              "772,964"
+            ],
+            [
+              "11",
+              "Wisconsin",
+              "609,271"
+            ],
+            [
+              "12",
+              "Georgia",
+              "601,462"
+            ],
+            [
+              "13",
+              "Washington",
+              "533,296"
+            ],
+            [
+              "14",
+              "Minnesota",
+              "466,625"
+            ],
+            [
+              "15",
+              "Connecticut",
+              "450,232"
+            ],
+            [
+              "16",
+              "Illinois",
+              "409,589"
+            ],
+            [
+              "17",
+              "Vermont",
+              "357,138"
+            ],
+            [
+              "18",
+              "Virginia",
+              "342,075"
+            ],
+            [
+              "19",
+              "Maine",
+              "338,405"
+            ],
+            [
+              "20",
+              "Missouri",
+              "284,297"
+            ],
+            [
+              "21",
+              "Michigan",
+              "267,660"
+            ],
+            [
+              "22",
+              "Arizona",
+              "229,212"
+            ],
+            [
+              "23",
+              "Indiana",
+              "222,088"
+            ],
+            [
+              "24",
+              "Montana",
+              "216,992"
+            ],
+            [
+              "25",
+              "Delaware",
+              "186,803"
+            ]
+          ],
+          "caption": "2025年美国各州精酿啤酒产量排名（前25名）"
+        }
+      ],
+      "deep_dive": "## 产量格局：高度集中与区域分化\n\n美国精酿啤酒生产呈现出显著的区域集中和内部分化格局。加州的绝对领先地位（345万桶）不仅反映了其庞大的人口基数和消费市场，更体现了其作为精酿啤酒发源地之一的深厚产业基础、创新文化和成熟的供应链。排名前五的州（加州、宾州、德州、俄亥俄州、纽约州）均为人口大州或传统工业/消费中心，显示了精酿啤酒产业与**人口密度、经济活力及消费升级趋势**的强相关性。\n\n值得注意的是，一些人口规模并非顶级的州（如俄勒冈州、科罗拉多州、北卡罗来纳州）也跻身前十，这凸显了当地独特的啤酒文化、旅游资源或特定政策支持对产业的拉动作用。而排名末段的州（如密西西比州、南达科他州）产量极低，与头部州相差两个数量级，反映出精酿啤酒产业在经济结构、消费偏好或监管环境上存在巨大的地域鸿沟。\n\n## 动力机制与产业启示\n\n驱动各州产量差异的核心机制包括：\n- **市场需求与消费文化**：东西海岸及大城市群消费者对多样化、高品质啤酒的需求旺盛，是产业扩张的根本动力。\n- **产业生态与集群效应**：成熟的精酿啤酒州往往拥有密集的酒厂、原料供应商、分销渠道和行业活动，形成正向循环的产业集群。\n- **政策与法规环境**：各州关于酒类生产、销售和流通的法规（如酒厂直销权、Taproom政策）差异显著，直接影响小型酒厂的生存与发展空间。\n- **历史与品牌积淀**：如科罗拉多州、俄勒冈州等较早兴起精酿运动的地区，积累了品牌声誉和人才优势。\n\n此数据对产业投资者、政策制定者和消费者均有启示：\n- **投资者**应关注高产州的市场竞争强度，同时挖掘中部人口大州（如俄亥俄州）或具有独特文化州（如佛蒙特州）的增长潜力。\n- **政策制定者**可参考高产州经验，通过优化法规、提供产业支持来培育本地精酿啤酒经济，尤其在消费潜力尚未充分释放的地区。\n- **局限性**在于，产量不完全等同于产业健康度或利润水平，且未反映品牌影响力、创新程度等定性指标。未来分析需结合酒厂数量、人均消费量等数据进行交叉验证。",
+      "glossary": [
+        {
+          "term": "精酿啤酒",
+          "explanation": "指由小型、独立的传统啤酒厂生产的啤酒，强调风味多样性、传统酿造工艺和创新精神，区别于大型工业啤酒品牌。"
+        },
+        {
+          "term": "产业集群",
+          "explanation": "指在特定区域内，相互关联的产业（如啤酒厂、设备供应商、分销商）及相关机构高度集中，通过协同效应提升整体竞争力和效率的现象。"
+        },
+        {
+          "term": "消费文化",
+          "explanation": "指特定社会或群体在消费商品和服务时表现出的价值观念、偏好和行为模式，对于精酿啤酒而言，表现为对品质、独特性和体验的追求。"
+        }
+      ]
+    }
+  },
+  {
     "id": "0670115b",
     "title": "Ranked: Which Countries Americans Like Most—and Least",
     "original_url": "https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/",
