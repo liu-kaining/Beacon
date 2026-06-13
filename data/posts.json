@@ -1,5 +1,126 @@
 [
   {
+    "id": "56932fd4",
+    "title": "Ranked: The World’s Most Spoken Languages in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-spoken-languages-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/56932fd4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDr5jxWbcPjNaE/Ssq57159rs1RXaTmioD1orXkRVj/2Q==",
+    "image_version": 1781356707,
+    "pub_date": "Sat, 13 Jun 2026 12:04:07 +0000",
+    "content_md": "| Rank | Language | Total Speakers (Millions) |\n| --- | --- | --- |\n| 1 | English | 1.49B |\n| 2 | Mandarin Chinese | 1.18B |\n| 3 | Hindi | 611M |\n| 4 | Spanish | 561M |\n| 5 | Standard Arabic | 335M |\n| 6 | French | 334M |\n| 7 | Bengali | 274M |\n| 8 | Portuguese | 269M |\n| 9 | Indonesian | 255M |\n| 10 | Urdu | 246M |\n| 11 | Russian | 210M |\n| 12 | Standard German | 133M |\n| 13 | Japanese | 126M |\n| 14 | Nigerian Pidgin | 121M |\n| 15 | Egyptian Arabic | 118M |",
+    "ai_analysis": {
+      "core_insight": "英语稳居全球第一，印地语与阿拉伯语系潜力显著。",
+      "data_highlights": [
+        "英语以14.9亿使用者绝对领先，比第二名普通话多3.1亿人。",
+        "印地语与西班牙语紧随其后，使用者均超5.6亿。",
+        "阿拉伯语系（标准阿拉伯语+埃及阿拉伯语）合计使用者达4.53亿，位列第三大语系。",
+        "非洲混合语（尼日利亚皮钦语）进入前15，反映语言演化新趋势。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Language",
+            "Total Speakers (Millions)"
+          ],
+          "rows": [
+            [
+              "1",
+              "English",
+              "1.49B"
+            ],
+            [
+              "2",
+              "Mandarin Chinese",
+              "1.18B"
+            ],
+            [
+              "3",
+              "Hindi",
+              "611M"
+            ],
+            [
+              "4",
+              "Spanish",
+              "561M"
+            ],
+            [
+              "5",
+              "Standard Arabic",
+              "335M"
+            ],
+            [
+              "6",
+              "French",
+              "334M"
+            ],
+            [
+              "7",
+              "Bengali",
+              "274M"
+            ],
+            [
+              "8",
+              "Portuguese",
+              "269M"
+            ],
+            [
+              "9",
+              "Indonesian",
+              "255M"
+            ],
+            [
+              "10",
+              "Urdu",
+              "246M"
+            ],
+            [
+              "11",
+              "Russian",
+              "210M"
+            ],
+            [
+              "12",
+              "Standard German",
+              "133M"
+            ],
+            [
+              "13",
+              "Japanese",
+              "126M"
+            ],
+            [
+              "14",
+              "Nigerian Pidgin",
+              "121M"
+            ],
+            [
+              "15",
+              "Egyptian Arabic",
+              "118M"
+            ]
+          ],
+          "caption": "2026年全球使用人数最多的语言排名"
+        }
+      ],
+      "deep_dive": "## 语言格局的宏观透视\n\n这份预测数据揭示了2026年全球语言力量的分布版图。英语凭借历史、经济与网络效应的综合优势，维持着无可争议的霸主地位。然而，排名更深层次反映了全球人口结构、经济增长与文化影响力的变迁。排名前列的语言（如印地语、西班牙语、阿拉伯语系）大多与人口高速增长或广泛地域分布的区域紧密相关，预示着这些语言在未来全球商业、科技与外交中的分量将持续上升。\n\n## 关键趋势与深层解读\n\n- **人口基数是决定性因素**：排名靠前的语言几乎全部对应着人口大国或广泛使用的区域通用语。印地语（印度）、西班牙语（拉美）、孟加拉语（孟加拉国及印度部分邦）的排名，直接映射了其母语人口的庞大规模。\n- **阿拉伯语的“隐性实力”**：标准阿拉伯语与埃及阿拉伯语分列第5和第15，合计使用者高达4.53亿，若将其视为一个语系整体，其规模将超越印地语，位列全球第三。这凸显了阿拉伯语在宗教、文化及区域政治中的核心纽带作用。\n- **新兴语言现象的显现**：尼日利亚皮钦语（Nigerian Pidgin）跻身前15名是一个标志性信号。作为在西非（特别是尼日利亚）广泛使用的混合交际语，它的崛起反映了在多元族群社会，出于实用交流需求而演化出的强大生命力，也挑战了以“母语”为单一标准的传统语言统计视角。\n- **局限与思考**：需注意，此类统计通常包含母语者与二语使用者，且不同来源的统计口径可能存在差异（例如对“普通话”与“方言”的界定）。排名靠后的日语、德语等，其使用者虽少，但国家或区域的经济与文化影响力仍不容小觑。因此，此排名更多反映的是“使用规模”，而非语言的“重要性”或“影响力”的单一维度。",
+      "glossary": [
+        {
+          "term": "Total Speakers",
+          "explanation": "总使用人数，通常包括母语使用者和第二语言使用者。"
+        },
+        {
+          "term": "语系",
+          "explanation": "指在起源上有共同祖先、在语音、词汇或语法上有对应关系的一组语言。"
+        },
+        {
+          "term": "混合语（皮钦语/克里奥尔语）",
+          "explanation": "在语言接触中产生的、用于特定群体间交际的简化语言。皮钦语通常无母语者，而克里奥尔语可能发展为母语。"
+        }
+      ]
+    }
+  },
+  {
     "id": "df074d4d",
     "title": "Ranked: The Biggest IPOs in History—and Where SpaceX Fits In",
     "original_url": "https://www.visualcapitalist.com/ranked-the-biggest-ipos-in-history-spacex/",
