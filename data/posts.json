@@ -1,5 +1,243 @@
 [
   {
+    "id": "33127b4d",
+    "title": "Ranked: Refugees Hosted Per Capita by Country",
+    "original_url": "https://www.visualcapitalist.com/refugees-per-capita-by-country-ranking/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/33127b4d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAgABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqSacjU1loVDmsIO5pJFkNxRTApxRWpAoUGpFQVAJKd52KiCsOU7lkKKKq/aKK0J5j/9k=",
+    "image_version": 1781453731,
+    "pub_date": "Sun, 14 Jun 2026 14:37:08 +0000",
+    "content_md": "| Rank | Country | Refugees Per 1,000 People 2024 | Region |\n| --- | --- | --- | --- |\n| 1 | Lebanon | 130.7 | Middle East |\n| 2 | Chad | 63.0 | Africa |\n| 3 | Jordan | 55.7 | Middle East |\n| 4 | Armenia | 48.5 | Asia |\n| 5 | Moldova | 44.8 | Europe |\n| 6 | South Sudan | 43.1 | Africa |\n| 7 | Iran | 38.1 | Middle East |\n| 8 | Czechia | 36.4 | Europe |\n| 9 | Uganda | 35.2 | Africa |\n| 10 | Cyprus | 33.7 | Europe |\n| 11 | Türkiye | 33.6 | Europe |\n| 12 | Germany | 32.5 | Europe |\n| 13 | Austria | 31.2 | Europe |\n| 14 | Estonia | 31.1 | Europe |\n| 15 | Mauritania | 30.0 | Africa |\n| 16 | Montenegro | 29.2 | Europe |\n| 17 | Libya | 27.1 | Africa |\n| 18 | Latvia | 26.3 | Europe |\n| 19 | Slovakia | 26.2 | Europe |\n| 20 | Poland | 26.2 | Europe |\n| 21 | Ireland | 23.7 | Europe |\n| 22 | Norway | 22.2 | Europe |\n| 23 | Switzerland | 22.0 | Europe |\n| 24 | Liechtenstein | 21.1 | Europe |\n| 25 | Djibouti | 20.5 | Africa |\n| 26 | Iceland | 20.0 | Europe |\n| 27 | Lithuania | 18.7 | Europe |\n| 28 | Finland | 16.6 | Europe |\n| 29 | Denmark | 16.4 | Europe |\n| 30 | Bulgaria | 16.1 | Europe |\n| 82 | United States | 1.3 | North America |",
+    "ai_analysis": {
+      "core_insight": "黎巴嫩以压倒性的每千人130名难民接收量居首，全球难民负担分布极不均衡。",
+      "data_highlights": [
+        "黎巴嫩遥遥领先，每千人接收难民数是第二名的两倍以上。",
+        "接收压力前十名中，非洲和中东国家占七席，凸显区域危机影响。",
+        "欧洲国家占据榜单多数席位，表明其成为全球难民的主要庇护地区。",
+        "美国排名靠后（第82位），人均接收压力仅为黎巴嫩的1%。",
+        "前30名国家人均接收量均超过16人，而美国仅为1.3人，差距悬殊。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Refugees Per 1,000 People 2024",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "Lebanon",
+              "130.7",
+              "Middle East"
+            ],
+            [
+              "2",
+              "Chad",
+              "63.0",
+              "Africa"
+            ],
+            [
+              "3",
+              "Jordan",
+              "55.7",
+              "Middle East"
+            ],
+            [
+              "4",
+              "Armenia",
+              "48.5",
+              "Asia"
+            ],
+            [
+              "5",
+              "Moldova",
+              "44.8",
+              "Europe"
+            ],
+            [
+              "6",
+              "South Sudan",
+              "43.1",
+              "Africa"
+            ],
+            [
+              "7",
+              "Iran",
+              "38.1",
+              "Middle East"
+            ],
+            [
+              "8",
+              "Czechia",
+              "36.4",
+              "Europe"
+            ],
+            [
+              "9",
+              "Uganda",
+              "35.2",
+              "Africa"
+            ],
+            [
+              "10",
+              "Cyprus",
+              "33.7",
+              "Europe"
+            ],
+            [
+              "11",
+              "Türkiye",
+              "33.6",
+              "Europe"
+            ],
+            [
+              "12",
+              "Germany",
+              "32.5",
+              "Europe"
+            ],
+            [
+              "13",
+              "Austria",
+              "31.2",
+              "Europe"
+            ],
+            [
+              "14",
+              "Estonia",
+              "31.1",
+              "Europe"
+            ],
+            [
+              "15",
+              "Mauritania",
+              "30.0",
+              "Africa"
+            ],
+            [
+              "16",
+              "Montenegro",
+              "29.2",
+              "Europe"
+            ],
+            [
+              "17",
+              "Libya",
+              "27.1",
+              "Africa"
+            ],
+            [
+              "18",
+              "Latvia",
+              "26.3",
+              "Europe"
+            ],
+            [
+              "19",
+              "Slovakia",
+              "26.2",
+              "Europe"
+            ],
+            [
+              "20",
+              "Poland",
+              "26.2",
+              "Europe"
+            ],
+            [
+              "21",
+              "Ireland",
+              "23.7",
+              "Europe"
+            ],
+            [
+              "22",
+              "Norway",
+              "22.2",
+              "Europe"
+            ],
+            [
+              "23",
+              "Switzerland",
+              "22.0",
+              "Europe"
+            ],
+            [
+              "24",
+              "Liechtenstein",
+              "21.1",
+              "Europe"
+            ],
+            [
+              "25",
+              "Djibouti",
+              "20.5",
+              "Africa"
+            ],
+            [
+              "26",
+              "Iceland",
+              "20.0",
+              "Europe"
+            ],
+            [
+              "27",
+              "Lithuania",
+              "18.7",
+              "Europe"
+            ],
+            [
+              "28",
+              "Finland",
+              "16.6",
+              "Europe"
+            ],
+            [
+              "29",
+              "Denmark",
+              "16.4",
+              "Europe"
+            ],
+            [
+              "30",
+              "Bulgaria",
+              "16.1",
+              "Europe"
+            ],
+            [
+              "82",
+              "United States",
+              "1.3",
+              "North America"
+            ]
+          ],
+          "caption": "2024年各国人均接收难民数量排名（前30及美国）"
+        }
+      ],
+      "deep_dive": "## 全球难民接收压力的地理与经济悖论\n这份人均难民接收排名揭示了一个核心矛盾：并非最富裕的国家承担了最大的人均接收压力。相反，榜单顶端被黎巴嫩、乍得、约旦等中低收入国家占据。黎巴嫩的惊人数据（每千人130.7名难民）是其自身政治经济危机与毗邻叙利亚冲突地缘位置共同作用的结果。这种“邻国承担”模式在中东和非洲非常明显，前十名中七个是这些地区的国家。这表明，难民流动首先受地理临近性和危机爆发点影响，而非接收国的经济容量。\n\n## 欧洲：从地理终点到政策焦点\n尽管人均压力最大的国家在亚非，但欧洲国家在榜单中的数量优势显著。在前30名中，有18个是欧洲国家，包括德国、奥地利、波兰等。这反映了两方面：一是欧洲作为许多长距离流离失所者的终极目的地，其庇护体系吸引了大量寻求安全与经济机会的人口；二是2015年以来难民危机的政治遗产，使得许多欧洲国家建立了相当规模的常住难民人口。值得注意的是，即便是富裕的北欧国家（如挪威、丹麦）人均压力也高于美国，这挑战了“富裕大国承担更多”的普遍认知。\n\n## 数据启示与局限\n**启示**：\n- **责任分担失衡**：数据尖锐地指出了全球难民保护责任分配的严重不均。地理上的“前线国家”在人均层面承担了不成比例的压力，亟需国际社会的财政与安置支持。\n- **政策选择的差异**：排名反映了各国移民与庇护政策的差异。例如，美国排名极后（第82位），可能与其严格的边境控制、筛选程序和相对较低的人均接收配额有关，与其经济规模和全球影响力形成对比。\n- **区域稳定性指标**：人均接收量高的国家自身往往面临社会经济挑战，难民的涌入可能加剧其资源紧张，成为区域不稳定的潜在因素。\n\n**局限**：\n- 此数据为静态快照（2024年），无法反映难民流动的历史趋势和政策变动。\n- “人均”指标虽能衡量社会压力，但掩盖了绝对数量的巨大差异。例如，德国接收的难民总数远高于爱沙尼亚，但人均指标上两者接近。\n- 数据未区分难民的来源、流亡时间长短（是长期滞留还是新近抵达），这些因素都影响着接收国的真实负担。",
+      "glossary": [
+        {
+          "term": "难民（Refugees）",
+          "explanation": "根据1951年《难民地位公约》，指因有正当理由畏惧由于种族、宗教、国籍、属于某一特定社会团体或持有某种政治见解的原因遭到迫害，留在其本国之外，并且由于此项畏惧而不能或不愿受该国保护的人。"
+        },
+        {
+          "term": "人均接收量（Per Capita）",
+          "explanation": "指接收的难民总数除以该国总人口数，通常以每千人计算。该指标用于衡量难民存在对该国社会、经济和公共服务体系构成的相对压力。"
+        },
+        {
+          "term": "邻国承担模式",
+          "explanation": "指难民危机爆发时，大部分难民首先流亡至地理上相邻或相近的国家寻求庇护，导致这些国家在短期内承受巨大的人口流入压力。"
+        },
+        {
+          "term": "责任分担（Responsibility Sharing）",
+          "explanation": "国际关系中的一个原则，主张接收和保护难民的责任不应仅由少数国家（尤其是难民涌入的前线国家）承担，而应通过国际协作（如财政援助、重新安置配额）由更多国家共同分担。"
+        }
+      ]
+    }
+  },
+  {
     "id": "da3384d6",
     "title": "Mapped: Which States Brew the Most Craft Beer?",
     "original_url": "https://www.visualcapitalist.com/mapped-states-brewing-most-craft-beer-2025/",
