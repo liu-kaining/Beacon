@@ -1,5 +1,341 @@
 [
   {
+    "id": "ee4dd9dc",
+    "title": "Ranked: The Countries With the Most Uranium",
+    "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-most-uranium/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ee4dd9dc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDfNNJpxqM148m7nUhc0U2itkybH//Z",
+    "image_version": 1781463856,
+    "pub_date": "Sun, 14 Jun 2026 17:02:13 +0000",
+    "content_md": "| Country | Metric tons of identified recoverable uranium (2023) | Percentage of world |\n| --- | --- | --- |\n| Australia | 1,671,200 | 28% |\n| Kazakhstan | 813,900 | 14% |\n| Canada | 582,000 | 10% |\n| Namibia | 497,900 | 8% |\n| Russia | 476,600 | 8% |\n| Niger | 336,000 | 6% |\n| South Africa | 320,900 | 5% |\n| China | 270,500 | 5% |\n| Brazil | 167,800 | 3% |\n| Mongolia | 144,600 | 2% |\n| Ukraine | 106,700 | 2% |\n| Botswana | 87,200 | 1% |\n| United States | 67,800 | 1% |\n| Tanzania | 57,700 | 1% |\n| Uzbekistan | 45,000 | 1% |\n| Argentina | 34,300 | 1% |\n| Peru | 33,400 | 1% |\n| Spain | 28,500 | 1% |\n| Türkiye | 27,100 | 1% |\n| Zambia | 23,000 | 0% |\n| Mauritania | 18,200 | 0% |\n| Other | 115,400 | 2% |\n| World total | 5,925,700 | 100% |",
+    "ai_analysis": {
+      "core_insight": "澳大利亚以绝对优势占据全球铀资源近三成，资源分布高度集中。",
+      "data_highlights": [
+        "澳大利亚以167.12万吨储量位居全球第一，占全球总储量的28%。",
+        "前三位国家（澳、哈、加）合计占全球已探明可回收铀储量的52%，资源高度集中。",
+        "美国储量仅为6.78万吨，占全球1%，与其全球核能大国的地位不匹配。",
+        "资源分布呈现明显的地缘特征，主要集中在澳大利亚、中亚及南部非洲。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Metric tons of identified recoverable uranium (2023)",
+            "Percentage of world"
+          ],
+          "rows": [
+            [
+              "1",
+              "Australia",
+              "1,671,200",
+              "28%"
+            ],
+            [
+              "2",
+              "Kazakhstan",
+              "813,900",
+              "14%"
+            ],
+            [
+              "3",
+              "Canada",
+              "582,000",
+              "10%"
+            ],
+            [
+              "4",
+              "Namibia",
+              "497,900",
+              "8%"
+            ],
+            [
+              "5",
+              "Russia",
+              "476,600",
+              "8%"
+            ],
+            [
+              "6",
+              "Niger",
+              "336,000",
+              "6%"
+            ],
+            [
+              "7",
+              "South Africa",
+              "320,900",
+              "5%"
+            ],
+            [
+              "8",
+              "China",
+              "270,500",
+              "5%"
+            ],
+            [
+              "9",
+              "Brazil",
+              "167,800",
+              "3%"
+            ],
+            [
+              "10",
+              "Mongolia",
+              "144,600",
+              "2%"
+            ],
+            [
+              "11",
+              "Ukraine",
+              "106,700",
+              "2%"
+            ],
+            [
+              "12",
+              "Botswana",
+              "87,200",
+              "1%"
+            ],
+            [
+              "13",
+              "United States",
+              "67,800",
+              "1%"
+            ],
+            [
+              "14",
+              "Tanzania",
+              "57,700",
+              "1%"
+            ],
+            [
+              "15",
+              "Uzbekistan",
+              "45,000",
+              "1%"
+            ],
+            [
+              "16",
+              "Argentina",
+              "34,300",
+              "1%"
+            ],
+            [
+              "17",
+              "Peru",
+              "33,400",
+              "1%"
+            ],
+            [
+              "18",
+              "Spain",
+              "28,500",
+              "1%"
+            ],
+            [
+              "19",
+              "Türkiye",
+              "27,100",
+              "1%"
+            ],
+            [
+              "20",
+              "Zambia",
+              "23,000",
+              "0%"
+            ],
+            [
+              "21",
+              "Mauritania",
+              "18,200",
+              "0%"
+            ],
+            [
+              "—",
+              "Other",
+              "115,400",
+              "2%"
+            ],
+            [
+              "—",
+              "World total",
+              "5,925,700",
+              "100%"
+            ]
+          ],
+          "caption": "2023年全球主要国家已探明可回收铀储量排名"
+        }
+      ],
+      "deep_dive": "## 资源分布格局：高度集中与地缘特征\n全球铀资源的分布呈现出极高的集中度。仅澳大利亚、哈萨克斯坦和加拿大三国就占据了全球已探明可回收铀储量的52%，形成了稳固的第一梯队。这种集中格局意味着全球核燃料供应链的上游高度依赖少数国家，对能源安全构成潜在风险。\n\n从地缘分布看，铀资源主要富集在以下几个区域：\n- **大洋洲与中亚**：澳大利亚（28%）和哈萨克斯坦（14%）是绝对的资源巨擘。\n- **南部非洲**：纳米比亚（8%）、南非（5%）、尼日尔（6%）等国构成一条“铀矿带”。\n- **北美与欧亚大陆**：加拿大（10%）、俄罗斯（8%）储量雄厚，而中国（5%）是主要消费国中的资源代表。\n\n## 对全球能源战略的启示与挑战\n1.  **核能发展的资源基础**：当前全球铀储量（约593万吨）足以支撑现有核电站运行数十年，为核能作为低碳能源的过渡角色提供了物质保障。资源禀赋优异的国家在全球能源转型中拥有战略筹码。\n2.  **供应链安全与多元化需求**：高度集中的资源分布迫使核能消费大国（如美国、欧盟、日韩）必须通过长期合约、投资海外矿产或建立战略储备来保障供应安全。美国储量仅占1%，凸显其供应链的对外依赖性。\n3.  **新兴玩家的潜力**：非洲国家（如纳米比亚、尼日尔、坦桑尼亚）和蒙古储量可观，未来可能成为全球铀市场的重要供应方，但也面临基础设施、投资环境等开发挑战。\n4.  **“其他”类别的含义**：表中“Other”类别（11.54万吨，占2%）汇集了众多小储量国家，表明铀资源虽有集中趋势，但仍广泛分布于全球，存在进一步勘探的潜力。\n\n## 数据局限与注意事项\n本数据为“已探明可回收”储量，反映的是现有技术经济条件下的可开采资源。实际铀资源总量（包括未探明和次经济资源）远大于此。此外，地缘政治稳定性、开采成本、环保政策等因素会实际影响资源的可获得性，数据排名并不直接等同于未来的供应格局。",
+      "glossary": [
+        {
+          "term": "已探明可回收铀储量 (Identified Recoverable Uranium)",
+          "explanation": "指在现有技术和经济条件下，能够从已探明的矿床中合理预期开采出来的铀资源量。"
+        },
+        {
+          "term": "资源集中度 (Resource Concentration)",
+          "explanation": "指关键自然资源（如铀）在少数几个国家或地区分布的集中程度。高集中度通常带来供应链风险。"
+        },
+        {
+          "term": "能源安全 (Energy Security)",
+          "explanation": "指一个国家或地区能够持续、稳定、经济地获得满足其社会经济发展所需的能源供应的能力。保障燃料来源多样化是核心之一。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "91debfb4",
+    "title": "Ranked: The Countries With the Most High-Speed Rail",
+    "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-most-high-speed-rail/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/91debfb4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDHspcEVqeZuWsK2JyK1YD0r0IxRyTmxzR5OaKsgDFFWY8zP//Z",
+    "image_version": 1781463887,
+    "pub_date": "Sun, 14 Jun 2026 12:02:52 +0000",
+    "content_md": "| Rank | Country | Length in km |\n| --- | --- | --- |\n| 1 | China | 40,493 |\n| 2 | Spain | 3993 |\n| 3 | Japan | 3146 |\n| 4 | France | 2735 |\n| 5 | Germany | 1631 |\n| 6 | Turkiye | 1232 |\n| 7 | Finland | 1120 |\n| 8 | Italy | 921 |\n| 9 | Sweden | 895 |\n| 10 | South Korea | 873 |\n| 11 | USA | 735 |\n| 12 | Saudi Arabia | 449 |\n| 13 | Austria | 254 |\n| 14 | Poland | 224 |\n| 15 | Belgium | 209 |\n| 16 | Morocco | 186 |\n| 17 | Switzerland | 176 |\n| 18 | UK | 113 |\n| 19 | Netherlands | 90 |\n| 20 | Serbia | 78 |\n| 21 | Denmark | 56 |",
+    "ai_analysis": {
+      "core_insight": "中国高铁网络长度遥遥领先，占据全球绝对主导地位。",
+      "data_highlights": [
+        "中国高铁总里程超过4万公里，是第二名西班牙的10倍以上。",
+        "亚洲与欧洲国家主导全球高铁建设，前五名中欧洲占四席。",
+        "美国作为全球最大经济体，高铁里程仅735公里，排名第11。",
+        "土耳其和沙特阿拉伯等新兴经济体正积极扩展高铁网络。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Length in km"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "40,493"
+            ],
+            [
+              "2",
+              "Spain",
+              "3993"
+            ],
+            [
+              "3",
+              "Japan",
+              "3146"
+            ],
+            [
+              "4",
+              "France",
+              "2735"
+            ],
+            [
+              "5",
+              "Germany",
+              "1631"
+            ],
+            [
+              "6",
+              "Turkiye",
+              "1232"
+            ],
+            [
+              "7",
+              "Finland",
+              "1120"
+            ],
+            [
+              "8",
+              "Italy",
+              "921"
+            ],
+            [
+              "9",
+              "Sweden",
+              "895"
+            ],
+            [
+              "10",
+              "South Korea",
+              "873"
+            ],
+            [
+              "11",
+              "USA",
+              "735"
+            ],
+            [
+              "12",
+              "Saudi Arabia",
+              "449"
+            ],
+            [
+              "13",
+              "Austria",
+              "254"
+            ],
+            [
+              "14",
+              "Poland",
+              "224"
+            ],
+            [
+              "15",
+              "Belgium",
+              "209"
+            ],
+            [
+              "16",
+              "Morocco",
+              "186"
+            ],
+            [
+              "17",
+              "Switzerland",
+              "176"
+            ],
+            [
+              "18",
+              "UK",
+              "113"
+            ],
+            [
+              "19",
+              "Netherlands",
+              "90"
+            ],
+            [
+              "20",
+              "Serbia",
+              "78"
+            ],
+            [
+              "21",
+              "Denmark",
+              "56"
+            ]
+          ],
+          "caption": "全球高铁运营里程国家排名（前21位）"
+        }
+      ],
+      "deep_dive": "## 发展格局：中国一骑绝尘，欧亚分庭抗礼\n从数据来看，全球高铁发展呈现出鲜明的“一超多强”格局。中国以40，493公里的运营里程独占鳌头，这一数字不仅远超其他国家，更占据了全球高铁总里程的绝大多数份额。这背后是中国过去十几年在“四纵四横”及“八纵八横”国家战略下的高强度、系统性投资，形成了覆盖广泛、互联互通的网络效应。\n\n紧随其后的第二梯队（西班牙、日本、法国、德国）均为传统交通强国，其高铁网络建设始于上世纪六七十年代，具有先发优势和技术积淀。值得注意的是，亚洲国家（中国、日本、韩国）在前十中占据三席，欧洲国家则占据六席，表明高铁技术是工业实力和区域联通战略的综合体现。土耳其（第6）和沙特阿拉伯（第12）的上榜，则反映了新兴经济体将高铁作为现代化标志和经济发展引擎的战略意图。\n\n## 对比与启示：基础设施投资与模式差异\n- **中美对比**：作为世界前两大经济体，中美在高铁领域的差距悬殊。美国高铁里程仅735公里，与其汽车文化根深蒂固、联邦制下跨州协调困难、航空业发达以及对基础设施投资的历史性不足密切相关。这揭示了不同社会经济模式和交通政策选择的长期影响。\n- **欧洲内部差异**：欧洲国家虽普遍拥有高铁，但里程数差异显著。西班牙、法国、德国网络发达，而英国、荷兰、瑞士等国的里程较短。这既与国土面积、人口密度有关，也受到既有交通网络（如密集的普通铁路和航空线路）的替代效应以及各国不同的投资优先级影响。\n- **新兴模式的探索**：沙特、土耳其等国的高铁建设，通常服务于特定的经济走廊（如连接麦加与麦地那）或作为区域战略的一部分，其规划更具目的性，且多采用国际合作（如中国技术）模式。这为其他发展中国家提供了参考，但也面临着运营效率、客流培育和财政可持续性的挑战。\n\n总体而言，高铁网络已成为衡量一个国家综合运输能力和长远发展潜力的关键指标。中国的实践证明了其在大型基础设施领域的组织与执行能力，而其他国家的不同路径则反映了多样化的国情和发展阶段。",
+      "glossary": [
+        {
+          "term": "高速铁路",
+          "explanation": "指设计时速250公里以上（部分定义为200公里以上）的专用客运铁路系统，具有速度快、运能大、安全性高等特点。"
+        },
+        {
+          "term": "四纵四横/八纵八横",
+          "explanation": "中国国家层面的高速铁路网络规划蓝图。“四纵四横”是早期骨干网规划，“八纵八横”是升级后的中长期规划，旨在连接全国主要城市群。"
+        },
+        {
+          "term": "网络效应",
+          "explanation": "指产品或服务的价值随着用户数量增加而提升的现象。在高铁中，线路越成网，节点越互联，对旅客的便利性和吸引力就越大。"
+        }
+      ]
+    }
+  },
+  {
     "id": "33127b4d",
     "title": "Ranked: Refugees Hosted Per Capita by Country",
     "original_url": "https://www.visualcapitalist.com/refugees-per-capita-by-country-ranking/",
