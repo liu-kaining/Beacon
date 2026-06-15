@@ -1,5 +1,158 @@
 [
   {
+    "id": "4478741a",
+    "title": "Charted: How the World Added Decades to Life Expectancy",
+    "original_url": "https://www.visualcapitalist.com/charted-how-world-added-decades-to-life-expectancy/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4478741a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiFNDHimClPStQGnrRSGigZ//Z",
+    "image_version": 1781563982,
+    "pub_date": "Mon, 15 Jun 2026 18:44:33 +0000",
+    "content_md": "| Year | High Income | Upper-Middle | Lower-Middle | Low Income |\n| --- | --- | --- | --- | --- |\n| Examples | US, Germany, Japan | China, Brazil, Mexico | India, Egypt, Philippines | Afghanistan, Niger, Chad |\n| 1960 | 68.3 | 41.9 | 45.8 | 41.6 |\n| 1965 | 69.4 | 53.7 | 46.8 | 43.2 |\n| 1970 | 70.2 | 57.3 | 49 | 45.3 |\n| 1975 | 71.3 | 60.7 | 51.5 | 47.1 |\n| 1980 | 72.3 | 63.4 | 54.3 | 48.7 |\n| 1985 | 73.4 | 65.7 | 56.5 | 48.9 |\n| 1990 | 74.4 | 67.3 | 58.3 | 51.2 |\n| 1995 | 74.7 | 69.1 | 59.8 | 52 |\n| 2000 | 76 | 70.7 | 61.7 | 54.1 |\n| 2005 | 77.1 | 72.2 | 63.6 | 57.1 |\n| 2010 | 78.5 | 73.8 | 65.5 | 59.9 |\n| 2015 | 79.5 | 75.1 | 67.3 | 60.9 |\n| 2020 | 79.2 | 75.2 | 68 | 62.8 |\n| 2024 | 80.3 | 76.3 | 69.8 | 64.7 |",
+    "ai_analysis": {
+      "core_insight": "全球预期寿命显著增长，但收入水平间的绝对差距依然明显。",
+      "data_highlights": [
+        "高收入国家预期寿命从1960年的68.3岁稳步增至2024年的80.3岁。",
+        "中低收入国家增长幅度最大，低收入国家从41.6岁跃升至64.7岁，增幅超55%。",
+        "2020年数据受全球公共卫生事件影响，高收入及中高收入国家预期寿命出现罕见小幅回落。",
+        "尽管差距缩小，但2024年高收入与低收入国家间仍存在约15.6岁的预期寿命鸿沟。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "High Income",
+            "Upper-Middle",
+            "Lower-Middle",
+            "Low Income"
+          ],
+          "rows": [
+            [
+              "Examples",
+              "US, Germany, Japan",
+              "China, Brazil, Mexico",
+              "India, Egypt, Philippines",
+              "Afghanistan, Niger, Chad"
+            ],
+            [
+              "1960",
+              "68.3",
+              "41.9",
+              "45.8",
+              "41.6"
+            ],
+            [
+              "1965",
+              "69.4",
+              "53.7",
+              "46.8",
+              "43.2"
+            ],
+            [
+              "1970",
+              "70.2",
+              "57.3",
+              "49",
+              "45.3"
+            ],
+            [
+              "1975",
+              "71.3",
+              "60.7",
+              "51.5",
+              "47.1"
+            ],
+            [
+              "1980",
+              "72.3",
+              "63.4",
+              "54.3",
+              "48.7"
+            ],
+            [
+              "1985",
+              "73.4",
+              "65.7",
+              "56.5",
+              "48.9"
+            ],
+            [
+              "1990",
+              "74.4",
+              "67.3",
+              "58.3",
+              "51.2"
+            ],
+            [
+              "1995",
+              "74.7",
+              "69.1",
+              "59.8",
+              "52"
+            ],
+            [
+              "2000",
+              "76",
+              "70.7",
+              "61.7",
+              "54.1"
+            ],
+            [
+              "2005",
+              "77.1",
+              "72.2",
+              "63.6",
+              "57.1"
+            ],
+            [
+              "2010",
+              "78.5",
+              "73.8",
+              "65.5",
+              "59.9"
+            ],
+            [
+              "2015",
+              "79.5",
+              "75.1",
+              "67.3",
+              "60.9"
+            ],
+            [
+              "2020",
+              "79.2",
+              "75.2",
+              "68",
+              "62.8"
+            ],
+            [
+              "2024",
+              "80.3",
+              "76.3",
+              "69.8",
+              "64.7"
+            ]
+          ],
+          "caption": "1960-2024年按收入水平分组的世界预期寿命变化"
+        }
+      ],
+      "deep_dive": "## 增长轨迹：从医疗进步到全球健康不平等\n\n过去六十余年间，全球预期寿命的提升是公共卫生、医疗技术、营养改善及社会经济发展的共同成果。数据显示，所有收入组别均实现了显著增长，但轨迹与速度迥异。高收入国家凭借成熟的医疗卫生体系，实现了从68.3岁到80.3岁的稳定线性增长。而中低收入国家，特别是上中等收入组（如中国、巴西），在1960年代后期至2000年代初期经历了爆发式增长，这与其传染病控制（如疫苗普及）、妇幼保健体系建立及经济快速发展密切相关。\n\n关键的转折点在于全球健康“收敛”现象：低收入与高收入国家之间的预期寿命差距从1960年的约26.7年，大幅缩小至2024年的约15.6年。这一收敛主要归功于基础医疗可及性的全球性扩展，如抗生素普及、腹泻和肺炎等儿童疾病的有效治疗。然而，差距的持续存在也揭示了深层结构性问题，包括冲突、政治不稳定、卫生基础设施薄弱以及获取先进医疗技术的不平等等。\n\n## 冲击与韧性：2020年的全球考验与启示\n\n2020年的数据为长达数十年的增长趋势画上了一个醒目注脚。该年，高收入和上中等收入国家的预期寿命分别微降至79.2岁和75.2岁，这是罕见的下行波动，直指全球新冠疫情的冲击。相比之下，低收入和中低收入国家受影响较小，可能因为其人口年龄结构更年轻、报道统计存在延迟，或COVID-19以外的致死因素（如疟疾、营养不良）对整体数据的影响更大。\n\n这一事件凸显了现代社会的脆弱性：即便是医疗资源最丰富的地区，也难以完全抵御大规模传染病的威胁。同时，它也揭示了全球健康监测和应对体系的不平等。展望未来，持续缩小预期寿命差距不仅需要经济增长，更需要加强全球卫生治理、促进医疗技术普惠，并关注气候变化、慢性病等新兴挑战。数据背后的故事是，人类在延长寿命上取得了非凡成就，但通往健康公平的道路依然漫长且充满挑战。",
+      "glossary": [
+        {
+          "term": "预期寿命 (Life Expectancy)",
+          "explanation": "指在当前年龄别死亡率保持不变的情况下，新生儿预期可存活的平均年数，是衡量一国或地区整体健康状况和生活质量的核心综合指标。"
+        },
+        {
+          "term": "健康收敛 (Health Convergence)",
+          "explanation": "指不同经济发展水平的国家或地区之间，预期寿命等健康指标的差距随时间推移而逐渐缩小的长期趋势。"
+        },
+        {
+          "term": "公共卫生事件",
+          "explanation": "指突然发生、对公众健康造成或可能造成重大损失的事件，如传染病疫情（如COVID-19），是影响短期预期寿命波动的关键外生冲击。"
+        }
+      ]
+    }
+  },
+  {
     "id": "1d5984d6",
     "title": "Charted: China’s Rise to Energy Superpower",
     "original_url": "https://www.visualcapitalist.com/charted-chinas-rise-to-energy-superpower/",
