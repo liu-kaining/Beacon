@@ -1,5 +1,616 @@
 [
   {
+    "id": "643b3b42",
+    "title": "The States Where Housing Prices Have Surged the Most (2021–2026)",
+    "original_url": "https://www.visualcapitalist.com/sp/pla02-u-s-housing-market-home-price-growth-by-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/643b3b42.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpGbFIrZNNkBohUk0noYqZOBxRU6x/LRU3NLkj2ue1Edtg9KvGkHWrYuVDFhGKKsDpRSsOx//Z",
+    "image_version": 1781535145,
+    "pub_date": "Mon, 15 Jun 2026 14:39:00 +0000",
+    "content_md": "| State | Housing Price Change, Q1 2021–Q1 2026 |\n| --- | --- |\n| Maine (ME) | 58% |\n| Vermont (VT) | 58% |\n| New Jersey (NJ) | 54% |\n| Connecticut (CT) | 53% |\n| South Carolina (SC) | 52% |\n| New Hampshire (NH) | 52% |\n| Wisconsin (WI) | 50% |\n| Rhode Island (RI) | 50% |\n| North Carolina (NC) | 48% |\n| New York (NY) | 48% |\n| Illinois (IL) | 47% |\n| Tennessee (TN) | 47% |\n| Ohio (OH) | 46% |\n| Florida (FL) | 46% |\n| Arkansas (AR) | 46% |\n| Georgia (GA) | 45% |\n| Montana (MT) | 45% |\n| Kentucky (KY) | 44% |\n| Indiana (IN) | 44% |\n| Michigan (MI) | 43% |\n| Missouri (MO) | 43% |\n| Kansas (KS) | 42% |\n| Pennsylvania (PA) | 42% |\n| Virginia (VA) | 42% |\n| New Mexico (NM) | 41% |\n| Alabama (AL) | 41% |\n| West Virginia (WV) | 40% |\n| South Dakota (SD) | 40% |\n| Nebraska (NE) | 40% |\n| Hawaii (HI) | 39% |\n| Massachusetts (MA) | 38% |\n| Alaska (AK) | 38% |\n| Mississippi (MS) | 38% |\n| Delaware (DE) | 38% |\n| Arizona (AZ) | 37% |\n| Wyoming (WY) | 37% |\n| Oklahoma (OK) | 36% |\n| Iowa (IA) | 36% |\n| Nevada (NV) | 35% |\n| Idaho (ID) | 35% |\n| Utah (UT) | 33% |\n| North Dakota (ND) | 32% |\n| Texas (TX) | 30% |\n| Minnesota (MN) | 29% |\n| Maryland (MD) | 28% |\n| Washington (WA) | 27% |\n| California (CA) | 24% |\n| Colorado (CO) | 23% |\n| Oregon (OR) | 22% |\n| Louisiana (LA) | 18% |\n| District of Columbia (DC) | 1% |",
+    "ai_analysis": {
+      "core_insight": "2021-2026年，美国东北部及阳光地带各州房价涨幅领先，传统热门州涨幅反而垫底。",
+      "data_highlights": [
+        "缅因州与佛蒙特州以58%的涨幅并列第一，领跑全国。",
+        "涨幅前十名中，东北部州占据八席，显示强劲的区域需求。",
+        "传统热门市场如加州（24%）、科罗拉多州（23%）和俄勒冈州（22%）涨幅相对温和。",
+        "华盛顿特区（DC）涨幅仅为1%，与全国趋势形成鲜明反差。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Housing Price Change, Q1 2021–Q1 2026"
+          ],
+          "rows": [
+            [
+              "Maine (ME)",
+              "58%"
+            ],
+            [
+              "Vermont (VT)",
+              "58%"
+            ],
+            [
+              "New Jersey (NJ)",
+              "54%"
+            ],
+            [
+              "Connecticut (CT)",
+              "53%"
+            ],
+            [
+              "South Carolina (SC)",
+              "52%"
+            ],
+            [
+              "New Hampshire (NH)",
+              "52%"
+            ],
+            [
+              "Wisconsin (WI)",
+              "50%"
+            ],
+            [
+              "Rhode Island (RI)",
+              "50%"
+            ],
+            [
+              "North Carolina (NC)",
+              "48%"
+            ],
+            [
+              "New York (NY)",
+              "48%"
+            ],
+            [
+              "Illinois (IL)",
+              "47%"
+            ],
+            [
+              "Tennessee (TN)",
+              "47%"
+            ],
+            [
+              "Ohio (OH)",
+              "46%"
+            ],
+            [
+              "Florida (FL)",
+              "46%"
+            ],
+            [
+              "Arkansas (AR)",
+              "46%"
+            ],
+            [
+              "Georgia (GA)",
+              "45%"
+            ],
+            [
+              "Montana (MT)",
+              "45%"
+            ],
+            [
+              "Kentucky (KY)",
+              "44%"
+            ],
+            [
+              "Indiana (IN)",
+              "44%"
+            ],
+            [
+              "Michigan (MI)",
+              "43%"
+            ],
+            [
+              "Missouri (MO)",
+              "43%"
+            ],
+            [
+              "Kansas (KS)",
+              "42%"
+            ],
+            [
+              "Pennsylvania (PA)",
+              "42%"
+            ],
+            [
+              "Virginia (VA)",
+              "42%"
+            ],
+            [
+              "New Mexico (NM)",
+              "41%"
+            ],
+            [
+              "Alabama (AL)",
+              "41%"
+            ],
+            [
+              "West Virginia (WV)",
+              "40%"
+            ],
+            [
+              "South Dakota (SD)",
+              "40%"
+            ],
+            [
+              "Nebraska (NE)",
+              "40%"
+            ],
+            [
+              "Hawaii (HI)",
+              "39%"
+            ],
+            [
+              "Massachusetts (MA)",
+              "38%"
+            ],
+            [
+              "Alaska (AK)",
+              "38%"
+            ],
+            [
+              "Mississippi (MS)",
+              "38%"
+            ],
+            [
+              "Delaware (DE)",
+              "38%"
+            ],
+            [
+              "Arizona (AZ)",
+              "37%"
+            ],
+            [
+              "Wyoming (WY)",
+              "37%"
+            ],
+            [
+              "Oklahoma (OK)",
+              "36%"
+            ],
+            [
+              "Iowa (IA)",
+              "36%"
+            ],
+            [
+              "Nevada (NV)",
+              "35%"
+            ],
+            [
+              "Idaho (ID)",
+              "35%"
+            ],
+            [
+              "Utah (UT)",
+              "33%"
+            ],
+            [
+              "North Dakota (ND)",
+              "32%"
+            ],
+            [
+              "Texas (TX)",
+              "30%"
+            ],
+            [
+              "Minnesota (MN)",
+              "29%"
+            ],
+            [
+              "Maryland (MD)",
+              "28%"
+            ],
+            [
+              "Washington (WA)",
+              "27%"
+            ],
+            [
+              "California (CA)",
+              "24%"
+            ],
+            [
+              "Colorado (CO)",
+              "23%"
+            ],
+            [
+              "Oregon (OR)",
+              "22%"
+            ],
+            [
+              "Louisiana (LA)",
+              "18%"
+            ],
+            [
+              "District of Columbia (DC)",
+              "1%"
+            ]
+          ],
+          "caption": "2021年至2026年第一季度美国各州房价涨幅排名"
+        }
+      ],
+      "deep_dive": "## 区域分化：东北部与“阳光地带”的崛起\n本次数据揭示了后疫情时代美国房地产市场的深刻地域重构。传统认知中的高增长“阳光地带”（如佛罗里达、德克萨斯）表现稳健，但并非涨幅之冠。取而代之的是东北部州（如缅因、佛蒙特、新泽西、康涅狄格）的集体发力，涨幅普遍超过50%。这背后是多重因素的叠加：\n- **远程工作普及**：允许居民离开昂贵的大都市区，迁往生活成本较低、自然环境优美的郊区或小城镇，推动了“乡村复兴”和东北部宜居州的需求。\n- **可负担性寻求**：相比纽约、波士顿等核心城市，周边州提供了更大的居住空间和更低的购房门槛，吸引了首次购房者和寻求改善的家庭。\n- **人口流入与有限供应**：短期内的人口流入激增，而房屋库存因供应链和建筑周期限制难以快速响应，加剧了价格上涨。\n\n## 热门市场的“降温”与结构性挑战\n加州、科罗拉多、俄勒冈等传统高成本、高吸引力的州涨幅相对温和（22%-24%），华盛顿特区更是仅增长1%。这一现象反映了市场饱和与政策约束的“天花板效应”：\n- **极高的基数**：这些地区在2021年之前房价已处于绝对高位，进一步大涨的难度和阻力增大。\n- **严格的空间与监管限制**：沿海城市及周边地区面临严格的土地分区法规和环保限制，新住房供应严重不足，反而抑制了交易活跃度和价格弹性。\n- **外流与替代选择**：高房价和税收政策促使部分居民和企业向性价比更高的中部或东南部州迁移，形成了内部人口流动的再平衡。\n\n## 政策与投资启示\n1.  **区域价值重估**：投资者和政策制定者需重新评估“核心城市溢价”逻辑，关注那些具备宜居性、远程办公基础设施且供应相对充足的次级城市和郊区。\n2.  **供应端是关键**：各州涨幅差异的根本在于住房供应弹性。那些能够通过规划改革加快住房建设的州，未来可能面临价格回调压力，而供应僵化的地区则可能长期处于高位。\n3.  **社会经济影响**：房价的快速上涨对本地居民的可负担性构成巨大挑战，可能引发人才流失和社会分层，需要配套的住房保障和基础设施投入。",
+      "glossary": [
+        {
+          "term": "Housing Price Change",
+          "explanation": "住房价格变动率，指特定时间段内住房市场中位价格或平均价格的百分比变化，是衡量市场热度的关键指标。"
+        },
+        {
+          "term": "阳光地带 (Sun Belt)",
+          "explanation": "美国地理与文化概念，通常指美国南部和西南部气候温暖、阳光充足的州，如佛罗里达、德克萨斯、亚利桑那等，历史上因人口和经济增长快而备受关注。"
+        },
+        {
+          "term": "远程工作 (Remote Work)",
+          "explanation": "指员工通过互联网技术在远离传统办公室（如居家或 co-working space）完成工作的模式，该趋势的普及深刻改变了居住和办公的地理选择。"
+        },
+        {
+          "term": "住房供应弹性",
+          "explanation": "指住房供给量对价格变化的反应程度。高弹性意味着供应能快速响应需求增长，从而平抑价格；低弹性则会导致需求增长直接推高价格。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a2f4eee2",
+    "title": "Ranked: The States Where Education Pays Off Most",
+    "original_url": "https://www.visualcapitalist.com/ranked-states-where-education-pays-off-most/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a2f4eee2.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAmABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlIY81a+z/AC9KLZeRWiEGyoT1IsZLQc9KKvso3UVqQQ2y8itD+GqcAxVvPy1ktzS+hA33qKGPNFaEAi4qVulFFSjK7IG60UUVYXP/2Q==",
+    "image_version": 1781535200,
+    "pub_date": "Mon, 15 Jun 2026 14:09:45 +0000",
+    "content_md": "| Rank (Income) | State | Share of College Grads | Median Household Income |\n| --- | --- | --- | --- |\n| 1 | District of Columbia | 66% | $109,707 |\n| 2 | Massachusetts | 48% | $104,828 |\n| 3 | New Jersey | 44% | $104,294 |\n| 4 | Maryland | 44% | $102,905 |\n| 5 | Hawaii | 37% | $100,745 |\n| 6 | California | 38% | $100,149 |\n| 7 | New Hampshire | 41% | $99,782 |\n| 8 | Washington | 41% | $99,389 |\n| 9 | Colorado | 46% | $97,113 |\n| 10 | Utah | 38% | $96,658 |\n| 11 | Connecticut | 43% | $96,049 |\n| 12 | Alaska | 32% | $95,665 |\n| 13 | Virginia | 42% | $92,090 |\n| 14 | Delaware | 37% | $87,534 |\n| 15 | Minnesota | 40% | $87,117 |\n| 16 | New York | 41% | $85,820 |\n| 17 | Oregon | 38% | $85,220 |\n| 18 | Rhode Island | 39% | $83,504 |\n| 19 | Illinois | 38% | $83,211 |\n| 20 | Vermont | 44% | $82,730 |\n| 21 | Arizona | 34% | $81,486 |\n| 22 | Idaho | 32% | $81,166 |\n| 23 | Nevada | 29% | $81,134 |\n| 24 | Georgia | 35% | $79,991 |\n| 25 | Texas | 34% | $79,721 |\n| 26 | North Dakota | 34% | $77,871 |\n| 27 | Florida | 35% | $77,735 |\n| 28 | Pennsylvania | 35% | $77,545 |\n| 29 | Wisconsin | 34% | $77,488 |\n| 30 | South Dakota | 33% | $76,881 |\n| 31 | Maine | 37% | $76,442 |\n| 32 | Nebraska | 35% | $76,376 |\n| 33 | Wyoming | 30% | $75,532 |\n| 34 | Kansas | 36% | $75,514 |\n| 35 | Iowa | 32% | $75,501 |\n| 36 | Montana | 35% | $75,340 |\n| 37 | North Carolina | 37% | $73,958 |\n| 38 | Michigan | 33% | $72,389 |\n| 39 | South Carolina | 33% | $72,350 |\n| 40 | Ohio | 32% | $72,212 |\n| 41 | Tennessee | 32% | $71,997 |\n| 42 | Indiana | 30% | $71,959 |\n| 43 | Missouri | 33% | $71,589 |\n| 44 | New Mexico | 32% | $67,816 |\n| 45 | Alabama | 29% | $66,659 |\n| 46 | Oklahoma | 29% | $66,148 |\n| 47 | Kentucky | 28% | $64,526 |\n| 48 | Arkansas | 26% | $62,106 |\n| 49 | Louisiana | 27% | $60,986 |\n| 50 | West Virginia | 24% | $60,798 |\n| 51 | Mississippi | 26% | $59,127 |",
+    "ai_analysis": {
+      "core_insight": "教育回报率与州经济结构强相关，首都及沿海发达州优势显著。",
+      "data_highlights": [
+        "哥伦比亚特区以66%的大学毕业生占比和近11万美元的中位家庭收入高居榜首。",
+        "收入前十名州中，超过半数位于美国东北部或西海岸。",
+        "密西西比州在收入和大学毕业率两项指标上均位列末尾。",
+        "高收入州（前5）的大学毕业生比例普遍在40%以上，显示出人力资本与收入的正相关性。",
+        "部分州如科罗拉多，毕业生比例高（46%）但收入排名未进前五，表明存在其他影响因素。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank (Income)",
+            "State",
+            "Share of College Grads",
+            "Median Household Income"
+          ],
+          "rows": [
+            [
+              "1",
+              "District of Columbia",
+              "66%",
+              "$109,707"
+            ],
+            [
+              "2",
+              "Massachusetts",
+              "48%",
+              "$104,828"
+            ],
+            [
+              "3",
+              "New Jersey",
+              "44%",
+              "$104,294"
+            ],
+            [
+              "4",
+              "Maryland",
+              "44%",
+              "$102,905"
+            ],
+            [
+              "5",
+              "Hawaii",
+              "37%",
+              "$100,745"
+            ],
+            [
+              "6",
+              "California",
+              "38%",
+              "$100,149"
+            ],
+            [
+              "7",
+              "New Hampshire",
+              "41%",
+              "$99,782"
+            ],
+            [
+              "8",
+              "Washington",
+              "41%",
+              "$99,389"
+            ],
+            [
+              "9",
+              "Colorado",
+              "46%",
+              "$97,113"
+            ],
+            [
+              "10",
+              "Utah",
+              "38%",
+              "$96,658"
+            ],
+            [
+              "11",
+              "Connecticut",
+              "43%",
+              "$96,049"
+            ],
+            [
+              "12",
+              "Alaska",
+              "32%",
+              "$95,665"
+            ],
+            [
+              "13",
+              "Virginia",
+              "42%",
+              "$92,090"
+            ],
+            [
+              "14",
+              "Delaware",
+              "37%",
+              "$87,534"
+            ],
+            [
+              "15",
+              "Minnesota",
+              "40%",
+              "$87,117"
+            ],
+            [
+              "16",
+              "New York",
+              "41%",
+              "$85,820"
+            ],
+            [
+              "17",
+              "Oregon",
+              "38%",
+              "$85,220"
+            ],
+            [
+              "18",
+              "Rhode Island",
+              "39%",
+              "$83,504"
+            ],
+            [
+              "19",
+              "Illinois",
+              "38%",
+              "$83,211"
+            ],
+            [
+              "20",
+              "Vermont",
+              "44%",
+              "$82,730"
+            ],
+            [
+              "21",
+              "Arizona",
+              "34%",
+              "$81,486"
+            ],
+            [
+              "22",
+              "Idaho",
+              "32%",
+              "$81,166"
+            ],
+            [
+              "23",
+              "Nevada",
+              "29%",
+              "$81,134"
+            ],
+            [
+              "24",
+              "Georgia",
+              "35%",
+              "$79,991"
+            ],
+            [
+              "25",
+              "Texas",
+              "34%",
+              "$79,721"
+            ],
+            [
+              "26",
+              "North Dakota",
+              "34%",
+              "$77,871"
+            ],
+            [
+              "27",
+              "Florida",
+              "35%",
+              "$77,735"
+            ],
+            [
+              "28",
+              "Pennsylvania",
+              "35%",
+              "$77,545"
+            ],
+            [
+              "29",
+              "Wisconsin",
+              "34%",
+              "$77,488"
+            ],
+            [
+              "30",
+              "South Dakota",
+              "33%",
+              "$76,881"
+            ],
+            [
+              "31",
+              "Maine",
+              "37%",
+              "$76,442"
+            ],
+            [
+              "32",
+              "Nebraska",
+              "35%",
+              "$76,376"
+            ],
+            [
+              "33",
+              "Wyoming",
+              "30%",
+              "$75,532"
+            ],
+            [
+              "34",
+              "Kansas",
+              "36%",
+              "$75,514"
+            ],
+            [
+              "35",
+              "Iowa",
+              "32%",
+              "$75,501"
+            ],
+            [
+              "36",
+              "Montana",
+              "35%",
+              "$75,340"
+            ],
+            [
+              "37",
+              "North Carolina",
+              "37%",
+              "$73,958"
+            ],
+            [
+              "38",
+              "Michigan",
+              "33%",
+              "$72,389"
+            ],
+            [
+              "39",
+              "South Carolina",
+              "33%",
+              "$72,350"
+            ],
+            [
+              "40",
+              "Ohio",
+              "32%",
+              "$72,212"
+            ],
+            [
+              "41",
+              "Tennessee",
+              "32%",
+              "$71,997"
+            ],
+            [
+              "42",
+              "Indiana",
+              "30%",
+              "$71,959"
+            ],
+            [
+              "43",
+              "Missouri",
+              "33%",
+              "$71,589"
+            ],
+            [
+              "44",
+              "New Mexico",
+              "32%",
+              "$67,816"
+            ],
+            [
+              "45",
+              "Alabama",
+              "29%",
+              "$66,659"
+            ],
+            [
+              "46",
+              "Oklahoma",
+              "29%",
+              "$66,148"
+            ],
+            [
+              "47",
+              "Kentucky",
+              "28%",
+              "$64,526"
+            ],
+            [
+              "48",
+              "Arkansas",
+              "26%",
+              "$62,106"
+            ],
+            [
+              "49",
+              "Louisiana",
+              "27%",
+              "$60,986"
+            ],
+            [
+              "50",
+              "West Virginia",
+              "24%",
+              "$60,798"
+            ],
+            [
+              "51",
+              "Mississippi",
+              "26%",
+              "$59,127"
+            ]
+          ],
+          "caption": "美国各州教育回报率排名：收入与大学毕业率"
+        }
+      ],
+      "deep_dive": "## 区域经济结构是教育回报的关键放大器\n教育，特别是高等教育，通常被视为提升个人收入和家庭财富的核心途径。然而，这份各州排名数据清晰地揭示了一个关键现实：教育的“回报率”并非均匀分布，而是与地区经济结构深度绑定。\n\n- **头部集聚效应**：收入排名前五的州（特区、马萨诸塞、新泽西、马里兰、夏威夷）形成了一个明显的“俱乐部”。它们的共同特征是拥有强大的高端服务业、高科技产业集群或联邦政府机构。哥伦比亚特区（66%）和马萨诸塞州（48%）极高的大学毕业生比例，反映了这些区域对高学历人才的巨大吸引力，而这些人才正是驱动知识密集型经济的燃料，形成了“高学历聚集 → 高附加值产业 → 高收入 → 吸引更多高学历人才”的正向循环。\n- **资源型经济的特殊案例**：阿拉斯加州（排名12）和怀俄明州（排名33）提供了有趣的对比。两者大学毕业生比例均不高（32%和30%），但阿拉斯加的收入排名靠前。这很可能得益于其丰富的自然资源（如石油）带来的经济租金，使得即使不依赖庞大的高学历劳动力群体，也能维持较高的平均收入水平。这说明了经济支柱产业的类型可以部分“绕过”人力资本密度的影响。\n\n## 挑战与启示：超越简单线性关系\n数据也显示，大学毕业率与收入并非简单的线性关系，这对政策制定和个人选择具有重要启示。\n\n- **“毕业率悖论”与机会成本**：科罗拉多州（46%毕业生比例）和弗吉尼亚州（42%）的案例值得关注。它们的毕业生比例分别位列全国第二和第五，但收入排名却分别只在第9和第13位。这可能暗示，当地虽有优质教育产出，但高技能岗位（能充分利用这些学位并支付高薪的职位）的供给速度未能完全匹配毕业生增长，或存在其他结构性因素如生活成本、产业构成等稀释了平均收入效应。\n- **“低学历-低收入”陷阱**：榜单末尾的州，如密西西比、西弗吉尼亚、阿肯色等，在大学毕业率和家庭收入上双双垫底。这反映了一个更深层的挑战：在这些地区，可能同时面临着教育资源投入不足、产业升级乏力、以及人才外流（“脑力流失”）的多重困境，形成了一个难以突破的低发展循环。教育在这些地区的“回报”不仅绝对值低，其推动经济转型的杠杆效应也相对有限。\n\n总而言之，个人和家庭在评估教育投资时，必须将目标地区的产业生态与就业市场纳入核心考量。对政策制定者而言，单纯提高教育普及率而不配合产业升级和创造高价值就业机会，其效果将大打折扣。",
+      "glossary": [
+        {
+          "term": "中位家庭收入",
+          "explanation": "将所有家庭的收入从低到高排列，位于正中间的那个家庭的收入值。它比平均收入更能反映典型家庭的收入水平，不受极高或极低收入的异常值影响。"
+        },
+        {
+          "term": "大学毕业生占比",
+          "explanation": "指在25岁及以上人口中，获得学士学位或更高学位的人口所占的比例。它是衡量一个地区人力资本存量和教育水平的关键指标。"
+        },
+        {
+          "term": "教育回报率",
+          "explanation": "通常指个人因接受更多教育（如获得大学学位）而带来的终身收入增量。在本报告中，它更宏观地指代一个地区教育水平（毕业生占比）与平均收入水平之间的关联强度。"
+        },
+        {
+          "term": "知识密集型经济",
+          "explanation": "以高技能人才、技术创新和知识产权为核心驱动力的经济形态，如金融、信息技术、专业服务、生物技术等产业。这类经济对劳动者的教育水平有很高要求。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ee4dd9dc",
     "title": "Ranked: The Countries With the Most Uranium",
     "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-most-uranium/",
