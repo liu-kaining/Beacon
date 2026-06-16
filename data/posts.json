@@ -1,5 +1,583 @@
 [
   {
+    "id": "57e4d803",
+    "title": "Mapped: The World’s Space Launch Sites (2016-2026)",
+    "original_url": "https://www.visualcapitalist.com/sp/hf08-mapped-the-worlds-space-launch-sites-2016-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/57e4d803.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAHABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDr91KGoooELuooopXA/9k=",
+    "image_version": 1781635854,
+    "pub_date": "Tue, 16 Jun 2026 17:28:43 +0000",
+    "content_md": "| Launch Site | Country | Number of Launches |\n| --- | --- | --- |\n| Hainan Commercial Space Launch Site | China | 16 |\n| Huang Hai CZ-11 | China | 19 |\n| Jiuquan Space Center | China | 188 |\n| Taiyuan weixing fashe zhongxin | China | 95 |\n| Wenchang Space Center | China | 45 |\n| Xichang Space Center | China | 144 |\n| Yangjiang | China | 6 |\n| Centre Spatial Guyanais | France | 75 |\n| Israeli Air Force Test Range | Israel | 4 |\n| Tanegashima Space Center | Japan | 30 |\n| Uchinoura Space Center | Japan | 5 |\n| Rocket Lab Launch Complex 1 | New Zealand | 72 |\n| Baykonur Kosmodrome | Russia/Soviet Union | 98 |\n| Plesetsk Kosmodrome | Russia/Soviet Union | 74 |\n| Vostochniy, Svobodniy, Amurskaya Oblast', Rossiy | Russia/Soviet Union | 20 |\n| Barge launch site | South Korea | 1 |\n| Naro Space Center | South Korea | 3 |\n| Kennedy / Cape Canaveral | United States | 499 |\n| Mojave Spaceport | United States | 4 |\n| Pacific Spaceport Complex Alaska | United States | 2 |\n| Starbase | United States | 8 |\n| Vandenberg Space Force Base | United States | 222 |\n| Wallops Island | United States | 19 |",
+    "ai_analysis": {
+      "core_insight": "美国和中国主导全球航天发射，商业发射场崛起改变格局。",
+      "data_highlights": [
+        "美国肯尼迪/卡纳维拉尔角发射场以499次发射高居榜首。",
+        "中国拥有7个主要发射场，酒泉卫星发射中心以188次发射领先。",
+        "俄罗斯拜科努尔发射场保持98次发射，但新建东方发射场发射量较少。",
+        "新西兰Rocket Lab发射场以72次发射成为商业航天新势力。",
+        "全球23个发射场中，美国和中国合计占据超过80%的发射次数。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Launch Site",
+            "Country",
+            "Number of Launches"
+          ],
+          "rows": [
+            [
+              "Hainan Commercial Space Launch Site",
+              "China",
+              "16"
+            ],
+            [
+              "Huang Hai CZ-11",
+              "China",
+              "19"
+            ],
+            [
+              "Jiuquan Space Center",
+              "China",
+              "188"
+            ],
+            [
+              "Taiyuan weixing fashe zhongxin",
+              "China",
+              "95"
+            ],
+            [
+              "Wenchang Space Center",
+              "China",
+              "45"
+            ],
+            [
+              "Xichang Space Center",
+              "China",
+              "144"
+            ],
+            [
+              "Yangjiang",
+              "China",
+              "6"
+            ],
+            [
+              "Centre Spatial Guyanais",
+              "France",
+              "75"
+            ],
+            [
+              "Israeli Air Force Test Range",
+              "Israel",
+              "4"
+            ],
+            [
+              "Tanegashima Space Center",
+              "Japan",
+              "30"
+            ],
+            [
+              "Uchinoura Space Center",
+              "Japan",
+              "5"
+            ],
+            [
+              "Rocket Lab Launch Complex 1",
+              "New Zealand",
+              "72"
+            ],
+            [
+              "Baykonur Kosmodrome",
+              "Russia/Soviet Union",
+              "98"
+            ],
+            [
+              "Plesetsk Kosmodrome",
+              "Russia/Soviet Union",
+              "74"
+            ],
+            [
+              "Vostochniy, Svobodniy, Amurskaya Oblast', Rossiy",
+              "Russia/Soviet Union",
+              "20"
+            ],
+            [
+              "Barge launch site",
+              "South Korea",
+              "1"
+            ],
+            [
+              "Naro Space Center",
+              "South Korea",
+              "3"
+            ],
+            [
+              "Kennedy / Cape Canaveral",
+              "United States",
+              "499"
+            ],
+            [
+              "Mojave Spaceport",
+              "United States",
+              "4"
+            ],
+            [
+              "Pacific Spaceport Complex Alaska",
+              "United States",
+              "2"
+            ],
+            [
+              "Starbase",
+              "United States",
+              "8"
+            ],
+            [
+              "Vandenberg Space Force Base",
+              "United States",
+              "222"
+            ],
+            [
+              "Wallops Island",
+              "United States",
+              "19"
+            ]
+          ],
+          "caption": "全球主要航天发射场发射次数统计 (2016-2026)"
+        }
+      ],
+      "deep_dive": "## 一、 格局分析：双雄主导与新兴力量\n全球航天发射活动呈现明显的寡头格局。**美国**凭借庞大的发射基础设施（5个主要发射场）和活跃的商业航天产业，以总计约754次发射（表格数据估算）占据绝对领先地位。其肯尼迪/卡纳维拉尔角发射场（499次）和范登堡太空军基地（222次）构成了双核心，支撑了从政府任务到商业卫星部署的广泛需求。\n\n**中国**则展现了系统性的发射能力布局，拥有7个发射场，总发射次数约513次（估算）。酒泉、西昌、太原等传统中心承担了主力任务，而海南商业发射场和东方航天港（黄海）的出现，标志着中国正积极发展商业化、沿海化的发射体系，以提升安全性和任务灵活性。**俄罗斯**依赖历史悠久的拜科努尔和普列谢茨克发射场，但新建的东方发射场发射量较低，反映出其航天体系转型的挑战。\n\n## 二、 趋势与启示：商业化与地理分布\n**商业航天的崛起**是核心趋势。新西兰的Rocket Lab发射场（72次）以相对小规模的发射量，成为全球商业小卫星发射市场的重要参与者，证明了专注细分市场的商业模式的成功。美国的Starbase（8次，SpaceX运营）则代表了下一代可复用重型火箭的测试与部署基地。这两大商业发射场的出现，正在改变由国家主导的传统航天发射地理。\n\n**发射场的地理选择**蕴含战略考量。中国的发射场正从内陆向沿海扩展（如海南、山东），以降低火箭残骸落区风险，并方便大型火箭的运输。美国的范登堡基地主要执行极地/太阳同步轨道发射任务。俄罗斯在远东新建东方发射场，旨在减少对哈萨克斯坦拜科努尔基地的依赖，增强主权控制。这些布局调整均服务于国家安全、经济效率和任务需求的长期平衡。\n\n## 三、 局限性说明\n需要注意的是，表格中的发射次数为特定时间段（2016-2026）的统计，可能包含规划或预测数据。各国发射场的能力差异巨大，例如发射频率、运载火箭类型、最大有效载荷等未在表中体现。此外，商业公司的发射场（如Rocket Lab, Starbase）其发射密度和未来增长潜力可能远超表中静态数据所反映的情况。",
+      "glossary": [
+        {
+          "term": "发射场",
+          "explanation": "用于组装、测试和发射运载火箭及航天器的综合性地面设施。"
+        },
+        {
+          "term": "极地/太阳同步轨道",
+          "explanation": "一种卫星轨道，卫星始终在相同的本地太阳时间飞越地球同一纬度，常用于对地观测卫星。"
+        },
+        {
+          "term": "有效载荷",
+          "explanation": "运载火箭所搭载的、旨在送入太空的物体，如卫星、探测器或货物。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "102182fd",
+    "title": "Mapped: Which Countries Produce More Energy Than They Use?",
+    "original_url": "https://www.visualcapitalist.com/map-countries-produce-more-energy-than-they-use/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/102182fd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDu3FRY5qdqjPWpQ2IBxRTqKZJ//9k=",
+    "image_version": 1781635886,
+    "pub_date": "Tue, 16 Jun 2026 15:36:02 +0000",
+    "content_md": "| Rank | Country/Region | Energy Gap (Quadrillion BTU) |\n| --- | --- | --- |\n| 1 | Russia | 26.0 |\n| 2 | Saudi Arabia | 15.1 |\n| 3 | Australia | 11.9 |\n| 4 | Canada | 10.0 |\n| 5 | United States | 9.0 |\n| 6 | Indonesia | 8.8 |\n| 7 | Norway | 8.3 |\n| 8 | Qatar | 7.6 |\n| 9 | Iraq | 7.0 |\n| 10 | United Arab Emirates | 6.8 |\n| 11 | Iran | 6.2 |\n| 12 | Kuwait | 4.7 |\n| 13 | Kazakhstan | 4.2 |\n| 14 | Algeria | 3.6 |\n| 15 | Nigeria | 3.1 |\n| 16 | Angola | 2.4 |\n| 17 | Colombia | 2.3 |\n| 18 | Oman | 2.2 |\n| 19 | Libya | 2.1 |\n| 20 | Azerbaijan | 2.0 |\n| 21 | Mongolia | 1.8 |\n| 22 | Venezuela | 1.5 |\n| 23 | Turkmenistan | 1.5 |\n| 24 | Brazil | 1.3 |\n| 25 | Mozambique | 0.7 |\n| 26 | Congo-Brazzaville | 0.5 |\n| 27 | Ecuador | 0.5 |\n| 28 | Trinidad and Tobago | 0.4 |\n| 29 | Gabon | 0.4 |\n| 30 | Brunei | 0.4 |\n| 31 | Papua New Guinea | 0.4 |\n| 32 | Equatorial Guinea | 0.3 |\n| 33 | Argentina | 0.3 |\n| 34 | Bahrain | 0.3 |\n| 35 | Chad | 0.3 |\n| 36 | Ghana | 0.2 |\n| 37 | Cameroon | 0.1 |\n| 38 | Bolivia | 0.1 |\n| 39 | South Sudan | 0.1 |\n| 40 | South Africa | 0.1 |\n| 41 | Laos | 0.1 |\n| 42 | Myanmar | 0.1 |\n| 43 | Madagascar | -0.1 |\n| 44 | Tajikistan | -0.1 |\n| 45 | Guyana | -0.1 |\n| 46 | Kyrgyzstan | -0.1 |\n| 47 | Namibia | -0.1 |\n| 48 | Guinea | -0.1 |\n| 49 | Peru | -0.1 |\n| 50 | Mauritania | -0.1 |\n| 51 | Zambia | -0.1 |\n| 52 | Zimbabwe | -0.1 |\n| 53 | North Macedonia | -0.1 |\n| 54 | Nicaragua | -0.1 |\n| 55 | Mauritius | -0.1 |\n| 56 | Estonia | -0.1 |\n| 57 | Burkina Faso | -0.1 |\n| 58 | Uganda | -0.1 |\n| 59 | Bosnia and Herzegovina | -0.1 |\n| 60 | Palestinian Territories | -0.1 |\n| 61 | Mali | -0.1 |\n| 62 | Latvia | -0.1 |\n| 63 | Cyprus | -0.1 |\n| 64 | Côte d’Ivoire | -0.1 |\n| 65 | Benin | -0.1 |\n| 66 | Afghanistan | -0.1 |\n| 67 | Sudan | -0.1 |\n| 68 | Jamaica | -0.1 |\n| 69 | Uruguay | -0.1 |\n| 70 | Moldova | -0.1 |\n| 71 | Syria | -0.1 |\n| 72 | Malta | -0.1 |\n| 73 | Slovenia | -0.1 |\n| 74 | Armenia | -0.1 |\n| 75 | Costa Rica | -0.1 |\n| 76 | El Salvador | -0.1 |\n| 77 | Tanzania | -0.1 |\n| 78 | Nepal | -0.1 |\n| 79 | Luxembourg | -0.1 |\n| 80 | Senegal | -0.2 |\n| 81 | Honduras | -0.2 |\n| 82 | Yemen | -0.2 |\n| 83 | Cuba | -0.2 |\n| 84 | Georgia | -0.2 |\n| 85 | Sri Lanka | -0.2 |\n| 86 | Lithuania | -0.2 |\n| 87 | Denmark | -0.2 |\n| 88 | Ethiopia | -0.2 |\n| 89 | Croatia | -0.2 |\n| 90 | Lebanon | -0.2 |\n| 91 | Guatemala | -0.3 |\n| 92 | Cambodia | -0.3 |\n| 93 | Kenya | -0.3 |\n| 94 | Serbia | -0.3 |\n| 95 | New Zealand | -0.3 |\n| 96 | Bulgaria | -0.3 |\n| 97 | Tunisia | -0.3 |\n| 98 | Panama | -0.3 |\n| 99 | Jordan | -0.3 |\n| 100 | Romania | -0.4 |\n| 101 | Slovakia | -0.4 |\n| 102 | Switzerland | -0.5 |\n| 103 | Finland | -0.5 |\n| 104 | Dominican Republic | -0.5 |\n| 105 | Uzbekistan | -0.5 |\n| 106 | Ireland | -0.5 |\n| 107 | Sweden | -0.5 |\n| 108 | Hungary | -0.6 |\n| 109 | Portugal | -0.6 |\n| 110 | Ukraine | -0.6 |\n| 111 | Czechia | -0.7 |\n| 112 | Belarus | -0.8 |\n| 113 | Austria | -0.8 |\n| 114 | Greece | -0.9 |\n| 115 | Morocco | -0.9 |\n| 116 | Hong Kong | -1 |\n| 117 | Chile | -1.1 |\n| 118 | Egypt | -1.1 |\n| 119 | Bangladesh | -1.2 |\n| 120 | Pakistan | -1.3 |\n| 121 | Philippines | -1.7 |\n| 122 | Vietnam | -1.8 |\n| 123 | Belgium | -1.8 |\n| 124 | Mexico | -1.9 |\n| 125 | Poland | -2.0 |\n| 126 | Netherlands | -2.5 |\n| 127 | United Kingdom | -2.8 |\n| 128 | Thailand | -3.4 |\n| 129 | Singapore | -3.7 |\n| 130 | Spain | -3.8 |\n| 131 | France | -4.2 |\n| 132 | Taiwan | -4.3 |\n| 133 | Italy | -4.7 |\n| 134 | Türkiye | -4.9 |\n| 135 | Germany | -7.1 |\n| 136 | South Korea | -10.3 |\n| 137 | Japan | -13.7 |\n| 138 | India | -15.1 |\n| 139 | China | -39.8 |",
+    "ai_analysis": {
+      "core_insight": "全球能源生产高度集中，前五大净出口国占据总出口量的半数以上。",
+      "data_highlights": [
+        "俄罗斯以26.0夸德BTU的能源缺口位居全球第一，是第二大出口国沙特的1.7倍。",
+        "前10大净出口国合计贡献了112.6夸德BTU，占全球净出口总量的约75%。",
+        "中国以-39.8夸德BTU成为全球最大能源净进口国，其缺口超过前五大出口国之和。",
+        "能源净出口国主要为资源型国家（如OPEC+成员）及大型生产国（如美、加、澳）。",
+        "在排名前42位的净出口国之后，出现了包括众多小型经济体在内的净进口国，缺口普遍小于0.5夸德BTU。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country/Region",
+            "Energy Gap (Quadrillion BTU)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Russia",
+              "26.0"
+            ],
+            [
+              "2",
+              "Saudi Arabia",
+              "15.1"
+            ],
+            [
+              "3",
+              "Australia",
+              "11.9"
+            ],
+            [
+              "4",
+              "Canada",
+              "10.0"
+            ],
+            [
+              "5",
+              "United States",
+              "9.0"
+            ],
+            [
+              "6",
+              "Indonesia",
+              "8.8"
+            ],
+            [
+              "7",
+              "Norway",
+              "8.3"
+            ],
+            [
+              "8",
+              "Qatar",
+              "7.6"
+            ],
+            [
+              "9",
+              "Iraq",
+              "7.0"
+            ],
+            [
+              "10",
+              "United Arab Emirates",
+              "6.8"
+            ],
+            [
+              "11",
+              "Iran",
+              "6.2"
+            ],
+            [
+              "12",
+              "Kuwait",
+              "4.7"
+            ],
+            [
+              "13",
+              "Kazakhstan",
+              "4.2"
+            ],
+            [
+              "14",
+              "Algeria",
+              "3.6"
+            ],
+            [
+              "15",
+              "Nigeria",
+              "3.1"
+            ],
+            [
+              "16",
+              "Angola",
+              "2.4"
+            ],
+            [
+              "17",
+              "Colombia",
+              "2.3"
+            ],
+            [
+              "18",
+              "Oman",
+              "2.2"
+            ],
+            [
+              "19",
+              "Libya",
+              "2.1"
+            ],
+            [
+              "20",
+              "Azerbaijan",
+              "2.0"
+            ],
+            [
+              "21",
+              "Mongolia",
+              "1.8"
+            ],
+            [
+              "22",
+              "Venezuela",
+              "1.5"
+            ],
+            [
+              "23",
+              "Turkmenistan",
+              "1.5"
+            ],
+            [
+              "24",
+              "Brazil",
+              "1.3"
+            ],
+            [
+              "25",
+              "Mozambique",
+              "0.7"
+            ],
+            [
+              "26",
+              "Congo-Brazzaville",
+              "0.5"
+            ],
+            [
+              "27",
+              "Ecuador",
+              "0.5"
+            ],
+            [
+              "28",
+              "Trinidad and Tobago",
+              "0.4"
+            ],
+            [
+              "29",
+              "Gabon",
+              "0.4"
+            ],
+            [
+              "30",
+              "Brunei",
+              "0.4"
+            ],
+            [
+              "31",
+              "Papua New Guinea",
+              "0.4"
+            ],
+            [
+              "32",
+              "Equatorial Guinea",
+              "0.3"
+            ],
+            [
+              "33",
+              "Argentina",
+              "0.3"
+            ],
+            [
+              "34",
+              "Bahrain",
+              "0.3"
+            ],
+            [
+              "35",
+              "Chad",
+              "0.3"
+            ],
+            [
+              "36",
+              "Ghana",
+              "0.2"
+            ],
+            [
+              "37",
+              "Cameroon",
+              "0.1"
+            ],
+            [
+              "38",
+              "Bolivia",
+              "0.1"
+            ],
+            [
+              "39",
+              "South Sudan",
+              "0.1"
+            ],
+            [
+              "40",
+              "South Africa",
+              "0.1"
+            ],
+            [
+              "41",
+              "Laos",
+              "0.1"
+            ],
+            [
+              "42",
+              "Myanmar",
+              "0.1"
+            ]
+          ],
+          "caption": "全球能源净出口国排名（前42名）"
+        }
+      ],
+      "deep_dive": "## 一、 结构性失衡：能源地缘政治的集中映射\n\n这份能源缺口排名清晰地揭示了全球能源生产与消费的极度不均衡。正的“能源缺口”代表净出口，负值则代表净进口。数据表明，全球能源供给高度集中于少数国家，而需求则广泛分布于全球各经济体。\n\n**生产端的高度集中**：排名前10的国家（从俄罗斯到阿联酋）合计净出口112.6夸德BTU，占据了绝对主导地位。这些国家可归为两类：一是**传统油气资源富集国**，以俄罗斯、沙特阿拉伯、卡塔尔等OPEC+核心成员为代表，其能源安全与财政高度依赖能源出口；二是**大型综合能源生产国**，如美国、加拿大、澳大利亚、挪威，它们在化石能源基础上，往往也拥有丰富的水力、核能或可再生能源资源，并具备强大的工业与开采能力。这种生产集中度意味着全球能源供应链对地缘政治风险（如制裁、冲突、政策协调）极为敏感。\n\n**消费端的分散与崛起**：全球最大的能源净进口国是中国（-39.8夸德BTU），其缺口甚至超过了前三大出口国的总和。紧随其后的是印度、日本、韩国和德国等主要制造业与消费大国。值得注意的是，许多发达经济体（如英国、法国、意大利）和新兴工业化国家（如越南、泰国、墨西哥）也位列净进口国行列。这反映了工业化和经济增长对能源的巨大需求，以及这些经济体国内资源禀赋与消费模式之间的错配。中国、印度等国的巨大缺口凸显了其能源安全面临的长期挑战。\n\n## 二、 数据启示与局限性思考\n\n**启示一：能源转型的机遇与挑战并存**。对于俄罗斯、沙特等传统出口国，能源转型既是威胁（需求长期可能下降），也蕴含着利用现有能源收入进行经济多元化和投资新能源技术的战略窗口。对于净进口国，尤其是欧洲国家（如德国、法国）和日本，巨大的缺口是其加速发展可再生能源、提升能效、推动能源独立的最直接动力。数据中挪威（净出口）和丹麦（净进口）的对比，也体现了不同国情下能源路径的差异。\n\n**启示二：数字需结合多维指标审视**。单纯比较“能源缺口”绝对值存在局限性。首先，能源结构不同，价值迥异。一国出口的石油、天然气与另一国出口的煤炭，在市场价格、碳排放强度和战略重要性上差异巨大。其次，单位GDP能耗和人均能源消费是衡量能源效率和生活水平的关键指标。一个拥有巨大出口缺口的国家可能人均能耗很低，而一个缺口较小的进口国可能能效很高。因此，该数据表应与能源强度、可再生能源占比等指标结合分析，才能全面评估一国的能源安全状况和转型前景。\n\n此外，数据中部分国家（如美国）同时是巨大的能源生产国和消费国，其“净出口”地位更多是页岩气革命后产量激增的结果，其国内能源政策与全球市场影响力同样复杂。而一些小经济体（如特立尼达和多巴哥、文莱）的净出口，虽然对其自身经济至关重要，但对全球市场的影响相对有限。最后，需注意此数据反映的是某一特定时间点的流量净额，未考虑战略储备、能源效率长期趋势及地缘政治突发事件的影响。",
+      "glossary": [
+        {
+          "term": "能源缺口 (Energy Gap)",
+          "explanation": "指一国能源生产总量与消费总量之间的差值。正值为能源净出口，负值为能源净进口，是衡量一国能源自给能力与对外依存度的关键指标。"
+        },
+        {
+          "term": "夸德BTU (Quadrillion BTU)",
+          "explanation": "一个巨大的能量计量单位，常用于国家级能源统计。1夸德BTU约等于1.055×10^18焦耳，或相当于约1.72亿桶原油的能量。"
+        },
+        {
+          "term": "OPEC+",
+          "explanation": "石油输出国组织（OPEC）与以俄罗斯为首的非OPEC主要产油国联盟，通过协调产量政策来影响全球石油市场供应和价格。"
+        },
+        {
+          "term": "能源安全 (Energy Security)",
+          "explanation": "指一个国家或地区能够以可承受的价格、可靠且可持续地获取足够能源供应的能力。过度依赖进口或单一来源是主要风险。"
+        },
+        {
+          "term": "页岩气革命 (Shale Gas Revolution)",
+          "explanation": "指通过水力压裂和水平钻井技术，大规模开采页岩层中的天然气（及石油）的技术突破。它使美国在21世纪初从能源进口国转变为净出口国，重塑了全球能源格局。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b97ec96b",
+    "title": "Mapped: The States Americans Are Fleeing—and Moving To",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-states-americans-are-fleeing-and-moving-to/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b97ec96b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuHlpEl5qvKTSRk5q7EtmiH4oqFelFKw7n/9k=",
+    "image_version": 1781635931,
+    "pub_date": "Tue, 16 Jun 2026 13:38:14 +0000",
+    "content_md": "| Rank | State | Net Domestic Migration (2025) |\n| --- | --- | --- |\n| 1 | North Carolina | +84.1K |\n| 2 | Texas | +67.3K |\n| 3 | South Carolina | +66.6K |\n| 4 | Tennessee | +42.4K |\n| 5 | Arizona | +31.1K |\n| 6 | Georgia | +27.3K |\n| 7 | Alabama | +23.4K |\n| 8 | Florida | +22.5K |\n| 9 | Idaho | +19.9K |\n| 10 | Nevada | +14.9K |\n| 11 | Oklahoma | +14.5K |\n| 12 | Arkansas | +14.5K |\n| 13 | Missouri | +14.0K |\n| 14 | Indiana | +12.2K |\n| 15 | Ohio | +11.9K |\n| 16 | Washington | +9.2K |\n| 17 | Minnesota | +8.3K |\n| 18 | Maine | +7.4K |\n| 19 | Kentucky | +7.3K |\n| 20 | Wisconsin | +7.0K |\n| 21 | Delaware | +6.9K |\n| 22 | New Hampshire | +6.6K |\n| 23 | West Virginia | +6.4K |\n| 24 | Montana | +6.3K |\n| 25 | Virginia | +6.3K |\n| 26 | Utah | +3.3K |\n| 27 | Oregon | +2.2K |\n| 28 | South Dakota | +2.2K |\n| 29 | Michigan | +1.8K |\n| 30 | Wyoming | +1.5K |\n| 31 | North Dakota | +512 |\n| 32 | Nebraska | −366 |\n| 33 | Kansas | −519 |\n| 34 | Vermont | −726 |\n| 35 | Mississippi | −917 |\n| 36 | Iowa | −970 |\n| 37 | Rhode Island | −1.6K |\n| 38 | New Mexico | −2.3K |\n| 39 | Pennsylvania | −2.9K |\n| 40 | District of Columbia | −4.1K |\n| 41 | Alaska | −4.5K |\n| 42 | Connecticut | −5.9K |\n| 43 | Hawaii | −8.9K |\n| 44 | Colorado | −12.1K |\n| 45 | Maryland | −12.1K |\n| 46 | Louisiana | −14.4K |\n| 47 | Massachusetts | −33.3K |\n| 48 | New Jersey | −37.4K |\n| 49 | Illinois | −40.0K |\n| 50 | New York | −137.6K |\n| 51 | California | −229.1K |",
+    "ai_analysis": {
+      "core_insight": "美国人口正加速从东北部、西海岸等高成本州，向东南部、山地西部等阳光带低成本州迁移。",
+      "data_highlights": [
+        "人口净流入前三名是北卡罗来纳州(+84.1K)、德克萨斯州(+67.3K)和南卡罗来纳州(+66.6K)，均位于美国东南部。",
+        "人口净流出最严重的州是加利福尼亚州(-229.1K)和纽约州(-137.6K)，远超其他州。",
+        "佛罗里达州(+22.5K)虽为传统热门迁入地，但净流入排名仅第八，增速或有所放缓。",
+        "中部大平原州如内布拉斯加州(-366)、堪萨斯州(-519)等也出现小幅净流出，显示人口流动的广泛性。",
+        "华盛顿特区(-4.1K)也呈净流出状态，可能与远程工作普及及生活成本有关。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Net Domestic Migration (2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "North Carolina",
+              "+84.1K"
+            ],
+            [
+              "2",
+              "Texas",
+              "+67.3K"
+            ],
+            [
+              "3",
+              "South Carolina",
+              "+66.6K"
+            ],
+            [
+              "4",
+              "Tennessee",
+              "+42.4K"
+            ],
+            [
+              "5",
+              "Arizona",
+              "+31.1K"
+            ],
+            [
+              "6",
+              "Georgia",
+              "+27.3K"
+            ],
+            [
+              "7",
+              "Alabama",
+              "+23.4K"
+            ],
+            [
+              "8",
+              "Florida",
+              "+22.5K"
+            ],
+            [
+              "9",
+              "Idaho",
+              "+19.9K"
+            ],
+            [
+              "10",
+              "Nevada",
+              "+14.9K"
+            ],
+            [
+              "42",
+              "Connecticut",
+              "-5.9K"
+            ],
+            [
+              "43",
+              "Hawaii",
+              "-8.9K"
+            ],
+            [
+              "44",
+              "Colorado",
+              "-12.1K"
+            ],
+            [
+              "45",
+              "Maryland",
+              "-12.1K"
+            ],
+            [
+              "46",
+              "Louisiana",
+              "-14.4K"
+            ],
+            [
+              "47",
+              "Massachusetts",
+              "-33.3K"
+            ],
+            [
+              "48",
+              "New Jersey",
+              "-37.4K"
+            ],
+            [
+              "49",
+              "Illinois",
+              "-40.0K"
+            ],
+            [
+              "50",
+              "New York",
+              "-137.6K"
+            ],
+            [
+              "51",
+              "California",
+              "-229.1K"
+            ]
+          ],
+          "caption": "2025年美国各州国内净迁入人口排名（前10与后10）"
+        }
+      ],
+      "deep_dive": "## 人口迁徙的宏观格局：阳光带崛起与传统中心的衰退\n\n数据清晰地勾勒出美国国内人口流动的“南向化”和“阳光化”趋势。净流入排名前10的州中，有8个位于美国南部（东南部）和山地西部，即通常所说的“阳光带”。这反映了数十年来，人口与经济重心持续从东北部“锈带”和西海岸向生活成本更低、气候更宜人、税收政策更友好的地区转移。北卡罗来纳州、德克萨斯州、南卡罗来纳州等凭借相对较低的住房和税收负担、增长的就业机会（尤其是在科技、制造业领域）以及更宽松的商业环境，成为吸引居民和企业的磁石。\n\n## 驱动因素与深层启示：经济、政策与生活方式的博弈\n\n\n- **核心驱动力：成本与生活质量**。加州和纽约州的巨额净流出（分别为-22.1万和-13.8万）是成本压力的集中体现。高昂的生活成本、房价、州与地方税收是推动居民，尤其是中等收入家庭和退休人群外迁的主要推力。与此同时，阳光带州通过更友好的税制（如无州所得税）和较低的生活成本形成强大拉力。\n- **远程工作的催化作用**。疫情后远程工作的普及放大了人口流动性。许多工作者得以摆脱必须居住在昂贵大都市区的限制，转而迁往生活品质更高、住房更可负担的地区。华盛顿特区、科罗拉多州等传统高技能就业中心出现净流出，印证了这一趋势。\n- **并非所有阳光带州都高增长**。值得注意的是，传统的“阳光州”佛罗里达，其净流入排名（第8）和数值（+2.25万）已不复往日辉煌，可能与其近年来快速上涨的房价和保险成本有关，显示迁移决策日益复杂化。\n- **中部大州与工业区的困境**。伊利诺伊州、俄亥俄州、密歇根州等传统工业州虽有小幅净流入或流出，但整体仍面临人口增长乏力或流失的挑战，凸显经济转型的长期压力。\n- **可持续性挑战**。大规模人口涌入为阳光带州带来经济活力的同时，也对其基础设施、公共服务、水资源和生态环境构成压力，可能在未来成为限制其吸引力的新因素。",
+      "glossary": [
+        {
+          "term": "国内净迁入 (Net Domestic Migration)",
+          "explanation": "指在特定时期内，从一个国家/地区内部其他地方迁入某地的人口数量减去从该地迁出的人口数量。正值表示人口净流入，负值表示净流出。"
+        },
+        {
+          "term": "阳光带 (Sun Belt)",
+          "explanation": "泛指美国南部和西南部各州，通常包括从北卡罗来纳州到加利福尼亚州的广大区域，以其温暖气候和近年来的人口经济增长而闻名。"
+        },
+        {
+          "term": "锈带 (Rust Belt)",
+          "explanation": "指美国东北部和中西部五大湖附近的传统工业衰退地区，因工厂锈蚀而得名，常与人口流失、经济转型困难相关联。"
+        },
+        {
+          "term": "远程工作 (Remote Work)",
+          "explanation": "指员工不在传统办公室或雇主所在地工作，而是利用信息技术在其他地点（如家中）完成工作的模式，其普及削弱了居住地与工作地的绑定关系。"
+        }
+      ]
+    }
+  },
+  {
     "id": "47841075",
     "title": "Ranked: SpaceX vs. The Largest Public Space Companies",
     "original_url": "https://www.visualcapitalist.com/ranked-spacex-vs-every-other-public-space-company/",
