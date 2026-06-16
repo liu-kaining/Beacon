@@ -1,5 +1,95 @@
 [
   {
+    "id": "ba2c88c5",
+    "title": "How Much Value $100 Loses in the World’s Highest-Inflation Countries in 2026",
+    "original_url": "https://www.visualcapitalist.com/sp/pla02-inflation-in-2026-where-100-dollars-loses-most-purchasing-power/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ba2c88c5.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqTSqM01wakhBJrPm1FYcI+KKtqnFFXcViN7elihwattSL1pcqLuKqcUVIOlFOwj//2Q==",
+    "image_version": 1781577044,
+    "pub_date": "Mon, 15 Jun 2026 13:45:00 +0000",
+    "content_md": "| Country | Purchasing Power of $100 by End of 2026 |\n| --- | --- |\n| Venezuela | $31 |\n| Sudan | $61 |\n| Iran | $67 |\n| Bolivia | $79 |\n| Argentina | $80 |\n| Türkiye | $80 |\n| Malawi | $81 |\n| Haiti | $82 |\n| Burundi | $84 |\n| Myanmar | $85 |",
+    "ai_analysis": {
+      "core_insight": "至2026年末，全球高通胀国家货币购买力将大幅缩水，部分国家100美元仅剩31美元。",
+      "data_highlights": [
+        "委内瑞拉高通胀最严重，至2026年末100美元购买力仅相当于31美元，损失69%。",
+        "苏丹和伊朗紧随其后，购买力损失分别达39%和33%。",
+        "土耳其、阿根廷等中等规模经济体也位列前十，通胀问题具全球性。",
+        "前十大高通胀国家中，有六个国家来自非洲和拉丁美洲。",
+        "所有国家购买力均损失超过15%，显示全球部分经济体面临严峻通胀压力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Purchasing Power of $100 by End of 2026"
+          ],
+          "rows": [
+            [
+              "Venezuela",
+              "$31"
+            ],
+            [
+              "Sudan",
+              "$61"
+            ],
+            [
+              "Iran",
+              "$67"
+            ],
+            [
+              "Bolivia",
+              "$79"
+            ],
+            [
+              "Argentina",
+              "$80"
+            ],
+            [
+              "Türkiye",
+              "$80"
+            ],
+            [
+              "Malawi",
+              "$81"
+            ],
+            [
+              "Haiti",
+              "$82"
+            ],
+            [
+              "Burundi",
+              "$84"
+            ],
+            [
+              "Myanmar",
+              "$85"
+            ]
+          ],
+          "caption": "至2026年末100美元在部分高通胀国家的购买力"
+        }
+      ],
+      "deep_dive": "## 通胀分层：从恶性通胀到高通胀\n表格数据揭示了全球通胀水平的显著分层。委内瑞拉以69%的购买力损失（$100 → $31）独占鳌头，其经济深陷长期恶性通胀与结构性危机，货币体系近乎崩溃。苏丹和伊朗损失超过30%，反映出长期国际制裁、地缘政治冲突与国内经济管理问题叠加的严重后果。\n\n第二梯队包括玻利维亚、阿根廷、土耳其等国，购买力损失在20%左右。这些国家通胀高企，成因各异：阿根廷与土耳其长期受困于财政赤字、货币贬值与政策不稳定性；玻利维亚和马拉维等国的通胀则更多与大宗商品依赖、外汇短缺及财政纪律松弛相关。海地、缅甸等国的通胀则与政治动荡、内部冲突及全球供应链冲击密切相关。\n\n## 机制、启示与风险传导\n高通胀的成因机制复杂，通常交织着**财政主导型政策**（政府过度支出、货币化债务）、**供给侧冲击**（能源、粮食价格飙升）、**汇率贬值**（输入性通胀）以及**预期自我实现**（通胀心理固化）。例如，土耳其和阿根廷的案例中，政治对货币政策的干预和市场信心的丧失是关键放大器。\n\n这一排名对投资者和政策制定者有重要启示：\n- **资产保值**：在表格所列国家持有现金或本币资产面临极高贬值风险，黄金、美元资产或实物资产可能成为避风港。\n- **政策警示**：持续的高通胀将侵蚀居民储蓄、加剧贫困、扭曲投资决策，并可能引发社会不稳定。\n- **全球联动**：部分国家的通胀危机可能通过贸易、移民和资本流动产生区域外溢效应。\n\n局限性在于，该预测基于至2026年末的单一时间点，未能反映年度内的动态变化；且购买力换算基于一篮子商品，可能无法完全体现各国居民的实际生活成本差异。",
+      "glossary": [
+        {
+          "term": "购买力",
+          "explanation": "指单位货币（如100美元）能够购买的商品和服务的实际数量。通胀导致购买力下降，即同样数量的货币能买到的东西变少了。"
+        },
+        {
+          "term": "恶性通胀",
+          "explanation": "指物价水平以极高速度上涨（通常每月超过50%）且完全失控的极端通胀状态，货币迅速丧失其基本职能。"
+        },
+        {
+          "term": "输入性通胀",
+          "explanation": "指由于进口商品（尤其是能源、原材料等）价格上涨，导致国内生产成本和最终消费品价格普遍上涨的通胀类型。"
+        },
+        {
+          "term": "财政主导型政策",
+          "explanation": "指政府财政目标（如为赤字融资）优先于货币稳定目标，导致央行为财政支出过度发行货币，从而引发通胀。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4478741a",
     "title": "Charted: How the World Added Decades to Life Expectancy",
     "original_url": "https://www.visualcapitalist.com/charted-how-world-added-decades-to-life-expectancy/",
