@@ -1,5 +1,328 @@
 [
   {
+    "id": "47841075",
+    "title": "Ranked: SpaceX vs. The Largest Public Space Companies",
+    "original_url": "https://www.visualcapitalist.com/ranked-spacex-vs-every-other-public-space-company/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/47841075.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCmLgEdar3B3is9Jz61YWTI5rr0Zx0IKJWe3y3SireRRU8p13RnrUymiipiciHbjRRRVGh//9k=",
+    "image_version": 1781616060,
+    "pub_date": "Tue, 16 Jun 2026 11:11:43 +0000",
+    "content_md": "| Rank | Company | Market Capitalization (USD Billions) |\n| --- | --- | --- |\n| 1 | SpaceX | $2,460.0 |\n| 2 | Rocket Lab | $68.6 |\n| 3 | AST SpaceMobile | $34.1 |\n| 4 | EchoStar | $33.1 |\n| 5 | China Satellite Communications | $20.5 |\n| 6 | Planet Labs | $10.9 |\n| 7 | Globalstar | $10.6 |\n| 8 | Viasat | $9.6 |\n| 9 | SKY Perfect JSAT | $5.7 |\n| 10 | Firefly Aerospace | $5.5 |\n| 11 | MDA Space | $5.3 |\n| 12 | Iridium Communications | $4.8 |\n| 13 | Intuitive Machines | $4.1 |\n| 14 | York Space Systems | $4.0 |\n| 15 | SES | $3.8 |\n| 16 | Eutelsat | $3.7 |\n| 17 | Redwire | $3.0 |\n| 18 | Telesat | $2.5 |\n| 19 | Voyager Technologies | $2.4 |\n| 20 | Astroscale | $1.3 |\n| 21 | BlackSky Technology | $1.2 |",
+    "ai_analysis": {
+      "core_insight": "SpaceX以绝对优势领跑，市值远超其他所有上市太空公司总和，呈现压倒性垄断格局。",
+      "data_highlights": [
+        "SpaceX市值高达2460亿美元，是第二名Rocket Lab的36倍，占据绝对统治地位。",
+        "榜单前20名中，市值超过100亿美元的仅SpaceX一家，第二梯队（Rocket Lab、AST SpaceMobile等）市值均在100亿美元以下。",
+        "除了SpaceX，其余公司市值均低于70亿美元，反映出上市太空企业普遍规模较小。",
+        "商业航天领域呈现高度两极分化，SpaceX独占鳌头，其余公司竞争激烈但体量有限。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Market Capitalization (USD Billions)"
+          ],
+          "rows": [
+            [
+              "1",
+              "SpaceX",
+              "$2,460.0"
+            ],
+            [
+              "2",
+              "Rocket Lab",
+              "$68.6"
+            ],
+            [
+              "3",
+              "AST SpaceMobile",
+              "$34.1"
+            ],
+            [
+              "4",
+              "EchoStar",
+              "$33.1"
+            ],
+            [
+              "5",
+              "China Satellite Communications",
+              "$20.5"
+            ],
+            [
+              "6",
+              "Planet Labs",
+              "$10.9"
+            ],
+            [
+              "7",
+              "Globalstar",
+              "$10.6"
+            ],
+            [
+              "8",
+              "Viasat",
+              "$9.6"
+            ],
+            [
+              "9",
+              "SKY Perfect JSAT",
+              "$5.7"
+            ],
+            [
+              "10",
+              "Firefly Aerospace",
+              "$5.5"
+            ],
+            [
+              "11",
+              "MDA Space",
+              "$5.3"
+            ],
+            [
+              "12",
+              "Iridium Communications",
+              "$4.8"
+            ],
+            [
+              "13",
+              "Intuitive Machines",
+              "$4.1"
+            ],
+            [
+              "14",
+              "York Space Systems",
+              "$4.0"
+            ],
+            [
+              "15",
+              "SES",
+              "$3.8"
+            ],
+            [
+              "16",
+              "Eutelsat",
+              "$3.7"
+            ],
+            [
+              "17",
+              "Redwire",
+              "$3.0"
+            ],
+            [
+              "18",
+              "Telesat",
+              "$2.5"
+            ],
+            [
+              "19",
+              "Voyager Technologies",
+              "$2.4"
+            ],
+            [
+              "20",
+              "Astroscale",
+              "$1.3"
+            ],
+            [
+              "21",
+              "BlackSky Technology",
+              "$1.2"
+            ]
+          ],
+          "caption": "上市太空公司市值排名 (Top 21)"
+        }
+      ],
+      "deep_dive": "## SpaceX的绝对统治与市场结构\n\nSpaceX的2460亿美元市值不仅使其高居榜首，更揭示了其在整个商业航天领域近乎垄断的地位。其市值是榜单第二名至第二十一名公司市值总和（约239亿美元）的10倍以上。这种悬殊差距源于SpaceX在运载火箭发射（特别是可复用火箭技术）、星链（Starlink）卫星互联网等核心业务上建立的全面领先优势、巨大的先发规模以及对未来太空经济生态的整合能力。相比之下，其他上市公司主要聚焦于卫星制造、通信、遥感、数据分析或发射服务中的某一细分环节，业务范围和技术护城河相对有限，难以挑战SpaceX的综合平台型巨头地位。\n\n## 第二梯队竞争与细分赛道机会\n\n榜单中排名第二至第五的公司（Rocket Lab、AST SpaceMobile、EchoStar、中国卫通）市值在20亿至70亿美元之间，构成了一个明显的“第二梯队”。这些公司通常在某一领域具有鲜明特色：Rocket Lab专注于小型运载火箭；AST SpaceMobile致力于构建卫星直连手机的通信网络；EchoStar和中国卫通则是传统的卫星通信运营商。从第六名Planet Labs开始，公司市值骤降至10亿美元左右及以下，直至榜单末尾的BlackSky Technology仅1.2亿美元。这反映出除了头部巨头，大量太空科技公司仍处于发展早期或细分利基市场，规模较小。对于投资者而言，除了关注SpaceX，也需要在快速增长的卫星互联网、地球观测、太空物流与碎片清除等细分赛道中，寻找具有技术独特性和增长潜力的第二梯队公司。然而，整个行业的资本高度集中于SpaceX这一事实，也提示了该领域投资的高度风险性和对颠覆性创新者的依赖。",
+      "glossary": [
+        {
+          "term": "Market Capitalization (市值)",
+          "explanation": "指一家上市公司的总市场价值，计算方式为当前股价乘以总发行股数。它是衡量公司规模和市场认可度的关键指标。"
+        },
+        {
+          "term": "Starlink (星链)",
+          "explanation": "由SpaceX运营的卫星互联网项目，计划发射数千颗低轨卫星，旨在为全球提供高速互联网接入服务。"
+        },
+        {
+          "term": "Reusable Rocket (可复用火箭)",
+          "explanation": "能够像飞机一样在发射后安全返回并重复使用的运载火箭，能大幅降低太空发射成本，是SpaceX的核心技术优势。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "603210f3",
+    "title": "Ranked: Europe’s Most Powerful Economic Centers",
+    "original_url": "https://www.visualcapitalist.com/mapped-europes-most-powerful-economic-centers/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/603210f3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnITV1GwKoxVZXpXpVEcCLO+iq+TRXNymlz//Z",
+    "image_version": 1781616107,
+    "pub_date": "Tue, 16 Jun 2026 04:23:55 +0000",
+    "content_md": "| Rank | Region | Regional GDP (billions of euro) | Largest City |\n| --- | --- | --- | --- |\n| 1 | Île-de-France | 866 | Paris |\n| 2 | Greater London | 713 | London |\n| 3 | Lombardy | 505 | Milan |\n| 4 | Upper Bavaria | 359 | Munich |\n| 5 | Eastern and Midland | 336 | Dublin |\n| 6 | Community of Madrid | 316 | Madirid |\n| 7 | Catalonia | 302 | Barcelona |\n| 8 | Rhône-Alpes | 299 | Lyon |\n| 9 | Stuttgart | 285 | Stuttgart |\n| 10 | Düsseldorf | 271 | Düsseldorf |\n| 11 | Darmstadt | 267 | Frankfurt |\n| 12 | Lazio | 246 | Rome |\n| 13 | North Holland | 243 | Amsterdam |\n| 14 | Cologne | 237 | Cologne |\n| 15 | South Holland | 231 | Rotterdam |\n| 16 | Provence-Alpes-Côte d'Azur | 218 | Marseille |\n| 17 | Andalucia | 212 | Seville |\n| 18 | Berlin | 208 | Berlin |\n| 19 | Veneto | 201 | Verona |\n| 20 | Emilia-Romagna | 198 | Bologna |",
+    "ai_analysis": {
+      "core_insight": "欧洲经济重心高度集中于少数核心都市圈，呈现显著的多中心与梯度分布格局。",
+      "data_highlights": [
+        "法兰西岛大区以8660亿欧元GDP位居榜首，巴黎的核心引擎作用突出。",
+        "德国表现出强大的区域均衡实力，前十中独占四席，体现了其多中心的经济结构。",
+        "前五名中，伦敦、米兰、慕尼黑、都柏林均为欧洲乃至全球知名的关键城市。",
+        "西班牙的马德里和加泰罗尼亚、意大利的伦巴第等南欧主要经济区也位列前十。",
+        "荷兰的南、北荷兰省双双入围，显示出低地国家在全球贸易中的重要地位。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Region",
+            "Regional GDP (billions of euro)",
+            "Largest City"
+          ],
+          "rows": [
+            [
+              "1",
+              "Île-de-France",
+              "866",
+              "Paris"
+            ],
+            [
+              "2",
+              "Greater London",
+              "713",
+              "London"
+            ],
+            [
+              "3",
+              "Lombardy",
+              "505",
+              "Milan"
+            ],
+            [
+              "4",
+              "Upper Bavaria",
+              "359",
+              "Munich"
+            ],
+            [
+              "5",
+              "Eastern and Midland",
+              "336",
+              "Dublin"
+            ],
+            [
+              "6",
+              "Community of Madrid",
+              "316",
+              "Madrid"
+            ],
+            [
+              "7",
+              "Catalonia",
+              "302",
+              "Barcelona"
+            ],
+            [
+              "8",
+              "Rhône-Alpes",
+              "299",
+              "Lyon"
+            ],
+            [
+              "9",
+              "Stuttgart",
+              "285",
+              "Stuttgart"
+            ],
+            [
+              "10",
+              "Düsseldorf",
+              "271",
+              "Düsseldorf"
+            ],
+            [
+              "11",
+              "Darmstadt",
+              "267",
+              "Frankfurt"
+            ],
+            [
+              "12",
+              "Lazio",
+              "246",
+              "Rome"
+            ],
+            [
+              "13",
+              "North Holland",
+              "243",
+              "Amsterdam"
+            ],
+            [
+              "14",
+              "Cologne",
+              "237",
+              "Cologne"
+            ],
+            [
+              "15",
+              "South Holland",
+              "231",
+              "Rotterdam"
+            ],
+            [
+              "16",
+              "Provence-Alpes-Côte d'Azur",
+              "218",
+              "Marseille"
+            ],
+            [
+              "17",
+              "Andalucia",
+              "212",
+              "Seville"
+            ],
+            [
+              "18",
+              "Berlin",
+              "208",
+              "Berlin"
+            ],
+            [
+              "19",
+              "Veneto",
+              "201",
+              "Verona"
+            ],
+            [
+              "20",
+              "Emilia-Romagna",
+              "198",
+              "Bologna"
+            ]
+          ],
+          "caption": "欧洲最具经济实力的地区排名（前20）"
+        }
+      ],
+      "deep_dive": "## 经济版图：一超多强与国家级多中心结构\n\n这份榜单清晰地揭示了欧洲经济地理的核心特征：高度集中与多中心并存。\n\n- **“一超”格局显著**：法兰西岛大区（巴黎）以8660亿欧元的GDP遥遥领先，其体量甚至超过了第二名大伦敦区与第三名伦巴第大区之和。这充分体现了巴黎作为法国单一核心的极化效应，其政治、文化、经济功能高度叠加。\n- **国家级的“多中心”引擎**：德国是典型的多中心经济结构代表。在前20名中，德国占据了5席（上巴伐利亚、斯图加特、杜塞尔多夫、达姆施塔特、科隆），且分布相对均衡。这与其联邦制传统、产业分布（如汽车、化工、金融）和历史因素密切相关，避免了经济过度依赖单一城市。\n- **传统强国核心区域稳固**：意大利的伦巴第（米兰）、西班牙的马德里和加泰罗尼亚、英国的大伦敦、法国的其他大区（罗纳-阿尔卑斯、普罗旺斯）等，均位列前茅。这些区域是各自国家的经济心脏，汇聚了金融、高端制造、创新和人才。\n\n## 驱动力、启示与潜在挑战\n\n### 主要驱动力\n1.  **产业集群效应**：榜首区域无一不是拥有世界级产业集群的地方。巴黎的时尚、金融与总部经济；伦敦的金融与专业服务；米兰的设计与制造；慕尼黑的汽车与工程技术；都柏林的科技（受跨国企业税收政策影响）与医药。\n2.  **基础设施与连通性**：这些区域通常拥有顶尖的国际机场、高速铁路网络和港口（如鹿特丹、阿姆斯特丹），是全球资本、商品和人员流动的关键节点。\n3.  **人力资本与创新**：顶尖大学、研究机构和高度国际化的环境，使其成为人才磁石，驱动创新和知识密集型产业发展。\n\n### 启示与思考\n- **对区域发展的启示**：经济实力的构建依赖于打造具有全球竞争力的产业集群和一流的基础设施与营商/生活环境，而非简单的规模扩张。\n- **欧盟内部平衡的挑战**：榜单凸显了欧盟内部巨大的经济地理差距。东西欧、南北欧的经济重心差异明显，这对欧盟的凝聚力基金、区域发展政策提出了长期挑战。\n- **首都虹吸效应的双刃剑**：以巴黎、伦敦为代表，首都城市的超强经济实力带来了效率，但也可能加剧区域发展不平衡。如何在发挥核心城市引领作用的同时促进区域协调发展，是摆在许多国家面前的难题。\n\n### 数据局限性\n- **口径说明**：GDP数据为大区（NUTS 2级别）层面，未能反映更微观的城市或都市圈经济强度。例如，德国的柏林、汉堡等主要城市未单独列出，但其所在大区也进入了榜单。\n- **统计差异**：不同国家的区域划分标准和统计方法可能存在细微差异，影响绝对数值的直接可比性，但排名格局仍具参考价值。",
+      "glossary": [
+        {
+          "term": "区域GDP",
+          "explanation": "指一个特定行政区域（此处为欧洲NUTS 2级地区）在一定时期内生产的所有最终商品和服务的市场价值总和，是衡量该区域经济规模的核心指标。"
+        },
+        {
+          "term": "NUTS",
+          "explanation": "欧盟地域统计单位术语（Nomenclature of territorial units for statistics），是欧盟为统一统计和制定区域政策而建立的行政区划分类标准，NUTS 2通常对应大区一级。"
+        },
+        {
+          "term": "极化效应",
+          "explanation": "指经济活动或资源（如资本、人才、信息）向某个中心区域（如首都或核心城市）持续集中的过程，可能导致区域发展不平衡。"
+        },
+        {
+          "term": "产业集群",
+          "explanation": "指在特定地理区域内，同一产业或相关产业的一组企业和机构高度集中，并通过相互关联、合作与竞争形成强劲、持续的竞争优势的现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ba2c88c5",
     "title": "How Much Value $100 Loses in the World’s Highest-Inflation Countries in 2026",
     "original_url": "https://www.visualcapitalist.com/sp/pla02-inflation-in-2026-where-100-dollars-loses-most-purchasing-power/",
