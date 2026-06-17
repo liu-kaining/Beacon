@@ -1,5 +1,114 @@
 [
   {
+    "id": "b20e5c8e",
+    "title": "Helium-3’s Projected Demand Rise Through 2035",
+    "original_url": "https://www.visualcapitalist.com/sp/ph01-helium-3s-projected-demand-rise-through-2035/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b20e5c8e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDh4KsMvy1UhbFTvL8tYyep0xirEDD5qKYz/NRTJIkfFPZ+KhWnnpVNEKTGluaKYetFArn/2Q==",
+    "image_version": 1781726108,
+    "pub_date": "Wed, 17 Jun 2026 13:19:00 +0000",
+    "content_md": "| Year | He-3 Liters / Year | He-3 Gallons / Year |\n| --- | --- | --- |\n| 2025 | 1,200 | 317 |\n| 2026 | 1,560 | 412 |\n| 2027 | 2,028 | 536 |\n| 2028 | 2,636 | 696 |\n| 2029 | 3,427 | 905 |\n| 2030 | 4,456 | 1,177 |\n| 2031 | 5,792 | 1,530 |\n| 2032 | 7,530 | 1,989 |\n| 2033 | 9,789 | 2,586 |\n| 2034 | 12,725 | 3,362 |\n| 2035 | 16,543 | 4,371 |",
+    "ai_analysis": {
+      "core_insight": "氦-3需求量预计至2035年将呈指数级增长，十年内增长超12倍。",
+      "data_highlights": [
+        "2025至2035年，氦-3年需求量预计从1,200升激增至16,543升。",
+        "需求增长呈加速趋势，2028年后年均增幅超过30%。",
+        "以加仑计，2035年需求量将达到4,371加仑，是2025年的近14倍。",
+        "2032至2035年，需求增量约占十年总增量的一半，显示后期需求爆发。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "He-3 Liters / Year",
+            "He-3 Gallons / Year"
+          ],
+          "rows": [
+            [
+              "2025",
+              "1,200",
+              "317"
+            ],
+            [
+              "2026",
+              "1,560",
+              "412"
+            ],
+            [
+              "2027",
+              "2,028",
+              "536"
+            ],
+            [
+              "2028",
+              "2,636",
+              "696"
+            ],
+            [
+              "2029",
+              "3,427",
+              "905"
+            ],
+            [
+              "2030",
+              "4,456",
+              "1,177"
+            ],
+            [
+              "2031",
+              "5,792",
+              "1,530"
+            ],
+            [
+              "2032",
+              "7,530",
+              "1,989"
+            ],
+            [
+              "2033",
+              "9,789",
+              "2,586"
+            ],
+            [
+              "2034",
+              "12,725",
+              "3,362"
+            ],
+            [
+              "2035",
+              "16,543",
+              "4,371"
+            ]
+          ],
+          "caption": "氦-3 (He-3) 预测年需求量 (2025-2035)"
+        }
+      ],
+      "deep_dive": "## 需求增长模式分析\n数据显示，氦-3的需求增长并非线性，而是呈现出典型的**指数增长**特征。从2025年的基准量（1,200升）出发，需求几乎每年都在前一年的基础上增加一个显著的百分比。例如，2025至2026年增长30%，而2034至2035年的增长约为30%，但绝对增量从2029年的约800升扩大至2035年的近4,000升。这种增长轨迹通常与**颠覆性技术**（如可控核聚变）或**高端应用**（如量子计算、中子探测）从研发示范阶段向商业化应用阶段过渡的规律相吻合。早期增长由科研和原型项目驱动，而后期则因规模化应用预期而急剧放大。\n\n## 增长驱动因素与市场启示\n氦-3需求的爆发性预期，主要源于其在下一代能源（聚变）和前沿科技领域的不可替代性。作为聚变燃料，其反应产物无中子，安全性高；在量子计算中，它是极低温制冷剂（稀释制冷机）的关键材料。需求预测的**指数曲线**强烈暗示市场预期：相关技术在2030年前后将跨越重要的商业化门槛。\n\n对市场参与者而言，这意味着：\n- **供应链压力**：氦-3天然丰度极低，主要来自氚衰变（核武器库存）或月球开采。需求激增将使现有供应（主要来自美国核武器库存退役计划）迅速捉襟见肘，价格可能大幅攀升，并刺激月球资源开发等替代来源的研发投资。\n- **技术投资风向标**：该数据本身可视为一个领先指标，反映了行业对聚变、量子计算等领域商业化时间表的集体判断。投资者和政策制定者可据此评估相关产业链（如低温设备、特种材料）的发展节奏。\n\n## 数据局限性\n需要指出的是，此预测为单一来源的模型输出，其准确性高度依赖于对技术进步和市场采纳率的假设。实际需求可能受到替代技术突破、国际政治（如月球资源开发规则）、或技术商业化进程延迟等因素影响而偏离预测曲线。该数据未区分不同应用领域的需求构成，也未考虑价格弹性对需求的抑制作用。",
+      "glossary": [
+        {
+          "term": "氦-3 (Helium-3)",
+          "explanation": "一种氦的同位素，质子数为2，中子数为1。在自然界中极为稀缺，是理想的聚变燃料（与氘反应），且在量子计算等领域有关键应用。"
+        },
+        {
+          "term": "指数增长",
+          "explanation": "一种增长模式，即增长速率与当前值成正比，表现为曲线后期急剧上升。文中指氦-3需求量随时间呈加速增长态势。"
+        },
+        {
+          "term": "可控核聚变",
+          "explanation": "在人工控制条件下，将轻原子核（如氘、氚、氦-3）聚合成较重原子核并释放巨大能量的过程。被视为未来潜在的清洁能源解决方案。"
+        },
+        {
+          "term": "稀释制冷机",
+          "explanation": "一种能够达到极低温度（接近绝对零度，约0.01开尔文）的制冷设备，是量子计算机和基础物理研究中的关键装置，其运行常依赖氦-3。"
+        },
+        {
+          "term": "供应链",
+          "explanation": "指将产品或服务从原材料供应送达最终用户的整个网络链条，包括生产、储存、运输和分销等环节。文中关注氦-3从来源到应用端的完整链条。"
+        }
+      ]
+    }
+  },
+  {
     "id": "69d2c04e",
     "title": "The Top 10 Signals Pulsar Is Leading the Helium‑3 Race",
     "original_url": "https://www.visualcapitalist.com/sp/ph01-the-top-10-signals-pulsar-is-leading-the-helium-3-race/",
