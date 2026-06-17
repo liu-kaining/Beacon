@@ -1,5 +1,674 @@
 [
   {
+    "id": "da1e1d92",
+    "title": "Mapped: The Highest-Paying Job in Every State",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-highest-paying-job-in-every-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/da1e1d92.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAApABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqpZ8U2O5yaguENQxK26urlVjC7ua6zcUVWQHaKKzsi7ks0QNRLEAatSYqMdaSYChQBRSiii4yJ5aj82mNURqLmPMyx51FVqKC7n//2Q==",
+    "image_version": 1781700219,
+    "pub_date": "Wed, 17 Jun 2026 12:02:24 +0000",
+    "content_md": "| State | Highest-Paying Occupation | Median Annual Wage 2025 |\n| --- | --- | --- |\n| Alabama | Cardiologists | $519K |\n| Connecticut | Cardiologists | $489K |\n| Illinois | Cardiologists | $518K |\n| Indiana | Cardiologists | $589K |\n| Kentucky | Cardiologists | $558K |\n| Nebraska | Cardiologists | $646K |\n| New York | Cardiologists | $492K |\n| Pennsylvania | Cardiologists | $579K |\n| Tennessee | Cardiologists | $610K |\n| Texas | Cardiologists | $410K |\n| Washington | Cardiologists | $656K |\n| Wisconsin | Cardiologists | $637K |\n| Arizona | Orthopedic Surgeons | $559K |\n| Florida | Orthopedic Surgeons | $474K |\n| Mississippi | Orthopedic Surgeons | $544K |\n| Missouri | Orthopedic Surgeons | $843K |\n| Montana | Orthopedic Surgeons | $561K |\n| New Hampshire | Orthopedic Surgeons | $556K |\n| West Virginia | Orthopedic Surgeons | $598K |\n| Maine | Radiologists | $556K |\n| Maryland | Radiologists | $582K |\n| Massachusetts | Radiologists | $427K |\n| Michigan | Radiologists | $486K |\n| Minnesota | Radiologists | $708K |\n| New Jersey | Radiologists | $483K |\n| South Dakota | Radiologists | $586K |\n| North Carolina | Surgeons | $398K |\n| North Dakota | Surgeons | $605K |\n| Ohio | Surgeons | $554K |\n| Oklahoma | Surgeons | $554K |\n| Vermont | Surgeons | $439K |\n| Wyoming | Surgeons | $388K |\n| Alaska | ER Doctors | $453K |\n| Iowa | ER Doctors | $429K |\n| New Mexico | ER Doctors | $405K |\n| Rhode Island | ER Doctors | $513K |\n| Arkansas | Dermatologists | $422K |\n| Delaware | Dermatologists | $442K |\n| Nevada | Dermatologists | $419K |\n| Kansas | Anesthesiologists | $437K |\n| Virginia | Anesthesiologists | $488K |\n| Oregon | Obstetricians & Gynecologists | $395K |\n| Utah | Obstetricians & Gynecologists | $437K |\n| Georgia | Pilots | $618K |\n| Idaho | Pilots | $508K |\n| California | Eye Surgeons | $400K |\n| South Carolina | Internal Medicine | $360K |\n| Washington D.C. | Neurologists | $332K |\n| Colorado | Orthodontists | $416K |\n| Louisiana | Pediatricians | $503K |\n| Hawaii | Physicians | $339K |",
+    "ai_analysis": {
+      "core_insight": "心脏病医生主导多州最高薪职业，但薪资差异显著。",
+      "data_highlights": [
+        "心脏病医生在12个州成为最高薪职业，数量最多。",
+        "密苏里州的骨科医生年薪中位数高达84.3万美元，位居全国之首。",
+        "最高薪职业的年薪范围从33.2万到84.3万美元，差距超两倍。",
+        "飞行员在佐治亚州和爱达荷州成为最高薪职业，突破医疗行业垄断。",
+        "华盛顿州心脏病医生年薪65.6万美元，但与本地高薪科技业仍有差距。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Highest-Paying Occupation",
+            "Median Annual Wage 2025"
+          ],
+          "rows": [
+            [
+              "Alabama",
+              "Cardiologists",
+              "$519K"
+            ],
+            [
+              "Connecticut",
+              "Cardiologists",
+              "$489K"
+            ],
+            [
+              "Illinois",
+              "Cardiologists",
+              "$518K"
+            ],
+            [
+              "Indiana",
+              "Cardiologists",
+              "$589K"
+            ],
+            [
+              "Kentucky",
+              "Cardiologists",
+              "$558K"
+            ],
+            [
+              "Nebraska",
+              "Cardiologists",
+              "$646K"
+            ],
+            [
+              "New York",
+              "Cardiologists",
+              "$492K"
+            ],
+            [
+              "Pennsylvania",
+              "Cardiologists",
+              "$579K"
+            ],
+            [
+              "Tennessee",
+              "Cardiologists",
+              "$610K"
+            ],
+            [
+              "Texas",
+              "Cardiologists",
+              "$410K"
+            ],
+            [
+              "Washington",
+              "Cardiologists",
+              "$656K"
+            ],
+            [
+              "Wisconsin",
+              "Cardiologists",
+              "$637K"
+            ],
+            [
+              "Arizona",
+              "Orthopedic Surgeons",
+              "$559K"
+            ],
+            [
+              "Florida",
+              "Orthopedic Surgeons",
+              "$474K"
+            ],
+            [
+              "Mississippi",
+              "Orthopedic Surgeons",
+              "$544K"
+            ],
+            [
+              "Missouri",
+              "Orthopedic Surgeons",
+              "$843K"
+            ],
+            [
+              "Montana",
+              "Orthopedic Surgeons",
+              "$561K"
+            ],
+            [
+              "New Hampshire",
+              "Orthopedic Surgeons",
+              "$556K"
+            ],
+            [
+              "West Virginia",
+              "Orthopedic Surgeons",
+              "$598K"
+            ],
+            [
+              "Maine",
+              "Radiologists",
+              "$556K"
+            ],
+            [
+              "Maryland",
+              "Radiologists",
+              "$582K"
+            ],
+            [
+              "Massachusetts",
+              "Radiologists",
+              "$427K"
+            ],
+            [
+              "Michigan",
+              "Radiologists",
+              "$486K"
+            ],
+            [
+              "Minnesota",
+              "Radiologists",
+              "$708K"
+            ],
+            [
+              "New Jersey",
+              "Radiologists",
+              "$483K"
+            ],
+            [
+              "South Dakota",
+              "Radiologists",
+              "$586K"
+            ],
+            [
+              "North Carolina",
+              "Surgeons",
+              "$398K"
+            ],
+            [
+              "North Dakota",
+              "Surgeons",
+              "$605K"
+            ],
+            [
+              "Ohio",
+              "Surgeons",
+              "$554K"
+            ],
+            [
+              "Oklahoma",
+              "Surgeons",
+              "$554K"
+            ],
+            [
+              "Vermont",
+              "Surgeons",
+              "$439K"
+            ],
+            [
+              "Wyoming",
+              "Surgeons",
+              "$388K"
+            ],
+            [
+              "Alaska",
+              "ER Doctors",
+              "$453K"
+            ],
+            [
+              "Iowa",
+              "ER Doctors",
+              "$429K"
+            ],
+            [
+              "New Mexico",
+              "ER Doctors",
+              "$405K"
+            ],
+            [
+              "Rhode Island",
+              "ER Doctors",
+              "$513K"
+            ],
+            [
+              "Arkansas",
+              "Dermatologists",
+              "$422K"
+            ],
+            [
+              "Delaware",
+              "Dermatologists",
+              "$442K"
+            ],
+            [
+              "Nevada",
+              "Dermatologists",
+              "$419K"
+            ],
+            [
+              "Kansas",
+              "Anesthesiologists",
+              "$437K"
+            ],
+            [
+              "Virginia",
+              "Anesthesiologists",
+              "$488K"
+            ],
+            [
+              "Oregon",
+              "Obstetricians & Gynecologists",
+              "$395K"
+            ],
+            [
+              "Utah",
+              "Obstetricians & Gynecologists",
+              "$437K"
+            ],
+            [
+              "Georgia",
+              "Pilots",
+              "$618K"
+            ],
+            [
+              "Idaho",
+              "Pilots",
+              "$508K"
+            ],
+            [
+              "California",
+              "Eye Surgeons",
+              "$400K"
+            ],
+            [
+              "South Carolina",
+              "Internal Medicine",
+              "$360K"
+            ],
+            [
+              "Washington D.C.",
+              "Neurologists",
+              "$332K"
+            ],
+            [
+              "Colorado",
+              "Orthodontists",
+              "$416K"
+            ],
+            [
+              "Louisiana",
+              "Pediatricians",
+              "$503K"
+            ],
+            [
+              "Hawaii",
+              "Physicians",
+              "$339K"
+            ]
+          ],
+          "caption": "美国各州最高薪职业及其年薪中位数（2025年）"
+        }
+      ],
+      "deep_dive": "## 医疗行业主导与内部差异\n数据显示，全美各州最高薪职业被医疗健康领域高度垄断，尤其是外科和专科医生。其中，心脏病医生（Cardiologists）在12个州位列榜首，数量最多，反映了该专科的高技术门槛、巨大市场需求及与心血管疾病高发相关的医疗体系优先级。紧随其后的是骨科医生（Orthopedic Surgeons，7个州）和放射科医生（Radiologists，7个州）。这种格局凸显了美国医疗系统中，高度专业化、高风险的手术及诊断领域能够提供顶级薪酬。\n\n然而，同一职业在不同州的薪资差异巨大。例如，同为骨科医生，密苏里州年薪中位数高达84.3万美元，而佛罗里达州仅为47.4万美元，差距近一倍。这暗示薪资水平受到当地生活成本、医疗市场竞争程度、保险公司报销政策以及州政府医疗支出等多重因素影响。高薪未必完全对应更高的生活品质，需结合当地购买力评估。\n\n## 非医疗职业的亮点与启示\n尽管医疗职业占据压倒性优势，仍有少数例外突破行业局限，提供了有趣的对比。最引人注目的是飞行员（Pilots）在佐治亚州和爱达荷州成为最高薪职业，年薪分别达61.8万和50.8万美元。这可能与当地航空业需求（如物流、旅游或特定基地）密切相关，展示了特定地域经济结构如何重塑职业收入金字塔。\n\n此外，华盛顿特区的最高薪职业是神经科医生（Neurologists，33.2万美元），而非其他州常见的外科医生，这或许反映了该地区高端医疗需求与人口结构特点。南卡罗来纳州的最高薪职业是普通内科医生（Internal Medicine，36万美元），相对“接地气”，暗示其医疗体系可能更侧重基础或综合医疗服务，而非高度专科化。\n\n## 数据局限与延伸思考\n该报告基于2025年预测的年薪中位数，为趋势判断提供了前瞻性视角，但实际薪资会受经济周期、政策调整及技术革新影响。数据仅列出了各州薪资最高的单一职业，未涵盖所有高薪领域（如科技、金融），因此不能全面反映各州财富分布。例如，在科技巨头聚集的华盛顿州，心脏病医生（65.6万美元）虽为医疗系统之巅，但可能低于顶尖软件工程师或企业高管的收入，这提示“最高薪职业”具有行业特定性。\n\n最后，高薪医疗职业普遍需要长达十余年的专业培训与高昂教育投入，其高回报是对高人力资本投资的补偿。这份地图不仅是一张薪资清单，更映射了美国劳动力市场的技能溢价、地域发展不均衡以及关键公共服务的定价逻辑。",
+      "glossary": [
+        {
+          "term": "年薪中位数",
+          "explanation": "将所有从业者的年薪从低到高排列后，位于正中间的数值。它比平均数更能反映典型薪资水平，避免极端值影响。"
+        },
+        {
+          "term": "心脏病医生",
+          "explanation": "专注于诊断和治疗心脏及心血管系统疾病的内科医生或外科医生，属于高度专业化的医疗领域。"
+        },
+        {
+          "term": "骨科医生",
+          "explanation": "专注于骨骼、关节、韧带、肌腱和肌肉等肌肉骨骼系统疾病与损伤的外科医生。"
+        },
+        {
+          "term": "放射科医生",
+          "explanation": "使用医学影像技术（如X光、CT、MRI）进行疾病诊断的医生。"
+        },
+        {
+          "term": "技能溢价",
+          "explanation": "指因劳动者拥有特定稀缺技能或接受过长期专业教育，而在劳动力市场上获得的额外工资回报。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7030915",
+    "title": "Helium-3: The Most Powerful Fuel by Energy Density",
+    "original_url": "https://www.visualcapitalist.com/sp/ph01-helium-3-the-most-powerful-fuel-by-energy-density/",
+    "r2_image_url": "",
+    "base64_blur": "",
+    "image_version": null,
+    "pub_date": "Wed, 17 Jun 2026 11:02:00 +0000",
+    "content_md": "| Fuel | Energy Density (MJ/kg) |\n| --- | --- |\n| Helium-3 (fusion) | 100,000,000 |\n| Uranium-235 (fission) | 3,900,000 |\n| Hydrogen | 120 |\n| Natural Gas | 55 |\n| Gasoline | 46 |\n| Crude Oil | 44 |\n| Biodiesel | 38 |\n| Ethanol | 27 |\n| Coal | 24 |\n| Wood | 16 |",
+    "ai_analysis": {
+      "core_insight": "氦-3聚变能源密度远超传统燃料，是未来能源的终极潜力。",
+      "data_highlights": [
+        "氦-3聚变能源密度高达1亿兆焦/千克，是铀-235裂变的25倍以上。",
+        "传统化石燃料能源密度普遍低于100兆焦/千克，与氦-3相差六个数量级。",
+        "生物质燃料（如木柴）能源密度最低，仅为16兆焦/千克。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Fuel",
+            "Energy Density (MJ/kg)"
+          ],
+          "rows": [
+            [
+              "Helium-3 (fusion)",
+              "100,000,000"
+            ],
+            [
+              "Uranium-235 (fission)",
+              "3,900,000"
+            ],
+            [
+              "Hydrogen",
+              "120"
+            ],
+            [
+              "Natural Gas",
+              "55"
+            ],
+            [
+              "Gasoline",
+              "46"
+            ],
+            [
+              "Crude Oil",
+              "44"
+            ],
+            [
+              "Biodiesel",
+              "38"
+            ],
+            [
+              "Ethanol",
+              "27"
+            ],
+            [
+              "Coal",
+              "24"
+            ],
+            [
+              "Wood",
+              "16"
+            ]
+          ],
+          "caption": "不同燃料能源密度对比"
+        }
+      ],
+      "deep_dive": "## 能源密度：衡量燃料潜力的核心标尺\n能源密度（单位质量燃料蕴含的能量）是评估燃料效率与运输存储经济性的关键指标。表格数据清晰地揭示了不同燃料间存在的巨大鸿沟。\n\n- **数量级跨越**：核聚变燃料（氦-3）与核裂变燃料（铀-235）的能源密度，比所有化石燃料及生物质燃料高出4到6个数量级。这种差异并非线性提升，而是质的飞跃，决定了其从根本上改变能源格局的潜力。\n- **传统燃料的局限**：主流化石燃料（如汽油、天然气）的能源密度集中在20-60 MJ/kg的狭窄区间，其能量载体（化学键）的能量释放效率存在物理上限。\n\n## 氦-3：终极能源的机遇与挑战\n氦-3聚变被寄予厚望，源于其极高的能源密度和相对清洁的反应产物（几乎无中子辐射）。然而，其前景与挑战并存。\n\n- **巨大优势**：1亿兆焦/千克的能源密度意味着极少量的燃料即可满足巨大需求，且便于运输。这使其成为深空探测（如月球基地供电）和未来星际航行的理想候选能源。\n- **现实瓶颈**：目前，氦-3在地球上极为稀缺，主要来源是月球土壤或核副产品，采集成本极高。此外，可控核聚变技术本身仍是全球顶尖科学难题，商业化应用路途遥远。\n- **对比启示**：数据本身是一个强烈的信号，引导我们将研发资源投向突破核聚变技术瓶颈和探索氦-3资源获取上。同时，它也凸显了在现有技术框架下，提升氢能存储密度、开发高效生物质能等过渡路径的重要性。最终能源结构的演进将是多层次的。",
+      "glossary": [
+        {
+          "term": "Energy Density",
+          "explanation": "指单位质量（或体积）的燃料中所储存的能量，通常以兆焦耳/千克（MJ/kg）表示，是衡量燃料“能量集中度”的关键指标。"
+        },
+        {
+          "term": "Nuclear Fusion",
+          "explanation": "轻原子核（如氢的同位素氘、氚或氦-3）在极高温度和压力下结合成较重原子核并释放巨大能量的过程，是太阳的能量来源。"
+        },
+        {
+          "term": "Helium-3",
+          "explanation": "氦的一种同位素，被认为是理想的聚变燃料，因其聚变反应产生的带电粒子易于直接转化为电能，且产生的中子辐射极少，更清洁安全。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4b4e465",
+    "title": "How European Travel to the U.S. Has Changed Since 2019",
+    "original_url": "https://www.visualcapitalist.com/cp/how-european-travel-to-the-u-s-has-changed-since-2019/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f4b4e465.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtMVIlNp61kmaNEoPFFJRVkn//2Q==",
+    "image_version": 1781700289,
+    "pub_date": "Wed, 17 Jun 2026 08:54:10 +0000",
+    "content_md": "| Country | Visitors to the U.S. in 2019 (millions) | Visitors to the U.S. in 2025 (millions) | 2019 to 2025 Change |\n| --- | --- | --- | --- |\n| United Kingdom | 4.78 | 4.06 | -15% |\n| Germany | 2.06 | 1.77 | -14% |\n| France | 1.84 | 1.59 | -14% |\n| Italy | 1.09 | 1.18 | +9% |\n| Spain | 0.94 | 0.91 | -3% |\n| Netherlands | 0.73 | 0.57 | -21% |\n| Ireland | 0.52 | 0.49 | -6% |\n| Switzerland | 0.47 | 0.36 | -24% |\n| Sweden | 0.45 | 0.28 | -37% |\n| Denmark | 0.31 | 0.18 | -43% |\n| Belgium | 0.29 | 0.26 | -11% |\n| Norway | 0.27 | 0.16 | -41% |\n| Poland | 0.23 | 0.38 | +68% |\n| Austria | 0.2 | 0.18 | -10% |\n| Portugal | 0.16 | 0.18 | +15% |\n| Finland | 0.14 | 0.1 | -32% |\n| Czechia | 0.13 | 0.12 | -8% |\n| Hungary | 0.1 | 0.09 | -10% |\n| Ukraine | 0.09 | 0.09 | -4% |\n| Romania | 0.09 | 0.1 | +9% |\n| Greece | 0.08 | 0.09 | +10% |\n| Iceland | 0.06 | 0.04 | -25% |\n| Slovakia | 0.05 | 0.05 | -9% |\n| Lithuania | 0.03 | 0.04 | +18% |\n| Bulgaria | 0.03 | 0.03 | +6% |\n| Serbia | 0.02 | 0.03 | +17% |\n| Slovenia | 0.03 | 0.03 | -2% |\n| Croatia | 0.03 | 0.04 | +52% |\n| Luxembourg | 0.02 | 0.02 | -17% |\n| Estonia | 0.02 | 0.02 | -13% |\n| Latvia | 0.02 | 0.02 | +6% |\n| Albania | 0.01 | 0.02 | +57% |\n| Georgia | 0.01 | 0.014 | +40% |\n| Moldova | 0.009 | 0.008 | -17% |\n| Malta | 0.008 | 0.01 | +8% |\n| BiH | 0.008 | 0.009 | +8% |\n| N. Macedonia | 0.007 | 0.01 | +33% |\n| Montenegro | 0.005 | 0.006 | +9% |",
+    "ai_analysis": {
+      "core_insight": "后疫情时代，西欧赴美游客锐减，而东欧国家旅游需求逆势增长。",
+      "data_highlights": [
+        "传统客源地英、德、法赴美游客数量较2019年显著下降，跌幅均超14%。",
+        "波兰、克罗地亚、阿尔巴尼亚等东欧国家赴美游客量实现两位数至三位数的爆发式增长。",
+        "瑞典、丹麦、挪威等北欧国家跌幅最为剧烈，分别下降37%、43%、41%。",
+        "意大利是西欧主要国家中唯一实现正增长（+9%）的例外。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Visitors to the U.S. in 2019 (millions)",
+            "Visitors to the U.S. in 2025 (millions)",
+            "2019 to 2025 Change"
+          ],
+          "rows": [
+            [
+              "United Kingdom",
+              "4.78",
+              "4.06",
+              "-15%"
+            ],
+            [
+              "Germany",
+              "2.06",
+              "1.77",
+              "-14%"
+            ],
+            [
+              "France",
+              "1.84",
+              "1.59",
+              "-14%"
+            ],
+            [
+              "Italy",
+              "1.09",
+              "1.18",
+              "+9%"
+            ],
+            [
+              "Spain",
+              "0.94",
+              "0.91",
+              "-3%"
+            ],
+            [
+              "Netherlands",
+              "0.73",
+              "0.57",
+              "-21%"
+            ],
+            [
+              "Ireland",
+              "0.52",
+              "0.49",
+              "-6%"
+            ],
+            [
+              "Switzerland",
+              "0.47",
+              "0.36",
+              "-24%"
+            ],
+            [
+              "Sweden",
+              "0.45",
+              "0.28",
+              "-37%"
+            ],
+            [
+              "Denmark",
+              "0.31",
+              "0.18",
+              "-43%"
+            ],
+            [
+              "Belgium",
+              "0.29",
+              "0.26",
+              "-11%"
+            ],
+            [
+              "Norway",
+              "0.27",
+              "0.16",
+              "-41%"
+            ],
+            [
+              "Poland",
+              "0.23",
+              "0.38",
+              "+68%"
+            ],
+            [
+              "Austria",
+              "0.2",
+              "0.18",
+              "-10%"
+            ],
+            [
+              "Portugal",
+              "0.16",
+              "0.18",
+              "+15%"
+            ],
+            [
+              "Finland",
+              "0.14",
+              "0.1",
+              "-32%"
+            ],
+            [
+              "Czechia",
+              "0.13",
+              "0.12",
+              "-8%"
+            ],
+            [
+              "Hungary",
+              "0.1",
+              "0.09",
+              "-10%"
+            ],
+            [
+              "Ukraine",
+              "0.09",
+              "0.09",
+              "-4%"
+            ],
+            [
+              "Romania",
+              "0.09",
+              "0.1",
+              "+9%"
+            ],
+            [
+              "Greece",
+              "0.08",
+              "0.09",
+              "+10%"
+            ],
+            [
+              "Iceland",
+              "0.06",
+              "0.04",
+              "-25%"
+            ],
+            [
+              "Slovakia",
+              "0.05",
+              "0.05",
+              "-9%"
+            ],
+            [
+              "Lithuania",
+              "0.03",
+              "0.04",
+              "+18%"
+            ],
+            [
+              "Bulgaria",
+              "0.03",
+              "0.03",
+              "+6%"
+            ],
+            [
+              "Serbia",
+              "0.02",
+              "0.03",
+              "+17%"
+            ],
+            [
+              "Slovenia",
+              "0.03",
+              "0.03",
+              "-2%"
+            ],
+            [
+              "Croatia",
+              "0.03",
+              "0.04",
+              "+52%"
+            ],
+            [
+              "Luxembourg",
+              "0.02",
+              "0.02",
+              "-17%"
+            ],
+            [
+              "Estonia",
+              "0.02",
+              "0.02",
+              "-13%"
+            ],
+            [
+              "Latvia",
+              "0.02",
+              "0.02",
+              "+6%"
+            ],
+            [
+              "Albania",
+              "0.01",
+              "0.02",
+              "+57%"
+            ],
+            [
+              "Georgia",
+              "0.01",
+              "0.014",
+              "+40%"
+            ],
+            [
+              "Moldova",
+              "0.009",
+              "0.008",
+              "-17%"
+            ],
+            [
+              "Malta",
+              "0.008",
+              "0.01",
+              "+8%"
+            ],
+            [
+              "BiH",
+              "0.008",
+              "0.009",
+              "+8%"
+            ],
+            [
+              "N. Macedonia",
+              "0.007",
+              "0.01",
+              "+33%"
+            ],
+            [
+              "Montenegro",
+              "0.005",
+              "0.006",
+              "+9%"
+            ]
+          ],
+          "caption": "2019-2025年欧洲主要国家赴美游客数量变化"
+        }
+      ],
+      "deep_dive": "## 格局重塑：从传统盟友到新兴市场\n数据显示，2019年至2025年间，欧洲赴美旅游市场呈现显著的“西降东升”格局。传统上作为美国最大客源地的西欧与北欧国家（英、德、法、瑞典、丹麦等）普遍录得两位数下跌，跌幅深达37%-43%。这一现象折射出多重因素：这些地区经济在疫情后复苏不均，通胀与生活成本压力可能抑制了长途旅行需求；同时，美元相对强势以及美国旅行成本上升，可能促使高收入但注重性价比的欧洲游客转向其他目的地。反之，东欧国家（波兰、克罗地亚、阿尔巴尼亚等）则逆势增长，波兰游客量增长68%，克罗地亚增长52%。这可能与东欧经济持续追赶、中产阶层扩大、首次赴美旅游需求释放有关，其旅行偏好和预算敏感度与西欧游客形成对比。\n\n## 关键启示与数据局限\n\n- **旅游市场多元化机遇**：美国旅游业需正视对传统西欧市场的依赖性减弱，并积极开拓中东欧等新兴增长极。营销策略和产品设计应更贴合这些新兴市场的消费偏好与预算水平。\n- **宏观经济晴雨表**：跨境旅游数据是观察全球经济与消费者信心的敏感指标。西欧国家的普遍下滑，可能预示着该区域消费疲软的趋势，值得宏观经济分析者关注。\n- **意大利的“反常”增长**：在一片跌势中，意大利（+9%）和葡萄牙（+15%）的正增长值得关注。这可能与特定文化因素、美国对这两个国家的营销活动、或直飞航线增加有关，可作为细分市场研究的案例。\n- **数据局限性说明**：本表未提供2020-2024年的逐年数据，因此无法分辨下滑是疫情冲击后的持续效应，还是近年才出现的趋势。此外，“游客”定义可能包含商务、留学等非旅游目的，分析时需结合其他数据交叉验证。",
+      "glossary": [
+        {
+          "term": "长途旅行",
+          "explanation": "通常指需要跨越较大地理距离、旅行时间和费用较高的国际旅行，如欧洲至北美。此类旅行对经济环境和汇率更为敏感。"
+        },
+        {
+          "term": "中产阶层扩大",
+          "explanation": "指一个国家或地区中，收入处于社会中间水平、具备一定消费能力的人口比例增长，是推动大众旅游消费升级的重要社会经济因素。"
+        },
+        {
+          "term": "消费者信心指数",
+          "explanation": "衡量消费者对经济前景和个人财务状况乐观程度的指标。信心高涨时，非必需消费（如长途旅游）支出倾向增加；反之则可能收缩。"
+        }
+      ]
+    }
+  },
+  {
     "id": "57e4d803",
     "title": "Mapped: The World’s Space Launch Sites (2016-2026)",
     "original_url": "https://www.visualcapitalist.com/sp/hf08-mapped-the-worlds-space-launch-sites-2016-2026/",
