@@ -1,5 +1,311 @@
 [
   {
+    "id": "b74a7eca",
+    "title": "Ranked: The Most and Least Expensive Internet in the World",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-and-least-expensive-internet/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b74a7eca.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAA5ABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDi1FSUwcUFsV08xnYdgUVFvop8wrEhqJ6kJqJqixoxhooNFVYRMaY1PNRtQhjDRSUUxF0xVG0dXDUT1Jy+0ZU8uipzRTuVzs//2Q==",
+    "image_version": 1781784944,
+    "pub_date": "Thu, 18 Jun 2026 12:02:43 +0000",
+    "content_md": "| Rank | Country | Average Monthly Cost of Fixed Broadband 2026 (USD) |\n| --- | --- | --- |\n| 1 | Wallis and Futuna | $373.88 |\n| 2 | Turkmenistan | $286.24 |\n| 3 | Turks and Caicos | $252.00 |\n| 4 | Saint Barthélemy | $207.26 |\n| 5 | Eswatini | $193.31 |\n| 6 | Syria | $189.92 |\n| 7 | Burundi | $186.46 |\n| 8 | Comoros | $175.12 |\n| 9 | Cayman Islands | $167.39 |\n| 10 | British Virgin Islands | $155.00 |\n| 11 | Bermuda | $150.00 |\n| 12 | Congo | $136.54 |\n| 13 | Seychelles | $134.30 |\n| 14 | Timor-Leste | $124.50 |\n| 15 | Curaçao | $121.96 |\n| 16 | Vanuatu | $117.38 |\n| 17 | Guam | $115.00 |\n| 18 | Falkland Islands | $112.73 |\n| 19 | Greenland | $111.45 |\n| 20 | U.S. Virgin Islands | $110.00 |\n| 21 | Anguilla | $108.29 |\n| 22 | Mozambique | $108.22 |\n| 23 | UAE | $105.92 |\n| 24 | Iceland | $105.08 |\n| 25 | Northern Mariana Islands | $104.99 |\n| 167 | U.S. | $80.00 |\n\n| Rank | Country | Average Monthly Cost of Fixed Broadband 2026 (USD) |\n| --- | --- | --- |\n| 1 | Iran | $2.61 |\n| 2 | Ukraine | $5.35 |\n| 3 | Ethiopia | $6.46 |\n| 4 | Bangladesh | $7.38 |\n| 5 | Mongolia | $7.41 |\n| 6 | Egypt | $7.91 |\n| 7 | Romania | $8.19 |\n| 8 | India | $8.82 |\n| 9 | Nepal | $9.22 |\n| 10 | Russia | $9.71 |\n| 11 | Vietnam | $10.24 |\n| 12 | Indonesia | $10.66 |\n| 13 | Uzbekistan | $12.03 |\n| 14 | Kyrgyzstan | $13.95 |\n| 15 | Lebanon | $14.23 |\n| 16 | China | $14.30 |\n| 17 | Libya | $14.68 |\n| 18 | Georgia | $14.87 |\n| 19 | Kazakhstan | $15.23 |\n| 20 | Moldova | $15.66 |\n| 21 | Belarus | $15.66 |\n| 22 | Pakistan | $15.96 |\n| 23 | Papua New Guinea | $17.30 |\n| 24 | Lithuania | $17.75 |\n| 25 | Türkiye | $17.76 |",
+    "ai_analysis": {
+      "core_insight": "全球固定宽带费用差异悬殊，最贵与最便宜国家间价格相差超过140倍。",
+      "data_highlights": [
+        "费用最昂贵国家集中在岛屿与孤立地区，瓦利斯和富图纳群岛月费高达373.88美元。",
+        "费用最便宜国家以发展中经济体为主，伊朗月费仅2.61美元。",
+        "美国位列全球第167位，月费80美元，处于中游水平。",
+        "伊朗、乌克兰、埃塞俄比亚等国月费均低于10美元，凸显基础设施补贴与竞争效应。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Average Monthly Cost of Fixed Broadband 2026 (USD)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Wallis and Futuna",
+              "$373.88"
+            ],
+            [
+              "2",
+              "Turkmenistan",
+              "$286.24"
+            ],
+            [
+              "3",
+              "Turks and Caicos",
+              "$252.00"
+            ],
+            [
+              "4",
+              "Saint Barthélemy",
+              "$207.26"
+            ],
+            [
+              "5",
+              "Eswatini",
+              "$193.31"
+            ],
+            [
+              "6",
+              "Syria",
+              "$189.92"
+            ],
+            [
+              "7",
+              "Burundi",
+              "$186.46"
+            ],
+            [
+              "8",
+              "Comoros",
+              "$175.12"
+            ],
+            [
+              "9",
+              "Cayman Islands",
+              "$167.39"
+            ],
+            [
+              "10",
+              "British Virgin Islands",
+              "$155.00"
+            ],
+            [
+              "11",
+              "Bermuda",
+              "$150.00"
+            ],
+            [
+              "12",
+              "Congo",
+              "$136.54"
+            ],
+            [
+              "13",
+              "Seychelles",
+              "$134.30"
+            ],
+            [
+              "14",
+              "Timor-Leste",
+              "$124.50"
+            ],
+            [
+              "15",
+              "Curaçao",
+              "$121.96"
+            ],
+            [
+              "16",
+              "Vanuatu",
+              "$117.38"
+            ],
+            [
+              "17",
+              "Guam",
+              "$115.00"
+            ],
+            [
+              "18",
+              "Falkland Islands",
+              "$112.73"
+            ],
+            [
+              "19",
+              "Greenland",
+              "$111.45"
+            ],
+            [
+              "20",
+              "U.S. Virgin Islands",
+              "$110.00"
+            ],
+            [
+              "21",
+              "Anguilla",
+              "$108.29"
+            ],
+            [
+              "22",
+              "Mozambique",
+              "$108.22"
+            ],
+            [
+              "23",
+              "UAE",
+              "$105.92"
+            ],
+            [
+              "24",
+              "Iceland",
+              "$105.08"
+            ],
+            [
+              "25",
+              "Northern Mariana Islands",
+              "$104.99"
+            ]
+          ],
+          "caption": "2026年固定宽带月费最高的25个国家/地区"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Average Monthly Cost of Fixed Broadband 2026 (USD)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Iran",
+              "$2.61"
+            ],
+            [
+              "2",
+              "Ukraine",
+              "$5.35"
+            ],
+            [
+              "3",
+              "Ethiopia",
+              "$6.46"
+            ],
+            [
+              "4",
+              "Bangladesh",
+              "$7.38"
+            ],
+            [
+              "5",
+              "Mongolia",
+              "$7.41"
+            ],
+            [
+              "6",
+              "Egypt",
+              "$7.91"
+            ],
+            [
+              "7",
+              "Romania",
+              "$8.19"
+            ],
+            [
+              "8",
+              "India",
+              "$8.82"
+            ],
+            [
+              "9",
+              "Nepal",
+              "$9.22"
+            ],
+            [
+              "10",
+              "Russia",
+              "$9.71"
+            ],
+            [
+              "11",
+              "Vietnam",
+              "$10.24"
+            ],
+            [
+              "12",
+              "Indonesia",
+              "$10.66"
+            ],
+            [
+              "13",
+              "Uzbekistan",
+              "$12.03"
+            ],
+            [
+              "14",
+              "Kyrgyzstan",
+              "$13.95"
+            ],
+            [
+              "15",
+              "Lebanon",
+              "$14.23"
+            ],
+            [
+              "16",
+              "China",
+              "$14.30"
+            ],
+            [
+              "17",
+              "Libya",
+              "$14.68"
+            ],
+            [
+              "18",
+              "Georgia",
+              "$14.87"
+            ],
+            [
+              "19",
+              "Kazakhstan",
+              "$15.23"
+            ],
+            [
+              "20",
+              "Moldova",
+              "$15.66"
+            ],
+            [
+              "21",
+              "Belarus",
+              "$15.66"
+            ],
+            [
+              "22",
+              "Pakistan",
+              "$15.96"
+            ],
+            [
+              "23",
+              "Papua New Guinea",
+              "$17.30"
+            ],
+            [
+              "24",
+              "Lithuania",
+              "$17.75"
+            ],
+            [
+              "25",
+              "Türkiye",
+              "$17.76"
+            ]
+          ],
+          "caption": "2026年固定宽带月费最低的25个国家"
+        }
+      ],
+      "deep_dive": "## 全球宽带定价的“地理鸿沟”\n\n表格数据揭示了一个显著的全球性结构失衡：固定宽带成本与地理和经济特征高度相关。排名前25的昂贵地区，**绝大多数是孤立的岛屿或群岛经济体**（如瓦利斯和富图纳、特克斯和凯科斯群岛、圣巴泰勒米等），以及面临**特殊地缘政治或经济挑战的国家**（如土库曼斯坦、叙利亚、布隆迪）。其高价主要源于：\n1.  **市场规模小**：人口稀少，用户基数不足，无法摊薄高昂的海底光缆铺设、卫星链路租赁或本地网络基础设施的固定成本。\n2.  **供应链与物流成本高**：岛屿或偏远地区的设备运输、维护和电力供应成本远高于大陆国家。\n3.  **缺乏竞争**：往往由单一国有或私营垄断运营商控制，市场竞争不充分，缺乏降价动力。\n\n与之相反，费用最低的国家主要分布在**欧亚大陆的发展中及新兴经济体**。伊朗（$2.61）、乌克兰（$5.35）、印度（$8.82）等国的超低定价背后，反映了另一套经济逻辑：\n1.  **政府补贴与战略投资**：许多国家将宽带普及视为国家数字化和经济发展的战略基础，通过直接补贴、税收优惠或国有企业主导来压低最终用户价格。\n2.  **规模效应与激烈竞争**：人口大国（如印度、中国、印尼）拥有庞大的潜在用户群，能有效降低人均成本，同时多家运营商（包括国有与私营）之间的激烈竞争进一步拉低资费。\n3.  **技术路径选择**：部分国家可能采用性价比更高的技术方案（如FTTH与5G固定无线接入的结合），或受益于区域骨干网络的互联优势。\n\n## 启示、对比与数据局限\n\n**对比启示**：\n- **美国定位**：美国（$80，排名第167）的价格处于全球中游，高于众多欧洲和亚洲国家，但远低于许多岛屿经济体。这反映了其**成熟的市场结构、较高的基础设施投资回报要求以及相对分散的监管环境**，与欧亚低价国家的“国家主导”模式形成对比。\n- **“价格-发展”悖论**：并非所有发展中国家都享有低价宽带。例如，斯威士兰（Eswatini，$193.31）、布隆迪（$186.46）等非洲国家位于高价榜单，这表明**地理隔离、政治不稳定、监管不力或私有化程度低等因素可能抵消发展中国家本应存在的成本优势**。\n\n**数据局限与思考**：\n- **预测性质**：此数据为2026年的预测值，其准确性受模型假设影响。\n- **成本构成模糊**：“平均月费”是否包含安装费、设备费或是否与收入水平挂钩？不同套餐（速度、流量）的平均方式可能掩盖内部差异。\n- **服务质量未体现**：价格未反映网络速度、稳定性和可获得性。高价地区可能服务低效，低价地区可能存在“低价低质”或覆盖不全的问题。\n\n因此，单纯的排名比较需结合当地**人均收入水平（即宽带支出占收入比）、实际网络质量与普及率**，才能更全面地评估一个国家或地区的数字包容性水平。",
+      "glossary": [
+        {
+          "term": "固定宽带 (Fixed Broadband)",
+          "explanation": "通过固定线路（如光纤、铜缆、同轴电缆）接入互联网的接入服务，区别于移动宽带。"
+        },
+        {
+          "term": "规模效应 (Economies of Scale)",
+          "explanation": "随着生产或服务规模的扩大，单位成本随之下降的经济现象。在宽带领域，用户基数越大，分摊的基础设施成本越低。"
+        },
+        {
+          "term": "数字包容性 (Digital Inclusion)",
+          "explanation": "确保所有人，无论其地理位置、社会经济状况或其他因素，都能以可负担的价格平等获取和使用信息通信技术的愿景和实践。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b20e5c8e",
     "title": "Helium-3’s Projected Demand Rise Through 2035",
     "original_url": "https://www.visualcapitalist.com/sp/ph01-helium-3s-projected-demand-rise-through-2035/",
