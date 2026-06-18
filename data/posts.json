@@ -1,5 +1,708 @@
 [
   {
+    "id": "11a57f6f",
+    "title": "Ranked: The World’s Top Billionaire Cities in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-top-billionaire-cities-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/11a57f6f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsp5MVFE+WpLmm233qRvy6Gig+UUU5PuiimZn/2Q==",
+    "image_version": 1781805104,
+    "pub_date": "Thu, 18 Jun 2026 17:05:27 +0000",
+    "content_md": "| Rank | City | Country | Number of Billionaires |\n| --- | --- | --- | --- |\n| 1 | New York | United States | 146 |\n| 2 | Shenzhen | China | 132 |\n| 3 | Shanghai | China | 120 |\n| 4 | Beijing | China | 107 |\n| 5 | London | United Kingdom | 102 |\n| 6 | Mumbai | India | 95 |\n| 7 | Hong Kong | China (SAR) | 88 |\n| 8 | San Francisco | United States | 86 |\n| 9 | Moscow | Russia | 82 |\n| 10 | Hangzhou | China | 65 |\n| 11 | New Delhi | India | 64 |\n| 12 | Singapore | Singapore | 59 |\n| 13 | Taipei | Taiwan | 51 |\n| 14 | Paris | France | 44 |\n| 15 | São Paulo | Brazil | 41 |\n| 15 | Guangzhou | China | 41 |\n| 17 | Los Angeles | United States | 40 |\n| 17 | Bangkok | Thailand | 40 |\n| 19 | Suzhou | China | 39 |\n| 20 | Seoul | South Korea | 32 |\n| 20 | Ningbo | China | 32 |\n| 20 | Jakarta | Indonesia | 32 |\n| 23 | Tokyo | Japan | 31 |\n| 23 | Istanbul | Türkiye | 31 |\n| 25 | Bengaluru | India | 30 |\n| 26 | Stockholm | Sweden | 29 |\n| 27 | Milan | Italy | 28 |\n| 27 | Dallas | United States | 28 |\n| 29 | Toronto | Canada | 26 |\n| 30 | Palm Beach | United States | 24 |\n| 30 | Melbourne | Australia | 24 |\n| 30 | Dubai | United Arab Emirates | 24 |",
+    "ai_analysis": {
+      "core_insight": "中国城市在亿万富豪数量上展现强大集群效应，中美两国主导榜单前列。",
+      "data_highlights": [
+        "中国（含港澳台）在前30名中占据12席，总数远超其他国家。",
+        "纽约以146位亿万富豪稳居榜首，但中国四城（深圳、上海、北京）紧随其后，总和达359位。",
+        "亚洲城市（含中东）在前30名中占17席，彰显全球财富重心东移趋势。",
+        "旧金山和圣何塞科技中心（旧金山湾区）合计拥有86位，突显科技对富豪生成的驱动作用。",
+        "孟买和新德里双双入榜，反映印度经济快速增长催生了一批顶级富豪。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "City",
+            "Country",
+            "Number of Billionaires"
+          ],
+          "rows": [
+            [
+              "1",
+              "New York",
+              "United States",
+              "146"
+            ],
+            [
+              "2",
+              "Shenzhen",
+              "China",
+              "132"
+            ],
+            [
+              "3",
+              "Shanghai",
+              "China",
+              "120"
+            ],
+            [
+              "4",
+              "Beijing",
+              "China",
+              "107"
+            ],
+            [
+              "5",
+              "London",
+              "United Kingdom",
+              "102"
+            ],
+            [
+              "6",
+              "Mumbai",
+              "India",
+              "95"
+            ],
+            [
+              "7",
+              "Hong Kong",
+              "China (SAR)",
+              "88"
+            ],
+            [
+              "8",
+              "San Francisco",
+              "United States",
+              "86"
+            ],
+            [
+              "9",
+              "Moscow",
+              "Russia",
+              "82"
+            ],
+            [
+              "10",
+              "Hangzhou",
+              "China",
+              "65"
+            ],
+            [
+              "11",
+              "New Delhi",
+              "India",
+              "64"
+            ],
+            [
+              "12",
+              "Singapore",
+              "Singapore",
+              "59"
+            ],
+            [
+              "13",
+              "Taipei",
+              "Taiwan",
+              "51"
+            ],
+            [
+              "14",
+              "Paris",
+              "France",
+              "44"
+            ],
+            [
+              "15",
+              "São Paulo",
+              "Brazil",
+              "41"
+            ],
+            [
+              "15",
+              "Guangzhou",
+              "China",
+              "41"
+            ],
+            [
+              "17",
+              "Los Angeles",
+              "United States",
+              "40"
+            ],
+            [
+              "17",
+              "Bangkok",
+              "Thailand",
+              "40"
+            ],
+            [
+              "19",
+              "Suzhou",
+              "China",
+              "39"
+            ],
+            [
+              "20",
+              "Seoul",
+              "South Korea",
+              "32"
+            ],
+            [
+              "20",
+              "Ningbo",
+              "China",
+              "32"
+            ],
+            [
+              "20",
+              "Jakarta",
+              "Indonesia",
+              "32"
+            ],
+            [
+              "23",
+              "Tokyo",
+              "Japan",
+              "31"
+            ],
+            [
+              "23",
+              "Istanbul",
+              "Türkiye",
+              "31"
+            ],
+            [
+              "25",
+              "Bengaluru",
+              "India",
+              "30"
+            ],
+            [
+              "26",
+              "Stockholm",
+              "Sweden",
+              "29"
+            ],
+            [
+              "27",
+              "Milan",
+              "Italy",
+              "28"
+            ],
+            [
+              "27",
+              "Dallas",
+              "United States",
+              "28"
+            ],
+            [
+              "29",
+              "Toronto",
+              "Canada",
+              "26"
+            ],
+            [
+              "30",
+              "Palm Beach",
+              "United States",
+              "24"
+            ],
+            [
+              "30",
+              "Melbourne",
+              "Australia",
+              "24"
+            ],
+            [
+              "30",
+              "Dubai",
+              "United Arab Emirates",
+              "24"
+            ]
+          ],
+          "caption": "2026年全球亿万富豪城市排名前30"
+        }
+      ],
+      "deep_dive": "## 一、全球格局：中美双极与亚洲崛起\n\n榜单清晰勾勒出全球亿万富豪地理分布的双极结构。**美国**凭借纽约（146）、旧金山（86）、洛杉矶（40）等城市，在总数和头部位置保持领先。然而，真正的“赢家”是**中国**。仅内地城市（含港澳台）就有12座入榜，前五名中独占四席（深圳132、上海120、北京107、杭州65），其集群规模和增长速度引人注目。这反映了中国过去数十年经济高速增长、科技创新（特别是深圳）和房地产繁荣所创造的财富积累。\n\n**亚洲的整体崛起**是另一大主题。前30名中亚洲城市占半数以上，从东南亚的曼谷、新加坡到南亚的孟买、班加罗尔，再到东亚的日韩城市，表明全球财富创造引擎正从传统欧美向亚洲扩散。印度双城（孟买95、新德里64）的强势表现，是其数字经济和庞大国内市场活力的体现。\n\n## 二、深层动因：产业、政策与城市生态\n\n**1. 产业引擎驱动财富集聚**：不同城市的富豪构成与其核心产业深度绑定。纽约和伦敦是传统**金融中心**，富豪来源多元。旧金山、深圳、班加罗尔则是**科技创新**圣地，硅谷、南山科技园、印度“硅巷”分别是其财富引擎。莫斯科（82）的富豪则多与能源和资源行业相关。这种产业特异性决定了富豪生成的可持续性和抗风险能力。\n\n**2. 政策与地理枢纽作用**：香港（88）、新加坡（59）作为国际金融和贸易枢纽，其低税制、自由市场环境吸引了全球资本和富豪入驻。迪拜（24）同样凭借开放政策和战略位置，成为中东财富的聚集地。这些城市的富豪数量在一定程度上衡量了其作为全球财富流动节点的效率。\n\n**3. 城市群效应与新一线崛起**：中国的强势不仅限于一线城市。杭州（互联网）、苏州（高端制造）、宁波（贸易）、广州（商贸）等“新一线”或二线城市批量入榜，显示了财富创造在中国更广泛的地理分布，这得益于庞大的国内市场、完善的基础设施和活跃的民营经济。相比之下，欧洲传统财富城市如巴黎（44）、米兰（28）增长相对平稳，而东京（31）的排名则可能反映了其经济长期低增长下的财富积累放缓。\n\n## 三、启示与局限\n\n这份榜单是观察全球经济活力的一个窗口，但需注意其局限性：**1. 数据依赖性**：富豪数量高度依赖于财富统计的透明度和方法，一些隐性富豪集中的地区（如中东部分地区）可能被低估。**2. 波动性**：金融市场和资产价格（如房产、股权）的波动会显著影响排名，使其具有短期性。**3. 不平等指标**：城市富豪数量增加，未必等同于市民福祉的普遍提升，它同时凸显了财富分配不均的挑战。\n\n对决策者而言，榜单提示：培育可持续的财富创造力，需要结合本地优势的产业政策、开放的商业环境以及包容性的增长模式。对投资者而言，关注富豪集聚的城市，也是洞察全球资本流向和特定产业景气度的重要参考。",
+      "glossary": [
+        {
+          "term": "亿万富豪 (Billionaire)",
+          "explanation": "通常指个人净资产达到或超过10亿美元（约合人民币70亿元）的超级富豪，其财富规模对资本市场和宏观政策有显著影响。"
+        },
+        {
+          "term": "财富集聚效应 (Wealth Agglomeration Effect)",
+          "explanation": "指财富和高净值人群倾向于向特定地理位置（如金融中心、科技 hub）集中的现象，由人才、资本、信息等要素的聚集驱动，能进一步强化该地区的优势。"
+        },
+        {
+          "term": "双极结构 (Bipolar Structure)",
+          "explanation": "在此语境下指全球亿万富豪分布高度集中于美国和中国两个超级大国，形成两大核心极点，其他国家与之存在显著数量差距。"
+        },
+        {
+          "term": "新一线城市 (New First-Tier Cities)",
+          "explanation": "指在中国国内，除传统“北上广深”四大一线城市外，经济实力、创新能力、城市规模等方面快速崛起并具备强大吸引力的主要城市，如杭州、成都、武汉等。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4101f78e",
+    "title": "10 Leadership Qualities Linked to High-Performing Companies, According to 1,000 Professionals",
+    "original_url": "https://www.visualcapitalist.com/sp/lc01-10-leadership-qualities-linked-to-high-performing-companies/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4101f78e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDgd1KHqGnAGs+U05iwJKKr5NFTyFc41amAqFKnXpWjM0Jtop1FIo//2Q==",
+    "image_version": 1781805142,
+    "pub_date": "Thu, 18 Jun 2026 15:39:00 +0000",
+    "content_md": "| Behavior | Poor-Performing Company Rating | Average-Performing Company Rating | High-Performing Company Rating |\n| --- | --- | --- | --- |\n| Demonstrate personal clarity about the organization's long-term strategy. | 4.08 | 4.09 | 4.31 |\n| Understand the pressures, scrutiny, and demands of their leadership role. | 3.82 | 4.05 | 4.27 |\n| Express optimism about the organization and its future. | 4.02 | 4.08 | 4.32 |\n| Have clarity on the specific leadership expectations for one’s role. | 4.00 | 4.13 | 4.36 |\n| Take personal ownership to lead to a higher standard of behavior and accountability. | 4.07 | 4.18 | 4.42 |\n| Set the tone of accountability for the people they lead. | 3.98 | 4.16 | 4.33 |\n| Strengthen personal resilience and resolve. | 4.08 | 4.09 | 4.33 |\n| Have tough conversations in a direct and supportive manner. | 3.98 | 4.12 | 4.38 |\n| Tackle difficult challenges with courage. | 3.94 | 4.18 | 4.32 |\n| Create a supportive group of peers that helps them succeed and has their back. | 3.87 | 4.11 | 4.28 |",
+    "ai_analysis": {
+      "core_insight": "高效公司领导在设定行为标准和拥有角色清晰度方面显著优于同行。",
+      "data_highlights": [
+        "领导行为评分整体呈阶梯式上升：高效公司平均评分4.34，中等4.12，低效仅3.98。",
+        "评分差距最大的行为是“以更高标准和责任感来领导”和“明确角色期望”，高效公司评分高出低效公司0.35分。",
+        "“设定问责基调”和“直接、支持性地进行艰难对话”两项行为，高效公司评分比低效公司高出0.35和0.40分。",
+        "所有行为中，“对组织和未来表达乐观”在高效公司中得分最高（4.32），显示积极愿景对高效团队至关重要。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Behavior",
+            "Poor-Performing Company Rating",
+            "Average-Performing Company Rating",
+            "High-Performing Company Rating"
+          ],
+          "rows": [
+            [
+              "Demonstrate personal clarity about the organization's long-term strategy.",
+              "4.08",
+              "4.09",
+              "4.31"
+            ],
+            [
+              "Understand the pressures, scrutiny, and demands of their leadership role.",
+              "3.82",
+              "4.05",
+              "4.27"
+            ],
+            [
+              "Express optimism about the organization and its future.",
+              "4.02",
+              "4.08",
+              "4.32"
+            ],
+            [
+              "Have clarity on the specific leadership expectations for one’s role.",
+              "4.00",
+              "4.13",
+              "4.36"
+            ],
+            [
+              "Take personal ownership to lead to a higher standard of behavior and accountability.",
+              "4.07",
+              "4.18",
+              "4.42"
+            ],
+            [
+              "Set the tone of accountability for the people they lead.",
+              "3.98",
+              "4.16",
+              "4.33"
+            ],
+            [
+              "Strengthen personal resilience and resolve.",
+              "4.08",
+              "4.09",
+              "4.33"
+            ],
+            [
+              "Have tough conversations in a direct and supportive manner.",
+              "3.98",
+              "4.12",
+              "4.38"
+            ],
+            [
+              "Tackle difficult challenges with courage.",
+              "3.94",
+              "4.18",
+              "4.32"
+            ],
+            [
+              "Create a supportive group of peers that helps them succeed and has their back.",
+              "3.87",
+              "4.11",
+              "4.28"
+            ]
+          ],
+          "caption": "领导行为与公司绩效关联评分表"
+        }
+      ],
+      "deep_dive": "## 核心机制：行为标准与角色清晰度驱动绩效差距\n本次调研基于1000名专业人士的反馈，揭示了领导行为与公司绩效之间的强关联。数据显示，高效公司领导在所有10项行为上的评分均系统性地高于中等和低效公司领导，评分差距呈阶梯状分布。这并非偶然，而是指向一个核心机制：**明确的期望、高标准的行为规范和坚定的责任感，是塑造高效组织文化的基石**。\n\n具体来看，评分差距最大的两个行为是“以更高标准和责任感来领导”（高效4.42 vs 低效4.07）和“明确角色期望”（高效4.36 vs 低效4.00）。这表明，在高效公司中，领导不仅对自己有清晰的定位和要求，更将这种“高标准”的设定和执行视为首要职责。他们通过以身作则，为团队设定了问责的基调（4.33），并勇于进行直接、支持性的艰难对话（4.38），从而将期望转化为可执行的行为准则，驱动团队持续改进。\n\n## 对比分析：乐观愿景与务实执行的双重驱动\n有趣的是，评分最高的行为在高效公司中是“对组织和未来表达乐观”（4.32），而评分最低的行为在低效公司中是“理解领导角色的压力与要求”（3.82）。这形成了鲜明对比：\n\n- **高效公司**：领导在清晰认知角色压力（4.27）和具备韧性（4.33）的坚实基础上，能够传递出强大的乐观愿景（4.32）。这种乐观并非盲目，而是基于对战略（4.31）和角色要求（4.36）的深刻理解，因此更具可信度和感召力，能有效凝聚团队。\n- **低效公司**：领导在理解角色压力（3.82）和获得同侪支持（3.87）方面得分显著偏低。这可能意味着他们对领导岗位的复杂性准备不足，或身处一个缺乏互助支持的孤立环境中，从而难以有效应对挑战，更难以建立问责和驱动变革。\n\n## 启示与局限\n本研究的核心启示在于，卓越的领导力并非单一特质，而是一个**由清晰认知、高标准行为和积极沟通构成的系统**。对于组织而言，培养领导者应着重于：\n1.  **明确期望**：帮助领导者清晰界定其角色的具体领导期望和战略方向。\n2.  **塑造行为**：通过培训和文化建设，鼓励并奖励以高标准行事、敢于设定问责基调和进行艰难对话的行为。\n3.  **构建支持网络**：为领导者建立有效的同侪支持体系，以增强其韧性和问题解决能力。\n\n需要指出的是，本报告基于主观评分，且“公司绩效”的划分标准未在文中详述，可能存在简化归因的风险。领导力与公司绩效之间是复杂的双向关系，高效的公司环境也可能反过来塑造或筛选出具备这些特质的领导者。",
+      "glossary": [
+        {
+          "term": "High-Performing Company",
+          "explanation": "在调研中被专业人士评定为表现优异的公司，其领导行为评分显著高于其他组别。"
+        },
+        {
+          "term": "Accountability",
+          "explanation": "问责制，指个人或团队对其行动、决策及结果负责的机制与文化，是本次调研中高效领导的关键行为之一。"
+        },
+        {
+          "term": "Resilience",
+          "explanation": "韧性，指个体在面对压力、逆境或挑战时能够适应、恢复并持续发展的心理与行为能力。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7ac79c95",
+    "title": "Amazon Overtakes Walmart as America’s Biggest Company",
+    "original_url": "https://www.visualcapitalist.com/amazon-overtakes-walmart-as-americas-biggest-company/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7ac79c95.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDeneq6N81ST1BH96uJxsd8KjsXVPy0UJ92ilcOY//Z",
+    "image_version": 1781805171,
+    "pub_date": "Thu, 18 Jun 2026 14:11:04 +0000",
+    "content_md": "| Rank | Company | Revenue of latest fiscal year (USD Billions) | Sector |\n| --- | --- | --- | --- |\n| 1 | Amazon | 716.9 | Retail |\n| 2 | Walmart | 713.2 | Retail |\n| 3 | UnitedHealth | 447.6 | Health Care |\n| 4 | Apple | 416.2 | Technology |\n| 5 | McKesson | 403.4 | Health Care |\n| 6 | Alphabet | 402.8 | Technology |\n| 7 | CVS Health | 402.1 | Health Care |\n| 8 | Berkshire Hathaway | 371.4 | Financials |\n| 9 | Exxon Mobil | 332.2 | Energy |\n| 10 | Cencora | 321.3 | Health Care |\n| 11 | Microsoft | 281.7 | Technology |\n| 12 | Costco | 275.2 | Retail |\n| 13 | Cigna | 274.9 | Health Care |\n| 14 | Cardinal Health | 222.6 | Health Care |\n| 15 | Nvidia | 215.9 | Technology |\n| 16 | Meta | 201.0 | Technology |\n| 17 | Elevance Health | 199.1 | Health Care |\n| 18 | Centene | 194.8 | Health Care |\n| 19 | Chevron | 189.0 | Energy |\n| 20 | Ford Motor | 187.3 | Autos |\n| 21 | General Motors | 185.0 | Autos |\n| 22 | JPMorgan Chase | 182.4 | Financials |\n| 23 | Home Depot | 164.7 | Retail |\n| 24 | Fannie Mae | 152.7 | Financials |\n| 25 | Walgreens | 147.7 | Retail |\n| 26 | Kroger | 147.6 | Retail |\n| 27 | Verizon | 138.2 | Media & Telecom |\n| 28 | Marathon Petroleum | 132.7 | Energy |\n| 29 | StoneX | 132.4 | Financials |\n| 30 | Phillips 66 | 132.4 | Energy |\n| 31 | Humana | 129.7 | Health Care |\n| 32 | AT&T | 125.6 | Media & Telecom |\n| 33 | Comcast | 123.7 | Media & Telecom |\n| 34 | State Farm | 123.0 | Financials |\n| 35 | Valero Energy | 122.7 | Energy |\n| 36 | Freddie Mac | 122.1 | Financials |\n| 37 | Dell Technologies | 113.5 | Technology |\n| 38 | Bank of America | 113.1 | Financials |\n| 39 | Target | 104.8 | Retail |\n| 40 | Tesla | 94.8 | Autos |\n| 41 | Walt Disney | 94.4 | Media & Telecom |\n| 42 | Johnson & Johnson | 94.2 | Health Care |\n| 43 | PepsiCo | 93.9 | Consumer Goods |\n| 44 | Boeing | 89.5 | Industrials & Logistics |\n| 45 | UPS | 88.7 | Industrials & Logistics |\n| 46 | RTX | 88.6 | Industrials & Logistics |\n| 47 | FedEx | 87.9 | Industrials & Logistics |\n| 48 | Progressive | 87.7 | Financials |\n| 49 | Lowe's | 86.3 | Retail |\n| 50 | Energy Transfer | 85.5 | Energy |",
+    "ai_analysis": {
+      "core_insight": "亚马逊以微弱优势超越沃尔玛，成为美国营收最高的公司，标志着数字化零售时代的里程碑。",
+      "data_highlights": [
+        "亚马逊以7169亿美元营收首次登顶，沃尔玛以7132亿美元紧随其后，差距仅为37亿美元。",
+        "医疗保健行业表现突出，前50强中占据10席，总营收规模庞大。",
+        "科技公司占据重要席位，苹果、谷歌、微软、英伟达、Meta等均位列前50。",
+        "能源与汽车行业依然占据一席之地，如埃克森美孚、雪佛龙、福特、通用。",
+        "金融与零售行业格局稳定，伯克希尔哈撒韦、摩根大通、开市客等表现稳健。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Revenue of latest fiscal year (USD Billions)",
+            "Sector"
+          ],
+          "rows": [
+            [
+              "1",
+              "Amazon",
+              "716.9",
+              "Retail"
+            ],
+            [
+              "2",
+              "Walmart",
+              "713.2",
+              "Retail"
+            ],
+            [
+              "3",
+              "UnitedHealth",
+              "447.6",
+              "Health Care"
+            ],
+            [
+              "4",
+              "Apple",
+              "416.2",
+              "Technology"
+            ],
+            [
+              "5",
+              "McKesson",
+              "403.4",
+              "Health Care"
+            ],
+            [
+              "6",
+              "Alphabet",
+              "402.8",
+              "Technology"
+            ],
+            [
+              "7",
+              "CVS Health",
+              "402.1",
+              "Health Care"
+            ],
+            [
+              "8",
+              "Berkshire Hathaway",
+              "371.4",
+              "Financials"
+            ],
+            [
+              "9",
+              "Exxon Mobil",
+              "332.2",
+              "Energy"
+            ],
+            [
+              "10",
+              "Cencora",
+              "321.3",
+              "Health Care"
+            ],
+            [
+              "11",
+              "Microsoft",
+              "281.7",
+              "Technology"
+            ],
+            [
+              "12",
+              "Costco",
+              "275.2",
+              "Retail"
+            ],
+            [
+              "13",
+              "Cigna",
+              "274.9",
+              "Health Care"
+            ],
+            [
+              "14",
+              "Cardinal Health",
+              "222.6",
+              "Health Care"
+            ],
+            [
+              "15",
+              "Nvidia",
+              "215.9",
+              "Technology"
+            ],
+            [
+              "16",
+              "Meta",
+              "201.0",
+              "Technology"
+            ],
+            [
+              "17",
+              "Elevance Health",
+              "199.1",
+              "Health Care"
+            ],
+            [
+              "18",
+              "Centene",
+              "194.8",
+              "Health Care"
+            ],
+            [
+              "19",
+              "Chevron",
+              "189.0",
+              "Energy"
+            ],
+            [
+              "20",
+              "Ford Motor",
+              "187.3",
+              "Autos"
+            ],
+            [
+              "21",
+              "General Motors",
+              "185.0",
+              "Autos"
+            ],
+            [
+              "22",
+              "JPMorgan Chase",
+              "182.4",
+              "Financials"
+            ],
+            [
+              "23",
+              "Home Depot",
+              "164.7",
+              "Retail"
+            ],
+            [
+              "24",
+              "Fannie Mae",
+              "152.7",
+              "Financials"
+            ],
+            [
+              "25",
+              "Walgreens",
+              "147.7",
+              "Retail"
+            ],
+            [
+              "26",
+              "Kroger",
+              "147.6",
+              "Retail"
+            ],
+            [
+              "27",
+              "Verizon",
+              "138.2",
+              "Media & Telecom"
+            ],
+            [
+              "28",
+              "Marathon Petroleum",
+              "132.7",
+              "Energy"
+            ],
+            [
+              "29",
+              "StoneX",
+              "132.4",
+              "Financials"
+            ],
+            [
+              "30",
+              "Phillips 66",
+              "132.4",
+              "Energy"
+            ],
+            [
+              "31",
+              "Humana",
+              "129.7",
+              "Health Care"
+            ],
+            [
+              "32",
+              "AT&T",
+              "125.6",
+              "Media & Telecom"
+            ],
+            [
+              "33",
+              "Comcast",
+              "123.7",
+              "Media & Telecom"
+            ],
+            [
+              "34",
+              "State Farm",
+              "123.0",
+              "Financials"
+            ],
+            [
+              "35",
+              "Valero Energy",
+              "122.7",
+              "Energy"
+            ],
+            [
+              "36",
+              "Freddie Mac",
+              "122.1",
+              "Financials"
+            ],
+            [
+              "37",
+              "Dell Technologies",
+              "113.5",
+              "Technology"
+            ],
+            [
+              "38",
+              "Bank of America",
+              "113.1",
+              "Financials"
+            ],
+            [
+              "39",
+              "Target",
+              "104.8",
+              "Retail"
+            ],
+            [
+              "40",
+              "Tesla",
+              "94.8",
+              "Autos"
+            ],
+            [
+              "41",
+              "Walt Disney",
+              "94.4",
+              "Media & Telecom"
+            ],
+            [
+              "42",
+              "Johnson & Johnson",
+              "94.2",
+              "Health Care"
+            ],
+            [
+              "43",
+              "PepsiCo",
+              "93.9",
+              "Consumer Goods"
+            ],
+            [
+              "44",
+              "Boeing",
+              "89.5",
+              "Industrials & Logistics"
+            ],
+            [
+              "45",
+              "UPS",
+              "88.7",
+              "Industrials & Logistics"
+            ],
+            [
+              "46",
+              "RTX",
+              "88.6",
+              "Industrials & Logistics"
+            ],
+            [
+              "47",
+              "FedEx",
+              "87.9",
+              "Industrials & Logistics"
+            ],
+            [
+              "48",
+              "Progressive",
+              "87.7",
+              "Financials"
+            ],
+            [
+              "49",
+              "Lowe's",
+              "86.3",
+              "Retail"
+            ],
+            [
+              "50",
+              "Energy Transfer",
+              "85.5",
+              "Energy"
+            ]
+          ],
+          "caption": "美国营收前50强公司最新财年数据"
+        }
+      ],
+      "deep_dive": "## 登顶背后的逻辑：规模经济与生态协同\n\n亚马逊此次登顶，表面上是37亿美元的营收微弱优势，实质上是**数字经济规模效应与平台生态协同**的集中体现。其营收构成早已超越单一的电子商务，深度整合了云计算（AWS）、第三方市场服务、广告及会员体系（Prime），构建了一个多维度、高粘性的增长飞轮。相比之下，沃尔玛的营收主要依赖其庞大的实体零售网络，增长模式相对传统。此消彼长之间，反映出消费者行为与商业基础设施的根本性变迁。\n\n## 行业格局透视：传统与新兴的角力\n\n- **医疗保健行业的强势表现**：榜单中医疗保健行业占据了10席，且包括联合健康（第3）、麦卡森（第5）、CVS健康（第7）等多家巨头。这揭示了美国经济中医疗支出的庞大规模及其在国民财富分配中的核心地位，相关企业营收体量巨大。\n- **科技公司的全面渗透**：科技公司不仅数量多（苹果、谷歌、微软、英伟达、Meta、戴尔、特斯拉），且排名靠前。它们不仅在各自领域（消费电子、数字广告、软件、AI芯片、社交、电动汽车）占据主导，其技术能力更在赋能传统行业，重塑效率与体验。\n- **传统能源与金融的稳固地位**：埃克森美孚、雪佛龙等能源巨头，以及伯克希尔哈撒韦、摩根大通等金融集团依然位列前茅，表明在美国经济结构中，资本密集型和资源密集型行业仍是营收支柱，但增长动能已明显弱于科技与健康领域。\n\n## 启示与局限性分析\n\n- **启示**：此榜单清晰勾勒出美国经济的“支柱产业”图谱——零售（尤其电商）、医疗保健、科技、金融、能源构成基本面。企业的竞争已从单一产品转向生态系统建设，亚马逊的登顶是**平台经济**战胜**传统渠道经济**的一个标志性事件。投资者应关注那些能构建强大网络效应和跨界整合能力的企业。\n- **局限性**：营收规模不等同于盈利能力或市值。亚马逊的利润率通常远低于沃尔玛。此外，榜单以单一财年营收为据，未考虑汇率波动、会计准则差异及业务周期的影响。它反映的是规模，而非增长质量或创新活力。例如，英伟达营收排名15，但其在AI领域的引领地位和盈利潜力远高于此排名所暗示的水平。因此，分析时需结合利润、现金流、市场估值等多维度数据。",
+      "glossary": [
+        {
+          "term": "规模经济",
+          "explanation": "指随着产量增加，单位成本下降的经济现象。大企业通过扩大经营规模获得成本优势。"
+        },
+        {
+          "term": "平台经济",
+          "explanation": "基于数字平台连接多方用户（如买家与卖家、内容创作者与消费者），并通过网络效应实现价值创造的经济模式。"
+        },
+        {
+          "term": "增长飞轮",
+          "explanation": "一种商业概念，指企业的各个环节相互促进，形成正向循环，推动业务持续增长。"
+        },
+        {
+          "term": "网络效应",
+          "explanation": "指产品或服务的价值随着用户数量的增加而增加的现象。是平台经济的核心特征。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b74a7eca",
     "title": "Ranked: The Most and Least Expensive Internet in the World",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-and-least-expensive-internet/",
