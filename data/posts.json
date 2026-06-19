@@ -1,5 +1,321 @@
 [
   {
+    "id": "787e20b5",
+    "title": "Ranked: How 45 Countries View America",
+    "original_url": "https://www.visualcapitalist.com/ranked-how-45-countries-view-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/787e20b5.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmkizSyQ8VZixUjqCK9iWxnTTbMdo+aKvNFzRXNzHZ7IWEmrYPFV41FT9qc6l0c1GVmNIGaKaTzRXPc7vaH//Z",
+    "image_version": 1781872751,
+    "pub_date": "Fri, 19 Jun 2026 11:39:48 +0000",
+    "content_md": "| Country | % Favorable | % N/A | % Unfavorable |\n| --- | --- | --- | --- |\n| Israel | 83% | 7% | 10% |\n| Nigeria | 83% | 7% | 10% |\n| Morocco | 68% | 13% | 19% |\n| Vietnam | 64% | 16% | 20% |\n| Peru | 64% | 14% | 22% |\n| India | 62% | 10% | 28% |\n| Pakistan | 61% | 17% | 22% |\n| Philippines | 61% | 14% | 25% |\n| Argentina | 58% | 14% | 28% |\n| Colombia | 57% | 14% | 29% |\n| Romania | 57% | 19% | 24% |\n| Chile | 57% | 13% | 30% |\n| Algeria | 56% | 20% | 25% |\n| UAE | 55% | 14% | 31% |\n| Poland | 55% | 17% | 29% |\n| Brazil | 54% | 13% | 33% |\n| South Africa | 53% | 12% | 35% |\n| Egypt | 48% | 14% | 39% |\n| Indonesia | 45% | 16% | 39% |\n| Saudi Arabia | 45% | 20% | 35% |\n| Mexico | 43% | 15% | 42% |\n| South Korea | 43% | 12% | 46% |\n| Spain | 39% | 14% | 47% |\n| UK | 39% | 13% | 48% |\n| Australia | 38% | 12% | 49% |\n| Malaysia | 38% | 18% | 44% |\n| Russia | 37% | 22% | 41% |\n| Thailand | 37% | 31% | 32% |\n| Japan | 36% | 24% | 41% |\n| Ireland | 35% | 8% | 57% |\n| Czechia | 35% | 15% | 51% |\n| Italy | 34% | 15% | 52% |\n| Singapore | 33% | 12% | 55% |\n| Turkey | 32% | 19% | 49% |\n| Austria | 31% | 7% | 62% |\n| Switzerland | 31% | 10% | 60% |\n| China | 30% | 33% | 37% |\n| France | 30% | 20% | 50% |\n| Germany | 28% | 14% | 58% |\n| Norway | 25% | 3% | 72% |\n| Canada | 25% | 10% | 66% |\n| Sweden | 23% | 9% | 69% |\n| Belgium | 22% | 14% | 64% |\n| Netherlands | 21% | 14% | 66% |",
+    "ai_analysis": {
+      "core_insight": "全球对美国看法两极分化，以色列、尼日利亚等国好感度高，西欧及加拿大好感度低。",
+      "data_highlights": [
+        "以色列和尼日利亚以83%的好感度并列第一，是唯二超过80%的国家。",
+        "挪威、瑞典、荷兰等欧洲国家好感度最低，均低于25%。",
+        "亚洲国家看法分化，越南、印度好感度较高，日本、新加坡则较低。",
+        "中东地区看法复杂，沙特阿拉伯好感度（45%）低于阿联酋（55%）。",
+        "中国受访者有33%未表态，是未表态比例最高的国家之一。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "% Favorable",
+            "% N/A",
+            "% Unfavorable"
+          ],
+          "rows": [
+            [
+              "Israel",
+              "83%",
+              "7%",
+              "10%"
+            ],
+            [
+              "Nigeria",
+              "83%",
+              "7%",
+              "10%"
+            ],
+            [
+              "Morocco",
+              "68%",
+              "13%",
+              "19%"
+            ],
+            [
+              "Vietnam",
+              "64%",
+              "16%",
+              "20%"
+            ],
+            [
+              "Peru",
+              "64%",
+              "14%",
+              "22%"
+            ],
+            [
+              "India",
+              "62%",
+              "10%",
+              "28%"
+            ],
+            [
+              "Pakistan",
+              "61%",
+              "17%",
+              "22%"
+            ],
+            [
+              "Philippines",
+              "61%",
+              "14%",
+              "25%"
+            ],
+            [
+              "Argentina",
+              "58%",
+              "14%",
+              "28%"
+            ],
+            [
+              "Colombia",
+              "57%",
+              "14%",
+              "29%"
+            ],
+            [
+              "Romania",
+              "57%",
+              "19%",
+              "24%"
+            ],
+            [
+              "Chile",
+              "57%",
+              "13%",
+              "30%"
+            ],
+            [
+              "Algeria",
+              "56%",
+              "20%",
+              "25%"
+            ],
+            [
+              "UAE",
+              "55%",
+              "14%",
+              "31%"
+            ],
+            [
+              "Poland",
+              "55%",
+              "17%",
+              "29%"
+            ],
+            [
+              "Brazil",
+              "54%",
+              "13%",
+              "33%"
+            ],
+            [
+              "South Africa",
+              "53%",
+              "12%",
+              "35%"
+            ],
+            [
+              "Egypt",
+              "48%",
+              "14%",
+              "39%"
+            ],
+            [
+              "Indonesia",
+              "45%",
+              "16%",
+              "39%"
+            ],
+            [
+              "Saudi Arabia",
+              "45%",
+              "20%",
+              "35%"
+            ],
+            [
+              "Mexico",
+              "43%",
+              "15%",
+              "42%"
+            ],
+            [
+              "South Korea",
+              "43%",
+              "12%",
+              "46%"
+            ],
+            [
+              "Spain",
+              "39%",
+              "14%",
+              "47%"
+            ],
+            [
+              "UK",
+              "39%",
+              "13%",
+              "48%"
+            ],
+            [
+              "Australia",
+              "38%",
+              "12%",
+              "49%"
+            ],
+            [
+              "Malaysia",
+              "38%",
+              "18%",
+              "44%"
+            ],
+            [
+              "Russia",
+              "37%",
+              "22%",
+              "41%"
+            ],
+            [
+              "Thailand",
+              "37%",
+              "31%",
+              "32%"
+            ],
+            [
+              "Japan",
+              "36%",
+              "24%",
+              "41%"
+            ],
+            [
+              "Ireland",
+              "35%",
+              "8%",
+              "57%"
+            ],
+            [
+              "Czechia",
+              "35%",
+              "15%",
+              "51%"
+            ],
+            [
+              "Italy",
+              "34%",
+              "15%",
+              "52%"
+            ],
+            [
+              "Singapore",
+              "33%",
+              "12%",
+              "55%"
+            ],
+            [
+              "Turkey",
+              "32%",
+              "19%",
+              "49%"
+            ],
+            [
+              "Austria",
+              "31%",
+              "7%",
+              "62%"
+            ],
+            [
+              "Switzerland",
+              "31%",
+              "10%",
+              "60%"
+            ],
+            [
+              "China",
+              "30%",
+              "33%",
+              "37%"
+            ],
+            [
+              "France",
+              "30%",
+              "20%",
+              "50%"
+            ],
+            [
+              "Germany",
+              "28%",
+              "14%",
+              "58%"
+            ],
+            [
+              "Norway",
+              "25%",
+              "3%",
+              "72%"
+            ],
+            [
+              "Canada",
+              "25%",
+              "10%",
+              "66%"
+            ],
+            [
+              "Sweden",
+              "23%",
+              "9%",
+              "69%"
+            ],
+            [
+              "Belgium",
+              "22%",
+              "14%",
+              "64%"
+            ],
+            [
+              "Netherlands",
+              "21%",
+              "14%",
+              "66%"
+            ]
+          ],
+          "caption": "45个国家/地区对美国的好感度排名"
+        }
+      ],
+      "deep_dive": "## 地理与政治经济格局的映射\n这份数据清晰地揭示了全球对美国看法的地理和政治经济差异。\n- **“盟友”与“伙伴”的认知分野**：传统上被视为美国核心盟友的以色列、尼日利亚、菲律宾等国好感度极高，这往往与紧密的军事、经济合作及安全依赖有关。相反，西欧传统盟友如德国、法国、英国、加拿大以及北欧国家，其好感度普遍低于40%，部分甚至低于30%。这反映出在后冷战时代，尤其是在近年来的国际事务、贸易政策、气候变化等议题上，美国与这些传统盟友存在显著分歧和价值观摩擦，民意基础正在发生变化。\n- **新兴经济体与发展中国家的视角**：越南、印度、印尼、巴西等新兴市场国家对美国的看法呈现积极倾向（好感度多在50%-65%之间）。这可能源于美国作为巨大市场、技术来源地和投资伙伴的吸引力，以及这些国家在平衡地区力量格局时对美国的潜在需求。然而，墨西哥（43%）和阿根廷（58%）则反映出拉美地区对美看法的复杂性，历史、移民和贸易问题持续影响着民意。\n- **地缘政治对手的低认同**：俄罗斯（37%）和中国（30%）的好感度处于低位，这符合地缘政治竞争的大背景。值得注意的是，中国有高达33%的受访者选择“未表态”，这可能反映了相关议题的敏感性或信息环境的影响。\n\n## 关键发现与深层启示\n- **“未表态”比例的信号**：泰国（31%）、中国（33%）和日本（24%）等国的“未表态”（N/A）比例异常高。这除了可能源于问卷设计或文化因素外，也可能暗示民众对复杂、矛盾的美关系持谨慎或疏离态度，不愿明确站队。\n- **阿拉伯世界的看法分化**：中东国家内部看法并不统一。以色列（83%）与阿尔及利亚（56%）、沙特（45%）、埃及（48%）等国形成鲜明对比，这深刻反映了该地区基于历史、巴以问题、安全联盟等形成的不同立场。\n- **美国软实力的挑战**：西欧和加拿大等发达经济体的低好感度（普遍低于40%）是一个强烈的信号。这表明美国的文化、价值观和政策在这些教育水平高、信息开放的社会中，其吸引力或认可度面临严峻挑战。这并非短期内的波动，而可能是一种结构性民意的转变，将对跨大西洋关系及全球治理合作产生长远影响。\n- **对政策的启示**：对于美国决策者而言，这份数据既是“资产清单”，也是“风险地图”。维系高好感度地区的伙伴关系需要持续投入，而修复与传统盟友的民意裂痕则是一项紧迫且艰巨的任务。理解好感度背后的驱动因素——无论是具体的政策行为，还是长期的国家形象塑造——是制定有效公共外交策略的基础。",
+      "glossary": [
+        {
+          "term": "软实力",
+          "explanation": "指一个国家通过文化吸引力、政治价值观和外交政策等非强制性手段影响他国的能力。好感度是衡量软实力的重要指标之一。"
+        },
+        {
+          "term": "地缘政治",
+          "explanation": "指基于地理因素的国家间政治和战略互动，包括资源争夺、势力范围划分和安全联盟等。数据中的国家分组常体现地缘政治格局。"
+        },
+        {
+          "term": "公共外交",
+          "explanation": "指一国政府为影响外国公众舆论、塑造国家形象而开展的对外文化交流、媒体传播等活动。本报告的数据是公共外交效果的重要参考。"
+        },
+        {
+          "term": "未表态",
+          "explanation": "在民意调查中，指受访者未选择支持或反对任一明确立场。高比例的‘未表态’可能反映议题敏感、缺乏了解或公众态度复杂。"
+        }
+      ]
+    }
+  },
+  {
     "id": "11a57f6f",
     "title": "Ranked: The World’s Top Billionaire Cities in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-top-billionaire-cities-in-2026/",
