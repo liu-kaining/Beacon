@@ -1,5 +1,316 @@
 [
   {
+    "id": "a670bc60",
+    "title": "Mapped: The States That Drink the Most Beer Per Person",
+    "original_url": "https://www.visualcapitalist.com/mapped-states-that-drink-the-most-beer-per-person/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a670bc60.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAVABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDFSGklhIFXIsUswG2vOdR3O9RRjtGc0VZcDdRV3YrosRsaWVjiiinZXOZN2KbE7qKKK0sK7P/Z",
+    "image_version": 1781971797,
+    "pub_date": "Sat, 20 Jun 2026 14:05:20 +0000",
+    "content_md": "| Rank | State | Gallons of Beer per Person 2023 |\n| --- | --- | --- |\n| 1 | New Hampshire | 35.6 |\n| 2 | Montana | 34.0 |\n| 3 | Vermont | 33.3 |\n| 4 | North Dakota | 29.6 |\n| 5 | Oregon | 29.3 |\n| 6 | Pennsylvania | 29.1 |\n| 7 | Nevada | 28.0 |\n| 8 | Louisiana | 26.9 |\n| 9 | Maine | 26.9 |\n| 10 | Hawaii | 26.7 |\n| 11 | South Dakota | 26.4 |\n| 12 | Iowa | 25.8 |\n| 13 | Texas | 25.6 |\n| 14 | New Mexico | 25.1 |\n| 15 | Wisconsin | 25.1 |\n| 16 | California | 24.2 |\n| 17 | District of Columbia | 24.2 |\n| 18 | Colorado | 24.0 |\n| 19 | Mississippi | 24.0 |\n| 20 | Wyoming | 24.0 |\n| 21 | West Virginia | 23.1 |\n| 22 | Kansas | 22.9 |\n| 23 | Minnesota | 22.9 |\n| 24 | Ohio | 22.9 |\n| 25 | Delaware | 22.7 |\n| 26 | Missouri | 22.4 |\n| 27 | Nebraska | 22.4 |\n| 28 | Florida | 22.2 |\n| 29 | North Carolina | 22.2 |\n| 30 | Arizona | 21.8 |\n| 31 | Illinois | 21.6 |\n| 32 | Alaska | 21.3 |\n| 33 | Tennessee | 21.3 |\n| 34 | South Carolina | 20.9 |\n| 35 | Alabama | 20.0 |\n| 36 | Michigan | 19.8 |\n| 37 | Oklahoma | 19.8 |\n| 38 | Arkansas | 19.6 |\n| 39 | Kentucky | 19.3 |\n| 40 | Indiana | 18.9 |\n| 41 | Georgia | 18.7 |\n| 42 | Virginia | 18.7 |\n| 43 | New York | 18.0 |\n| 44 | Washington | 18.0 |\n| 45 | Massachusetts | 16.7 |\n| 46 | New Jersey | 16.2 |\n| 47 | Connecticut | 15.6 |\n| 48 | Idaho | 15.3 |\n| 49 | Rhode Island | 15.1 |\n| 50 | Maryland | 14.9 |\n| 51 | Utah | 10.2 |\n| -- | U.S. Average | 22.0 |",
+    "ai_analysis": {
+      "core_insight": "新罕布什尔州人均啤酒消费量遥遥领先，犹他州则因宗教因素显著垫底。",
+      "data_highlights": [
+        "新罕布什尔州以35.6加仑/人高居榜首，是全美平均水平（22.0加仑）的1.6倍。",
+        "排名前十的州中，东北部（新英格兰地区）和西部山区州占据主导。",
+        "犹他州以10.2加仑/人排名末位，消费量不足全美平均水平的一半。",
+        "消费量最高的前五州（新罕布什尔、蒙大拿、佛蒙特、北达科他、俄勒冈）均非传统意义上的大人口或经济强州。",
+        "人均消费量超过30加仑的仅有3个州，而低于15加仑的有5个州，消费两极分化明显。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Gallons of Beer per Person 2023"
+          ],
+          "rows": [
+            [
+              "1",
+              "New Hampshire",
+              "35.6"
+            ],
+            [
+              "2",
+              "Montana",
+              "34.0"
+            ],
+            [
+              "3",
+              "Vermont",
+              "33.3"
+            ],
+            [
+              "4",
+              "North Dakota",
+              "29.6"
+            ],
+            [
+              "5",
+              "Oregon",
+              "29.3"
+            ],
+            [
+              "6",
+              "Pennsylvania",
+              "29.1"
+            ],
+            [
+              "7",
+              "Nevada",
+              "28.0"
+            ],
+            [
+              "8",
+              "Louisiana",
+              "26.9"
+            ],
+            [
+              "9",
+              "Maine",
+              "26.9"
+            ],
+            [
+              "10",
+              "Hawaii",
+              "26.7"
+            ],
+            [
+              "11",
+              "South Dakota",
+              "26.4"
+            ],
+            [
+              "12",
+              "Iowa",
+              "25.8"
+            ],
+            [
+              "13",
+              "Texas",
+              "25.6"
+            ],
+            [
+              "14",
+              "New Mexico",
+              "25.1"
+            ],
+            [
+              "15",
+              "Wisconsin",
+              "25.1"
+            ],
+            [
+              "16",
+              "California",
+              "24.2"
+            ],
+            [
+              "17",
+              "District of Columbia",
+              "24.2"
+            ],
+            [
+              "18",
+              "Colorado",
+              "24.0"
+            ],
+            [
+              "19",
+              "Mississippi",
+              "24.0"
+            ],
+            [
+              "20",
+              "Wyoming",
+              "24.0"
+            ],
+            [
+              "21",
+              "West Virginia",
+              "23.1"
+            ],
+            [
+              "22",
+              "Kansas",
+              "22.9"
+            ],
+            [
+              "23",
+              "Minnesota",
+              "22.9"
+            ],
+            [
+              "24",
+              "Ohio",
+              "22.9"
+            ],
+            [
+              "25",
+              "Delaware",
+              "22.7"
+            ],
+            [
+              "26",
+              "Missouri",
+              "22.4"
+            ],
+            [
+              "27",
+              "Nebraska",
+              "22.4"
+            ],
+            [
+              "28",
+              "Florida",
+              "22.2"
+            ],
+            [
+              "29",
+              "North Carolina",
+              "22.2"
+            ],
+            [
+              "30",
+              "Arizona",
+              "21.8"
+            ],
+            [
+              "31",
+              "Illinois",
+              "21.6"
+            ],
+            [
+              "32",
+              "Alaska",
+              "21.3"
+            ],
+            [
+              "33",
+              "Tennessee",
+              "21.3"
+            ],
+            [
+              "34",
+              "South Carolina",
+              "20.9"
+            ],
+            [
+              "35",
+              "Alabama",
+              "20.0"
+            ],
+            [
+              "36",
+              "Michigan",
+              "19.8"
+            ],
+            [
+              "37",
+              "Oklahoma",
+              "19.8"
+            ],
+            [
+              "38",
+              "Arkansas",
+              "19.6"
+            ],
+            [
+              "39",
+              "Kentucky",
+              "19.3"
+            ],
+            [
+              "40",
+              "Indiana",
+              "18.9"
+            ],
+            [
+              "41",
+              "Georgia",
+              "18.7"
+            ],
+            [
+              "42",
+              "Virginia",
+              "18.7"
+            ],
+            [
+              "43",
+              "New York",
+              "18.0"
+            ],
+            [
+              "44",
+              "Washington",
+              "18.0"
+            ],
+            [
+              "45",
+              "Massachusetts",
+              "16.7"
+            ],
+            [
+              "46",
+              "New Jersey",
+              "16.2"
+            ],
+            [
+              "47",
+              "Connecticut",
+              "15.6"
+            ],
+            [
+              "48",
+              "Idaho",
+              "15.3"
+            ],
+            [
+              "49",
+              "Rhode Island",
+              "15.1"
+            ],
+            [
+              "50",
+              "Maryland",
+              "14.9"
+            ],
+            [
+              "51",
+              "Utah",
+              "10.2"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "22.0"
+            ]
+          ],
+          "caption": "2023年美国各州人均啤酒消费量排名"
+        }
+      ],
+      "deep_dive": "## 地域分布与消费文化\n美国各州的人均啤酒消费量呈现出显著的地域集聚特征。高消费州（人均超过25加仑）主要分布在三个区域：一是**新英格兰及东北部地区**（如新罕布什尔、佛蒙特、缅因）；二是**西部山区及沿太平洋地区**（如蒙大拿、俄勒冈、怀俄明）；三是**大平原及中西部部分州**（如北达科他、南达科他、威斯康星）。这些区域或以户外休闲文化著称，或拥有深厚的工薪阶层饮酒传统，且人口密度相对较低，可能为特定消费模式提供了土壤。\n\n与此相对，消费量较低的州（人均低于18加仑）则高度集中在**东海岸人口稠密、经济发达的都会区**（如纽约、新泽西、康涅狄格、马萨诸塞）以及**盐湖城所在的犹他州**。这表明人均啤酒消费与人口密度、城市化水平可能存在负相关，同时更直接地反映了**宗教与法律因素的强大影响力**——犹他州因摩门教（LDS）戒律影响，消费量断层式垫底。\n\n## 经济、政策与数据解读的局限\n消费量数据并不直接等同于居民的实际饮用量或偏好强度，其背后是多种因素的复杂交织：\n1.  **旅游与跨州购买**：榜首的新罕布什尔州以其对酒精饮料（包括啤酒）免征州销售税而闻名，这吸引了周边州（如马萨诸塞、缅因）的居民跨境购买，从而显著推高了该州的表观人均消费量。同样，内华达州（拉斯维加斯）和路易斯安那州（新奥尔良）的高排名也离不开庞大的旅游消费。\n2.  **本地产业与偏好**：蒙大拿、俄勒冈等州拥有繁荣的精酿啤酒产业，本地消费文化浓厚。威斯康星州的高排名则与其深厚的德国裔移民酿造传统和对“啤酒花园”的文化认同相关。\n3.  **数据局限性**：人均消费量计算基于**州内销售量除以州常住人口**。这无法区分本地居民消费与游客消费，也无法反映居民跨州购买后的实际饮用场景。因此，对于像新罕布什尔、内华达这类旅游或免税州，数据可能存在系统性高估。反之，对于严格管控酒精销售或居民习惯于在外州购买的地区，数据可能被低估。\n\n综上所述，这份排名图不仅是消费习惯的直观呈现，更是一面折射各州**税收政策、产业格局、人口结构、宗教文化及旅游经济**的多棱镜。解读时需穿透表层数字，理解其复杂的生成机制。",
+      "glossary": [
+        {
+          "term": "人均消费量",
+          "explanation": "指特定地理区域（如州）内销售的啤酒总量（以加仑计）除以该区域的常住人口数，用于衡量平均水平。"
+        },
+        {
+          "term": "表观消费",
+          "explanation": "基于销售数据计算得出的消费量，它可能包含了非本地居民（如游客）的消费，并未反映居民的实际饮用量。"
+        },
+        {
+          "term": "跨州购买",
+          "explanation": "指消费者为享受更低价格或不同法规（如免税）而越过州界到其他州购买商品（如酒精饮料）的行为，会扭曲销售发生地的数据。"
+        },
+        {
+          "term": "精酿啤酒",
+          "explanation": "由小型、独立的传统酿酒厂生产的啤酒，通常注重风味、特色和酿造工艺，其流行程度是影响本地啤酒消费文化和消费量的因素之一。"
+        }
+      ]
+    }
+  },
+  {
     "id": "e7073ab7",
     "title": "Ranked: The Car Brands With the Fewest Problems in 2026",
     "original_url": "https://www.visualcapitalist.com/car-brands-with-the-fewest-problems-2026/",
