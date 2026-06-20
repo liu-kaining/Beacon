@@ -1,5 +1,146 @@
 [
   {
+    "id": "b97c5fa8",
+    "title": "Ranked: Countries That Have Hosted the Most FIFA World Cups",
+    "original_url": "https://www.visualcapitalist.com/cp/countries-that-have-hosted-most-fifa-world-cups/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b97c5fa8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDIt4Ce1WJLc7elTWwHpVqQDb0rpPNhNsw2gO7pRV5wNx4oqjW5/9k=",
+    "image_version": 1781992669,
+    "pub_date": "Sat, 20 Jun 2026 20:48:32 +0000",
+    "content_md": "| Country | World Cups Hosted | Hosting Years |\n| --- | --- | --- |\n| Mexico | 3 | 1970, 1986, 2026 |\n| United States | 2 | 1994, 2026 |\n| Germany | 2 | 1974, 2006 |\n| Italy | 2 | 1934, 1990 |\n| Brazil | 2 | 1950, 2014 |\n| France | 2 | 1938, 1998 |\n| Canada | 1 | 2026 |\n| Qatar | 1 | 2022 |\n| Russia | 1 | 2018 |\n| South Africa | 1 | 2010 |\n| Japan | 1 | 2002 |\n| South Korea | 1 | 2002 |\n| Spain | 1 | 1982 |\n| Argentina | 1 | 1978 |\n| England | 1 | 1966 |\n| Chile | 1 | 1962 |\n| Sweden | 1 | 1958 |\n| Switzerland | 1 | 1954 |\n| Uruguay | 1 | 1930 |",
+    "ai_analysis": {
+      "core_insight": "世界杯举办权高度集中于欧美，墨西哥并列第一，三国联办趋势显现。",
+      "data_highlights": [
+        "墨西哥以3次举办位列榜首，且是唯一举办过三次世界杯的国家。",
+        "共有6个国家举办过两次世界杯，均为传统足球强国或地区大国。",
+        "2026年世界杯将由美国、加拿大、墨西哥三国联办，开创历史先河。",
+        "举办权分布呈现明显地域不均，亚洲、非洲、大洋洲国家举办次数稀少。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "World Cups Hosted",
+            "Hosting Years"
+          ],
+          "rows": [
+            [
+              "Mexico",
+              "3",
+              "1970, 1986, 2026"
+            ],
+            [
+              "United States",
+              "2",
+              "1994, 2026"
+            ],
+            [
+              "Germany",
+              "2",
+              "1974, 2006"
+            ],
+            [
+              "Italy",
+              "2",
+              "1934, 1990"
+            ],
+            [
+              "Brazil",
+              "2",
+              "1950, 2014"
+            ],
+            [
+              "France",
+              "2",
+              "1938, 1998"
+            ],
+            [
+              "Canada",
+              "1",
+              "2026"
+            ],
+            [
+              "Qatar",
+              "1",
+              "2022"
+            ],
+            [
+              "Russia",
+              "1",
+              "2018"
+            ],
+            [
+              "South Africa",
+              "1",
+              "2010"
+            ],
+            [
+              "Japan",
+              "1",
+              "2002"
+            ],
+            [
+              "South Korea",
+              "1",
+              "2002"
+            ],
+            [
+              "Spain",
+              "1",
+              "1982"
+            ],
+            [
+              "Argentina",
+              "1",
+              "1978"
+            ],
+            [
+              "England",
+              "1",
+              "1966"
+            ],
+            [
+              "Chile",
+              "1",
+              "1962"
+            ],
+            [
+              "Sweden",
+              "1",
+              "1958"
+            ],
+            [
+              "Switzerland",
+              "1",
+              "1954"
+            ],
+            [
+              "Uruguay",
+              "1",
+              "1930"
+            ]
+          ],
+          "caption": "世界杯举办次数国家排名"
+        }
+      ],
+      "deep_dive": "## 举办格局的演变与地域分布\n世界杯举办权的分配深刻反映了国际足球乃至全球政治经济的变迁。从数据看，举办权长期被欧洲和南美洲垄断。在前19届世界杯中，仅有2002年（韩日）、2010年（南非）和2022年（卡塔尔）在欧美之外举行，凸显了**地域分布不均**的长期结构性问题。这背后是国际足联（FIFA）的轮办政策、东道主的基础设施与办赛能力，以及足球文化在传统强势地区的深厚积淀。\n\n## 举办模式的新趋势：从单一到联办\n2026年世界杯由美国、加拿大、墨西哥三国联办，标志着举办模式的重大转变。联办趋势的兴起，一方面是为了分摊日益高昂的赛事成本与基础设施压力，另一方面也是FIFA扩大赛事影响力、整合北美大市场资源的战略选择。此次三国联办使世界杯参赛队伍首次扩至48队，对赛事组织、赛程安排和球迷体验都提出了全新挑战。\n\n## 核心观察与启示\n- **“强者恒强”与突破**：传统足球强国（如德国、意大利、巴西）凭借成熟的设施和经济实力多次举办，巩固了其足球中心的地位。而墨西哥的“三度举办”（含2026）则是一个独特案例，体现了其在北美足球版图中的关键作用和持续申办的努力。\n- **新兴市场的挑战**：尽管非洲（南非）、中东（卡塔尔）等地区实现了“零的突破”，但后续能否形成稳定、持续的举办能力尚待观察。卡塔尔在2022年冬季举办、为赛事打造全新城市的模式，创造了历史，也引发了关于赛事可持续性的讨论。\n- **未来展望**：世界杯举办权的未来分配，将继续在传统强国、新兴市场和联办模式之间寻求平衡。基础设施条件、商业潜力、地缘政治和足球发展战略将成为核心考量因素。",
+      "glossary": [
+        {
+          "term": "世界杯",
+          "explanation": "即国际足联世界杯，由国际足球联合会（FIFA）主办，是全球国家级男子足球队参与的最高荣誉赛事，每四年举办一届。"
+        },
+        {
+          "term": "联办",
+          "explanation": "指由两个或两个以上国家共同举办同一届大型体育赛事，旨在分担成本、共享资源并扩大赛事影响范围。"
+        },
+        {
+          "term": "国际足联（FIFA）",
+          "explanation": "国际足球联合会，负责组织和管理国际足球赛事（如世界杯）的全球性体育组织，总部位于瑞士苏黎世。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c435e298",
     "title": "Ranked: The World’s Most and Least Liked Countries",
     "original_url": "https://www.visualcapitalist.com/ranked-worlds-most-and-least-liked-countries/",
