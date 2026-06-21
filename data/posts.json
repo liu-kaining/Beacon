@@ -1,5 +1,83 @@
 [
   {
+    "id": "3bb5ccfa",
+    "title": "Ranked: Household Income by Race in America",
+    "original_url": "https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3bb5ccfa.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDhVpx6U1aeelB1jDRSHrRTEf/Z",
+    "image_version": 1782068984,
+    "pub_date": "Sun, 21 Jun 2026 18:22:23 +0000",
+    "content_md": "| Median Household Income Group | 2002 | 2024 | Growth (real) |\n| --- | --- | --- | --- |\n| Asian alone | $86,910 | $121,700 | 40% |\n| White alone, not Hispanic | $77,460 | $92,530 | 19% |\n| Hispanic (any race) | $54,670 | $70,950 | 30% |\n| American Indian and Alaska Native alone | $54,050 | $59,050 | 9% |\n| Black alone | $47,940 | $56,020 | 17% |",
+    "ai_analysis": {
+      "core_insight": "美国家庭收入按种族划分，亚裔群体在2002-2024年间收入增长与绝对水平均领先。",
+      "data_highlights": [
+        "亚裔家庭收入中位数在22年间实际增长40%，达到12.17万美元，位居榜首。",
+        "非西裔白人家庭收入中位数从7.75万增至9.25万美元，实际增长19%。",
+        "西班牙裔家庭收入增长30%，增速位列第二，绝对值从5.47万升至7.10万美元。",
+        "美国印第安人及阿拉斯加原住民家庭收入增长最慢，仅为9%。",
+        "黑人家庭收入中位数从4.79万增至5.60万美元，绝对收入水平在主要群体中最低。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Median Household Income Group",
+            "2002",
+            "2024",
+            "Growth (real)"
+          ],
+          "rows": [
+            [
+              "Asian alone",
+              "$86,910",
+              "$121,700",
+              "40%"
+            ],
+            [
+              "White alone, not Hispanic",
+              "$77,460",
+              "$92,530",
+              "19%"
+            ],
+            [
+              "Hispanic (any race)",
+              "$54,670",
+              "$70,950",
+              "30%"
+            ],
+            [
+              "American Indian and Alaska Native alone",
+              "$54,050",
+              "$59,050",
+              "9%"
+            ],
+            [
+              "Black alone",
+              "$47,940",
+              "$56,020",
+              "17%"
+            ]
+          ],
+          "caption": "2002-2024年美国家庭收入中位数按种族分组变化"
+        }
+      ],
+      "deep_dive": "## 增长分化：速度与规模的双重差距\n\n数据显示，2002年至2024年间，美国不同种族群体的家庭收入中位数增长呈现出显著分化。\n- **增速领先者**：亚裔家庭收入以40%的实际增幅领跑，这与其高教育水平、集中于高薪行业（如科技、专业服务）密切相关，也反映了移民政策筛选下部分群体的高起点。\n- **稳健但缓慢**：非西裔白人家庭的绝对收入水平位居第二，但19%的增长率相对平缓，可能与其较大的人口基数、地域分布广泛以及部分传统行业增长乏力有关。\n- **追赶中的群体**：西班牙裔家庭收入增长30%，表现强劲，这可能得益于人口结构年轻化、劳动力参与率高以及在建筑业、服务业等增长领域的就业。\n\n## 结构性鸿沟：历史、政策与经济的交织\n\n收入差距不仅体现在增长速度上，更深刻地反映在绝对水平的持续差距上。\n- **起点与终点的差距**：2002年，黑人家庭收入中位数仅为亚裔家庭的约55%；到2024年，这一比例降至约46%，相对差距甚至有所扩大。美国印第安人及阿拉斯加原住民群体的收入增长（9%）远低于通胀调整后的平均增速，其边缘化状况可能持续。\n- **深层机制探讨**：这种结构性差距是多重因素叠加的结果，包括但不限于：教育资源获取与质量的历史不平等、居住隔离导致的就业机会差异、财富代际传递的悬殊（如房产拥有率）、以及针对特定群体的系统性偏见与政策影响。\n- **启示与局限**：经济增长的成果并未均等分享。单一的“收入中位数”指标无法全面反映财富积累、债务负担、生活成本地区差异等更深层次的福利不平等。政策制定需超越表面增长数据，针对不同群体的具体障碍进行精准干预，以促进更具包容性的经济复苏与发展。报告数据基于宏观统计，未能揭示群体内部因性别、教育、地域等细分因素导致的显著差异。",
+      "glossary": [
+        {
+          "term": "Median Household Income",
+          "explanation": "家庭收入中位数，指将所有家庭收入从低到高排序后，位于中间位置家庭的收入水平，比平均值更能反映典型家庭的状况，避免极端值影响。"
+        },
+        {
+          "term": "Real Growth",
+          "explanation": "实际增长，指剔除了通货膨胀（物价上涨）因素后的收入增长，反映了购买力的真实变化。"
+        },
+        {
+          "term": "Hispanic (any race)",
+          "explanation": "西班牙裔（任何种族），此处是美国人口统计中一个独立的族裔分类，强调拉丁美洲文化或血统背景，与其种族身份（如白人、黑人等）是分开记录的。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c1c8a577",
     "title": "Mapped: Smoking Rates by State, From 6% to 20%",
     "original_url": "https://www.visualcapitalist.com/mapped-smoking-rates-by-state-from-6-to-20/",
