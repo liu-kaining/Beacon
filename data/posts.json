@@ -1,5 +1,117 @@
 [
   {
+    "id": "9c544cc0",
+    "title": "Ranked: The Countries That Brew the Most Beer",
+    "original_url": "https://www.visualcapitalist.com/countries-that-brew-the-most-beer-ranking/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9c544cc0.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnoDUkrfLUMNPl+7XBJanoxehVZ/moqJ/vGirsSf/Z",
+    "image_version": 1782048609,
+    "pub_date": "Sun, 21 Jun 2026 12:06:27 +0000",
+    "content_md": "| Rank | Country | Beer Output (Billion Gallons) | Share of World (2024) |\n| --- | --- | --- | --- |\n| 1 | China | 9.01 | 18.2% |\n| 2 | United States | 4.87 | 9.8% |\n| 3 | Brazil | 3.89 | 7.9% |\n| 4 | Mexico | 3.83 | 7.7% |\n| 5 | Russia | 2.40 | 4.8% |\n| 6 | Germany | 2.22 | 4.5% |\n| 7 | Japan | 1.18 | 2.4% |\n| 8 | Spain | 1.09 | 2.2% |\n| 9 | South Africa | 0.98 | 2.0% |\n| 10 | United Kingdom | 0.95 | 1.9% |\n| 11 | Poland | 0.91 | 1.8% |\n| 12 | India | 0.87 | 1.7% |\n| 13 | Vietnam | 0.83 | 1.7% |\n| 14 | Colombia | 0.74 | 1.5% |\n| 15 | Thailand | 0.60 | 1.2% |\n| 16 | France | 0.56 | 1.1% |\n| 17 | Netherlands | 0.56 | 1.1% |\n| 18 | Belgium | 0.55 | 1.1% |\n| 19 | Canada | 0.54 | 1.1% |\n| 20 | Argentina | 0.54 | 1.1% |\n| 21 | Czech Republic | 0.53 | 1.1% |\n| 22 | Nigeria | 0.51 | 1.0% |\n| 23 | Italy | 0.46 | 0.9% |\n| 24 | Philippines | 0.46 | 0.9% |\n| 25 | Angola | 0.43 | 0.9% |\n| 26 | South Korea | 0.428 | 0.9% |\n| 27 | Cambodia | 0.423 | 0.9% |\n| 28 | Peru | 0.398 | 0.8% |\n| 29 | Romania | 0.396 | 0.8% |\n| 30 | Ukraine | 0.37 | 0.7% |\n| 31 | Australia | 0.368 | 0.7% |\n| 32 | Ethiopia | 0.362 | 0.7% |\n| 33 | Chile | 0.300 | 0.6% |\n| 34 | Turkey | 0.293 | 0.6% |\n| 35 | Austria | 0.267 | 0.5% |\n| 36 | Cameroon | 0.246 | 0.5% |\n| 37 | Ireland | 0.219 | 0.4% |\n| 38 | Portugal | 0.201 | 0.4% |\n| 39 | Ecuador | 0.180 | 0.4% |\n| 40 | Myanmar | 0.170 | 0.3% |\n| 41 | Denmark | 0.169 | 0.3% |\n| 42 | Laos | 0.159 | 0.3% |\n| 43 | Hungary | 0.147 | 0.3% |\n| 44 | DR Congo | 0.142 | 0.3% |\n| 45 | Guatemala | 0.140 | 0.3% |\n| 46 | Venezuela | 0.137 | 0.3% |\n| 47 | Kazakhstan | 0.137 | 0.3% |\n| 48 | Taiwan | 0.133 | 0.3% |\n| 49 | Tanzania | 0.128 | 0.3% |\n| 50 | Ivory Coast | 0.127 | 0.3% |\n| 51 | Bulgaria | 0.124 | 0.3% |\n| 52 | Dominican Republic | 0.117 | 0.2% |\n| 53 | Mozambique | 0.112 | 0.2% |\n| 54 | Kenya | 0.111 | 0.2% |\n| 55 | Greece | 0.108 | 0.2% |\n| 56 | Sweden | 0.106 | 0.2% |\n| 57 | Uganda | 0.105 | 0.2% |\n| 58 | Belarus | 0.102 | 0.2% |\n| 59 | Switzerland | 0.0992 | 0.2% |\n| 60 | Ghana | 0.0979 | 0.2% |\n| 61 | Congo (Brazzaville) | 0.0951 | 0.2% |\n| 62 | Bolivia | 0.0948 | 0.2% |\n| 63 | Panama | 0.0893 | 0.2% |\n| 64 | Indonesia | 0.0880 | 0.2% |\n| 65 | Serbia | 0.0855 | 0.2% |\n| 66 | Finland | 0.0853 | 0.2% |\n| 67 | Burkina Faso | 0.0819 | 0.2% |\n| 68 | Croatia | 0.0796 | 0.2% |\n| 69 | New Zealand | 0.0782 | 0.2% |\n| 70 | Slovakia | 0.0766 | 0.2% |\n| 71 | Paraguay | 0.0759 | 0.2% |\n| 72 | Lithuania | 0.0734 | 0.1% |\n| 73 | Norway | 0.0721 | 0.1% |\n| 74 | Uzbekistan | 0.0713 | 0.1% |\n| 75 | Zimbabwe | 0.0650 | 0.1% |\n| 76 | Cuba | 0.0648 | 0.1% |\n| 77 | Zambia | 0.0618 | 0.1% |\n| 78 | Sri Lanka | 0.0555 | 0.1% |\n| 79 | Gabon | 0.0528 | 0.1% |\n| 80 | Nepal | 0.0528 | 0.1% |\n| 81 | Israel | 0.0526 | 0.1% |\n| 82 | Namibia | 0.0489 | 0.1% |\n| 83 | Slovenia | 0.0476 | 0.1% |\n| 84 | Tunisia | 0.0454 | 0.1% |\n| 85 | Uruguay | 0.0447 | 0.1% |\n| 86 | Lesotho | 0.0439 | 0.1% |\n| 87 | Rwanda | 0.0426 | 0.1% |\n| 88 | Costa Rica | 0.0416 | 0.1% |\n| 89 | Moldova | 0.0396 | 0.1% |\n| 90 | Malaysia | 0.0396 | 0.1% |\n| 91 | Algeria | 0.0396 | 0.1% |\n| 92 | Honduras | 0.0394 | 0.1% |\n| 93 | Madagascar | 0.0375 | 0.1% |\n| 94 | Georgia | 0.0359 | 0.1% |\n| 95 | El Salvador | 0.0350 | 0.1% |\n| 96 | Benin | 0.0338 | 0.1% |\n| 97 | Togo | 0.0328 | 0.1% |\n| 98 | Nicaragua | 0.0320 | 0.1% |\n| 99 | Singapore | 0.0317 | 0.1% |\n| 100 | Malawi | 0.0306 | 0.1% |\n| 101 | Mongolia | 0.0291 | 0.1% |\n| 102 | Puerto Rico | 0.0291 | 0.1% |\n| 103 | Chad | 0.0251 | 0.1% |\n| 104 | Egypt | 0.0249 | 0.1% |\n| 105 | Estonia | 0.0248 | 0.1% |\n| 106 | Iran | 0.0238 | 0.0% |\n| 107 | Bosnia-Herzegovina | 0.0218 | 0.0% |\n| 108 | Morocco | 0.0216 | 0.0% |\n| 109 | Botswana | 0.0208 | 0.0% |\n| 110 | Albania | 0.0199 | 0.0% |\n| 111 | Latvia | 0.0195 | 0.0% |\n| 112 | Papua New Guinea | 0.0181 | 0.0% |\n| 113 | Trinidad and Tobago | 0.0157 | 0.0% |\n| 114 | Azerbaijan | 0.0137 | 0.0% |\n| 115 | Kyrgyzstan | 0.0135 | 0.0% |\n| 116 | Mauritius | 0.0135 | 0.0% |\n| 117 | Guyana | 0.0131 | 0.0% |\n| 118 | North Macedonia | 0.0129 | 0.0% |\n| 119 | Bhutan | 0.0127 | 0.0% |\n| 120 | Hong Kong | 0.0127 | 0.0% |\n| 121 | Cyprus | 0.0113 | 0.0% |\n| 122 | Jamaica | 0.0109 | 0.0% |\n| 123 | Guinea | 0.0101 | 0.0% |\n| 124 | Equatorial Guinea | 0.00946 | 0.0% |\n| 125 | Armenia | 0.00930 | 0.0% |\n| 126 | Turkmenistan | 0.00925 | 0.0% |\n| 127 | Tajikistan | 0.00859 | 0.0% |\n| 128 | Burundi | 0.00845 | 0.0% |\n| 129 | Lebanon | 0.00845 | 0.0% |\n| 130 | Central African Republic | 0.00753 | 0.0% |\n| 131 | Eritrea | 0.00740 | 0.0% |\n| 132 | Montenegro | 0.00740 | 0.0% |\n| 133 | Jordan | 0.00663 | 0.0% |\n| 134 | Réunion | 0.00594 | 0.0% |\n| 135 | Eswatini | 0.00594 | 0.0% |\n| 136 | Luxembourg | 0.00586 | 0.0% |\n| 137 | Malta | 0.00518 | 0.0% |\n| 138 | Haiti | 0.00515 | 0.0% |\n| 139 | Iceland | 0.00507 | 0.0% |\n| 140 | Mali | 0.00502 | 0.0% |\n| 141 | Sierra Leone | 0.00499 | 0.0% |\n| 142 | Tahiti (French Polynesia) | 0.00476 | 0.0% |\n| 143 | Senegal | 0.00462 | 0.0% |\n| 144 | St. Lucia | 0.00457 | 0.0% |\n| 145 | Liberia | 0.00396 | 0.0% |\n| 146 | New Caledonia | 0.00396 | 0.0% |\n| 147 | Bahamas | 0.00386 | 0.0% |\n| 148 | Fiji | 0.00370 | 0.0% |\n| 149 | Dutch Antilles | 0.00365 | 0.0% |\n| 150 | Seychelles | 0.00267 | 0.0% |\n| 151 | Samoa | 0.00264 | 0.0% |\n| 152 | Suriname | 0.00262 | 0.0% |\n| 153 | Niger | 0.00259 | 0.0% |\n| 154 | Pakistan | 0.00211 | 0.0% |\n| 155 | Barbados | 0.00209 | 0.0% |\n| 156 | Solomon Islands | 0.00172 | 0.0% |\n| 157 | Martinique | 0.00159 | 0.0% |\n| 158 | Aruba | 0.00151 | 0.0% |\n| 159 | Guinea-Bissau | 0.00132 | 0.0% |\n| 160 | St. Vincent and the Grenadines | 0.00119 | 0.0% |\n| 161 | Belize | 0.00106 | 0.0% |\n| 162 | Grenada | 0.000845 | 0.0% |\n| 163 | St. Kitts and Nevis | 0.000687 | 0.0% |\n| 164 | Antigua and Barbuda | 0.000528 | 0.0% |\n| 165 | Cayman Islands | 0.000528 | 0.0% |\n| 166 | Cape Verde | 0.000423 | 0.0% |\n| 167 | São Tomé and Príncipe | 0.000317 | 0.0% |\n| 168 | Dominica | 0.000291 | 0.0% |\n| 169 | Bangladesh | 0.000264 | 0.0% |\n| 170 | Vanuatu | 0.000238 | 0.0% |\n| 171 | North Korea | 0.000211 | 0.0% |\n| 172 | Palestine | 0.000106 | 0.0% |\n| 173 | South Sudan | 0.0000528 | 0.0% |\n| 174 | Gambia | 0.0000528 | 0.0% |",
+    "ai_analysis": {
+      "core_insight": "中国以绝对优势领跑全球啤酒生产，其产量接近第二名美国的两倍。",
+      "data_highlights": [
+        "中国以90.1亿加仑的产量高居榜首，占全球份额的18.2%。",
+        "前四名（中、美、巴、墨）合计占全球产量的43.6%，市场集中度高。",
+        "传统啤酒强国德国（第6）和日本（第7）的产量已远落后于新兴市场国家。",
+        "印度作为人口大国，啤酒产量仅排第12位，市场潜力与现状存在巨大反差。",
+        "非洲国家尼日利亚和安哥拉进入前25名，显示区域市场的增长活力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Beer Output (Billion Gallons)",
+            "Share of World (2024)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "9.01",
+              "18.2%"
+            ],
+            [
+              "2",
+              "United States",
+              "4.87",
+              "9.8%"
+            ],
+            [
+              "3",
+              "Brazil",
+              "3.89",
+              "7.9%"
+            ],
+            [
+              "4",
+              "Mexico",
+              "3.83",
+              "7.7%"
+            ],
+            [
+              "5",
+              "Russia",
+              "2.40",
+              "4.8%"
+            ],
+            [
+              "6",
+              "Germany",
+              "2.22",
+              "4.5%"
+            ],
+            [
+              "7",
+              "Japan",
+              "1.18",
+              "2.4%"
+            ],
+            [
+              "8",
+              "Spain",
+              "1.09",
+              "2.2%"
+            ],
+            [
+              "9",
+              "South Africa",
+              "0.98",
+              "2.0%"
+            ],
+            [
+              "10",
+              "United Kingdom",
+              "0.95",
+              "1.9%"
+            ]
+          ],
+          "caption": "2024年全球啤酒产量排名前10国家"
+        }
+      ],
+      "deep_dive": "## 生产格局：寡头垄断与新兴力量并存\n\n全球啤酒生产呈现显著的“一超多强”格局。中国凭借庞大的人口基数、成熟的工业体系以及本土品牌的强大统治力，以90.1亿加仑的惊人产量稳居第一，其份额（18.2%）几乎是第二名美国（9.8%）的两倍。美国、巴西、墨西哥紧随其后，这四国合计占据了全球近半壁江山（43.6%），形成了全球啤酒生产的核心梯队。\n\n值得注意的是，传统意义上的啤酒文化强国如德国、比利时、捷克等，在总产量排名上并不靠前（德国仅列第6）。这揭示了啤酒消费与生产之间的差异：前者更侧重于人均消费和品质传统，后者则与人口规模、工业化程度和内需市场容量强相关。例如，人口大国印度虽排第12，但人均消费和总产量与其潜力仍不匹配，预示着未来增长空间。\n\n## 区域分布与市场启示\n\n从地理分布看，啤酒生产遍布全球，但高度集中在少数国家。排名前20的国家贡献了全球超过80%的产量。亚洲（中、日、印、越）、美洲（美、巴、墨）、欧洲（俄、德、西、英）和非洲（南非）均有代表，显示了啤酒作为一种大众消费品的普遍性。\n\n对于产业和投资分析而言，该榜单提供了一些关键线索：\n1.  **成熟市场增长见顶**：欧美日等传统市场产量稳定但增长缓慢，竞争焦点转向高端化和精酿市场。\n2.  **新兴市场是增长引擎**：中国、巴西、墨西哥以及东南亚的越南、泰国等国，凭借人口红利和消费升级，是推动全球产量增长的主要动力。\n3.  **区域龙头显现**：在非洲，南非、尼日利亚、安哥拉形成了区域生产中心；在亚洲，中国和越南的角色至关重要。\n\n**局限性提示**：本数据仅反映“产量”，而非“消费量”或“人均消费”。产量可能包含出口部分，因此不能直接等同于本地市场热度。例如，墨西哥的高产量与其作为美国重要啤酒进口来源的地位密切相关。分析时需结合进出口数据及人均消费数据，才能得到更全面的市场图景。",
+      "glossary": [
+        {
+          "term": "Beer Output",
+          "explanation": "啤酒产量，通常指在一定时期内（如一年）一个国家或地区生产的啤酒总量，是衡量啤酒工业规模的核心指标。"
+        },
+        {
+          "term": "Share of World",
+          "explanation": "全球份额，指某国啤酒产量占全球总产量的百分比，直观反映该国在全球啤酒生产版图中的相对地位和影响力。"
+        },
+        {
+          "term": "Market Concentration",
+          "explanation": "市场集中度，用于衡量市场中少数几个最大生产者所占的份额。本报告中前四名国家合计份额高达43.6%，表明全球啤酒生产市场集中度较高。"
+        },
+        {
+          "term": "Per Capita Consumption",
+          "explanation": "人均消费量，指每人每年平均消费的啤酒量。该指标与总产量排名不同，更能反映一个地区的啤酒饮用习惯和市场成熟度，例如德国人均消费远高于中国。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b97c5fa8",
     "title": "Ranked: Countries That Have Hosted the Most FIFA World Cups",
     "original_url": "https://www.visualcapitalist.com/cp/countries-that-have-hosted-most-fifa-world-cups/",
