@@ -1,5 +1,541 @@
 [
   {
+    "id": "d3347c70",
+    "title": "Ranked: The 50 Largest U.S. Cities by Median Income",
+    "original_url": "https://www.visualcapitalist.com/ranked-household-income-across-50-major-us-cities/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d3347c70.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo5Wp9ucmoZOtTW3WlcRoL90UUq/dFFIo//9k=",
+    "image_version": 1782138171,
+    "pub_date": "Mon, 22 Jun 2026 14:08:33 +0000",
+    "content_md": "| Rank | Metro | Median Household Income (2026) |\n| --- | --- | --- |\n| 1 | San Jose, CA | $175,491 |\n| 2 | San Francisco, CA | $141,277 |\n| 3 | Washington, DC | $130,587 |\n| 4 | Boston, MA | $125,025 |\n| 5 | San Diego, CA | $115,012 |\n| 6 | Seattle, WA | $114,804 |\n| 7 | Denver, CO | $112,231 |\n| 8 | Raleigh, NC | $107,446 |\n| 9 | Portland, OR | $104,269 |\n| 10 | Salt Lake City, UT | $104,059 |\n| 11 | Sacramento, CA | $103,447 |\n| 12 | New York, NY | $103,166 |\n| 13 | Baltimore, MD | $102,578 |\n| 14 | Austin, TX | $101,583 |\n| 15 | Los Angeles, CA | $101,268 |\n| 16 | Minneapolis, MN | $101,123 |\n| 17 | Hartford, CT | $98,059 |\n| 18 | Dallas, TX | $97,808 |\n| 19 | Atlanta, GA | $96,651 |\n| 20 | Riverside, CA | $95,039 |\n| 21 | Philadelphia, PA | $94,766 |\n| 22 | Phoenix, AZ | $93,845 |\n| 23 | Chicago, IL | $93,572 |\n| 24 | Nashville, TN | $92,333 |\n| 25 | Charlotte, NC | $91,059 |\n| 26 | Kansas City, MO | $88,033 |\n| 27 | Columbus, OH | $87,273 |\n| 28 | Virginia Beach, VA | $86,046 |\n| 29 | Orlando, FL | $84,866 |\n| 30 | Jacksonville, FL | $84,841 |\n| 31 | Miami, FL | $84,814 |\n| 32 | Houston, TX | $84,610 |\n| 33 | Cincinnati, OH | $84,546 |\n| 34 | St. Louis, MO | $84,425 |\n| 35 | Las Vegas, NV | $83,859 |\n| 36 | Richmond, VA | $83,637 |\n| 37 | Tampa, FL | $82,721 |\n| 38 | Providence, RI | $82,527 |\n| 39 | San Antonio, TX | $82,130 |\n| 40 | Pittsburgh, PA | $81,967 |\n| 41 | Indianapolis, IN | $81,718 |\n| 42 | Milwaukee, WI | $80,485 |\n| 43 | Birmingham, AL | $79,463 |\n| 44 | Detroit, MI | $79,294 |\n| 45 | Louisville, KY | $77,221 |\n| 46 | Oklahoma City, OK | $76,960 |\n| 47 | Cleveland, OH | $76,118 |\n| 48 | Buffalo, NY | $74,258 |\n| 49 | Memphis, TN | $70,056 |\n| 50 | New Orleans, LA | $65,021 |\n| — | United States | $85,828 |",
+    "ai_analysis": {
+      "core_insight": "美国城市收入呈现显著东西海岸高、中南部低的地理格局，科技与知识中心主导顶层。",
+      "data_highlights": [
+        "加州圣何塞以17.5万美元中位收入高居榜首，远超全国水平（8.58万美元）。",
+        "前五名中，加州占据三席（圣何塞、旧金山、圣迭戈），华盛顿特区与波士顿紧随其后。",
+        "纽约、洛杉矶等传统超大城市排名未进前十，分列第12和第15位。",
+        "收入最低的5个城市（孟菲斯、新奥尔良等）均位于中南部，收入不足全国中位数。",
+        "德州的达拉斯、奥斯汀、休斯顿、圣安东尼奥四城收入分化明显，奥斯汀最高（第14）而圣安东尼奥较低（第39）。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Metro",
+            "Median Household Income (2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "San Jose, CA",
+              "$175,491"
+            ],
+            [
+              "2",
+              "San Francisco, CA",
+              "$141,277"
+            ],
+            [
+              "3",
+              "Washington, DC",
+              "$130,587"
+            ],
+            [
+              "4",
+              "Boston, MA",
+              "$125,025"
+            ],
+            [
+              "5",
+              "San Diego, CA",
+              "$115,012"
+            ],
+            [
+              "6",
+              "Seattle, WA",
+              "$114,804"
+            ],
+            [
+              "7",
+              "Denver, CO",
+              "$112,231"
+            ],
+            [
+              "8",
+              "Raleigh, NC",
+              "$107,446"
+            ],
+            [
+              "9",
+              "Portland, OR",
+              "$104,269"
+            ],
+            [
+              "10",
+              "Salt Lake City, UT",
+              "$104,059"
+            ],
+            [
+              "11",
+              "Sacramento, CA",
+              "$103,447"
+            ],
+            [
+              "12",
+              "New York, NY",
+              "$103,166"
+            ],
+            [
+              "13",
+              "Baltimore, MD",
+              "$102,578"
+            ],
+            [
+              "14",
+              "Austin, TX",
+              "$101,583"
+            ],
+            [
+              "15",
+              "Los Angeles, CA",
+              "$101,268"
+            ],
+            [
+              "16",
+              "Minneapolis, MN",
+              "$101,123"
+            ],
+            [
+              "17",
+              "Hartford, CT",
+              "$98,059"
+            ],
+            [
+              "18",
+              "Dallas, TX",
+              "$97,808"
+            ],
+            [
+              "19",
+              "Atlanta, GA",
+              "$96,651"
+            ],
+            [
+              "20",
+              "Riverside, CA",
+              "$95,039"
+            ],
+            [
+              "21",
+              "Philadelphia, PA",
+              "$94,766"
+            ],
+            [
+              "22",
+              "Phoenix, AZ",
+              "$93,845"
+            ],
+            [
+              "23",
+              "Chicago, IL",
+              "$93,572"
+            ],
+            [
+              "24",
+              "Nashville, TN",
+              "$92,333"
+            ],
+            [
+              "25",
+              "Charlotte, NC",
+              "$91,059"
+            ],
+            [
+              "26",
+              "Kansas City, MO",
+              "$88,033"
+            ],
+            [
+              "27",
+              "Columbus, OH",
+              "$87,273"
+            ],
+            [
+              "28",
+              "Virginia Beach, VA",
+              "$86,046"
+            ],
+            [
+              "29",
+              "Orlando, FL",
+              "$84,866"
+            ],
+            [
+              "30",
+              "Jacksonville, FL",
+              "$84,841"
+            ],
+            [
+              "31",
+              "Miami, FL",
+              "$84,814"
+            ],
+            [
+              "32",
+              "Houston, TX",
+              "$84,610"
+            ],
+            [
+              "33",
+              "Cincinnati, OH",
+              "$84,546"
+            ],
+            [
+              "34",
+              "St. Louis, MO",
+              "$84,425"
+            ],
+            [
+              "35",
+              "Las Vegas, NV",
+              "$83,859"
+            ],
+            [
+              "36",
+              "Richmond, VA",
+              "$83,637"
+            ],
+            [
+              "37",
+              "Tampa, FL",
+              "$82,721"
+            ],
+            [
+              "38",
+              "Providence, RI",
+              "$82,527"
+            ],
+            [
+              "39",
+              "San Antonio, TX",
+              "$82,130"
+            ],
+            [
+              "40",
+              "Pittsburgh, PA",
+              "$81,967"
+            ],
+            [
+              "41",
+              "Indianapolis, IN",
+              "$81,718"
+            ],
+            [
+              "42",
+              "Milwaukee, WI",
+              "$80,485"
+            ],
+            [
+              "43",
+              "Birmingham, AL",
+              "$79,463"
+            ],
+            [
+              "44",
+              "Detroit, MI",
+              "$79,294"
+            ],
+            [
+              "45",
+              "Louisville, KY",
+              "$77,221"
+            ],
+            [
+              "46",
+              "Oklahoma City, OK",
+              "$76,960"
+            ],
+            [
+              "47",
+              "Cleveland, OH",
+              "$76,118"
+            ],
+            [
+              "48",
+              "Buffalo, NY",
+              "$74,258"
+            ],
+            [
+              "49",
+              "Memphis, TN",
+              "$70,056"
+            ],
+            [
+              "50",
+              "New Orleans, LA",
+              "$65,021"
+            ],
+            [
+              "—",
+              "United States",
+              "$85,828"
+            ]
+          ],
+          "caption": "2026年美国50大都市区家庭中位收入排名"
+        }
+      ],
+      "deep_dive": "## 经济结构与地理分布：科技走廊与知识枢纽的胜利\n\n这份收入排名图谱鲜明地揭示了美国城市竞争力的核心驱动力。**高收入城市集群主要分布在两大沿海走廊**：西海岸的加州（圣何塞、旧金山、圣迭戈、萨克拉门托）和东海岸的东北部（华盛顿、波士顿、纽约、巴尔的摩）。这些地区共同特点是：**高度依赖科技、生物技术、高等教育、专业服务和政府国防等高附加值产业**。圣何塞（硅谷）和西雅图（亚马逊、微软）是科技巨头的代名词，而波士顿（哈佛、MIT及医疗中心）和华盛顿（联邦政府及承包商）则代表了知识经济与政策资源中心。这种产业分布直接推高了当地的劳动力价格和整体收入水平。\n\n相比之下，排名靠后的城市多位于“锈带”（如底特律、克利夫兰、布法罗）和中南部传统工业或农业区（如孟菲斯、新奥尔良、俄克拉荷马城）。这些地区历史上以制造业、能源、物流或低端服务业为主，在产业升级和全球化浪潮中面临更大挑战，导致收入增长乏力。值得注意的是，**一些传统大都市如纽约和洛杉矶，虽然经济总量巨大，但因收入不平等显著、生活成本高昂，其“家庭中位收入”被部分摊薄**，未能进入前十，这反映了中位数指标对贫富差距的敏感性。\n\n## 城市命运的启示与隐忧：收敛与分化并存\n\n排名也透露出一些积极信号和结构性挑战。首先，**新兴科技中心正在崛起**，如北卡罗来纳州的罗利（第8）、科罗拉多州的丹佛（第7）和德州的奥斯汀（第14）。这些城市通过吸引科技企业入驻、打造创新生态系统，成功复制了“高技能-高收入”的增长模式，表明经济增长极正在从传统的加州和东北部向内陆部分宜居城市扩散。\n\n然而，区域间及州内的收入差距不容忽视。以得克萨斯州为例，奥斯汀（第14）与圣安东尼奥（第39）的排名相差25位，反映出即便在同一州内，不同的城市定位（科技中心 vs. 传统军事与旅游城市）也会导致命运迥异。此外，佛罗里达州多个城市（奥兰多、杰克逊维尔、迈阿密、坦帕）收入均略低于全国中位数，这可能与当地以旅游、零售和房地产为主导的服务业结构有关，这些行业通常薪资水平有限。\n\n**结论与局限**：该榜单清晰地勾勒出美国经济的地理分层。高收入城市的成功与**人力资本密集度、产业结构先进性、以及吸引高端投资的能力**深度绑定。对于低收入城市而言，简单的产业转移或短期投资难以扭转格局，需要长期、系统性地在教育、技能培训和基础设施上进行投入，以实现经济转型。但需注意，中位收入未考虑生活成本差异（如旧金山的高收入可能被高房价抵消），也未反映财富分配情况，因此是衡量城市经济健康度的重要但非唯一的指标。",
+      "glossary": [
+        {
+          "term": "中位家庭收入",
+          "explanation": "将所有家庭收入从低到高排序后，位于中间位置的家庭的收入值。相比平均收入，它更能反映典型家庭的收入水平，避免被极高收入者过度拉高。"
+        },
+        {
+          "term": "大都市区",
+          "explanation": "通常指一个拥有大量人口的核心城区及其在经济和社会上高度整合的周边社区。排名中的Metro（大都市区）是一个标准化的统计地理概念，可能包含多个行政区。"
+        },
+        {
+          "term": "锈带",
+          "explanation": "指美国东北部和中西部一些传统工业衰退的地区，因工厂锈蚀的废弃设备而得名，常与制造业外流、人口减少和经济转型困难相关联。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4dc2272",
+    "title": "Ranked: The Countries With the Most Billionaires in 2026",
+    "original_url": "https://www.visualcapitalist.com/countries-with-most-billionaires-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a4dc2272.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUc4qMNzT5elQDrUSRk3qWAeKKYOlFZlXP/9k=",
+    "image_version": 1782138222,
+    "pub_date": "Mon, 22 Jun 2026 12:03:26 +0000",
+    "content_md": "| Rank | Country | Region | Number of Billionaires |\n| --- | --- | --- | --- |\n| 1 | China | Asia | 1,110 |\n| 2 | USA | Americas | 1,000 |\n| 3 | India | Asia | 308 |\n| 4 | Germany | Europe | 171 |\n| 5 | UK | Europe | 150 |\n| 6 | Switzerland | Europe | 114 |\n| 7 | Russia | Europe | 105 |\n| 8 | Brazil | Americas | 77 |\n| 9 | Canada | Americas | 75 |\n| 10 | Italy | Europe | 73 |\n| 11 | France | Europe | 71 |\n| 12 | Australia | Oceania | 61 |\n| 13 | Singapore | Asia | 59 |\n| 14 | Indonesia | Asia | 44 |\n| 15 | Japan | Asia | 42 |\n| 16 | Thailand | Asia | 40 |\n| 17 | South Korea | Asia | 37 |\n| 18 | Sweden | Europe | 35 |\n| 18 | Türkiye | Europe | 35 |\n| 20 | Spain | Europe | 34 |\n| 21 | Israel | Middle East | 31 |\n| 22 | UAE | Middle East | 28 |\n| 23 | Mexico | Americas | 27 |\n| 23 | Monaco | Europe | 27 |\n| 25 | Saudi Arabia | Middle East | 17 |\n| 26 | Philippines | Asia | 16 |\n| 26 | Malaysia | Asia | 16 |\n| 28 | Chile | Americas | 15 |\n| 28 | Denmark | Europe | 15 |\n| 30 | Austria | Europe | 14 |\n| -- | Other | Various | 173 |",
+    "ai_analysis": {
+      "core_insight": "中美两国主导2026年全球亿万富豪格局，亚洲整体力量崛起。",
+      "data_highlights": [
+        "中美两国亿万富豪总数占全球前30名国家总量的近一半。",
+        "亚洲国家数量最多（10个），富豪总数（1,637人）超越欧洲（12国，718人）。",
+        "欧洲国家虽多，但单国规模普遍偏小，头部效应不明显。",
+        "中东地区（以色列、UAE、沙特）表现突出，人均财富集中度高。",
+        "“其他”类别包含173人，表明全球财富分布仍有长尾效应。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Region",
+            "Number of Billionaires"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "Asia",
+              "1,110"
+            ],
+            [
+              "2",
+              "USA",
+              "Americas",
+              "1,000"
+            ],
+            [
+              "3",
+              "India",
+              "Asia",
+              "308"
+            ],
+            [
+              "4",
+              "Germany",
+              "Europe",
+              "171"
+            ],
+            [
+              "5",
+              "UK",
+              "Europe",
+              "150"
+            ],
+            [
+              "6",
+              "Switzerland",
+              "Europe",
+              "114"
+            ],
+            [
+              "7",
+              "Russia",
+              "Europe",
+              "105"
+            ],
+            [
+              "8",
+              "Brazil",
+              "Americas",
+              "77"
+            ],
+            [
+              "9",
+              "Canada",
+              "Americas",
+              "75"
+            ],
+            [
+              "10",
+              "Italy",
+              "Europe",
+              "73"
+            ],
+            [
+              "11",
+              "France",
+              "Europe",
+              "71"
+            ],
+            [
+              "12",
+              "Australia",
+              "Oceania",
+              "61"
+            ],
+            [
+              "13",
+              "Singapore",
+              "Asia",
+              "59"
+            ],
+            [
+              "14",
+              "Indonesia",
+              "Asia",
+              "44"
+            ],
+            [
+              "15",
+              "Japan",
+              "Asia",
+              "42"
+            ],
+            [
+              "16",
+              "Thailand",
+              "Asia",
+              "40"
+            ],
+            [
+              "17",
+              "South Korea",
+              "Asia",
+              "37"
+            ],
+            [
+              "18",
+              "Sweden",
+              "Europe",
+              "35"
+            ],
+            [
+              "18",
+              "Türkiye",
+              "Europe",
+              "35"
+            ],
+            [
+              "20",
+              "Spain",
+              "Europe",
+              "34"
+            ],
+            [
+              "21",
+              "Israel",
+              "Middle East",
+              "31"
+            ],
+            [
+              "22",
+              "UAE",
+              "Middle East",
+              "28"
+            ],
+            [
+              "23",
+              "Mexico",
+              "Americas",
+              "27"
+            ],
+            [
+              "23",
+              "Monaco",
+              "Europe",
+              "27"
+            ],
+            [
+              "25",
+              "Saudi Arabia",
+              "Middle East",
+              "17"
+            ],
+            [
+              "26",
+              "Philippines",
+              "Asia",
+              "16"
+            ],
+            [
+              "26",
+              "Malaysia",
+              "Asia",
+              "16"
+            ],
+            [
+              "28",
+              "Chile",
+              "Americas",
+              "15"
+            ],
+            [
+              "28",
+              "Denmark",
+              "Europe",
+              "15"
+            ],
+            [
+              "30",
+              "Austria",
+              "Europe",
+              "14"
+            ],
+            [
+              "--",
+              "Other",
+              "Various",
+              "173"
+            ]
+          ],
+          "caption": "2026年全球亿万富豪数量国家/地区排名（前30名）"
+        }
+      ],
+      "deep_dive": "## 格局分析：中美双雄与亚洲崛起\n2026年的数据清晰勾勒出全球财富创造的地理版图。中国以1,110位亿万富豪稳居榜首，美国以1,000位紧随其后，两者合计占据前30名国家富豪总量的约46%，形成了无可争议的“双寡头”格局。这背后是两国庞大的经济体量、完善的资本市场、活跃的科技创业以及制造业升级的综合结果。\n\n更值得关注的是**亚洲整体的强劲表现**。除了中印两大引擎，新加坡、印尼、日本、泰国、韩国、菲律宾、马来西亚共7个亚洲国家进入榜单，使得亚洲以10国的总数贡献了1,637位富豪。这标志着全球财富增长重心从传统欧美向亚太的持续转移，与亚洲人口红利、中产阶级扩张和数字化进程密切相关。\n\n## 区域对比与结构差异\n与亚洲的“头部集中、梯队庞大”不同，**欧洲呈现“数量众多、规模分散”的特点**。德、英、瑞、俄等12个欧洲国家上榜，但除德国（171人）和英国（150人）外，其余多国富豪数量均在百人以下。这反映了欧洲经济结构相对成熟稳定，但创新爆发力和新增财富速度可能不及中美。\n\n**美洲地区**则呈现明显的南北差异。美国一枝独秀，而加拿大、巴西、墨西哥、智利等国的富豪规模与之相差甚远。**中东地区**虽国家数量少，但以色列、阿联酋、沙特均凭借能源、金融或科技专业优势，实现了较高的财富集中度。值得注意的是，摩纳哥（27人）作为微型国家上榜，凸显了其作为全球财富避风港的特殊地位。\n\n## 启示与局限性思考\n此排名是观察全球经济权力变迁的一个窗口。它提示我们，未来的投资、产业政策与地缘经济竞争，需密切关注中美科技与资本的互动，以及亚洲新兴市场的崛起潜力。然而，数据也存在局限：它只反映数量而非财富总量，一位千亿富豪与一位十亿富豪在影响力上截然不同；同时，“亿万富豪”的诞生与股市繁荣、资产估值周期高度相关，排名可能存在年度波动。因此，需结合财富净值、经济结构等数据进行综合判断。",
+      "glossary": [
+        {
+          "term": "亿万富豪 (Billionaire)",
+          "explanation": "指个人净资产达到或超过10亿美元（约合70亿人民币）的富豪，是衡量顶级财富创造和集中度的指标之一。"
+        },
+        {
+          "term": "头部效应",
+          "explanation": "指资源或财富高度集中在少数领先者（如中美两国）的现象，常导致巨大的规模优势和影响力。"
+        },
+        {
+          "term": "财富集中度",
+          "explanation": "指财富在特定地理区域、人群或机构中的聚集程度。高集中度可能反映该地区的经济活力，也可能引发对公平性的讨论。"
+        }
+      ]
+    }
+  },
+  {
     "id": "3bb5ccfa",
     "title": "Ranked: Household Income by Race in America",
     "original_url": "https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/",
