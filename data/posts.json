@@ -1,5 +1,113 @@
 [
   {
+    "id": "233afb1b",
+    "title": "Mapped: The States Carrying the Most Debt Per Resident",
+    "original_url": "https://www.visualcapitalist.com/mapped-states-carrying-most-debt-per-resident/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/233afb1b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDAjhOatxx4FTRRipXUKtTc1cdCGio2fmigiw+N8UskmRUYpr07GftGRs3NFMPWimLnZ//Z",
+    "image_version": 1782243999,
+    "pub_date": "Tue, 23 Jun 2026 17:09:15 +0000",
+    "content_md": "| Rank | State | Government State Debt per Capita 2023 | Total Debt |\n| --- | --- | --- | --- |\n| 1 | Connecticut | $26,187 | $94.4B |\n| 2 | New Jersey | $22,968 | $213.4B |\n| 3 | Hawaii | $18,909 | $27.5B |\n| 4 | Delaware | $17,535 | $17.4B |\n| 5 | Illinois | $17,391 | $222.8B |\n| 6 | Massachusetts | $17,082 | $120.1B |\n| 7 | Wyoming | $15,433 | $8.9B |\n| 8 | Alaska | $14,861 | $10.9B |\n| 9 | North Dakota | $13,357 | $10.4B |\n| 10 | California | $12,565 | $496.8B |\n| 11 | Washington | $12,118 | $93.4B |\n| 12 | New York | $11,547 | $233.3B |\n| 13 | Vermont | $10,930 | $7.0B |\n| 14 | Maryland | $9,816 | $60.6B |\n| 15 | Kentucky | $9,376 | $42.3B |\n| 16 | New Mexico | $8,637 | $18.3B |\n| 17 | Louisiana | $8,283 | $38.6B |\n| 18 | Rhode Island | $8,093 | $8.9B |\n| 19 | Colorado | $7,469 | $43.1B |\n| 20 | Texas | $7,443 | $216.9B |\n| 21 | Maine | $6,576 | $8.9B |\n| 22 | Oregon | $6,169 | $26.1B |\n| 23 | West Virginia | $5,897 | $10.6B |\n| 24 | Pennsylvania | $5,872 | $76.4B |\n| 25 | Montana | $5,394 | $5.8B |\n| 26 | Wisconsin | $4,943 | $29.1B |\n| 27 | Mississippi | $4,784 | $14.2B |\n| 28 | Ohio | $4,726 | $55.8B |\n| 29 | Georgia | $4,503 | $48.2B |\n| 30 | New Hampshire | $4,374 | $6.0B |\n| 31 | Minnesota | $4,094 | $23.4B |\n| 32 | Virginia | $4,037 | $34.9B |\n| 33 | Arkansas | $3,985 | $12.0B |\n| 34 | Michigan | $3,891 | $39.2B |\n| 35 | Nevada | $3,850 | $12.0B |\n| 36 | South Carolina | $3,578 | $18.3B |\n| 37 | Arizona | $3,443 | $24.6B |\n| 38 | Missouri | $3,438 | $21.2B |\n| 39 | Kansas | $3,427 | $10.1B |\n| 40 | Alabama | $3,350 | $16.8B |\n| 41 | Florida | $3,334 | $71.8B |\n| 42 | Iowa | $3,180 | $10.2B |\n| 43 | North Carolina | $3,086 | $32.2B |\n| 44 | Indiana | $2,975 | $20.2B |\n| 45 | Oklahoma | $2,871 | $11.4B |\n| 46 | South Dakota | $2,776 | $2.5B |\n| 47 | Idaho | $2,625 | $4.8B |\n| 48 | Nebraska | $2,503 | $4.9B |\n| 49 | Utah | $2,006 | $6.6B |\n| 50 | Tennessee | $1,952 | $13.5B |",
+    "ai_analysis": {
+      "core_insight": "美国各州人均政府债务水平差异悬殊，东北部与西海岸州占据前列。",
+      "data_highlights": [
+        "康涅狄格州以人均$26,187高居榜首，新泽西州紧随其后。",
+        "加利福尼亚州总债务高达4968亿美元，为全国之最，但人均仅排第10。",
+        "人均债务最低的田纳西州仅$1,952，不足最高州的8%。",
+        "排名前五的州人均债务均超过$17,000，主要集中在东北部地区。",
+        "总债务与人均债务排名不一致，例如德克萨斯州总债务高但人均排名仅第20。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Government State Debt per Capita 2023",
+            "Total Debt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Connecticut",
+              "$26,187",
+              "$94.4B"
+            ],
+            [
+              "2",
+              "New Jersey",
+              "$22,968",
+              "$213.4B"
+            ],
+            [
+              "3",
+              "Hawaii",
+              "$18,909",
+              "$27.5B"
+            ],
+            [
+              "4",
+              "Delaware",
+              "$17,535",
+              "$17.4B"
+            ],
+            [
+              "5",
+              "Illinois",
+              "$17,391",
+              "$222.8B"
+            ],
+            [
+              "6",
+              "Massachusetts",
+              "$17,082",
+              "$120.1B"
+            ],
+            [
+              "7",
+              "Wyoming",
+              "$15,433",
+              "$8.9B"
+            ],
+            [
+              "8",
+              "Alaska",
+              "$14,861",
+              "$10.9B"
+            ],
+            [
+              "9",
+              "North Dakota",
+              "$13,357",
+              "$10.4B"
+            ],
+            [
+              "10",
+              "California",
+              "$12,565",
+              "$496.8B"
+            ]
+          ],
+          "caption": "2023年美国各州人均政府债务排名（前10）"
+        }
+      ],
+      "deep_dive": "## 人均债务排名的区域分布与结构性特征\n从数据来看，人均政府债务排名靠前的州呈现出明显的区域集聚性。东北部的新英格兰地区（康涅狄格、马萨诸塞）和中大西洋地区（新泽西、纽约）以及西海岸的加利福尼亚州占据了高位。这些地区通常经济发达、公共服务支出较高，可能因此积累了更多的州政府债务。例如，排名第一的康涅狄格州人均债务是田纳西州的13.4倍，反映出不同州在财政策略、公共服务投入和债务融资依赖度上的巨大差异。\n\n值得注意的是，人均债务水平与州的经济规模或总债务体量并不完全对应。加利福尼亚州以4968亿美元的总债务领跑全美，但由于人口基数庞大，人均债务仅排第10位。相反，怀俄明州人口较少，虽然总债务仅89亿美元，但人均债务却高达15,433美元，位列第7。这说明在评估政府财政健康度时，人均指标比总量指标更能反映居民的实际负担水平。\n\n## 高债务背后的驱动因素与潜在影响\n驱动各州人均债务差异的因素可能包括：历史财政政策、养老金等长期负债的规模、重大基础设施项目的融资需求、以及应对经济周期的财政缓冲策略。排名靠前的州，如新泽西和伊利诺伊，长期面临养老金体系资金不足的挑战，这显著推高了其负债。夏威夷、阿拉斯加等州则可能因地理环境导致基础设施建设和维护成本高昂。\n\n高人均债务可能带来双重影响。一方面，它可能支撑了这些州较高水平的公共服务（如教育、交通），增强了长期竞争力。另一方面，持续的债务利息支出会挤占其他财政支出空间，在利率上行周期中加剧财政压力，也可能影响州的信用评级，进而提高未来的融资成本。对于投资者和居民而言，这一排名是衡量州财政可持续性和未来税负潜力的重要参考。",
+      "glossary": [
+        {
+          "term": "人均政府债务",
+          "explanation": "指州政府总债务除以该州常住人口数，用于衡量平均每位居民所承担的政府债务规模，是评估财政负担的关键相对指标。"
+        },
+        {
+          "term": "总债务",
+          "explanation": "指州政府在特定时间点（如2023年）所承担的全部未偿还债务的总和，是一个绝对量指标。"
+        },
+        {
+          "term": "财政可持续性",
+          "explanation": "指政府维持当前财政政策而不引发债务危机的能力，通常关注债务与收入、GDP的比率及其变化趋势。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a733c85a",
     "title": "Mapped: People Are Closer on Climate Than They Think",
     "original_url": "https://www.visualcapitalist.com/sp/mapped-people-are-closer-on-climate-than-they-think/",
