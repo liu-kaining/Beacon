@@ -1,5 +1,93 @@
 [
   {
+    "id": "41f27f92",
+    "title": "Ranked: The EU’s Biggest Trading Partners in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-european-unions-largest-trade-partners-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/41f27f92.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjIVzVoxfLUNt1q+ANtbuVi2Z7Rc0VZYDdRT52TY//2Q==",
+    "image_version": 1782215407,
+    "pub_date": "Tue, 23 Jun 2026 09:15:38 +0000",
+    "content_md": "| Trade Partner | Import Amount (€B) | Export Amount (€B) | Surplus/Deficit (€B) |\n| --- | --- | --- | --- |\n| China | 145.3 | 47.6 | -97.7 |\n| USA | 85.9 | 119.4 | 33.5 |\n| UK | 39.5 | 88.7 | 49.2 |\n| Switzerland | 36.7 | 57.2 | 20.5 |\n| Turkiye | 24.6 | 27.1 | 2.5 |\n| Total | 627.8 | 640.5 | 12.7 |",
+    "ai_analysis": {
+      "core_insight": "欧盟对华贸易逆差巨大，但整体贸易顺差主要依赖英美市场。",
+      "data_highlights": [
+        "欧盟最大贸易伙伴为中国，贸易逆差高达977亿欧元，远超其他伙伴。",
+        "欧盟与美国和英国的贸易呈现显著顺差，分别为335亿和492亿欧元。",
+        "欧盟整体贸易保持127亿欧元的小幅顺差，主要由英美市场的巨大顺差抵消对华逆差。",
+        "瑞士是欧盟第四大贸易伙伴，欧盟对其也有205亿欧元的顺差。",
+        "土耳其与欧盟的贸易基本平衡，仅有微小顺差。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Trade Partner",
+            "Import Amount (€B)",
+            "Export Amount (€B)",
+            "Surplus/Deficit (€B)"
+          ],
+          "rows": [
+            [
+              "China",
+              "145.3",
+              "47.6",
+              "-97.7"
+            ],
+            [
+              "USA",
+              "85.9",
+              "119.4",
+              "33.5"
+            ],
+            [
+              "UK",
+              "39.5",
+              "88.7",
+              "49.2"
+            ],
+            [
+              "Switzerland",
+              "36.7",
+              "57.2",
+              "20.5"
+            ],
+            [
+              "Turkiye",
+              "24.6",
+              "27.1",
+              "2.5"
+            ],
+            [
+              "Total",
+              "627.8",
+              "640.5",
+              "12.7"
+            ]
+          ],
+          "caption": "2026年欧盟主要贸易伙伴数据（单位：十亿欧元）"
+        }
+      ],
+      "deep_dive": "## 贸易格局：结构性失衡与区域依赖\n\n从2026年的预测数据看，欧盟的对外贸易呈现出鲜明的“两极”特征。一方面，它与中国存在巨大的贸易赤字，进口额（1453亿欧元）是出口额（476亿欧元）的三倍有余，逆差高达977亿欧元。这反映了欧盟在制成品（尤其是中低端消费品、电子产品组件等）上对“世界工厂”的深度依赖，以及在高端市场准入和本地化生产方面面临的挑战。\n\n另一方面，欧盟与美国、英国等传统盟友的贸易关系则截然相反，形成巨额顺差。对美顺差335亿欧元，对英顺差更是高达492亿欧元。这种格局凸显了欧盟在高端制造业（如汽车、机械、化工产品）和服务业上的强大出口竞争力，尤其是在地理和文化相近的市场。这种依赖意味着欧盟的整体贸易平衡高度敏感于英美等主要经济体的内部需求和政策变动，存在一定的地缘政治与经济风险。\n\n## 核心启示与潜在风险\n\n1.  **平衡的艺术**：欧盟整体仅实现127亿欧元的微小顺差，是巨大对华逆差被对英美顺差强力对冲后的结果。这揭示了欧盟经济模式的脆弱性：其繁荣在很大程度上建立在少数几个关键市场的出口成功之上。\n2.  **供应链与战略自主**：对华深度的贸易逆差引发了关于供应链安全和产业政策的长期思考。欧盟正在推动的“战略自主”和“去风险”政策，核心目标之一就是减少这种单一依赖，通过产业回流或多元化来改善贸易结构。\n3.  **区域整合的镜像**：瑞士和土耳其作为近邻，贸易结构相对均衡。与瑞士的顺差体现了欧洲内部高端服务与精密制造的流动；与土耳其的微小顺差则反映了区域生产链的整合与竞争态势。这些关系为欧盟的区域经济治理提供了不同侧面的参照。\n\n总体而言，这份排名表不仅是一份贸易清单，更是一幅描绘欧盟全球经济地位、战略依赖与潜在风险的地图。",
+      "glossary": [
+        {
+          "term": "贸易逆差",
+          "explanation": "指一个国家或地区在一定时期内的进口总额大于出口总额，即净进口状态，表现为资金净流出。"
+        },
+        {
+          "term": "贸易顺差",
+          "explanation": "指一个国家或地区在一定时期内的出口总额大于进口总额，即净出口状态，表现为资金净流入。"
+        },
+        {
+          "term": "供应链安全",
+          "explanation": "指确保关键产业、原材料和产品的供应稳定可靠，免受地缘政治冲突、自然灾害或贸易壁垒等外部冲击影响的策略与状态。"
+        },
+        {
+          "term": "战略自主",
+          "explanation": "指欧盟旨在减少在关键技术、原材料和供应链上对外部（尤其是单一来源）依赖，以增强自身经济韧性和决策独立性的政策导向。"
+        }
+      ]
+    }
+  },
+  {
     "id": "41dbb726",
     "title": "Ranked: Tax Revenue as a Share of GDP by Country",
     "original_url": "https://www.visualcapitalist.com/ranked-tax-revenue-as-a-share-of-gdp-by-country/",
