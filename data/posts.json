@@ -1,5 +1,306 @@
 [
   {
+    "id": "0d8a1f78",
+    "title": "Mapped: Where Americans Earn the Most Per Hour in 2026",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-americans-earn-the-most-per-hour-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0d8a1f78.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDcalQc0hp8dfOJaG7lqSgcUU4dKKyNrn//2Q==",
+    "image_version": 1782224091,
+    "pub_date": "Tue, 23 Jun 2026 13:37:26 +0000",
+    "content_md": "| Rank | State/District | Average hourly earnings (2026) |\n| --- | --- | --- |\n| 1 | District of Columbia | $57.39 |\n| 2 | Washington | $44.15 |\n| 3 | Massachusetts | $43.45 |\n| 4 | California | $42.56 |\n| 5 | Connecticut | $40.22 |\n| 6 | Hawaii | $40.07 |\n| 7 | New York | $40.03 |\n| 8 | Colorado | $39.86 |\n| 9 | New Jersey | $38.76 |\n| 10 | Minnesota | $38.53 |\n| 11 | Oregon | $38.53 |\n| 12 | Alaska | $38.34 |\n| 13 | Virginia | $38.29 |\n| 14 | Rhode Island | $37.81 |\n| 15 | Maryland | $37.33 |\n| 16 | New Hampshire | $36.36 |\n| 17 | Illinois | $36.35 |\n| 18 | Arizona | $36.02 |\n| 19 | North Dakota | $35.98 |\n| 20 | Utah | $35.91 |\n| 21 | Florida | $35.85 |\n| 22 | Vermont | $35.78 |\n| 23 | Georgia | $35.58 |\n| 24 | Idaho | $35.47 |\n| 25 | Texas | $34.85 |\n| 26 | Wisconsin | $34.69 |\n| 27 | North Carolina | $34.62 |\n| 28 | Michigan | $34.36 |\n| 29 | Missouri | $33.92 |\n| 30 | Maine | $33.81 |\n| 31 | Ohio | $33.81 |\n| 32 | Pennsylvania | $33.57 |\n| 33 | Montana | $33.48 |\n| 34 | Delaware | $33.40 |\n| 35 | Wyoming | $33.40 |\n| 36 | South Carolina | $33.37 |\n| 37 | Nevada | $33.24 |\n| 38 | Indiana | $32.99 |\n| 39 | Kansas | $32.98 |\n| 40 | Nebraska | $32.56 |\n| 41 | Alabama | $32.53 |\n| 42 | South Dakota | $31.99 |\n| 43 | Oklahoma | $31.94 |\n| 44 | Tennessee | $31.79 |\n| 45 | New Mexico | $31.47 |\n| 46 | Louisiana | $30.84 |\n| 47 | Kentucky | $30.72 |\n| 48 | West Virginia | $30.63 |\n| 49 | Iowa | $30.59 |\n| 50 | Arkansas | $29.53 |\n| 51 | Mississippi | $28.98 |",
+    "ai_analysis": {
+      "core_insight": "美国薪资地域差异显著，首尾相差近一倍，政治中心及高科技产业州领跑。",
+      "data_highlights": [
+        "哥伦比亚特区以57.39美元/小时的平均时薪高居榜首，远超其他州。",
+        "排名前五的地区均为东海岸或西海岸的发达州/特区，平均时薪均超过40美元。",
+        "排名后五位的州平均时薪均低于31美元，主要集中在美国南部和中西部。",
+        "排名第一的华盛顿特区与排名最后的密西西比州，平均时薪差距高达28.41美元。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State/District",
+            "Average hourly earnings (2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "District of Columbia",
+              "$57.39"
+            ],
+            [
+              "2",
+              "Washington",
+              "$44.15"
+            ],
+            [
+              "3",
+              "Massachusetts",
+              "$43.45"
+            ],
+            [
+              "4",
+              "California",
+              "$42.56"
+            ],
+            [
+              "5",
+              "Connecticut",
+              "$40.22"
+            ],
+            [
+              "6",
+              "Hawaii",
+              "$40.07"
+            ],
+            [
+              "7",
+              "New York",
+              "$40.03"
+            ],
+            [
+              "8",
+              "Colorado",
+              "$39.86"
+            ],
+            [
+              "9",
+              "New Jersey",
+              "$38.76"
+            ],
+            [
+              "10",
+              "Minnesota",
+              "$38.53"
+            ],
+            [
+              "11",
+              "Oregon",
+              "$38.53"
+            ],
+            [
+              "12",
+              "Alaska",
+              "$38.34"
+            ],
+            [
+              "13",
+              "Virginia",
+              "$38.29"
+            ],
+            [
+              "14",
+              "Rhode Island",
+              "$37.81"
+            ],
+            [
+              "15",
+              "Maryland",
+              "$37.33"
+            ],
+            [
+              "16",
+              "New Hampshire",
+              "$36.36"
+            ],
+            [
+              "17",
+              "Illinois",
+              "$36.35"
+            ],
+            [
+              "18",
+              "Arizona",
+              "$36.02"
+            ],
+            [
+              "19",
+              "North Dakota",
+              "$35.98"
+            ],
+            [
+              "20",
+              "Utah",
+              "$35.91"
+            ],
+            [
+              "21",
+              "Florida",
+              "$35.85"
+            ],
+            [
+              "22",
+              "Vermont",
+              "$35.78"
+            ],
+            [
+              "23",
+              "Georgia",
+              "$35.58"
+            ],
+            [
+              "24",
+              "Idaho",
+              "$35.47"
+            ],
+            [
+              "25",
+              "Texas",
+              "$34.85"
+            ],
+            [
+              "26",
+              "Wisconsin",
+              "$34.69"
+            ],
+            [
+              "27",
+              "North Carolina",
+              "$34.62"
+            ],
+            [
+              "28",
+              "Michigan",
+              "$34.36"
+            ],
+            [
+              "29",
+              "Missouri",
+              "$33.92"
+            ],
+            [
+              "30",
+              "Maine",
+              "$33.81"
+            ],
+            [
+              "31",
+              "Ohio",
+              "$33.81"
+            ],
+            [
+              "32",
+              "Pennsylvania",
+              "$33.57"
+            ],
+            [
+              "33",
+              "Montana",
+              "$33.48"
+            ],
+            [
+              "34",
+              "Delaware",
+              "$33.40"
+            ],
+            [
+              "35",
+              "Wyoming",
+              "$33.40"
+            ],
+            [
+              "36",
+              "South Carolina",
+              "$33.37"
+            ],
+            [
+              "37",
+              "Nevada",
+              "$33.24"
+            ],
+            [
+              "38",
+              "Indiana",
+              "$32.99"
+            ],
+            [
+              "39",
+              "Kansas",
+              "$32.98"
+            ],
+            [
+              "40",
+              "Nebraska",
+              "$32.56"
+            ],
+            [
+              "41",
+              "Alabama",
+              "$32.53"
+            ],
+            [
+              "42",
+              "South Dakota",
+              "$31.99"
+            ],
+            [
+              "43",
+              "Oklahoma",
+              "$31.94"
+            ],
+            [
+              "44",
+              "Tennessee",
+              "$31.79"
+            ],
+            [
+              "45",
+              "New Mexico",
+              "$31.47"
+            ],
+            [
+              "46",
+              "Louisiana",
+              "$30.84"
+            ],
+            [
+              "47",
+              "Kentucky",
+              "$30.72"
+            ],
+            [
+              "48",
+              "West Virginia",
+              "$30.63"
+            ],
+            [
+              "49",
+              "Iowa",
+              "$30.59"
+            ],
+            [
+              "50",
+              "Arkansas",
+              "$29.53"
+            ],
+            [
+              "51",
+              "Mississippi",
+              "$28.98"
+            ]
+          ],
+          "caption": "2026年美国各州/特区平均时薪排名"
+        }
+      ],
+      "deep_dive": "## 区域经济格局：高薪区与低薪区的地理分野\n\n从排名表可以清晰地看到美国各州平均时薪的“地理鸿沟”。高薪区呈现出明显的“双海岸”加“政治中心”格局。排名前七的地区中，**哥伦比亚特区**（作为联邦政府及游说机构所在地）和**西海岸的华盛顿州、加利福尼亚州**，以及**东海岸的马萨诸塞州、康涅狄格州、纽约州**占据了绝对主导。这些地区共同特点是拥有强大的**知识密集型产业**（如科技、金融、生物医药、专业服务）和高度城市化集群。例如，华盛顿特区的政府关联高薪岗位、加州的硅谷、纽约的华尔街、马萨诸塞州的波士顿学术与医疗产业，都构成了高工资的强大引擎。\n\n相比之下，排名靠后的州主要集中在**南部（如密西西比、阿肯色、路易斯安那）和部分中西部农业州（如爱荷华）**。这些地区往往以农业、传统制造业、资源开采业为主，产业结构相对单一，高附加值服务业岗位较少，因此整体薪资水平被拉低。\n\n## 产业结构与生活成本：高薪背后的双重逻辑\n\n高薪资并非简单的“富有”代名词，其背后有更复杂的经济逻辑：\n1.  **产业结构是核心驱动力**：平均时薪最高的州/特区，无一例外是**高科技、金融、专业商业服务**等高利润、高人力资本要求行业的聚集地。这些行业能支付更高的工资以争夺顶尖人才，同时也推高了整体薪资水平。\n2.  **生活成本的调节作用**：高薪往往伴随着极高的生活成本，尤其是在住房和交通方面。例如，华盛顿特区、加州、纽约等地的房价和租金远高于全国平均水平。因此，名义上的高时薪在扣除高昂的生活开支后，实际购买力可能并未显著领先。\n3.  **联邦政策与人才流动**：哥伦比亚特区的超高排名直接体现了**联邦政府及相关政策咨询、国防承包产业**的强大经济影响力。同时，高薪州也吸引了全国乃至全球的人才流入，形成了“高薪-高技能-高创新”的循环。\n\n## 启示与局限\n\n这份数据为理解美国区域经济差异提供了直观窗口。对于求职者和企业选址而言，它揭示了**薪资与产业结构的强关联性**。然而，解读时需注意：\n- **数据局限性**：报告仅提供了平均时薪，未考虑各州不同的工作时间、就业率及收入分配差异（如基尼系数）。一个平均时薪高的州，内部可能也存在巨大的收入差距。\n- **综合生活考量**：选择居住地不应只看名义工资，需综合考虑生活成本、税收、公共服务和个人职业匹配度。\n- **趋势展望**：远程工作的兴起可能正在重塑这一格局，允许部分高薪工作者迁移到生活成本较低的州，但目前看，核心产业聚集区的高薪优势依然稳固。\n\n总体而言，薪资地图实质上是美国**产业竞争力地图**的缩影，反映了知识经济时代，人力资本与创新要素的空间集聚效应。",
+      "glossary": [
+        {
+          "term": "平均时薪",
+          "explanation": "指在特定时期内（此处为2026年），员工平均每工作一小时所获得的报酬总额，是衡量劳动力成本和收入水平的关键指标。"
+        },
+        {
+          "term": "知识密集型产业",
+          "explanation": "指主要依赖专业知识和技能，而非体力劳动或自然资源的产业，如信息技术、金融、研发、专业服务等，通常具有高附加值和高薪资特征。"
+        },
+        {
+          "term": "生活成本",
+          "explanation": "指维持一定生活水准所需的开支，主要包括住房、食品、交通、医疗等。高薪地区通常生活成本也高，名义工资与实际购买力需区分看待。"
+        }
+      ]
+    }
+  },
+  {
     "id": "41f27f92",
     "title": "Ranked: The EU’s Biggest Trading Partners in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-european-unions-largest-trade-partners-2026/",
