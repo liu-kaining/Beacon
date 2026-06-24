@@ -1,5 +1,752 @@
 [
   {
+    "id": "3546ceda",
+    "title": "Mapped: The World’s Top Innovation Clusters",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-worlds-top-innovation-clusters/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3546ceda.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDglSnFOKctPPSumxhcrlOaKkPWipsO5//Z",
+    "image_version": 1782328980,
+    "pub_date": "Wed, 24 Jun 2026 19:08:21 +0000",
+    "content_md": "| Rank | Innovation Cluster | Country |\n| --- | --- | --- |\n| 1 | Shenzhen–Hong Kong–Guangzhou | China / Hong Kong |\n| 2 | Tokyo–Yokohama | Japan |\n| 3 | San Jose–San Francisco | United States |\n| 4 | Beijing | China |\n| 5 | Seoul | South Korea |\n| 6 | Shanghai–Suzhou | China |\n| 7 | New York City | United States |\n| 8 | London | United Kingdom |\n| 9 | Boston–Cambridge | United States |\n| 10 | Los Angeles | United States |\n| 11 | Osaka–Kobe–Kyoto | Japan |\n| 12 | Paris | France |\n| 13 | Hangzhou | China |\n| 14 | San Diego | United States |\n| 15 | Nanjing | China |\n| 16 | Singapore | Singapore / Malaysia |\n| 17 | Washington–Baltimore | United States |\n| 18 | Wuhan | China |\n| 19 | Tel Aviv–Jerusalem | Israel |\n| 20 | Seattle | United States |\n| 21 | Bengaluru | India |\n| 22 | Amsterdam–Rotterdam | Netherlands |\n| 23 | Philadelphia | United States |\n| 24 | Chengdu | China |\n| 25 | Daejeon | South Korea |\n| 26 | Delhi | India |\n| 27 | Munich | Germany |\n| 28 | Nagoya | Japan |\n| 29 | Xi'an | China |\n| 30 | Berlin | Germany |\n| 31 | Chicago | United States |\n| 32 | Stockholm | Sweden |\n| 33 | Toronto | Canada |\n| 34 | Qingdao | China |\n| 35 | Denver | United States |\n| 36 | Sydney | Australia |\n| 37 | Austin | United States |\n| 38 | Houston | United States |\n| 39 | Hefei | China |\n| 40 | Zürich | Switzerland |\n| 41 | Taipei–Hsinchu | Taiwan* |\n| 42 | Copenhagen | Denmark |\n| 43 | Cologne | Germany |\n| 44 | Changsha | China |\n| 45 | Barcelona | Spain |\n| 46 | Mumbai | India |\n| 47 | Madrid | Spain |\n| 48 | Moscow | Russia |\n| 49 | São Paulo | Brazil |\n| 50 | Tianjin | China |\n| 51 | Minneapolis | United States |\n| 52 | Melbourne | Australia |\n| 53 | Raleigh | United States |\n| 54 | Stuttgart | Germany |\n| 55 | Brussels–Antwerp | Belgium |\n| 56 | Milan | Italy |\n| 57 | Chongqing | China |\n| 58 | Istanbul | Turkey |\n| 59 | Atlanta | United States |\n| 60 | Helsinki | Finland |\n| 61 | Dallas | United States |\n| 62 | Montréal | Canada |\n| 63 | Tehran | Iran |\n| 64 | Frankfurt am Main | Germany |\n| 65 | Eindhoven | Netherlands |\n| 66 | Vancouver | Canada |\n| 67 | Miami | United States |\n| 68 | Jinan | China |\n| 69 | Cambridge | United Kingdom |\n| 70 | Harbin | China |\n| 71 | Dublin | Ireland |\n| 72 | Changchun | China |\n| 73 | Portland | United States |\n| 74 | Vienna | Austria |\n| 75 | Shenyang | China |\n| 76 | Pittsburgh | United States |\n| 77 | Oxford | United Kingdom |\n| 78 | Phoenix | United States |\n| 79 | Mexico City | Mexico |\n| 80 | Zhengzhou | China |\n| 81 | Xiamen | China |\n| 82 | Rome | Italy |\n| 83 | Cairo | Egypt |\n| 84 | Chennai | India |\n| 85 | Oslo | Norway |\n| 86 | Kuala Lumpur | Malaysia |\n| 87 | Heidelberg–Mannheim | Germany |\n| 88 | Dalian | China |\n| 89 | Warsaw | Poland |\n| 90 | Lyon | France |\n| 91 | Hamburg | Germany |\n| 92 | Salt Lake City | United States |\n| 93 | Ningbo | China |\n| 94 | Manchester | United Kingdom |\n| 95 | Busan | South Korea |\n| 96 | Ann Arbor | United States |\n| 97 | Göteborg | Sweden |\n| 98 | Macau–Zhuhai | China |\n| 99 | Ningde | China |\n| 100 | Zhenjiang | China |",
+    "ai_analysis": {
+      "core_insight": "全球创新集群呈现中美双强格局，中国在数量上领先，美国在顶尖集群中占优。",
+      "data_highlights": [
+        "前三名集群分别位于中国（深港广）、日本（东京-横滨）和美国（圣何塞-旧金山）。",
+        "在前100名创新集群中，美国拥有25个，数量最多；中国拥有24个，紧随其后。",
+        "中国集群集中在东部沿海与长江经济带，如长三角、珠三角和京津冀地区。",
+        "亚洲集群（中、日、韩）在前20名中占据11席，凸显区域创新实力。",
+        "欧洲集群主要集中在西欧，如英国、德国、法国，但整体排名靠后。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Innovation Cluster",
+            "Country"
+          ],
+          "rows": [
+            [
+              "1",
+              "Shenzhen–Hong Kong–Guangzhou",
+              "China / Hong Kong"
+            ],
+            [
+              "2",
+              "Tokyo–Yokohama",
+              "Japan"
+            ],
+            [
+              "3",
+              "San Jose–San Francisco",
+              "United States"
+            ],
+            [
+              "4",
+              "Beijing",
+              "China"
+            ],
+            [
+              "5",
+              "Seoul",
+              "South Korea"
+            ],
+            [
+              "6",
+              "Shanghai–Suzhou",
+              "China"
+            ],
+            [
+              "7",
+              "New York City",
+              "United States"
+            ],
+            [
+              "8",
+              "London",
+              "United Kingdom"
+            ],
+            [
+              "9",
+              "Boston–Cambridge",
+              "United States"
+            ],
+            [
+              "10",
+              "Los Angeles",
+              "United States"
+            ],
+            [
+              "11",
+              "Osaka–Kobe–Kyoto",
+              "Japan"
+            ],
+            [
+              "12",
+              "Paris",
+              "France"
+            ],
+            [
+              "13",
+              "Hangzhou",
+              "China"
+            ],
+            [
+              "14",
+              "San Diego",
+              "United States"
+            ],
+            [
+              "15",
+              "Nanjing",
+              "China"
+            ],
+            [
+              "16",
+              "Singapore",
+              "Singapore / Malaysia"
+            ],
+            [
+              "17",
+              "Washington–Baltimore",
+              "United States"
+            ],
+            [
+              "18",
+              "Wuhan",
+              "China"
+            ],
+            [
+              "19",
+              "Tel Aviv–Jerusalem",
+              "Israel"
+            ],
+            [
+              "20",
+              "Seattle",
+              "United States"
+            ],
+            [
+              "21",
+              "Bengaluru",
+              "India"
+            ],
+            [
+              "22",
+              "Amsterdam–Rotterdam",
+              "Netherlands"
+            ],
+            [
+              "23",
+              "Philadelphia",
+              "United States"
+            ],
+            [
+              "24",
+              "Chengdu",
+              "China"
+            ],
+            [
+              "25",
+              "Daejeon",
+              "South Korea"
+            ],
+            [
+              "26",
+              "Delhi",
+              "India"
+            ],
+            [
+              "27",
+              "Munich",
+              "Germany"
+            ],
+            [
+              "28",
+              "Nagoya",
+              "Japan"
+            ],
+            [
+              "29",
+              "Xi'an",
+              "China"
+            ],
+            [
+              "30",
+              "Berlin",
+              "Germany"
+            ],
+            [
+              "31",
+              "Chicago",
+              "United States"
+            ],
+            [
+              "32",
+              "Stockholm",
+              "Sweden"
+            ],
+            [
+              "33",
+              "Toronto",
+              "Canada"
+            ],
+            [
+              "34",
+              "Qingdao",
+              "China"
+            ],
+            [
+              "35",
+              "Denver",
+              "United States"
+            ],
+            [
+              "36",
+              "Sydney",
+              "Australia"
+            ],
+            [
+              "37",
+              "Austin",
+              "United States"
+            ],
+            [
+              "38",
+              "Houston",
+              "United States"
+            ],
+            [
+              "39",
+              "Hefei",
+              "China"
+            ],
+            [
+              "40",
+              "Zürich",
+              "Switzerland"
+            ],
+            [
+              "41",
+              "Taipei–Hsinchu",
+              "Taiwan*"
+            ],
+            [
+              "42",
+              "Copenhagen",
+              "Denmark"
+            ],
+            [
+              "43",
+              "Cologne",
+              "Germany"
+            ],
+            [
+              "44",
+              "Changsha",
+              "China"
+            ],
+            [
+              "45",
+              "Barcelona",
+              "Spain"
+            ],
+            [
+              "46",
+              "Mumbai",
+              "India"
+            ],
+            [
+              "47",
+              "Madrid",
+              "Spain"
+            ],
+            [
+              "48",
+              "Moscow",
+              "Russia"
+            ],
+            [
+              "49",
+              "São Paulo",
+              "Brazil"
+            ],
+            [
+              "50",
+              "Tianjin",
+              "China"
+            ],
+            [
+              "51",
+              "Minneapolis",
+              "United States"
+            ],
+            [
+              "52",
+              "Melbourne",
+              "Australia"
+            ],
+            [
+              "53",
+              "Raleigh",
+              "United States"
+            ],
+            [
+              "54",
+              "Stuttgart",
+              "Germany"
+            ],
+            [
+              "55",
+              "Brussels–Antwerp",
+              "Belgium"
+            ],
+            [
+              "56",
+              "Milan",
+              "Italy"
+            ],
+            [
+              "57",
+              "Chongqing",
+              "China"
+            ],
+            [
+              "58",
+              "Istanbul",
+              "Turkey"
+            ],
+            [
+              "59",
+              "Atlanta",
+              "United States"
+            ],
+            [
+              "60",
+              "Helsinki",
+              "Finland"
+            ],
+            [
+              "61",
+              "Dallas",
+              "United States"
+            ],
+            [
+              "62",
+              "Montréal",
+              "Canada"
+            ],
+            [
+              "63",
+              "Tehran",
+              "Iran"
+            ],
+            [
+              "64",
+              "Frankfurt am Main",
+              "Germany"
+            ],
+            [
+              "65",
+              "Eindhoven",
+              "Netherlands"
+            ],
+            [
+              "66",
+              "Vancouver",
+              "Canada"
+            ],
+            [
+              "67",
+              "Miami",
+              "United States"
+            ],
+            [
+              "68",
+              "Jinan",
+              "China"
+            ],
+            [
+              "69",
+              "Cambridge",
+              "United Kingdom"
+            ],
+            [
+              "70",
+              "Harbin",
+              "China"
+            ],
+            [
+              "71",
+              "Dublin",
+              "Ireland"
+            ],
+            [
+              "72",
+              "Changchun",
+              "China"
+            ],
+            [
+              "73",
+              "Portland",
+              "United States"
+            ],
+            [
+              "74",
+              "Vienna",
+              "Austria"
+            ],
+            [
+              "75",
+              "Shenyang",
+              "China"
+            ],
+            [
+              "76",
+              "Pittsburgh",
+              "United States"
+            ],
+            [
+              "77",
+              "Oxford",
+              "United Kingdom"
+            ],
+            [
+              "78",
+              "Phoenix",
+              "United States"
+            ],
+            [
+              "79",
+              "Mexico City",
+              "Mexico"
+            ],
+            [
+              "80",
+              "Zhengzhou",
+              "China"
+            ],
+            [
+              "81",
+              "Xiamen",
+              "China"
+            ],
+            [
+              "82",
+              "Rome",
+              "Italy"
+            ],
+            [
+              "83",
+              "Cairo",
+              "Egypt"
+            ],
+            [
+              "84",
+              "Chennai",
+              "India"
+            ],
+            [
+              "85",
+              "Oslo",
+              "Norway"
+            ],
+            [
+              "86",
+              "Kuala Lumpur",
+              "Malaysia"
+            ],
+            [
+              "87",
+              "Heidelberg–Mannheim",
+              "Germany"
+            ],
+            [
+              "88",
+              "Dalian",
+              "China"
+            ],
+            [
+              "89",
+              "Warsaw",
+              "Poland"
+            ],
+            [
+              "90",
+              "Lyon",
+              "France"
+            ],
+            [
+              "91",
+              "Hamburg",
+              "Germany"
+            ],
+            [
+              "92",
+              "Salt Lake City",
+              "United States"
+            ],
+            [
+              "93",
+              "Ningbo",
+              "China"
+            ],
+            [
+              "94",
+              "Manchester",
+              "United Kingdom"
+            ],
+            [
+              "95",
+              "Busan",
+              "South Korea"
+            ],
+            [
+              "96",
+              "Ann Arbor",
+              "United States"
+            ],
+            [
+              "97",
+              "Göteborg",
+              "Sweden"
+            ],
+            [
+              "98",
+              "Macau–Zhuhai",
+              "China"
+            ],
+            [
+              "99",
+              "Ningde",
+              "China"
+            ],
+            [
+              "100",
+              "Zhenjiang",
+              "China"
+            ]
+          ],
+          "caption": "全球前100创新集群排名"
+        }
+      ],
+      "deep_dive": "## 全球创新版图：中美主导与区域集聚\n\n最新发布的全球创新集群百强榜单清晰地勾勒出当前全球创新活动的地理格局。中美两国形成了无可争议的“双极”态势，共同占据了榜单近半壁江山。美国以25个集群的数量领先，且其集群多分布于顶尖梯队，例如位列第三的圣何塞-旧金山（硅谷）、第九的波士顿-剑桥等，展现了其深厚的创新基础和产学研融合优势。中国则以24个集群紧随其后，数量上与美国几乎持平，并且拥有排名第一的深港广集群，以及北京、上海-苏州等多个位于前六名的顶级集群，彰显了其创新规模的快速扩张和部分尖端领域的突破。\n\n## 地理分布与结构特点：梯度差异与模式对比\n\n从地理分布来看，创新集群呈现出显著的区域集聚和梯度特征。\n- **中国：全面开花，梯度明显。** 中国集群不仅数量多，且分布广泛。从珠三角的深港广、长三角的上海-苏州、杭州、南京，到京津冀的北京、天津，再到中部武汉、成都，以及西部西安、重庆，形成了多层次、多中心的创新网络。这反映了中国区域协调发展战略和创新驱动的成果。然而，集群内部和集群之间的协同效率、基础研究能力仍是持续提升的关键。\n- **美国：双海岸主导，科技腹地支撑。** 美国集群高度集中在东西海岸。西海岸有硅谷（圣何塞-旧金山）、西雅图、洛杉矶等；东海岸有纽约、波士顿-剑桥、华盛顿-巴尔的摩等。这些集群依托顶尖研究型大学、风险投资生态和全球化企业，形成了强大的创新闭环。中部的芝加哥、丹佛等集群则扮演了补充角色。\n- **欧亚其他亮点：各具特色。** 日本以东京-横滨、大阪-神户-京都、名古屋集群展现了其强大的制造与研发底蕴。韩国首尔与大田构成了其创新双核。欧洲则呈现多点分散格局，英国伦敦、德国慕尼黑、法国巴黎、瑞典斯德哥尔摩等集群虽排名相对靠后，但在特定领域（如汽车、医药、绿色科技）仍保持全球竞争力。以色列的特拉维夫-耶路撒冷集群是小国创新的典范。\n\n## 启示与局限\n\n这份排名基于专利、科研产出等指标，是衡量创新活动的“产出”视角，具有重要参考价值。其启示在于：\n1.  **创新集聚效应强大**：人才、资本、知识在特定地理空间的密集互动是催生创新的核心机制，政策应注重营造良好的区域创新生态。\n2.  **国家创新体系多元化**：中美主导，但日、韩、欧、以等均有其独特模式，不存在单一最优路径。\n3.  **中国创新的规模与结构**：中国在集群数量上已比肩美国，但部分集群的原始创新能力、全球影响力仍有提升空间，需从“量”的扩张转向“质”的飞跃。\n\n然而，该排名也有其局限。它可能更侧重于专利等可量化产出，而对创新生态的“软环境”（如法治、文化、风险容忍度）和基础研究的长期投入反映不足。此外，集群的全球影响力、对产业的实际转化能力等维度也未在排名中直接体现。",
+      "glossary": [
+        {
+          "term": "创新集群",
+          "explanation": "指在特定地理区域内，高度集中了创新活动（如研发、专利申请、科技公司）的城市或城市群，其创新产出能力远超周边地区。"
+        },
+        {
+          "term": "产学研融合",
+          "explanation": "产业界、学术界和研究机构之间深度合作，加速知识创造、技术转化和人才培养的模式，是顶级创新集群的典型特征。"
+        },
+        {
+          "term": "创新生态",
+          "explanation": "支撑创新活动持续发生的综合性环境，包括人才供给、风险资本、知识产权保护、创业文化、政策支持等要素的有机结合。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8485ed8f",
+    "title": "Ranked: The World’s Most Valuable Unicorns in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-valuable-unicorns-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/8485ed8f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtC1KrVEactEkZQZODRTR0oqDU/9k=",
+    "image_version": 1782329028,
+    "pub_date": "Wed, 24 Jun 2026 17:03:23 +0000",
+    "content_md": "| Rank | Company | Valuation |\n| --- | --- | --- |\n| 1 | Anthropic | $965B |\n| 2 | OpenAI | $852B |\n| 3 | ByteDance | $480B |\n| 4 | Stripe | $159B |\n| 5 | Ant Group | $150B |\n| 6 | Databricks | $134B |\n| 7 | Waymo | $126B |\n| 8 | Reliance Retail | $101B |\n| 9 | Revolut | $75B |\n| 10 | Shein | $66B |\n| 11 | Anduril Industries | $61B |\n| 12 | Reliance Jio | $58B |\n| 13 | Ramp | $44B |\n| 14 | Canva | $42B |\n| 15 | Checkout.com | $40B |\n| 16 | Ripple | $40B |\n| 17 | Figure | $39B |\n| 18 | Project Prometheus | $38B |\n| 19 | Safe Superintelligence | $32B |\n| 20 | Fanatics | $31B |\n| 21 | Alibaba Bendi Shenghuo Fuwu Gongsi | $30B |\n| 22 | VAST Data | $30B |\n| 23 | Anysphere | $29B |\n| 24 | Scale | $29B |\n| 25 | Cognition | $26B |\n| 26 | OKX | $25B |\n| 27 | FNZ | $24B |\n| 28 | JUUL | $23B |\n| 29 | Epic Games | $23B |\n| 30 | Yangtze Memory Technologies | $23B |",
+    "ai_analysis": {
+      "core_insight": "2026年全球独角兽估值被AI企业主导，榜首企业估值近万亿美元。",
+      "data_highlights": [
+        "AI企业占据前两名，估值远超第三名，头部效应极其显著。",
+        "榜单中超过三分之一（11家）的公司与人工智能、大数据或芯片技术直接相关。",
+        "金融科技、消费零售和企业服务依然是孕育大型独角兽的核心赛道。",
+        "地理分布上，美国企业占主导，但中国、印度、英国等也有重要企业上榜。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "Valuation"
+          ],
+          "rows": [
+            [
+              "1",
+              "Anthropic",
+              "$965B"
+            ],
+            [
+              "2",
+              "OpenAI",
+              "$852B"
+            ],
+            [
+              "3",
+              "ByteDance",
+              "$480B"
+            ],
+            [
+              "4",
+              "Stripe",
+              "$159B"
+            ],
+            [
+              "5",
+              "Ant Group",
+              "$150B"
+            ],
+            [
+              "6",
+              "Databricks",
+              "$134B"
+            ],
+            [
+              "7",
+              "Waymo",
+              "$126B"
+            ],
+            [
+              "8",
+              "Reliance Retail",
+              "$101B"
+            ],
+            [
+              "9",
+              "Revolut",
+              "$75B"
+            ],
+            [
+              "10",
+              "Shein",
+              "$66B"
+            ],
+            [
+              "11",
+              "Anduril Industries",
+              "$61B"
+            ],
+            [
+              "12",
+              "Reliance Jio",
+              "$58B"
+            ],
+            [
+              "13",
+              "Ramp",
+              "$44B"
+            ],
+            [
+              "14",
+              "Canva",
+              "$42B"
+            ],
+            [
+              "15",
+              "Checkout.com",
+              "$40B"
+            ],
+            [
+              "16",
+              "Ripple",
+              "$40B"
+            ],
+            [
+              "17",
+              "Figure",
+              "$39B"
+            ],
+            [
+              "18",
+              "Project Prometheus",
+              "$38B"
+            ],
+            [
+              "19",
+              "Safe Superintelligence",
+              "$32B"
+            ],
+            [
+              "20",
+              "Fanatics",
+              "$31B"
+            ],
+            [
+              "21",
+              "Alibaba Bendi Shenghuo Fuwu Gongsi",
+              "$30B"
+            ],
+            [
+              "22",
+              "VAST Data",
+              "$30B"
+            ],
+            [
+              "23",
+              "Anysphere",
+              "$29B"
+            ],
+            [
+              "24",
+              "Scale",
+              "$29B"
+            ],
+            [
+              "25",
+              "Cognition",
+              "$26B"
+            ],
+            [
+              "26",
+              "OKX",
+              "$25B"
+            ],
+            [
+              "27",
+              "FNZ",
+              "$24B"
+            ],
+            [
+              "28",
+              "JUUL",
+              "$23B"
+            ],
+            [
+              "29",
+              "Epic Games",
+              "$23B"
+            ],
+            [
+              "30",
+              "Yangtze Memory Technologies",
+              "$23B"
+            ]
+          ],
+          "caption": "2026年全球最具价值独角兽公司排名（前30名）"
+        }
+      ],
+      "deep_dive": "## AI军备竞赛重塑估值格局\n\n2026年独角兽榜单最突出的特征是人工智能（AI）企业的绝对统治。排名前两位的Anthropic和OpenAI估值分别达到惊人的9650亿美元和8520亿美元，两者合计占据了榜单前30名总估值的近一半，且与第三名字节跳动（4800亿美元）拉开了近一倍的差距。这标志着AI从一项前沿技术演变为定义下一代科技平台和基础设施的核心战场，资本市场对具备通用人工智能（AGI）或超级智能（ASI）潜力的公司给予了前所未有的溢价。榜单中还有Databricks（数据智能）、Scale（数据标注）、Anysphere（AI编程）、Cognition（AI工程师）、Safe Superintelligence（安全AI）等众多AI相关企业，形成了从底层数据、模型开发到应用落地的完整产业图谱。\n\n## 多元赛道与新兴势力并存\n\n尽管AI光芒万丈，但其他关键赛道仍展现出强大的生命力。\n- **金融科技**：Stripe、Ant Group、Revolut、Ramp、Checkout.com等企业持续位居前列，证明数字支付、银行服务和企业财务软件仍是巨大的市场。加密货币相关企业如Ripple和OKX的上榜，也反映了数字资产生态的持续发展。\n- **消费与零售**：字节跳动（TikTok母公司）、快时尚巨头Shein、体育零售Fanatics以及阿里巴巴本地生活服务公司（虽为中文名，但指代其本地生活板块）的上榜，凸显了社交媒体、极致供应链和本地服务在全球消费中的核心地位。\n- **硬科技与国防科技**：自动驾驶公司Waymo、国防科技公司Anduril Industries，以及存储芯片企业长江存储（Yangtze Memory Technologies）的入围，表明在地缘竞争和技术自主背景下，硬件与深度科技的投资价值正在被重估。\n\n## 启示与局限性思考\n\n这份榜单是观测未来经济结构的风向标。它启示我们：**第一**，资本高度集中于可能产生范式变革的领域，尤其是通用AI；**第二**，成功的科技公司需要同时具备技术创新和清晰的商业模式；**第三**，全球科技竞争已深化为国家间的体系化竞争。\n\n然而，解读时也需注意其局限性：榜单反映的是基于私募融资或特定模型的“估值”，而非公开市场的实际市值，存在泡沫风险。此外，高估值伴随着巨大的监管不确定性（尤其是AI和金融科技）和盈利压力。最后，榜单可能遗漏了部分未公开融资或估值方法不同的重要企业，因此应结合其他数据进行综合分析。",
+      "glossary": [
+        {
+          "term": "独角兽 (Unicorn)",
+          "explanation": "指估值超过10亿美元的未上市初创公司。该术语用于形容此类企业如神话中的独角兽般稀有。"
+        },
+        {
+          "term": "通用人工智能 (AGI - Artificial General Intelligence)",
+          "explanation": "指具有与人类相当、可执行任何智力任务能力的AI系统，是当前AI研发的前沿目标。"
+        },
+        {
+          "term": "估值 (Valuation)",
+          "explanation": "对一家公司价值的估算。对于未上市公司，通常基于最近一轮私募融资时投资者确定的价格来计算。"
+        },
+        {
+          "term": "国防科技 (Defense Tech)",
+          "explanation": "指应用于国防和军事领域的技术创新，包括人工智能、机器人、网络安全等，近年来获得大量风险投资。"
+        }
+      ]
+    }
+  },
+  {
     "id": "475832bd",
     "title": "Charted: How Many Years of Supply Life Are Left for Commodities?",
     "original_url": "https://www.visualcapitalist.com/sp/gx04-charted-how-many-years-of-supply-life-are-left-for-commodities/",
