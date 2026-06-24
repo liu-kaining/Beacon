@@ -1,5 +1,275 @@
 [
   {
+    "id": "475832bd",
+    "title": "Charted: How Many Years of Supply Life Are Left for Commodities?",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-charted-how-many-years-of-supply-life-are-left-for-commodities/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/475832bd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkEOae2QKbAM1PIo21HKjTnZUL80UjL81FHKHOx0T4qVpciqy049KuximBbmimUUWHc//Z",
+    "image_version": 1782320271,
+    "pub_date": "Wed, 24 Jun 2026 15:51:00 +0000",
+    "content_md": "| Critical Commodity | 2020 | 2025 |\n| --- | --- | --- |\n| Rare Earth Metals | 500 | 218 |\n| Lithium | 255 | 128 |\n| Uranium | 121 | 90 |\n| Oil | 61 | 58 |\n| Natural Gas | 51 | 51 |\n| Cobalt | 50 | 39 |\n| Copper | 42 | 43 |\n| Silver | 21 | 23 |\n| Gold | 17 | 20 |",
+    "ai_analysis": {
+      "core_insight": "关键大宗商品供应年限普遍下降，能源转型金属面临严峻压力。",
+      "data_highlights": [
+        "稀土金属供应年限从500年锐减至218年，降幅达56.4%，最为剧烈。",
+        "锂作为电动汽车核心材料，供应年限从255年缩短至128年，面临结构性短缺风险。",
+        "传统能源如石油和天然气供应年限变化较小，但绝对值已处于低位（58年和51年）。",
+        "铜、银等工业金属供应年限略有上升，但整体储备仍显紧张。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Critical Commodity",
+            "2020",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Rare Earth Metals",
+              "500",
+              "218"
+            ],
+            [
+              "Lithium",
+              "255",
+              "128"
+            ],
+            [
+              "Uranium",
+              "121",
+              "90"
+            ],
+            [
+              "Oil",
+              "61",
+              "58"
+            ],
+            [
+              "Natural Gas",
+              "51",
+              "51"
+            ],
+            [
+              "Cobalt",
+              "50",
+              "39"
+            ],
+            [
+              "Copper",
+              "42",
+              "43"
+            ],
+            [
+              "Silver",
+              "21",
+              "23"
+            ],
+            [
+              "Gold",
+              "17",
+              "20"
+            ]
+          ],
+          "caption": "关键大宗商品供应年限变化（2020 vs 2025）"
+        }
+      ],
+      "deep_dive": "## 供应年限数据的解读逻辑\n供应年限（Years of Supply）是一个静态指标，计算方式为「已探明储量 / 当年产量」。它衡量的是在现有开采速度下，理论上的可持续供应时间。需要强调的是，这一数据并非预测资源何时枯竭的精确钟表，而是一个反映当前供需紧张程度和勘探开发紧迫性的信号。\n\n## 能源转型金属：高需求下的供应焦虑\n数据显示，与绿色能源转型紧密相关的关键金属（如稀土、锂、钴）供应年限在短期内出现大幅下降。这并非因为储量在物理上减少了，而是因为需求端的预期增长（如电动汽车、风电）远快于勘探和新增产能的投入。\n- **稀土金属**：降幅最大，从500年降至218年。这凸显了其在高科技和国防领域需求的爆炸性增长，以及供应链高度集中的地缘风险。\n- **锂与钴**：供应年限分别缩减过半和约两成，是电动车电池产业链面临的最大资源瓶颈。未来五年，这些金属的价格和供应链稳定性将成为产业发展的核心变量。\n\n## 传统能源与其他大宗商品的对比\n- **石油与天然气**：供应年限维持在58年和51年左右，变化不大。这反映了成熟产业在现有技术、政治约束和投资周期下的相对稳定性，但也意味着长期向可再生能源过渡的必要性。\n- **铜、银**：作为电气化时代的“新石油”，铜的供应年限略有上升（42→43年），表明勘探有小幅进展，但未来几十年仍将面临供应缺口。银因其在光伏面板中的关键应用，其供应紧张信号同样值得关注。\n\n## 投资与政策启示\n1.  **供应链安全**：政府和企业需加速关键矿产的战略储备、替代技术研发和多元化供应布局。\n2.  **价格波动**：供应年限的缩短预示着相关商品长期价格支撑强劲，可能推高绿色技术的最终成本。\n3.  **技术突破**：提高资源利用效率、发展循环回收技术（如电池回收）是缓解供应压力的根本途径。\n4.  **数据局限性**：此表未考虑新发现的大型矿藏、开采技术突破或需求模式变化，因此应动态跟踪相关指标。",
+      "glossary": [
+        {
+          "term": "供应年限",
+          "explanation": "衡量资源可持续性的静态指标，计算公式为：已探明储量 / 当年产量。表示在产量不变的情况下，资源可供应的年数。"
+        },
+        {
+          "term": "已探明储量",
+          "explanation": "在当前技术和经济条件下，通过地质和工程分析确认能够从已知油藏中商业性开采的资源估算数量。"
+        },
+        {
+          "term": "能源转型",
+          "explanation": "指全球能源系统从依赖化石燃料向以可再生能源为主的低碳、可持续模式转变的过程。"
+        },
+        {
+          "term": "地缘风险",
+          "explanation": "指因资源生产或供应链过度集中于特定地理区域，而可能因该地区的政治、经济或社会动荡带来的供应中断风险。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "470a848c",
+    "title": "Ranked: Top 25 Private Landowners in the U.S.",
+    "original_url": "https://www.visualcapitalist.com/cp/ranked-top-25-private-landowners-in-the-u-s/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/470a848c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDIU04niokp56V59xt6jSeaKYetFO5Vz//Z",
+    "image_version": 1782320296,
+    "pub_date": "Wed, 24 Jun 2026 14:07:41 +0000",
+    "content_md": "| Rank | Name | Total Acres |\n| --- | --- | --- |\n| 1 | Stan Kroenke | 2,700,000 |\n| 2 | Emmerson Family | 2,440,000 |\n| 3 | John Malone | 2,200,000 |\n| 4 | Ted Turner | 2,000,000 |\n| 5 | Reed Family | 1,615,000 |\n| 6 | Peter Buck | 1,320,000 |\n| 7 | Irving Family | 1,267,000 |\n| 8 | King Ranch Heirs | 911,000 |\n| 9 | Pingree Heirs | 830,000 |\n| 10 | Cullen Heirs | 800,000 |\n| 11 | Briscoe Family | 738,000 |\n| 12 | Wilks Brothers | 652,000 |\n| 13 | Thomas Peterffy | 647,000 |\n| 14 | Stefan Soloviev | 629,000 |\n| 15 | Brad Kelley | 624,000 |\n| 16 | Lykes Heirs | 615,000 |\n| 17 | Ford Family | 600,000 |\n| 18 | Westervelt Heirs | 600,000 |\n| 19 | Stimson Family | 552,000 |\n| 20 | Martin Family | 550,000 |\n| 21 | Jeff Bezos | 462,000 |\n| 22 | Zane & Tanya Kiehne | 455,000 |\n| 23 | Shannon Kizer | 445,000 |\n| 24 | Simplot Family | 443,000 |\n| 25 | Fisher Family | 440,000 |",
+    "ai_analysis": {
+      "core_insight": "美国最大私人土地所有者土地高度集中，前四名占据近一千万英亩。",
+      "data_highlights": [
+        "前四名所有者合计持有约934万英亩土地，占前25名总量的近40%。",
+        "排名第一的斯坦·克伦克（Stan Kroenke）拥有270万英亩，相当于约1.1万平方公里，超过部分小型国家面积。",
+        "前25名所有者中，以家族/继承人为主体的占绝大多数（如埃默森家族、里德家族等），反映土地财富的代际传承。",
+        "互联网与科技富豪（如杰夫·贝索斯）进入榜单，显示新财富阶层对土地资产的配置。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Name",
+            "Total Acres"
+          ],
+          "rows": [
+            [
+              "1",
+              "Stan Kroenke",
+              "2,700,000"
+            ],
+            [
+              "2",
+              "Emmerson Family",
+              "2,440,000"
+            ],
+            [
+              "3",
+              "John Malone",
+              "2,200,000"
+            ],
+            [
+              "4",
+              "Ted Turner",
+              "2,000,000"
+            ],
+            [
+              "5",
+              "Reed Family",
+              "1,615,000"
+            ],
+            [
+              "6",
+              "Peter Buck",
+              "1,320,000"
+            ],
+            [
+              "7",
+              "Irving Family",
+              "1,267,000"
+            ],
+            [
+              "8",
+              "King Ranch Heirs",
+              "911,000"
+            ],
+            [
+              "9",
+              "Pingree Heirs",
+              "830,000"
+            ],
+            [
+              "10",
+              "Cullen Heirs",
+              "800,000"
+            ],
+            [
+              "11",
+              "Briscoe Family",
+              "738,000"
+            ],
+            [
+              "12",
+              "Wilks Brothers",
+              "652,000"
+            ],
+            [
+              "13",
+              "Thomas Peterffy",
+              "647,000"
+            ],
+            [
+              "14",
+              "Stefan Soloviev",
+              "629,000"
+            ],
+            [
+              "15",
+              "Brad Kelley",
+              "624,000"
+            ],
+            [
+              "16",
+              "Lykes Heirs",
+              "615,000"
+            ],
+            [
+              "17",
+              "Ford Family",
+              "600,000"
+            ],
+            [
+              "18",
+              "Westervelt Heirs",
+              "600,000"
+            ],
+            [
+              "19",
+              "Stimson Family",
+              "552,000"
+            ],
+            [
+              "20",
+              "Martin Family",
+              "550,000"
+            ],
+            [
+              "21",
+              "Jeff Bezos",
+              "462,000"
+            ],
+            [
+              "22",
+              "Zane & Tanya Kiehne",
+              "455,000"
+            ],
+            [
+              "23",
+              "Shannon Kizer",
+              "445,000"
+            ],
+            [
+              "24",
+              "Simplot Family",
+              "443,000"
+            ],
+            [
+              "25",
+              "Fisher Family",
+              "440,000"
+            ]
+          ],
+          "caption": "美国前25大私人土地所有者排名"
+        }
+      ],
+      "deep_dive": "## 土地集中的财富与权力图谱\n\n美国土地市场的私有化程度极高，这份榜单清晰地勾勒出顶层土地财富的分布格局。前四名所有者（克伦克、埃默森家族、马龙、特纳）的土地面积总和接近一千万英亩，占据了前25名总土地面积的近四成，呈现出显著的“头部效应”。这种高度集中的现象不仅反映了历史性的土地积累（如德克萨斯州的牧场家族），也体现了现代资本（尤其是来自媒体、科技和零售业的财富）对稀缺不动产资源的强大购买力。土地作为最传统的资产类别之一，在通胀预期或市场波动时期，往往被视为稳健的价值储存手段，吸引着顶级富豪进行配置。\n\n## 所有者构成：传统家族与新兴资本的交织\n\n深入分析所有者构成，可以发现两大特征：\n1.  **家族传承占主导**：名单中大量出现“Family”或“Heirs”（如埃默森家族、里德家族、金牧场继承人等）。这表明美国的土地财富具有高度的代际传承性，一些家族可能通过一个多世纪的经营与积累，构筑了庞大的“土地帝国”。这些土地常用于大规模农业、林业或牧场经营，形成稳定的资产和现金流。\n2.  **新经济富豪入场**：值得注意的是，科技巨头杰夫·贝索斯（Jeff Bezos）以46.2万英亩位列第21名。这象征着数字经济创造的新财富正在流向实体土地资产。对于这些富豪而言，土地不仅是财务投资，也可能关联到私人保护地、牧场度假或长期战略布局。\n\n## 局限性启示：土地价值不止于面积\n\n本榜单的核心数据是“总面积（Total Acres）”，这是一个关键的局限性。土地的真正价值取决于其**地理位置、土地用途（农业、商业、住宅、保护地）、基础设施和市场估值**。例如，内华达州一块270万英亩的牧场与德克萨斯州同等面积的农业用地，其经济价值可能相差数倍。因此，该排名更多反映的是资产规模而非精确的市场价值排名。对于政策制定者和研究者而言，关注土地集中背后的**社会经济影响**（如对当地社区、土地利用方式、环境保护的影响）比单纯比较面积更为重要。土地的集中控制也可能引发关于资源公平、税收政策和公众准入权利的讨论。",
+      "glossary": [
+        {
+          "term": "私人土地所有者",
+          "explanation": "指通过购买、继承等方式拥有土地完全产权的个人、家族或非政府实体，区别于政府或公共机构持有的土地。"
+        },
+        {
+          "term": "头部效应",
+          "explanation": "在分布中，排名最靠前的少数个体占据了不成比例的绝大多数份额。在本榜单中指前几名所有者拥有巨大面积的土地。"
+        },
+        {
+          "term": "代际传承",
+          "explanation": "财富、资产（如土地）或家族企业从上一代传递给下一代的过程，是维持家族财富长期集中的重要机制。"
+        },
+        {
+          "term": "价值储存手段",
+          "explanation": "指资产能够在一定时间内保持或增加其购买力的功能。土地、黄金等实物资产常被视为传统价值储存手段。"
+        }
+      ]
+    }
+  },
+  {
     "id": "05b7ea24",
     "title": "Mapped: Which Countries Hold the Biggest Mineral Reserves?",
     "original_url": "https://www.visualcapitalist.com/mapped-the-worlds-biggest-mineral-reserves/",
