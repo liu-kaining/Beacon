@@ -1,5 +1,146 @@
 [
   {
+    "id": "05b7ea24",
+    "title": "Mapped: Which Countries Hold the Biggest Mineral Reserves?",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-worlds-biggest-mineral-reserves/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/05b7ea24.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjY2qYvxVZafnitWYxFJ5oppoqSj//2Q==",
+    "image_version": 1782309625,
+    "pub_date": "Wed, 24 Jun 2026 12:02:12 +0000",
+    "content_md": "| Mineral | Largest reserves | Share |\n| --- | --- | --- |\n| Gold | Australia | 20% |\n| Silver | Peru | 18% |\n| Copper | Chile | 21% |\n| Uranium | Australia | 28% |\n| Diamond | Russia | 44% |\n| Coal | U.S. | 23% |\n| Lithium | Chile | 25% |\n| Iron ore | Australia | 31% |\n| Bauxite (Aluminum) | Guinea | 26% |\n| Rare Earth | China | 52% |\n| Nickel | Indonesia | 44% |\n| Cobalt | DRC | 50% |\n| Phosphate | Morocco | 69% |\n| Graphite | China | 32% |\n| Zinc | Australia | 27% |\n| Potash | Canada | 45% |\n| Manganese | Australia | 32% |\n| Platinum-Group Metals | South Africa | 83% |",
+    "ai_analysis": {
+      "core_insight": "全球关键矿产资源高度集中，少数国家主导特定矿产供应链。",
+      "data_highlights": [
+        "铂族金属资源高度集中于南非，占全球储量的83%。",
+        "摩洛哥掌控全球近七成的磷酸盐储量，优势显著。",
+        "中国在稀土和石墨两种关键矿物上均占据主导地位。",
+        "澳大利亚是金、铀、铁矿石、锌和锰等多种矿物的最大储量国。",
+        "钴和镍等电池金属储量分别集中在刚果(金)和印尼。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Mineral",
+            "Largest reserves",
+            "Share"
+          ],
+          "rows": [
+            [
+              "Gold",
+              "Australia",
+              "20%"
+            ],
+            [
+              "Silver",
+              "Peru",
+              "18%"
+            ],
+            [
+              "Copper",
+              "Chile",
+              "21%"
+            ],
+            [
+              "Uranium",
+              "Australia",
+              "28%"
+            ],
+            [
+              "Diamond",
+              "Russia",
+              "44%"
+            ],
+            [
+              "Coal",
+              "U.S.",
+              "23%"
+            ],
+            [
+              "Lithium",
+              "Chile",
+              "25%"
+            ],
+            [
+              "Iron ore",
+              "Australia",
+              "31%"
+            ],
+            [
+              "Bauxite (Aluminum)",
+              "Guinea",
+              "26%"
+            ],
+            [
+              "Rare Earth",
+              "China",
+              "52%"
+            ],
+            [
+              "Nickel",
+              "Indonesia",
+              "44%"
+            ],
+            [
+              "Cobalt",
+              "DRC",
+              "50%"
+            ],
+            [
+              "Phosphate",
+              "Morocco",
+              "69%"
+            ],
+            [
+              "Graphite",
+              "China",
+              "32%"
+            ],
+            [
+              "Zinc",
+              "Australia",
+              "27%"
+            ],
+            [
+              "Potash",
+              "Canada",
+              "45%"
+            ],
+            [
+              "Manganese",
+              "Australia",
+              "32%"
+            ],
+            [
+              "Platinum-Group Metals",
+              "South Africa",
+              "83%"
+            ]
+          ],
+          "caption": "全球主要矿产最大储量国及占比"
+        }
+      ],
+      "deep_dive": "## 资源集中度与供应链风险\n\n数据显示，全球关键矿产的储量分布呈现出极端的集中性。铂族金属（83%）、磷酸盐（69%）、钴（50%）、稀土（52%）等对现代工业与能源转型至关重要的资源，其储量绝大部分掌握在单一国家手中。这种地理集中性带来了显著的供应链风险。一旦主要生产国因政策变动、地缘冲突、劳资纠纷或自然灾害导致生产中断，将可能对全球相关产业链（如汽车、电子、国防）造成剧烈冲击，推高价格并迫使下游企业寻求替代方案。\n\n## 大国资源禀赋与战略博弈\n\n从国家视角看，资源禀赋的差异构成了大国战略博弈的基础。**澳大利亚**堪称“矿产宝库”，在黄金、铀、铁矿石、锌、锰等至少五种大宗矿物上储量全球第一，这为其赢得了长期稳定的出口收入和重要的地缘政治筹码。**中国**则凭借在稀土（52%）和石墨（32%）上的双重主导地位，牢牢掌控着高科技制造和新能源产业的关键原材料命脉。**智利**和**加拿大**分别在铜/锂和钾肥上占据优势，而**刚果(金)**、**印尼**、**南非**等国则因钴、镍、铂族金属等战略资源成为全球资本和技术争相合作的对象。\n\n这种格局启示我们，矿产资源已不仅是大宗商品，更是地缘政治工具。对于消费国而言，建立多元化的供应体系、投资海外矿业、加强资源回收技术研发，是保障资源安全的必由之路。对于资源国而言，如何将资源优势转化为可持续的经济发展动力，避免“资源诅咒”，是其面临的核心挑战。",
+      "glossary": [
+        {
+          "term": "储量 (Reserves)",
+          "explanation": "指在现有技术和经济条件下，能够被经济开采的已探明矿物资源量。"
+        },
+        {
+          "term": "供应链风险 (Supply Chain Risk)",
+          "explanation": "指由于供应来源单一、地缘政治不稳定等因素，导致关键原材料供应中断的可能性及其后果。"
+        },
+        {
+          "term": "资源诅咒 (Resource Curse)",
+          "explanation": "指自然资源丰富的国家，其经济增长和发展反而慢于资源稀缺国家的现象，常与制度腐败、经济结构单一等问题相关。"
+        },
+        {
+          "term": "战略矿产 (Strategic Minerals)",
+          "explanation": "指对国家安全和经济命脉至关重要，且供应易受地缘政治等因素干扰的矿产资源。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c40d2438",
     "title": "Mapped: Where Diesel Prices Have Surged Since the Iran War",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-where-diesel-prices-have-surged-since-the-iran-war/",
