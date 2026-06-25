@@ -1,5 +1,233 @@
 [
   {
+    "id": "ed3e61e4",
+    "title": "Ranked: Countries with the Largest Currency Reserves",
+    "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ed3e61e4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDaZKEj5qY0qCsjXmAJxRUwHFFArn//2Q==",
+    "image_version": 1782395812,
+    "pub_date": "Thu, 25 Jun 2026 12:02:31 +0000",
+    "content_md": "| Rank | Country | Foreign Exchange Reserves ($B) | Region |\n| --- | --- | --- | --- |\n| 1 | China | 3,410.5 | Asia |\n| 2 | Japan | 1,259.2 | Asia |\n| 3 | Switzerland | 932.3 | Europe |\n| 4 | Taiwan | 602.5 | Asia |\n| 5 | India | 543.0 | Asia |\n| 6 | Saudi Arabia | 458.6 | Middle East |\n| 7 | Hong Kong | 442.1 | Asia |\n| 8 | Russia | 434.5 | Europe/Eurasia |\n| 9 | South Korea | 423.1 | Asia |\n| 10 | Singapore | 419.3 | Asia |\n| 11 | Brazil | 344.2 | Latin America |\n| 12 | United Arab Emirates | 251.4 | Middle East |\n| 13 | United States | 244.6 | North America |\n| 14 | Thailand | 237.1 | Asia |\n| 15 | Mexico | 236.2 | Latin America |\n| 16 | Israel | 235.7 | Middle East |\n| 17 | Poland | 193.2 | Europe |\n| 18 | United Kingdom | 162.9 | Europe |\n| 19 | Czechia | 154.5 | Europe |\n| 20 | Indonesia | 146.2 | Asia |\n| 21 | Malaysia | 117.2 | Asia |\n| 22 | Germany | 102.8 | Europe |\n| 23 | Philippines | 91.5 | Asia |\n| 24 | Italy | 88.6 | Europe |\n| 25 | Denmark | 88.5 | Europe |\n| 26 | Spain | 87.3 | Europe |\n| 27 | France | 86.0 | Europe |\n| 28 | Iraq | 85.0 | Middle East |\n| 29 | Romania | 78.2 | Europe |\n| 30 | Turkey | 76.6 | Europe/Eurasia |",
+    "ai_analysis": {
+      "core_insight": "亚洲经济体在全球外汇储备中占据绝对主导地位。",
+      "data_highlights": [
+        "中国以3.41万亿美元的储备遥遥领先，是第二名日本的近三倍。",
+        "前五名中，有四个是亚洲经济体，凸显亚洲在全球金融中的核心地位。",
+        "传统经济强国如美国、德国、英国排名靠后，美国仅位列第13。",
+        "中东产油国（沙特、阿联酋、伊拉克）均进入前30名。",
+        "瑞士作为欧洲非欧元区国家，储备高居全球第三。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Foreign Exchange Reserves ($B)",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "3,410.5",
+              "Asia"
+            ],
+            [
+              "2",
+              "Japan",
+              "1,259.2",
+              "Asia"
+            ],
+            [
+              "3",
+              "Switzerland",
+              "932.3",
+              "Europe"
+            ],
+            [
+              "4",
+              "Taiwan",
+              "602.5",
+              "Asia"
+            ],
+            [
+              "5",
+              "India",
+              "543.0",
+              "Asia"
+            ],
+            [
+              "6",
+              "Saudi Arabia",
+              "458.6",
+              "Middle East"
+            ],
+            [
+              "7",
+              "Hong Kong",
+              "442.1",
+              "Asia"
+            ],
+            [
+              "8",
+              "Russia",
+              "434.5",
+              "Europe/Eurasia"
+            ],
+            [
+              "9",
+              "South Korea",
+              "423.1",
+              "Asia"
+            ],
+            [
+              "10",
+              "Singapore",
+              "419.3",
+              "Asia"
+            ],
+            [
+              "11",
+              "Brazil",
+              "344.2",
+              "Latin America"
+            ],
+            [
+              "12",
+              "United Arab Emirates",
+              "251.4",
+              "Middle East"
+            ],
+            [
+              "13",
+              "United States",
+              "244.6",
+              "North America"
+            ],
+            [
+              "14",
+              "Thailand",
+              "237.1",
+              "Asia"
+            ],
+            [
+              "15",
+              "Mexico",
+              "236.2",
+              "Latin America"
+            ],
+            [
+              "16",
+              "Israel",
+              "235.7",
+              "Middle East"
+            ],
+            [
+              "17",
+              "Poland",
+              "193.2",
+              "Europe"
+            ],
+            [
+              "18",
+              "United Kingdom",
+              "162.9",
+              "Europe"
+            ],
+            [
+              "19",
+              "Czechia",
+              "154.5",
+              "Europe"
+            ],
+            [
+              "20",
+              "Indonesia",
+              "146.2",
+              "Asia"
+            ],
+            [
+              "21",
+              "Malaysia",
+              "117.2",
+              "Asia"
+            ],
+            [
+              "22",
+              "Germany",
+              "102.8",
+              "Europe"
+            ],
+            [
+              "23",
+              "Philippines",
+              "91.5",
+              "Asia"
+            ],
+            [
+              "24",
+              "Italy",
+              "88.6",
+              "Europe"
+            ],
+            [
+              "25",
+              "Denmark",
+              "88.5",
+              "Europe"
+            ],
+            [
+              "26",
+              "Spain",
+              "87.3",
+              "Europe"
+            ],
+            [
+              "27",
+              "France",
+              "86.0",
+              "Europe"
+            ],
+            [
+              "28",
+              "Iraq",
+              "85.0",
+              "Middle East"
+            ],
+            [
+              "29",
+              "Romania",
+              "78.2",
+              "Europe"
+            ],
+            [
+              "30",
+              "Turkey",
+              "76.6",
+              "Europe/Eurasia"
+            ]
+          ],
+          "caption": "全球外汇储备排名前30国家/地区"
+        }
+      ],
+      "deep_dive": "## 亚洲储备的绝对优势：结构与驱动\n\n本次排名清晰地揭示了全球外汇储备的“亚洲中心”格局。在前10名中，亚洲占据了7席（包括中国、日本、台湾地区、印度、香港、韩国、新加坡），其储备总额远超其他区域总和。这种压倒性优势源于多重因素：\n\n- **出口导向型经济模式**：亚洲多个经济体长期保持大规模贸易顺差，积累了巨额美元储备。\n- **金融危机的“创伤记忆”**：1997年亚洲金融危机后，区域内国家普遍将高额外汇储备作为抵御外部冲击的“金融防火墙”。\n- **汇率管理与稳定需求**：尤其是中国和日本等国，需要庞大的储备来干预汇市、维持本币相对稳定或防止过度升值。\n\n## 传统强国与资源国的定位分化\n\n与亚洲的强势形成鲜明对比的是，美国、德国、英国、法国等主要传统发达国家储备排名靠后（美国仅第13）。这并非意味着其经济实力弱，而是反映了其不同的经济结构和货币地位：\n\n- **美元与欧元的“特权”**：美元和欧元是全球主要储备货币和结算货币，其发行国无需积累大量他国外汇来保障自身支付能力。\n- **浮动汇率制度的普及**：多数发达经济体实行自由浮动汇率，减少了干预汇市对储备的硬性需求。\n\n另一方面，中东产油国（沙特、阿联酋、伊拉克）全部进入前30，其高储备主要源于石油出口收入。这体现了资源出口型国家通过积累外汇来实现经济多元化、平抑油价波动风险的典型策略。瑞士作为非欧元区欧洲国家，其高居第三的储备则与其长期的经常账户盈余和作为全球财富管理中心的地位密切相关。\n\n## 储备规模的深层启示与局限\n\n高额外汇储备是国家经济韧性的重要指标，但也存在局限：\n\n- **持有成本**：储备资产（如美国国债）收益率通常较低，意味着巨大的机会成本。\n- **资产集中风险**：储备资产过度集中于美元资产，会面临汇率波动和地缘政治风险。\n- **排名的时效性**：数据为静态快照，实际储备会因汇率变动、资本流动和央行操作而快速变化。\n\n因此，储备规模是分析一国经济安全性的重要维度，但必须结合其经济结构、货币地位、资本账户开放度等因素进行综合判断。",
+      "glossary": [
+        {
+          "term": "外汇储备 (Foreign Exchange Reserves)",
+          "explanation": "一国央行持有的外币资产，主要用于调节国际收支、稳定本币汇率及维护国际信誉。"
+        },
+        {
+          "term": "经常账户盈余 (Current Account Surplus)",
+          "explanation": "一国在一定时期内（如一年）从国外净流入的资金大于净流出，主要源于贸易顺差和对外投资收益。"
+        },
+        {
+          "term": "汇率干预 (Exchange Rate Intervention)",
+          "explanation": "央行在外汇市场上买卖本外币，以影响汇率水平，防止其过度波动。"
+        }
+      ]
+    }
+  },
+  {
     "id": "420d1dc8",
     "title": "Charted: Three in Four World Cup Stars Play Abroad",
     "original_url": "https://www.visualcapitalist.com/cp/three-in-four-world-cup-stars-play-abroad/",
