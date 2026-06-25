@@ -1,5 +1,142 @@
 [
   {
+    "id": "4997523a",
+    "title": "Ranked: America’s Best-Selling Car Companies in 2025",
+    "original_url": "https://www.visualcapitalist.com/every-car-sold-in-the-us-in-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4997523a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjbdKnkXC0ltU033a1jsVIzW+9RSv940UrGdz/2Q==",
+    "image_version": 1782416551,
+    "pub_date": "Thu, 25 Jun 2026 16:42:06 +0000",
+    "content_md": "| Rank | Company | 2025 Sales (U.S.) |\n| --- | --- | --- |\n| 1 | GM | 2,853,299 |\n| 2 | Toyota | 2,518,071 |\n| 3 | Ford | 2,204,124 |\n| 4 | Hyundai/Kia | 1,763,892 |\n| 5 | Honda | 1,430,584 |\n| 6 | Stellantis | 1,277,347 |\n| 7 | Nissan | 928,381 |\n| 8 | Subaru | 643,547 |\n| 9 | Tesla | 589,000 |\n| 10 | VW | 587,655 |\n| 11 | BMW | 417,867 |\n| 12 | Mazda | 411,451 |\n| 13 | Mercedes | 343,200 |\n| 14 | Volvo | 121,165 |\n| 15 | Mitsubishi | 94,754 |\n| 16 | JLR | 93,400 |\n| -- | Other | 118,000 |\n| -- | Total | 16,395,737 |",
+    "ai_analysis": {
+      "core_insight": "传统车企主导2025年美国新车市场，特斯拉与大众销量接近，豪华品牌份额有限。",
+      "data_highlights": [
+        "通用汽车（GM）以285万辆销量位居榜首，丰田紧随其后。",
+        "现代/起亚与本田分列第四、第五，销量均超140万辆。",
+        "特斯拉（59万辆）与大众（59万辆）销量几乎持平，位列第九、第十。",
+        "豪华品牌宝马、梅赛德斯与沃尔沃合计销量不足90万辆。",
+        "前16大厂商及‘其他’品牌总计销量约1639.6万辆。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Company",
+            "2025 Sales (U.S.)"
+          ],
+          "rows": [
+            [
+              "1",
+              "GM",
+              "2,853,299"
+            ],
+            [
+              "2",
+              "Toyota",
+              "2,518,071"
+            ],
+            [
+              "3",
+              "Ford",
+              "2,204,124"
+            ],
+            [
+              "4",
+              "Hyundai/Kia",
+              "1,763,892"
+            ],
+            [
+              "5",
+              "Honda",
+              "1,430,584"
+            ],
+            [
+              "6",
+              "Stellantis",
+              "1,277,347"
+            ],
+            [
+              "7",
+              "Nissan",
+              "928,381"
+            ],
+            [
+              "8",
+              "Subaru",
+              "643,547"
+            ],
+            [
+              "9",
+              "Tesla",
+              "589,000"
+            ],
+            [
+              "10",
+              "VW",
+              "587,655"
+            ],
+            [
+              "11",
+              "BMW",
+              "417,867"
+            ],
+            [
+              "12",
+              "Mazda",
+              "411,451"
+            ],
+            [
+              "13",
+              "Mercedes",
+              "343,200"
+            ],
+            [
+              "14",
+              "Volvo",
+              "121,165"
+            ],
+            [
+              "15",
+              "Mitsubishi",
+              "94,754"
+            ],
+            [
+              "16",
+              "JLR",
+              "93,400"
+            ],
+            [
+              "--",
+              "Other",
+              "118,000"
+            ],
+            [
+              "--",
+              "Total",
+              "16,395,737"
+            ]
+          ],
+          "caption": "2025年美国市场汽车品牌销量排名"
+        }
+      ],
+      "deep_dive": "## 市场格局：传统巨头稳固，电动化品牌尚需追赶\n2025年美国新车市场呈现出清晰的头部集中效应。**通用汽车（GM）以285万辆的销量稳居第一**，这得益于其覆盖雪佛兰、别克、GMC和凯迪拉克等多品牌的全矩阵产品线，特别是在皮卡和SUV市场的传统优势。丰田与福特紧随其后，三家传统巨头合计销量占据总量的近半壁江山，显示出深厚的品牌忠诚度和渠道网络优势。\n\n值得注意的是，**现代/起亚集团以176万辆的成绩跃居第四**，超越了本田（第五）和Stellantis（第六），这反映了其近年来在设计、技术和质保政策上提升带来的市场认可度持续增强。而特斯拉作为纯电代表，以约59万辆的销量排在第九，与大众（VW）的销量几乎持平，这一方面表明其市场渗透率已达到相当规模，另一方面也说明在主流价位段，其面临的来自传统车企电动化转型和本土品牌的竞争已十分激烈。\n\n## 竞争态势与未来启示\n从品牌定位看，**市场呈现“大众化”与“豪华”两个明显的梯队**。前八名厂商（除特斯拉外）均为以大众市场为主的品牌，销量均在64万辆以上。而豪华品牌如宝马（42万辆）、梅赛德斯（34万辆）和沃尔沃（12万辆）虽位居榜单，但合计销量占比不足6%，体现了美国市场对价格和实用性的高度敏感性。\n\n**榜单也揭示了潜在的风险与变数**。首先，Stellantis（包含Jeep、Ram、道奇等品牌）的销量被现代/起亚和本田超越，可能预示其在美国市场的产品策略面临挑战。其次，日产品牌的销量（93万辆）已显露出与头部集团的差距。最后，其他品牌（118万辆）和未上榜品牌的合计销量也占据了约7%的份额，表明市场仍存在一定长尾机会，尤其是在特定细分领域或新兴电动品牌。\n\n展望未来，美国市场的竞争将围绕电动化转型、供应链稳定性和智能化体验展开。传统巨头能否利用规模优势成功转型，以及特斯拉和新兴电动车企能否突破产能和成本瓶颈，将是决定未来排名变化的关键。消费者对混合动力（HEV）和纯电动（BEV）的不同接受度，也将持续塑造各品牌的销量表现。",
+      "glossary": [
+        {
+          "term": "Stellantis",
+          "explanation": "由菲亚特克莱斯勒（FCA）与标致雪铁龙（PSA）合并而成的全球第四大汽车集团，旗下拥有Jeep、道奇、标致、雪铁龙等多个品牌。"
+        },
+        {
+          "term": "市场渗透率",
+          "explanation": "指某一产品（如电动汽车）在特定市场总销售量中所占的比例，用于衡量其被市场接受和普及的程度。"
+        },
+        {
+          "term": "长尾效应",
+          "explanation": "在商业和互联网领域，指那些数量众多、需求分散的小众产品或市场所共同占据的份额，虽然单个规模小，但总和可观。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b36ee8b9",
     "title": "Mapped: Years of Income Needed to Buy a Home by State",
     "original_url": "https://www.visualcapitalist.com/mapped-years-of-income-needed-to-buy-a-home-by-state/",
