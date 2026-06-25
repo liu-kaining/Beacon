@@ -1,5 +1,242 @@
 [
   {
+    "id": "420d1dc8",
+    "title": "Charted: Three in Four World Cup Stars Play Abroad",
+    "original_url": "https://www.visualcapitalist.com/cp/three-in-four-world-cup-stars-play-abroad/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/420d1dc8.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnYpMCm3EmRUKGmyk4qmgiVnPzUUxutFSVY//Z",
+    "image_version": 1782369429,
+    "pub_date": "Thu, 25 Jun 2026 04:44:46 +0000",
+    "content_md": "| World Cup Teams | % of Abroad Players |\n| --- | --- |\n| Cape Verde | 100% |\n| Curaçao | 100% |\n| DR Congo | 100% |\n| Ivory Coast | 100% |\n| Senegal | 100% |\n| Uruguay | 100% |\n| Bosnia & Herz. | 96.2% |\n| Colombia | 96.2% |\n| Ghana | 96.2% |\n| Haiti | 96.2% |\n| Argentina | 92.3% |\n| Croatia | 92.3% |\n| Ecuador | 92.3% |\n| Morocco | 92.3% |\n| Netherlands | 92.3% |\n| Panama | 92.3% |\n| Switzerland | 92.3% |\n| Canada | 92.0% |\n| Algeria | 88.5% |\n| Belgium | 88.5% |\n| Japan | 88.5% |\n| Paraguay | 88.5% |\n| Sweden | 88.5% |\n| Austria | 88.0% |\n| Norway | 84.6% |\n| Australia | 80.8% |\n| Portugal | 80.8% |\n| Tunisia | 76.9% |\n| Brazil | 73.1% |\n| South Korea | 73.1% |\n| USA | 73.1% |\n| France | 69.2% |\n| New Zealand | 69.2% |\n| Scotland | 69.2% |\n| Iraq | 61.5% |\n| Jordan | 57.7% |\n| Mexico | 53.8% |\n| Türkiye | 42.3% |\n| Uzbekistan | 42.3% |\n| Czechia | 34.6% |\n| Egypt | 34.6% |\n| Iran | 34.6% |\n| Spain | 34.6% |\n| Germany | 26.9% |\n| South Africa | 26.9% |\n| England | 19.2% |\n| Qatar | 3.8% |\n| Saudi Arabia | 3.8% |",
+    "ai_analysis": {
+      "core_insight": "世界杯球员“留洋”成普遍现象，但球员外流比例与足球传统强国本土联赛实力呈反比。",
+      "data_highlights": [
+        "超过75%的世界杯参赛球队中，至少一半球员效力于海外联赛。",
+        "有6支队伍的球员外流比例高达100%，全部由来自小国或特定地区的球员组成。",
+        "传统足球强国如德国、英格兰、西班牙的留洋球员比例显著偏低，均低于35%。",
+        "东道主或近年联赛发展迅速的队伍（如沙特、卡塔尔、土耳其）留洋比例也相对较低。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "World Cup Teams",
+            "% of Abroad Players"
+          ],
+          "rows": [
+            [
+              "Cape Verde",
+              "100%"
+            ],
+            [
+              "Curaçao",
+              "100%"
+            ],
+            [
+              "DR Congo",
+              "100%"
+            ],
+            [
+              "Ivory Coast",
+              "100%"
+            ],
+            [
+              "Senegal",
+              "100%"
+            ],
+            [
+              "Uruguay",
+              "100%"
+            ],
+            [
+              "Bosnia & Herz.",
+              "96.2%"
+            ],
+            [
+              "Colombia",
+              "96.2%"
+            ],
+            [
+              "Ghana",
+              "96.2%"
+            ],
+            [
+              "Haiti",
+              "96.2%"
+            ],
+            [
+              "Argentina",
+              "92.3%"
+            ],
+            [
+              "Croatia",
+              "92.3%"
+            ],
+            [
+              "Ecuador",
+              "92.3%"
+            ],
+            [
+              "Morocco",
+              "92.3%"
+            ],
+            [
+              "Netherlands",
+              "92.3%"
+            ],
+            [
+              "Panama",
+              "92.3%"
+            ],
+            [
+              "Switzerland",
+              "92.3%"
+            ],
+            [
+              "Canada",
+              "92.0%"
+            ],
+            [
+              "Algeria",
+              "88.5%"
+            ],
+            [
+              "Belgium",
+              "88.5%"
+            ],
+            [
+              "Japan",
+              "88.5%"
+            ],
+            [
+              "Paraguay",
+              "88.5%"
+            ],
+            [
+              "Sweden",
+              "88.5%"
+            ],
+            [
+              "Austria",
+              "88.0%"
+            ],
+            [
+              "Norway",
+              "84.6%"
+            ],
+            [
+              "Australia",
+              "80.8%"
+            ],
+            [
+              "Portugal",
+              "80.8%"
+            ],
+            [
+              "Tunisia",
+              "76.9%"
+            ],
+            [
+              "Brazil",
+              "73.1%"
+            ],
+            [
+              "South Korea",
+              "73.1%"
+            ],
+            [
+              "USA",
+              "73.1%"
+            ],
+            [
+              "France",
+              "69.2%"
+            ],
+            [
+              "New Zealand",
+              "69.2%"
+            ],
+            [
+              "Scotland",
+              "69.2%"
+            ],
+            [
+              "Iraq",
+              "61.5%"
+            ],
+            [
+              "Jordan",
+              "57.7%"
+            ],
+            [
+              "Mexico",
+              "53.8%"
+            ],
+            [
+              "Türkiye",
+              "42.3%"
+            ],
+            [
+              "Uzbekistan",
+              "42.3%"
+            ],
+            [
+              "Czechia",
+              "34.6%"
+            ],
+            [
+              "Egypt",
+              "34.6%"
+            ],
+            [
+              "Iran",
+              "34.6%"
+            ],
+            [
+              "Spain",
+              "34.6%"
+            ],
+            [
+              "Germany",
+              "26.9%"
+            ],
+            [
+              "South Africa",
+              "26.9%"
+            ],
+            [
+              "England",
+              "19.2%"
+            ],
+            [
+              "Qatar",
+              "3.8%"
+            ],
+            [
+              "Saudi Arabia",
+              "3.8%"
+            ]
+          ],
+          "caption": "世界杯各队球员海外效力比例排名"
+        }
+      ],
+      "deep_dive": "## 现象剖析：球员全球化流动的普遍性与结构性差异\n\n数据显示，世界杯已不再是本土球员的盛会。超过四分之三的参赛球队拥有超过50%的留洋球员，这清晰地描绘出全球足球人才市场的高度整合。这种流动主要由经济、竞技和地缘文化三大动力驱动：欧洲五大联赛（英、西、德、意、法）及其他高水平联赛，凭借雄厚的财力、顶级的竞技平台和成熟的青训体系，对全球球员产生强大“虹吸效应”；对于非洲、加勒比海地区及部分南美国家的球员而言，前往欧洲联赛是实现个人价值、获取高薪并反哺家庭的主要途径，这造就了其队伍近乎全员留洋的现状。\n\n## 国家梯队模式：本土联赛实力的关键映射\n\n与高留洋率队伍形成鲜明对比的是，传统足球强国的留洋比例普遍偏低。**德国（26.9%）、英格兰（19.2%）、西班牙（34.6%）** 这三支拥有所谓“五大联赛”中最具竞争力本土联赛的队伍，其核心阵容均以效力于本国联赛的球员为主。这体现了其国内联赛的强大造血功能和吸引力，能够留住顶级人才，甚至吸引外来球星。同样，**沙特阿拉伯（3.8%）和卡塔尔（3.8%）** 作为近年大力投资本土联赛的国家，其极低的留洋率也印证了联赛发展政策对国家队人才结构的直接影响。这种“强本土联赛-低留洋率”与“弱本土联赛-高留洋率”的二元结构，是当前国际足球格局的一个核心特征。\n\n## 启示与局限：数据背后的复杂现实\n\n这一数据为分析国家队实力提供了重要维度，但需谨慎解读。首先，留洋率高并不直接等同于国家队实力强，例如留洋率达100%的佛得角、库拉索等队并非传统强队。关键在于球员所效力的**联赛质量与个人水平**。其次，数据可能未完全反映球员的归化或多重国籍背景，特别是在像法国、比利时这类移民国家，其“低”留洋率背后是国内联赛吸引了大量拥有双重国籍的顶级球员。最后，近年来部分新兴联赛（如美职联、沙特联赛）通过高薪策略开始改变人才流向，可能会逐渐重塑未来的留洋比例格局。因此，在解读时需结合球队历史成绩、球员具体效力的俱乐部层级进行综合判断。",
+      "glossary": [
+        {
+          "term": "球员外流（留洋）",
+          "explanation": "指国家队成员在非本国联赛的海外俱乐部效力。该比例是衡量一个国家本土联赛吸引力和人才输出能力的关键指标。"
+        },
+        {
+          "term": "虹吸效应",
+          "explanation": "在此语境下，指欧洲顶级足球联赛凭借其经济实力、竞技水平和全球影响力，吸引世界各地优秀球员前往效力的现象。"
+        },
+        {
+          "term": "本土联赛造血功能",
+          "explanation": "指一个国家自身的足球联赛体系培养、锻炼和留住本国顶级球员的能力。强大的造血功能是国家队实力长期稳定的基础。"
+        }
+      ]
+    }
+  },
+  {
     "id": "3546ceda",
     "title": "Mapped: The World’s Top Innovation Clusters",
     "original_url": "https://www.visualcapitalist.com/mapped-the-worlds-top-innovation-clusters/",
