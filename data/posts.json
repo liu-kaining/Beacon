@@ -1,5 +1,359 @@
 [
   {
+    "id": "b36ee8b9",
+    "title": "Mapped: Years of Income Needed to Buy a Home by State",
+    "original_url": "https://www.visualcapitalist.com/mapped-years-of-income-needed-to-buy-a-home-by-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b36ee8b9.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAXABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDcd80Rnmm7ealjXFZ3OhwSJ1PFFIMUUyLIgpN+KKKLGHOw82iiiqsLmZ//2Q==",
+    "image_version": 1782406957,
+    "pub_date": "Thu, 25 Jun 2026 14:11:36 +0000",
+    "content_md": "| State | Home Price-to-Income Ratio2025 | Median Listing Price | Median Household Income |\n| --- | --- | --- | --- |\n| Montana | 8.7 | $628.4K | $72.1K |\n| Hawaii | 8.1 | $767.4K | $94.6K |\n| New York | 8.1 | $668.2K | $82.7K |\n| California | 7.8 | $742.3K | $95.1K |\n| Massachusetts | 7.8 | $763.7K | $98.2K |\n| Idaho | 7.5 | $580.8K | $77.6K |\n| Oregon | 7.0 | $564.0K | $80.4K |\n| Washington | 6.6 | $638.2K | $96.1K |\n| Nevada | 6.6 | $491.9K | $74.8K |\n| Rhode Island | 6.6 | $563.2K | $85.7K |\n| New Mexico | 6.2 | $398.8K | $64.4K |\n| Tennessee | 6.2 | $430.5K | $69.7K |\n| Utah | 6.2 | $589.9K | $95.6K |\n| Vermont | 6.2 | $504.6K | $81.9K |\n| Arizona | 6.1 | $484.5K | $78.8K |\n| Maine | 6.1 | $459.3K | $75.2K |\n| Wyoming | 6.1 | $472.4K | $77.7K |\n| Colorado | 6.1 | $579.4K | $95.5K |\n| New Hampshire | 6.1 | $586.1K | $96.8K |\n| Florida | 6.0 | $432.7K | $72.7K |\n| North Carolina | 5.8 | $413.0K | $71.5K |\n| New Jersey | 5.6 | $556.3K | $99.4K |\n| District of Columbia | 5.6 | $589.7K | $106.0K |\n| Delaware | 5.5 | $486.0K | $87.7K |\n| Connecticut | 5.4 | $518.9K | $95.4K |\n| South Carolina | 5.4 | $363.9K | $67.8K |\n| Georgia | 5.2 | $392.1K | $75.1K |\n| Mississippi | 5.2 | $294.5K | $56.8K |\n| Alabama | 5.2 | $330.8K | $64.0K |\n| Wisconsin | 5.1 | $388.1K | $75.7K |\n| South Dakota | 5.0 | $379.5K | $75.7K |\n| Arkansas | 4.9 | $299.8K | $60.7K |\n| Virginia | 4.8 | $447.0K | $92.7K |\n| Texas | 4.8 | $364.7K | $76.6K |\n| Kentucky | 4.7 | $306.6K | $64.6K |\n| Louisiana | 4.7 | $278.9K | $59.3K |\n| North Dakota | 4.7 | $364.3K | $77.7K |\n| Alaska | 4.6 | $436.4K | $94.2K |\n| Oklahoma | 4.6 | $299.4K | $65.0K |\n| Nebraska | 4.5 | $346.2K | $77.0K |\n| Minnesota | 4.4 | $388.2K | $88.6K |\n| Maryland | 4.4 | $434.3K | $99.3K |\n| Missouri | 4.3 | $301.2K | $69.7K |\n| West Virginia | 4.3 | $259.5K | $60.2K |\n| Pennsylvania | 4.2 | $312.5K | $74.9K |\n| Michigan | 4.1 | $290.3K | $70.1K |\n| Indiana | 4.1 | $295.8K | $71.5K |\n| Kansas | 4.0 | $292.6K | $74.0K |\n| Ohio | 4.0 | $277.3K | $70.2K |\n| Illinois | 3.8 | $307.7K | $80.6K |\n| Iowa | 3.7 | $282.9K | $76.0K |",
+    "ai_analysis": {
+      "core_insight": "美国各州住房可负担性差异巨大，蒙大拿州家庭需近9年收入才能购房。",
+      "data_highlights": [
+        "蒙大拿州房价收入比高达8.7，位列全美第一，购房压力最大。",
+        "夏威夷、纽约和加州紧随其后，房价收入比均超过7.8，表明这些高成本地区住房负担沉重。",
+        "艾奥瓦州以3.7的比率位列最末，购房所需年限仅为蒙大拿州的不到一半，可负担性最佳。",
+        "全美50个州及华盛顿特区的中位挂牌房价从25.95万美元（西弗吉尼亚）到76.74万美元（夏威夷）不等。",
+        "中位数家庭收入则从5.68万美元（密西西比）到10.60万美元（华盛顿特区）分布，收入差异显著。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Home Price-to-Income Ratio2025",
+            "Median Listing Price",
+            "Median Household Income"
+          ],
+          "rows": [
+            [
+              "Montana",
+              "8.7",
+              "$628.4K",
+              "$72.1K"
+            ],
+            [
+              "Hawaii",
+              "8.1",
+              "$767.4K",
+              "$94.6K"
+            ],
+            [
+              "New York",
+              "8.1",
+              "$668.2K",
+              "$82.7K"
+            ],
+            [
+              "California",
+              "7.8",
+              "$742.3K",
+              "$95.1K"
+            ],
+            [
+              "Massachusetts",
+              "7.8",
+              "$763.7K",
+              "$98.2K"
+            ],
+            [
+              "Idaho",
+              "7.5",
+              "$580.8K",
+              "$77.6K"
+            ],
+            [
+              "Oregon",
+              "7.0",
+              "$564.0K",
+              "$80.4K"
+            ],
+            [
+              "Washington",
+              "6.6",
+              "$638.2K",
+              "$96.1K"
+            ],
+            [
+              "Nevada",
+              "6.6",
+              "$491.9K",
+              "$74.8K"
+            ],
+            [
+              "Rhode Island",
+              "6.6",
+              "$563.2K",
+              "$85.7K"
+            ],
+            [
+              "New Mexico",
+              "6.2",
+              "$398.8K",
+              "$64.4K"
+            ],
+            [
+              "Tennessee",
+              "6.2",
+              "$430.5K",
+              "$69.7K"
+            ],
+            [
+              "Utah",
+              "6.2",
+              "$589.9K",
+              "$95.6K"
+            ],
+            [
+              "Vermont",
+              "6.2",
+              "$504.6K",
+              "$81.9K"
+            ],
+            [
+              "Arizona",
+              "6.1",
+              "$484.5K",
+              "$78.8K"
+            ],
+            [
+              "Maine",
+              "6.1",
+              "$459.3K",
+              "$75.2K"
+            ],
+            [
+              "Wyoming",
+              "6.1",
+              "$472.4K",
+              "$77.7K"
+            ],
+            [
+              "Colorado",
+              "6.1",
+              "$579.4K",
+              "$95.5K"
+            ],
+            [
+              "New Hampshire",
+              "6.1",
+              "$586.1K",
+              "$96.8K"
+            ],
+            [
+              "Florida",
+              "6.0",
+              "$432.7K",
+              "$72.7K"
+            ],
+            [
+              "North Carolina",
+              "5.8",
+              "$413.0K",
+              "$71.5K"
+            ],
+            [
+              "New Jersey",
+              "5.6",
+              "$556.3K",
+              "$99.4K"
+            ],
+            [
+              "District of Columbia",
+              "5.6",
+              "$589.7K",
+              "$106.0K"
+            ],
+            [
+              "Delaware",
+              "5.5",
+              "$486.0K",
+              "$87.7K"
+            ],
+            [
+              "Connecticut",
+              "5.4",
+              "$518.9K",
+              "$95.4K"
+            ],
+            [
+              "South Carolina",
+              "5.4",
+              "$363.9K",
+              "$67.8K"
+            ],
+            [
+              "Georgia",
+              "5.2",
+              "$392.1K",
+              "$75.1K"
+            ],
+            [
+              "Mississippi",
+              "5.2",
+              "$294.5K",
+              "$56.8K"
+            ],
+            [
+              "Alabama",
+              "5.2",
+              "$330.8K",
+              "$64.0K"
+            ],
+            [
+              "Wisconsin",
+              "5.1",
+              "$388.1K",
+              "$75.7K"
+            ],
+            [
+              "South Dakota",
+              "5.0",
+              "$379.5K",
+              "$75.7K"
+            ],
+            [
+              "Arkansas",
+              "4.9",
+              "$299.8K",
+              "$60.7K"
+            ],
+            [
+              "Virginia",
+              "4.8",
+              "$447.0K",
+              "$92.7K"
+            ],
+            [
+              "Texas",
+              "4.8",
+              "$364.7K",
+              "$76.6K"
+            ],
+            [
+              "Kentucky",
+              "4.7",
+              "$306.6K",
+              "$64.6K"
+            ],
+            [
+              "Louisiana",
+              "4.7",
+              "$278.9K",
+              "$59.3K"
+            ],
+            [
+              "North Dakota",
+              "4.7",
+              "$364.3K",
+              "$77.7K"
+            ],
+            [
+              "Alaska",
+              "4.6",
+              "$436.4K",
+              "$94.2K"
+            ],
+            [
+              "Oklahoma",
+              "4.6",
+              "$299.4K",
+              "$65.0K"
+            ],
+            [
+              "Nebraska",
+              "4.5",
+              "$346.2K",
+              "$77.0K"
+            ],
+            [
+              "Minnesota",
+              "4.4",
+              "$388.2K",
+              "$88.6K"
+            ],
+            [
+              "Maryland",
+              "4.4",
+              "$434.3K",
+              "$99.3K"
+            ],
+            [
+              "Missouri",
+              "4.3",
+              "$301.2K",
+              "$69.7K"
+            ],
+            [
+              "West Virginia",
+              "4.3",
+              "$259.5K",
+              "$60.2K"
+            ],
+            [
+              "Pennsylvania",
+              "4.2",
+              "$312.5K",
+              "$74.9K"
+            ],
+            [
+              "Michigan",
+              "4.1",
+              "$290.3K",
+              "$70.1K"
+            ],
+            [
+              "Indiana",
+              "4.1",
+              "$295.8K",
+              "$71.5K"
+            ],
+            [
+              "Kansas",
+              "4.0",
+              "$292.6K",
+              "$74.0K"
+            ],
+            [
+              "Ohio",
+              "4.0",
+              "$277.3K",
+              "$70.2K"
+            ],
+            [
+              "Illinois",
+              "3.8",
+              "$307.7K",
+              "$80.6K"
+            ],
+            [
+              "Iowa",
+              "3.7",
+              "$282.9K",
+              "$76.0K"
+            ]
+          ],
+          "caption": "2025年美国各州购房所需收入年限（房价收入比）及相关数据"
+        }
+      ],
+      "deep_dive": "## 可负担性鸿沟：地域性住房危机加剧\n\n这份数据揭示了美国住房市场一个严峻的现实：住房可负担能力存在巨大的地理鸿沟。房价收入比（Home Price-to-Income Ratio）是衡量住房可负担性的核心指标，它直观地显示一个家庭需要将多少年的全部收入用于购房。数据显示，这一指标从蒙大拿州的8.7年到艾奥瓦州的3.7年，跨度极大，意味着美国不同地区的居民面临着天差地别的购房压力。\n\n这种差异并非由单一因素造成，而是房价与收入水平共同作用的结果。\n\n## 深度剖析：高价、高收入与“宜居悖论”\n\n### 1. “高价高收入”陷阱与“高价低收入”困境\n- **加州、纽约、夏威夷等传统高成本州**：它们共同特点是房价和收入均处于全国高位。然而，高收入未能完全抵消高房价的冲击，房价收入比依然很高（7.8-8.1）。这表明在这些经济中心，住房已超出本地普通收入家庭的购买力，住房需求可能更多地由高净值人群或外部资本支撑。\n- **蒙大拿州与爱达荷州的异常**：这两个州并非传统意义上的经济中心，但其房价收入比（8.7和7.5）却领跑全美。这强烈暗示了“宜居性溢价”或“远程办公移民潮”效应。来自高成本州的远程工作者或退休人员涌入，推高了当地房价，但其收入水平并未同步大幅增长，导致原住民面临急剧恶化的可负担环境。这是一种典型的“高价低收入”困境。\n\n### 2. 中西部与南部的可负担性绿洲\n- 以艾奥瓦、俄亥俄、堪萨斯为代表的中西部和南部州，构成了全美的“可负担性绿洲”。其房价收入比普遍低于5.0，最低仅3.7。这主要归因于相对较低的中位挂牌房价（普遍低于35万美元）和稳定适度的家庭收入水平。对于这些地区的居民而言，住房是可触及的梦想；这也可能是吸引人口和制造业回流的一个潜在优势。\n\n### 3. 政策与启示\n- 这种地域差异凸显了“一刀切”的全国性住房政策可能失效。高成本州需要聚焦于增加供给（如改革分区规划）、补贴中低收入家庭；而蒙大拿等新兴高压力地区则需警惕快速开发带来的社区结构变化和基础设施压力，并思考如何将经济增长惠及本地长期居民。\n- 对个人和家庭而言，这份地图是一份至关重要的生活成本指南，直接影响着生活地点选择与财务规划。\n\n## 局限性说明\n本分析基于2025年预测数据。房价收入比未考虑首付、利率、税收、财产税等购房的全部成本，也未反映家庭储蓄能力。它提供的是一个宏观、静态的可负担性快照。",
+      "glossary": [
+        {
+          "term": "房价收入比 (Home Price-to-Income Ratio)",
+          "explanation": "衡量住房可负担性的核心指标，计算方式为住房价格中位数与家庭年收入中位数的比值。该比值越高，表示购房所需的年限越长，住房可负担性越差。"
+        },
+        {
+          "term": "中位挂牌价 (Median Listing Price)",
+          "explanation": "指在某一时间段内，所有待售房屋挂牌价格的中位数。它反映了市场上房屋的典型要价水平，比平均价更能避免极端值影响。"
+        },
+        {
+          "term": "中位家庭收入 (Median Household Income)",
+          "explanation": "指将所有家庭收入从高到低排序后，位于中间位置的家庭收入值。它是衡量一个地区典型家庭收入水平的常用指标，比平均收入更能反映普通家庭状况。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ed3e61e4",
     "title": "Ranked: Countries with the Largest Currency Reserves",
     "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/",
