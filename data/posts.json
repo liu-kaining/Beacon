@@ -1,5 +1,487 @@
 [
   {
+    "id": "1d2583a4",
+    "title": "Ranked: U.S. Cities by Family Income Needed to Live Comfortably",
+    "original_url": "https://www.visualcapitalist.com/u-s-cities-by-family-income-needed-to-live-comfortably/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1d2583a4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDbnbmltuWqKfrU1n94VktzqexqovyiipI/uCitDnuf/9k=",
+    "image_version": 1782482107,
+    "pub_date": "Fri, 26 Jun 2026 13:26:48 +0000",
+    "content_md": "| Rank | City | Family Income Needed to Live Comfortably (2026) |\n| --- | --- | --- |\n| 1 | San Francisco, CA | $407,597 |\n| 2 | San Jose, CA | $402,771 |\n| 3 | Oakland, CA | $371,488 |\n| 4 | Boston, MA | $368,742 |\n| 5 | Arlington, VA | $368,326 |\n| 6 | New York, NY | $337,875 |\n| 7 | Seattle, WA | $334,131 |\n| 8 | Irvine, CA | $327,226 |\n| 9 | Honolulu, HI | $321,069 |\n| 10 | Washington, DC | $319,405 |\n| 11 | Portland, OR | $313,747 |\n| 12 | San Diego, CA | $312,915 |\n| 13 | Denver, CO | $303,514 |\n| 14 | Jersey City, NJ | $297,606 |\n| 15 | Minneapolis, MN | $288,787 |\n| 16 | Anchorage, AK | $285,210 |\n| 17 | Los Angeles, CA | $281,466 |\n| 18 | Sacramento, CA | $279,802 |\n| 19 | Newark, NJ | $278,221 |\n| 20 | St. Paul, MN | $278,221 |\n| 21 | Riverside, CA | $270,566 |\n| 22 | Colorado Springs, CO | $270,566 |\n| 23 | Tacoma, WA | $264,742 |\n| 24 | Madison, WI | $263,245 |\n| 25 | Philadelphia, PA | $252,845 |\n| 26 | Reno, NV | $251,264 |\n| 27 | Boise, ID | $251,181 |\n| 28 | Raleigh, NC | $249,434 |\n| 29 | Buffalo, NY | $247,853 |\n| 30 | Indianapolis, IN | $247,021 |\n| 31 | Phoenix, AZ | $245,523 |\n| 32 | Chicago, IL | $242,278 |\n| 33 | Charlotte, NC | $241,446 |\n| 34 | Pittsburgh, PA | $238,534 |\n| 35 | Columbus, OH | $238,534 |\n| 36 | Durham, NC | $237,619 |\n| 37 | Virginia Beach, VA | $237,702 |\n| 38 | Atlanta, GA | $232,378 |\n| 39 | Omaha, NE | $232,294 |\n| 40 | Miami, FL | $231,130 |\n| 41 | Kansas City, MO | $230,131 |\n| 42 | Plano, TX | $230,464 |\n| 43 | Austin, TX | $229,050 |\n| 44 | Tampa, FL | $226,720 |\n| 45 | Baltimore, MD | $224,224 |\n| 46 | Richmond, VA | $223,974 |\n| 47 | Fort Worth, TX | $217,235 |\n| 48 | Tulsa, OK | $215,238 |\n| 49 | Dallas, TX | $214,490 |\n| 50 | Orlando, FL | $214,157 |\n| 51 | Nashville, TN | $213,408 |\n| 52 | Jacksonville, FL | $211,578 |\n| 53 | Houston, TX | $204,672 |\n| 54 | New Orleans, LA | $197,766 |\n| 55 | Memphis, TN | $193,939 |\n| 56 | San Antonio, TX | $192,608 |",
+    "ai_analysis": {
+      "core_insight": "美国西部及东北部沿海城市生活成本高企，家庭所需舒适收入远超全国中位数。",
+      "data_highlights": [
+        "旧金山、圣何塞、奥克兰位列前三，所需家庭年收入均超37万美元，远超其他城市。",
+        "加州在前20名中占据7席，成为全美生活成本最集中的高地。",
+        "纽约、西雅图、波士顿等科技与金融中心稳居前十，门槛均在33万美元以上。",
+        "榜单末尾的圣安东尼奥、孟菲斯等城市所需收入约为榜首城市的47%，区域差异显著。",
+        "东部华盛顿特区及阿灵顿等政治中心也位列前十，显示政策与生活成本关联紧密。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "City",
+            "Family Income Needed to Live Comfortably (2026)"
+          ],
+          "rows": [
+            [
+              "1",
+              "San Francisco, CA",
+              "$407,597"
+            ],
+            [
+              "2",
+              "San Jose, CA",
+              "$402,771"
+            ],
+            [
+              "3",
+              "Oakland, CA",
+              "$371,488"
+            ],
+            [
+              "4",
+              "Boston, MA",
+              "$368,742"
+            ],
+            [
+              "5",
+              "Arlington, VA",
+              "$368,326"
+            ],
+            [
+              "6",
+              "New York, NY",
+              "$337,875"
+            ],
+            [
+              "7",
+              "Seattle, WA",
+              "$334,131"
+            ],
+            [
+              "8",
+              "Irvine, CA",
+              "$327,226"
+            ],
+            [
+              "9",
+              "Honolulu, HI",
+              "$321,069"
+            ],
+            [
+              "10",
+              "Washington, DC",
+              "$319,405"
+            ],
+            [
+              "11",
+              "Portland, OR",
+              "$313,747"
+            ],
+            [
+              "12",
+              "San Diego, CA",
+              "$312,915"
+            ],
+            [
+              "13",
+              "Denver, CO",
+              "$303,514"
+            ],
+            [
+              "14",
+              "Jersey City, NJ",
+              "$297,606"
+            ],
+            [
+              "15",
+              "Minneapolis, MN",
+              "$288,787"
+            ],
+            [
+              "16",
+              "Anchorage, AK",
+              "$285,210"
+            ],
+            [
+              "17",
+              "Los Angeles, CA",
+              "$281,466"
+            ],
+            [
+              "18",
+              "Sacramento, CA",
+              "$279,802"
+            ],
+            [
+              "19",
+              "Newark, NJ",
+              "$278,221"
+            ],
+            [
+              "20",
+              "St. Paul, MN",
+              "$278,221"
+            ],
+            [
+              "21",
+              "Riverside, CA",
+              "$270,566"
+            ],
+            [
+              "22",
+              "Colorado Springs, CO",
+              "$270,566"
+            ],
+            [
+              "23",
+              "Tacoma, WA",
+              "$264,742"
+            ],
+            [
+              "24",
+              "Madison, WI",
+              "$263,245"
+            ],
+            [
+              "25",
+              "Philadelphia, PA",
+              "$252,845"
+            ],
+            [
+              "26",
+              "Reno, NV",
+              "$251,264"
+            ],
+            [
+              "27",
+              "Boise, ID",
+              "$251,181"
+            ],
+            [
+              "28",
+              "Raleigh, NC",
+              "$249,434"
+            ],
+            [
+              "29",
+              "Buffalo, NY",
+              "$247,853"
+            ],
+            [
+              "30",
+              "Indianapolis, IN",
+              "$247,021"
+            ],
+            [
+              "31",
+              "Phoenix, AZ",
+              "$245,523"
+            ],
+            [
+              "32",
+              "Chicago, IL",
+              "$242,278"
+            ],
+            [
+              "33",
+              "Charlotte, NC",
+              "$241,446"
+            ],
+            [
+              "34",
+              "Pittsburgh, PA",
+              "$238,534"
+            ],
+            [
+              "35",
+              "Columbus, OH",
+              "$238,534"
+            ],
+            [
+              "36",
+              "Durham, NC",
+              "$237,619"
+            ],
+            [
+              "37",
+              "Virginia Beach, VA",
+              "$237,702"
+            ],
+            [
+              "38",
+              "Atlanta, GA",
+              "$232,378"
+            ],
+            [
+              "39",
+              "Omaha, NE",
+              "$232,294"
+            ],
+            [
+              "40",
+              "Miami, FL",
+              "$231,130"
+            ],
+            [
+              "41",
+              "Kansas City, MO",
+              "$230,131"
+            ],
+            [
+              "42",
+              "Plano, TX",
+              "$230,464"
+            ],
+            [
+              "43",
+              "Austin, TX",
+              "$229,050"
+            ],
+            [
+              "44",
+              "Tampa, FL",
+              "$226,720"
+            ],
+            [
+              "45",
+              "Baltimore, MD",
+              "$224,224"
+            ],
+            [
+              "46",
+              "Richmond, VA",
+              "$223,974"
+            ],
+            [
+              "47",
+              "Fort Worth, TX",
+              "$217,235"
+            ],
+            [
+              "48",
+              "Tulsa, OK",
+              "$215,238"
+            ],
+            [
+              "49",
+              "Dallas, TX",
+              "$214,490"
+            ],
+            [
+              "50",
+              "Orlando, FL",
+              "$214,157"
+            ],
+            [
+              "51",
+              "Nashville, TN",
+              "$213,408"
+            ],
+            [
+              "52",
+              "Jacksonville, FL",
+              "$211,578"
+            ],
+            [
+              "53",
+              "Houston, TX",
+              "$204,672"
+            ],
+            [
+              "54",
+              "New Orleans, LA",
+              "$197,766"
+            ],
+            [
+              "55",
+              "Memphis, TN",
+              "$193,939"
+            ],
+            [
+              "56",
+              "San Antonio, TX",
+              "$192,608"
+            ]
+          ],
+          "caption": "美国家庭舒适生活所需年收入排名（2026年预测）"
+        }
+      ],
+      "deep_dive": "## 生活成本地理格局：科技、金融与政策高地的“溢价”\n\n这份排名清晰勾勒出美国生活成本的“金字塔”结构。位于塔尖的是以**旧金山湾区（San Francisco, San Jose, Oakland）**和**波士顿、纽约、西雅图**为代表的核心都市圈。这些城市共同特点是聚集了全球顶尖的科技、金融或高等教育资源，吸引了高收入人才，从而系统性地推高了住房、服务和整体消费价格。一个值得注意的现象是，**加州独占前20名中的7席**，从南到北（圣地亚哥至萨克拉门托）形成了一条昂贵的“阳光成本带”，这反映了该州强劲的经济、严格的住房供给限制与独特的自然环境溢价的综合结果。\n\n紧随其后的第二梯队包括**华盛顿特区、阿灵顿**等政治中心，以及**檀香山**这类地理位置独特、供给受限的城市。这些地方的需求不仅来自本地经济，也来自与联邦政府相关的稳定就业和支出，构成了成本的另一重支撑。相比之下，榜单中后部的城市（如德州的达拉斯、休斯顿，中西部的哥伦布、印第安纳波利斯）虽然也是重要区域中心，但因产业多元化、土地供给相对充足、生活节奏等因素，家庭年收入门槛显著降低，约为榜首城市的50%-60%，为中产阶级提供了更可及的选择。\n\n## 核心驱动与启示：高收入的必要性与生活质量的悖论\n\n**核心驱动机制**：影响城市生活成本的关键变量是**住房成本**。在顶级城市，住房支出往往占据家庭预算的极大比例（可能超过30%甚至更高），房价和租金的飙升直接拉高了“舒适生活”的收入门槛。其次，**当地税收结构、托儿教育成本、交通和医疗费用**也因地区不同而产生巨大差异。这份数据本质上反映的是，在一个特定地点维持一个家庭（通常涵盖住房、食品、医疗、交通、储蓄和适度娱乐）所需达到的“财务安全线”。\n\n**深层启示与局限**：首先，对于个人和家庭而言，这份排名是重要的生活规划参考，但“舒适”本身是一个主观概念，不同家庭结构（子女数量、年龄）和生活方式偏好会显著改变实际所需。其次，从宏观经济视角看，高生活成本城市往往是国家经济的创新引擎，但其过高的门槛也可能**加剧人才流动的壁垒和社会不平等**，迫使中低收入服务业从业者向成本更低的地方迁移，从而重塑城市人口结构。最后，该数据基于2026年的预测，其准确性受未来通胀、利率、地方政策等多重因素影响。它揭示了一个核心现实：在美国，地理选择已成为影响家庭经济福祉的关键决策之一，其重要性不亚于职业选择。",
+      "glossary": [
+        {
+          "term": "生活成本（Cost of Living）",
+          "explanation": "指在一个特定地区维持特定生活水平所需花费的总金额，通常包括住房、食品、交通、医疗、税收等核心支出。"
+        },
+        {
+          "term": "舒适生活（Live Comfortably）",
+          "explanation": "一个相对主观的概念，通常指在满足所有基本需求之外，还有足够的收入用于储蓄、娱乐和应对突发开支，享有财务安全感。"
+        },
+        {
+          "term": "地理套利（Geographic Arbitrage）",
+          "explanation": "个人或家庭通过移居到生活成本较低的地区，来利用收入与支出之间的巨大差异，从而提升实际购买力或储蓄率的行为。"
+        },
+        {
+          "term": "住房成本溢价（Housing Cost Premium）",
+          "explanation": "指在高需求、低供给的特定地区，住房（购房或租房）价格显著高于全国平均水平的现象，通常是拉高该地区整体生活成本的最主要因素。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "018cdedd",
+    "title": "Mapped: Countries With the Most Seniors",
+    "original_url": "https://www.visualcapitalist.com/cp/countries-with-the-most-seniors/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/018cdedd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDfRNtXIWxURFLH1qWcrkaCvxRUS9KKQ+Y//9k=",
+    "image_version": 1782482155,
+    "pub_date": "Fri, 26 Jun 2026 11:32:20 +0000",
+    "content_md": "| Rank | Country | % of seniors in population |\n| --- | --- | --- |\n| 1 | Monaco | 36.17 |\n| 2 | Japan | 29.78 |\n| 3 | Puerto Rico (US) | 24.72 |\n| 4 | Italy | 24.62 |\n| 5 | Portugal | 24.53 |\n| 6 | Greece | 23.94 |\n| 7 | Finland | 23.90 |\n| 8 | Germany | 23.20 |\n| 9 | Croatia | 23.19 |\n| 10 | Isle of Man (UK) | 23.15 |\n| 11 | Virgin Islands (U.S.) | 22.69 |\n| 12 | Serbia | 22.69 |\n| 13 | Hong Kong SAR, China | 22.67 |\n| 14 | San Marino | 22.41 |\n| 15 | Bosnia and Herzegovina | 22.23 |\n| 16 | France | 22.15 |\n| 17 | Bulgaria | 22.03 |\n| 18 | European Union | 22.01 |\n| 19 | Slovenia | 21.77 |\n| 20 | Bermuda (UK) | 21.74 |\n| 21 | Latvia | 21.74 |\n| 22 | Estonia | 21.30 |\n| 23 | Spain | 21.15 |\n| 24 | Hungary | 20.99 |\n| 25 | Denmark | 20.87 |\n| 26 | Czechia | 20.85 |\n| 27 | Sweden | 20.75 |\n| 28 | Liechtenstein | 20.73 |\n| 29 | Austria | 20.61 |\n| 30 | Belgium | 20.56 |\n| 31 | Netherlands | 20.50 |\n| 32 | Malta | 20.21 |\n| 33 | Lithuania | 20.17 |\n| 34 | Poland | 20.14 |\n| 35 | Switzerland | 20.02 |\n| 36 | Romania | 19.98 |\n| 37 | Canada | 19.80 |\n| 38 | United Kingdom | 19.5 |\n| 39 | South Korea | 19.27 |\n| 40 | Ukraine | 18.96 |\n| 41 | Norway | 18.79 |\n| 42 | Slovak Republic | 18.54 |\n| 43 | St. Martin (French part) | 18.41 |\n| 44 | North Macedonia | 18.02 |\n| 45 | United States | 17.93 |\n| 46 | Montenegro | 17.83 |\n| 47 | Faroe Islands (UK) | 17.74 |\n| 48 | Australia | 17.73 |\n| 49 | Belarus | 17.67 |\n| 50 | Gibraltar | 17.62 |\n| 51 | New Zealand | 17.20 |\n| 52 | Russian Federation | 17.18 |\n| 53 | Aruba | 17.06 |\n| 54 | Albania | 16.92 |\n| 55 | Curacao | 16.78 |\n| 56 | Cuba | 16.57 |\n| 57 | Barbados | 16.55 |\n| 58 | Moldova | 16.21 |\n| 59 | Uruguay | 16.05 |\n| 60 | Andorra | 15.95 |\n| 61 | Ireland | 15.89 |\n| 62 | Iceland | 15.64 |\n| 63 | Georgia | 15.64 |\n| 64 | Luxembourg | 15.48 |\n| 65 | Thailand | 15.36 |\n| 66 | China | 14.67 |\n| 67 | Cyprus | 14.62 |\n| 68 | Macao SAR, China | 14.27 |\n| 69 | Chile | 14.14 |\n| 70 | Sint Maarten (Dutch part) | 13.94 |\n| 71 | Armenia | 13.70 |\n| 72 | Singapore | 13.66 |\n| 73 | Mauritius | 13.53 |\n| 74 | Dominica | 12.96 |\n| 75 | Guam | 12.60 |\n| 76 | Israel | 12.55 |\n| 77 | Argentina | 12.42 |\n| 78 | Korea, Dem. People's Rep. | 12.40 |\n| 79 | Trinidad and Tobago | 12.38 |\n| 80 | Grenada | 12.24 |\n| 81 | Costa Rica | 12.23 |\n| 82 | Sri Lanka | 12.10 |\n| 83 | St. Vincent and the Grenadines | 11.89 |\n| 84 | Antigua and Barbuda | 11.78 |\n| 85 | Bahamas, The | 11.78 |\n| 86 | New Caledonia | 11.43 |\n| 87 | Palau | 11.34 |\n| 88 | French Polynesia | 11.32 |\n| 89 | Turks and Caicos Islands | 11.25 |\n| 90 | St. Kitts and Nevis | 11.23 |\n| 91 | Brazil | 11.05 |\n| 92 | Greenland | 10.81 |\n| 93 | Turkiye | 10.28 |\n| 94 | Lebanon | 10.14 |\n| 95 | Kosovo | 10.07 |\n| 96 | Colombia | 9.78 |\n| 97 | Northern Mariana Islands | 9.75 |\n| 98 | Venezuela | 9.68 |\n| 99 | British Virgin Islands | 9.62 |\n| 100 | St. Lucia | 9.62 |\n| 101 | Tunisia | 9.53 |\n| 102 | Panama | 9.35 |\n| 103 | Peru | 9.23 |\n| 104 | Vietnam | 9.05 |\n| 105 | Cayman Islands (UK) | 9.00 |\n| 106 | Kazakhstan | 8.65 |\n| 107 | Azerbaijan | 8.56 |\n| 108 | Seychelles | 8.54 |\n| 109 | Ecuador | 8.34 |\n| 110 | Mexico | 8.25 |\n| 111 | Iran | 8.24 |\n| 112 | Jamaica | 8.21 |\n| 113 | El Salvador | 8.15 |\n| 114 | Morocco | 8.14 |\n| 115 | American Samoa | 8.04 |\n| 116 | Suriname | 7.90 |\n| 117 | Dominican Republic | 7.88 |\n| 118 | Malaysia | 7.74 |\n| 119 | Myanmar | 7.30 |\n| 120 | Indonesia | 7.29 |\n| 121 | India | 7.15 |\n| 122 | Brunei Darussalam | 6.87 |\n| 123 | Cabo Verde | 6.86 |\n| 124 | Guyana | 6.73 |\n| 125 | Tonga | 6.72 |\n| 126 | South Africa | 6.69 |\n| 127 | Tuvalu | 6.67 |\n| 128 | Algeria | 6.58 |\n| 129 | Paraguay | 6.54 |\n| 130 | Nepal | 6.50 |\n| 131 | Bangladesh | 6.50 |\n| 132 | Bhutan | 6.49 |\n| 133 | Fiji | 6.49 |\n| 134 | Cambodia | 6.16 |\n| 135 | Micronesia, Fed. Sts. | 5.95 |\n| 136 | Samoa | 5.88 |\n| 137 | Uzbekistan | 5.86 |\n| 138 | Kyrgyz Republic | 5.68 |\n| 139 | Bolivia | 5.64 |\n| 140 | Nicaragua | 5.53 |\n| 141 | Philippines | 5.49 |\n| 142 | Timor-Leste | 5.28 |\n| 143 | Mongolia | 5.14 |\n| 144 | Egypt | 5.12 |\n| 145 | Belize | 5.02 |\n| 146 | Libya | 5.02 |\n| 147 | Djibouti | 4.85 |\n| 148 | Guatemala | 4.85 |\n| 149 | Syria | 4.74 |\n| 150 | Haiti | 4.71 |\n| 151 | Laos | 4.67 |\n| 152 | Marshall Islands | 4.64 |\n| 153 | Maldives | 4.64 |\n| 154 | Turkmenistan | 4.53 |\n| 155 | Jordan | 4.52 |\n| 156 | Comoros | 4.47 |\n| 157 | Honduras | 4.42 |\n| 158 | Vanuatu | 4.30 |\n| 159 | Pakistan | 4.28 |\n| 160 | Eswatini | 4.26 |\n| 161 | Kiribati | 4.24 |\n| 162 | Eritrea | 4.2 |\n| 163 | Gabon | 4.08 |\n| 164 | Botswana | 4.04 |\n| 165 | Rwanda | 3.93 |\n| 166 | Sao Tome and Principe | 3.90 |\n| 167 | Lesotho | 3.86 |\n| 168 | Bahrain | 3.85 |\n| 169 | Tajikistan | 3.85 |\n| 170 | West Bank and Gaza | 3.84 |\n| 171 | Ghana | 3.71 |\n| 172 | Equatorial Guinea | 3.69 |\n| 173 | Namibia | 3.67 |\n| 174 | Solomon Islands | 3.64 |\n| 175 | Senegal | 3.62 |\n| 176 | Zimbabwe | 3.60 |\n| 177 | Papua New Guinea | 3.46 |\n| 178 | Guinea | 3.46 |\n| 179 | Iraq | 3.41 |\n| 180 | Madagascar | 3.41 |\n| 181 | Liberia | 3.30 |\n| 182 | Sudan | 3.30 |\n| 183 | Sierra Leone | 3.24 |\n| 184 | Ethiopia | 3.23 |\n| 185 | Mauritania | 3.23 |\n| 186 | Togo | 3.21 |\n| 187 | Guinea-Bissau | 3.19 |\n| 188 | Benin | 3.12 |\n| 189 | Kuwait | 3.10 |\n| 190 | Gambia, The | 3.08 |\n| 191 | Congo, Dem. Rep. | 3.08 |\n| 192 | Nigeria | 3.05 |\n| 193 | Tanzania | 3.05 |\n| 194 | South Sudan | 2.99 |\n| 195 | Congo, Rep. | 2.99 |\n| 196 | Kenya | 2.97 |\n| 197 | Saudi Arabia | 2.95 |\n| 198 | Angola | 2.85 |\n| 199 | Nauru | 2.85 |\n| 200 | Cameroon | 2.79 |\n| 201 | Mozambique | 2.75 |\n| 202 | Burkina Faso | 2.65 |\n| 203 | Oman | 2.64 |\n| 204 | Cote d'Ivoire | 2.61 |\n| 205 | Niger | 2.59 |\n| 206 | Somalia | 2.59 |\n| 207 | Malawi | 2.59 |\n| 208 | Burundi | 2.53 |\n| 209 | Yemen | 2.52 |\n| 210 | Afghanistan | 2.40 |\n| 211 | Mali | 2.38 |\n| 212 | Uganda | 2.19 |\n| 213 | Central African Republic | 2.15 |\n| 214 | Chad | 2.10 |\n| 215 | Zambia | 1.95 |\n| 216 | United Arab Emirates | 1.77 |\n| 217 | Qatar | 1.68 |",
+    "ai_analysis": {
+      "core_insight": "全球老龄化格局分化，欧洲与东亚深度领先，非洲与中东则保持年轻。",
+      "data_highlights": [
+        "摩纳哥以36.17%的老年人口比例高居榜首，远超其他国家。",
+        "前10名中，欧洲国家占据7席，包括日本、意大利、德国等主要经济体。",
+        "东亚地区老龄化显著，日本（29.78%）、韩国（19.27%）、中国（14.67%）均处于高位。",
+        "非洲国家包揽末位，尼日尔、马里、乌干达等国老年人口比例不足2.5%。",
+        "美国（17.93%）的老龄化程度低于加拿大（19.80%）和多数欧洲国家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "% of seniors in population"
+          ],
+          "rows": [
+            [
+              "1",
+              "Monaco",
+              "36.17"
+            ],
+            [
+              "2",
+              "Japan",
+              "29.78"
+            ],
+            [
+              "3",
+              "Puerto Rico (US)",
+              "24.72"
+            ],
+            [
+              "4",
+              "Italy",
+              "24.62"
+            ],
+            [
+              "5",
+              "Portugal",
+              "24.53"
+            ],
+            [
+              "6",
+              "Greece",
+              "23.94"
+            ],
+            [
+              "7",
+              "Finland",
+              "23.90"
+            ],
+            [
+              "8",
+              "Germany",
+              "23.20"
+            ],
+            [
+              "9",
+              "Croatia",
+              "23.19"
+            ],
+            [
+              "10",
+              "Isle of Man (UK)",
+              "23.15"
+            ],
+            [
+              "11",
+              "Virgin Islands (U.S.)",
+              "22.69"
+            ],
+            [
+              "12",
+              "Serbia",
+              "22.69"
+            ],
+            [
+              "13",
+              "Hong Kong SAR, China",
+              "22.67"
+            ],
+            [
+              "14",
+              "San Marino",
+              "22.41"
+            ],
+            [
+              "15",
+              "Bosnia and Herzegovina",
+              "22.23"
+            ],
+            [
+              "16",
+              "France",
+              "22.15"
+            ],
+            [
+              "17",
+              "Bulgaria",
+              "22.03"
+            ],
+            [
+              "18",
+              "European Union",
+              "22.01"
+            ],
+            [
+              "19",
+              "Slovenia",
+              "21.77"
+            ],
+            [
+              "20",
+              "Bermuda (UK)",
+              "21.74"
+            ]
+          ],
+          "caption": "老年人口比例排名前20的国家/地区"
+        }
+      ],
+      "deep_dive": "## 老龄化版图：深度与广度的全球图景\n这份数据揭示了一个深刻的人口结构现实：全球正经历前所未有的老龄化浪潮，但浪潮的强度和波及范围极不均衡。老龄化并非单一现象，而是经济、社会、政策共同作用的结果，形成了鲜明的地理与国别格局。\n\n## 区域对比：欧亚深度与非洲广度\n**欧洲与东亚：深度老龄化**\n- **现象**：排名前20的国家/地区中，绝大多数来自欧洲，其老年人口比例普遍超过22%。欧盟整体比例（22.01%）即是一个缩影。东亚的日本（29.78%）紧随其后，韩国（19.27%）和中国（14.67%）也迅速逼近。这种“深度老龄化”意味着劳动力减少、养老金与医疗体系承压、以及经济增长模式面临根本性转变。\n- **驱动机制**：长期低生育率是根本原因。这些地区普遍经历了战后婴儿潮后生育率的持续下降，同时预期寿命显著延长。发达的医疗条件延长了老年阶段，但未能扭转人口金字塔的倒转趋势。\n\n**非洲与中东：年轻的社会**\n- **现象**：榜单末尾几乎被非洲国家垄断，许多国家老年人口比例低于5%。沙特阿拉伯（2.95%）、卡塔尔（1.68%）等中东富国也位列其中。这种“年轻化社会”由高生育率主导。\n- **驱动机制与挑战**：高生育率源于传统观念、经济发展水平及社会保障缺失等因素。然而，这带来了截然不同但同样严峻的挑战：庞大的青年人口需要充足的教育、就业机会，若无法实现“人口红利”向“人才红利”的转化，可能引发社会不稳定。\n\n## 关键启示与思考\n1.  **政策应对需差异化**：深度老龄化国家需聚焦于养老金改革、延迟退休、发展银发经济及吸引移民。年轻国家则需投资于人力资本，创造就业，避免“青年膨胀”风险。\n2.  **小型经济体的特殊性**：摩纳哥（36.17%）、百慕大（21.74%）等排名靠前的小型经济体，其数据可能受富裕退休者移民或特定政策影响，需结合移民结构具体分析。\n3.  **发展的双刃剑**：经济发展与老龄化往往同步。但中国等快速老龄化的发展中大国，面临着“未富先老”的独特挑战，需要比发达国家更紧迫的制度创新来应对。\n4.  **数据的局限**：表中数据为静态快照，未能反映老龄化速度这一关键动态指标。一些国家（如中国）的老龄化正在加速，其未来挑战可能比当前排名显示的更为严峻。",
+      "glossary": [
+        {
+          "term": "深度老龄化",
+          "explanation": "指一个国家或地区65岁及以上老年人口占总人口的比例超过14%的社会状态，意味着劳动力供给减少，社会抚养比上升，养老和医疗体系面临巨大压力。"
+        },
+        {
+          "term": "人口红利",
+          "explanation": "指一个国家劳动年龄人口占总人口比重较大，抚养比较低，为经济发展创造了有利的人口条件。通常与高生育率后出生率下降、劳动力充裕的阶段相关。"
+        },
+        {
+          "term": "未富先老",
+          "explanation": "指一些发展中国家在经济尚未达到高收入水平时，就提前步入了老龄化社会，面临经济增长动力不足与社会保障需求增加的双重压力。"
+        },
+        {
+          "term": "抚养比",
+          "explanation": "指非劳动年龄人口（少儿和老人）对劳动年龄人口之比，通常分为少儿抚养比和老年抚养比。老年抚养比上升是老龄化社会的直接经济体现。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4997523a",
     "title": "Ranked: America’s Best-Selling Car Companies in 2025",
     "original_url": "https://www.visualcapitalist.com/every-car-sold-in-the-us-in-2025/",
