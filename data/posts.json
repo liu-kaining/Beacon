@@ -1,5 +1,368 @@
 [
   {
+    "id": "6e4e6ec4",
+    "title": "Mapped: Birth Rates Are Falling Even Among Women in Their 30s",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-birth-rates-are-falling-fastest-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/6e4e6ec4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCSKOpmhyKbC4zVvcu2utnpMzWg56UVcZlzRQFzKhmI71YN1hetZ6U5+lK5x+1ZO13z1orPbrRRcPaM/9k=",
+    "image_version": 1782586757,
+    "pub_date": "Sat, 27 Jun 2026 16:42:59 +0000",
+    "content_md": "| State | Births per 1,000 Women2015 | Births per 1,000 Women2024 | % Change |\n| --- | --- | --- | --- |\n| District of Columbia | 76.0 | 60.1 | -21% |\n| Oregon | 94.2 | 78.4 | -17% |\n| Washington | 124.3 | 104.8 | -16% |\n| Utah | 105.5 | 88.4 | -16% |\n| California | 105.5 | 89.4 | -15% |\n| Nevada | 93.1 | 79.6 | -15% |\n| Alaska | 108.4 | 93.0 | -14% |\n| Delaware | 108.7 | 94.4 | -13% |\n| Montana | 103.4 | 90.4 | -13% |\n| Vermont | 103.1 | 91.2 | -12% |\n| Rhode Island | 105.6 | 93.3 | -12% |\n| Illinois | 102.7 | 90.7 | -12% |\n| Hawaii | 94.1 | 82.8 | -12% |\n| Colorado | 100.1 | 89.7 | -10% |\n| Arizona | 98.4 | 89.2 | -9% |\n| Maine | 107.0 | 98.4 | -8% |\n| Idaho | 92.8 | 85.4 | -8% |\n| Pennsylvania | 97.2 | 90.3 | -7% |\n| Ohio | 101.2 | 94.1 | -7% |\n| Florida | 101.1 | 93.6 | -7% |\n| New York | 101.8 | 94.3 | -7% |\n| Virginia | 105.2 | 98.3 | -7% |\n| Michigan | 105.9 | 98.2 | -7% |\n| Wyoming | 94.4 | 87.6 | -7% |\n| Massachusetts | 109.5 | 102.4 | -6% |\n| Texas | 102.0 | 96.0 | -6% |\n| Minnesota | 93.7 | 89.0 | -5% |\n| Maryland | 106.5 | 100.7 | -5% |\n| North Dakota | 121.3 | 114.8 | -5% |\n| Georgia | 82.5 | 78.7 | -5% |\n| New Mexico | 117.1 | 111.1 | -5% |\n| Oklahoma | 90.0 | 85.3 | -5% |\n| New Hampshire | 89.1 | 85.7 | -4% |\n| Missouri | 96.8 | 93.4 | -4% |\n| Louisiana | 103.7 | 99.5 | -4% |\n| New Jersey | 84.7 | 82.0 | -3% |\n| Arkansas | 105.2 | 102.5 | -3% |\n| Kansas | 115.3 | 112.4 | -3% |\n| South Carolina | 96.8 | 94.8 | -2% |\n| North Carolina | 93.0 | 90.7 | -2% |\n| Indiana | 96.9 | 96.9 | 0% |\n| Wisconsin | 122.4 | 122.5 | 0% |\n| South Dakota | 107.1 | 106.7 | 0% |\n| Alabama | 85.6 | 86.1 | 1% |\n| Tennessee | 106.9 | 108.5 | 1% |\n| Connecticut | 108.2 | 109.5 | 1% |\n| Kentucky | 87.8 | 88.7 | 1% |\n| Iowa | 88.7 | 89.4 | 1% |\n| West Virginia | 76.3 | 77.0 | 1% |\n| Mississippi | 78.0 | 80.0 | 3% |\n| Nebraska | 116.0 | 118.9 | 3% |\n| U.S. Average | 101.4 | 93.7 | -8% |",
+    "ai_analysis": {
+      "core_insight": "美国近十年30多岁女性生育率普遍大幅下降，部分州跌幅超两成。",
+      "data_highlights": [
+        "全美平均生育率（每千名女性）从101.4降至93.7，下降8%。",
+        "降幅最大的州是哥伦比亚特区，下跌21%；俄勒冈州和华盛顿州紧随其后，均下跌16%以上。",
+        "仅有个别州生育率保持稳定或微增，如印第安纳州、威斯康星州变化为零，密西西比州增长3%。",
+        "生育率基数较高的州，如北达科他州（121.3）和新墨西哥州（117.1），其绝对值仍维持高位。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Births per 1,000 Women2015",
+            "Births per 1,000 Women2024",
+            "% Change"
+          ],
+          "rows": [
+            [
+              "District of Columbia",
+              "76.0",
+              "60.1",
+              "-21%"
+            ],
+            [
+              "Oregon",
+              "94.2",
+              "78.4",
+              "-17%"
+            ],
+            [
+              "Washington",
+              "124.3",
+              "104.8",
+              "-16%"
+            ],
+            [
+              "Utah",
+              "105.5",
+              "88.4",
+              "-16%"
+            ],
+            [
+              "California",
+              "105.5",
+              "89.4",
+              "-15%"
+            ],
+            [
+              "Nevada",
+              "93.1",
+              "79.6",
+              "-15%"
+            ],
+            [
+              "Alaska",
+              "108.4",
+              "93.0",
+              "-14%"
+            ],
+            [
+              "Delaware",
+              "108.7",
+              "94.4",
+              "-13%"
+            ],
+            [
+              "Montana",
+              "103.4",
+              "90.4",
+              "-13%"
+            ],
+            [
+              "Vermont",
+              "103.1",
+              "91.2",
+              "-12%"
+            ],
+            [
+              "Rhode Island",
+              "105.6",
+              "93.3",
+              "-12%"
+            ],
+            [
+              "Illinois",
+              "102.7",
+              "90.7",
+              "-12%"
+            ],
+            [
+              "Hawaii",
+              "94.1",
+              "82.8",
+              "-12%"
+            ],
+            [
+              "Colorado",
+              "100.1",
+              "89.7",
+              "-10%"
+            ],
+            [
+              "Arizona",
+              "98.4",
+              "89.2",
+              "-9%"
+            ],
+            [
+              "Maine",
+              "107.0",
+              "98.4",
+              "-8%"
+            ],
+            [
+              "Idaho",
+              "92.8",
+              "85.4",
+              "-8%"
+            ],
+            [
+              "Pennsylvania",
+              "97.2",
+              "90.3",
+              "-7%"
+            ],
+            [
+              "Ohio",
+              "101.2",
+              "94.1",
+              "-7%"
+            ],
+            [
+              "Florida",
+              "101.1",
+              "93.6",
+              "-7%"
+            ],
+            [
+              "New York",
+              "101.8",
+              "94.3",
+              "-7%"
+            ],
+            [
+              "Virginia",
+              "105.2",
+              "98.3",
+              "-7%"
+            ],
+            [
+              "Michigan",
+              "105.9",
+              "98.2",
+              "-7%"
+            ],
+            [
+              "Wyoming",
+              "94.4",
+              "87.6",
+              "-7%"
+            ],
+            [
+              "Massachusetts",
+              "109.5",
+              "102.4",
+              "-6%"
+            ],
+            [
+              "Texas",
+              "102.0",
+              "96.0",
+              "-6%"
+            ],
+            [
+              "Minnesota",
+              "93.7",
+              "89.0",
+              "-5%"
+            ],
+            [
+              "Maryland",
+              "106.5",
+              "100.7",
+              "-5%"
+            ],
+            [
+              "North Dakota",
+              "121.3",
+              "114.8",
+              "-5%"
+            ],
+            [
+              "Georgia",
+              "82.5",
+              "78.7",
+              "-5%"
+            ],
+            [
+              "New Mexico",
+              "117.1",
+              "111.1",
+              "-5%"
+            ],
+            [
+              "Oklahoma",
+              "90.0",
+              "85.3",
+              "-5%"
+            ],
+            [
+              "New Hampshire",
+              "89.1",
+              "85.7",
+              "-4%"
+            ],
+            [
+              "Missouri",
+              "96.8",
+              "93.4",
+              "-4%"
+            ],
+            [
+              "Louisiana",
+              "103.7",
+              "99.5",
+              "-4%"
+            ],
+            [
+              "New Jersey",
+              "84.7",
+              "82.0",
+              "-3%"
+            ],
+            [
+              "Arkansas",
+              "105.2",
+              "102.5",
+              "-3%"
+            ],
+            [
+              "Kansas",
+              "115.3",
+              "112.4",
+              "-3%"
+            ],
+            [
+              "South Carolina",
+              "96.8",
+              "94.8",
+              "-2%"
+            ],
+            [
+              "North Carolina",
+              "93.0",
+              "90.7",
+              "-2%"
+            ],
+            [
+              "Indiana",
+              "96.9",
+              "96.9",
+              "0%"
+            ],
+            [
+              "Wisconsin",
+              "122.4",
+              "122.5",
+              "0%"
+            ],
+            [
+              "South Dakota",
+              "107.1",
+              "106.7",
+              "0%"
+            ],
+            [
+              "Alabama",
+              "85.6",
+              "86.1",
+              "1%"
+            ],
+            [
+              "Tennessee",
+              "106.9",
+              "108.5",
+              "1%"
+            ],
+            [
+              "Connecticut",
+              "108.2",
+              "109.5",
+              "1%"
+            ],
+            [
+              "Kentucky",
+              "87.8",
+              "88.7",
+              "1%"
+            ],
+            [
+              "Iowa",
+              "88.7",
+              "89.4",
+              "1%"
+            ],
+            [
+              "West Virginia",
+              "76.3",
+              "77.0",
+              "1%"
+            ],
+            [
+              "Mississippi",
+              "78.0",
+              "80.0",
+              "3%"
+            ],
+            [
+              "Nebraska",
+              "116.0",
+              "118.9",
+              "3%"
+            ],
+            [
+              "U.S. Average",
+              "101.4",
+              "93.7",
+              "-8%"
+            ]
+          ],
+          "caption": "美国各州30多岁女性生育率变化 (2015-2024)"
+        }
+      ],
+      "deep_dive": "## 现象：普遍下跌与局部稳定的鲜明对比\n数据显示，美国30多岁女性生育率的下降是一个普遍现象，但地区间差异显著。绝大多数州（45个州及哥伦比亚特区）生育率出现下降，全美平均跌幅达8%。其中，**哥伦比亚特区**、**俄勒冈**、**华盛顿**等州跌幅超过15%，是下跌的“重灾区”。这些地区通常经济更发达、生活成本更高，生育决策可能受经济压力和女性职业发展等因素影响更大。\n\n与此同时，**印第安纳、威斯康星、南达科他**等州生育率基本持平，而**密西西比、内布拉斯加、阿拉巴马**等州甚至出现小幅增长。这种对比揭示了影响生育率的复杂因素，可能与这些州相对较低的生活成本、不同的社会文化观念（如宗教影响）、或特定的地方性家庭支持政策有关。值得注意的是，一些生育率基数本身较高的州（如北达科他、新墨西哥），其下降的百分比不大，但绝对值仍处于高位，显示出不同的生育文化韧性。\n\n## 驱动因素与潜在影响分析\n生育率的持续下降是多重因素叠加的结果，尤其在30多岁这个“育龄中期”群体中，其影响因素更为具体：\n\n- **经济与生活成本压力**：住房、教育、医疗成本的飙升是核心制约。在高成本州，家庭推迟或减少生育的意愿更强，这与跌幅靠前的州（如加州、纽约）的数据吻合。\n- **女性教育与职业发展**：30多岁是女性职业生涯的关键期。更多女性追求高等教育和职业成就，导致生育时间推迟和生育数量减少，这种趋势在城市化程度高、女性就业率高的地区尤为明显。\n- **观念变迁与社会支持**：个人主义价值观的强化、对生育质量而非数量的追求、以及对非传统家庭结构的接受度提高，都在潜移默化地影响生育决策。另一方面，缺乏充足的带薪产假、 affordable childcare（可负担的托儿服务）等社会支持系统，构成了现实的生育障碍。\n\n这一趋势的长期影响深远。**首先**，它将持续推动人口老龄化和劳动力供给紧缩，对经济增长潜力和社会保障体系（如养老金、医疗）构成压力。**其次**，可能加剧地区间的人口失衡，劳动力从生育率低、生活成本高的州向生育率相对稳定或生活成本低的州流动。**最后**，它要求政策制定者超越简单的生育补贴，从住房、教育、工作与家庭平衡等根本层面进行系统性干预，以应对深刻的社会结构变化。",
+      "glossary": [
+        {
+          "term": "生育率 (Birth Rate)",
+          "explanation": "指每千名特定年龄组（此处为30多岁）女性在一年内生育的活产婴儿数，是衡量生育水平的关键指标。"
+        },
+        {
+          "term": "育龄中期",
+          "explanation": "通常指25-34岁年龄段，是女性生育的高峰生理期。30多岁处于此阶段，其生育行为变化对总和生育率有重要影响。"
+        },
+        {
+          "term": "人口老龄化",
+          "explanation": "指总人口中老年人口比例持续上升的过程，通常由生育率下降和预期寿命延长共同导致。"
+        },
+        {
+          "term": "总和生育率 (Total Fertility Rate)",
+          "explanation": "假设一名女性按当前各年龄段生育率度过一生，平均生育的子女数。一般认为，总和生育率需达到2.1左右才能维持人口世代更替水平。"
+        }
+      ]
+    }
+  },
+  {
     "id": "9779277f",
     "title": "Ranked: America’s Best-Selling Albums Ever",
     "original_url": "https://www.visualcapitalist.com/the-best-selling-albums-in-us-history/",
