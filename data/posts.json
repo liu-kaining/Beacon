@@ -1,5 +1,232 @@
 [
   {
+    "id": "9779277f",
+    "title": "Ranked: America’s Best-Selling Albums Ever",
+    "original_url": "https://www.visualcapitalist.com/the-best-selling-albums-in-us-history/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9779277f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjLLqK0mPyVnWfWr7/AHK5WryKKrn5jRTH+8aK6lBEH//Z",
+    "image_version": 1782575834,
+    "pub_date": "Sat, 27 Jun 2026 14:23:02 +0000",
+    "content_md": "| Rank | Artist | Album Title | Certified Units Sold (Millions) | Year |\n| --- | --- | --- | --- | --- |\n| 1 | Eagles | Their Greatest Hits 1971 - 1975 | 40 | 1976 |\n| 2 | Michael Jackson | Thriller | 34 | 1982 |\n| 3 | Eagles | Hotel California | 28 | 1976 |\n| 4 | AC/DC | Back in Black | 27 | 1980 |\n| 5 | Garth Brooks | Double Live | 25 | 1998 |\n| 6 | Led Zeppelin | Led Zeppelin IV | 24 | 1971 |\n| 6 | The Beatles | The Beatles | 24 | 1968 |\n| 8 | Billy Joel | Greatest Hits Volume I & Volume II | 23 | 1985 |\n| 8 | Pink Floyd | The Wall | 23 | 1979 |\n| 10 | Hootie & the Blowfish | Cracked Rear View | 22 | 1994 |\n| 11 | Fleetwood Mac | Rumours | 21 | 1977 |\n| 12 | Green Day | Dookie | 20 | 1994 |\n| 12 | Metallica | Metallica | 20 | 1991 |\n| 12 | Shania Twain | Come On Over | 20 | 1997 |\n| 15 | Whitney Houston | The Bodyguard (Soundtrack) | 19 | 1992 |\n| 16 | Bob Marley & The Wailers | Legend | 18 | 1984 |\n| 16 | Garth Brooks | No Fences | 18 | 1990 |\n| 16 | Guns N' Roses | Appetite for Destruction | 18 | 1987 |\n| 16 | Journey | Greatest Hits | 18 | 1988 |\n| 20 | Adele | 21 | 17 | 2011 |\n| 20 | Alanis Morissette | Jagged Little Pill | 17 | 1995 |\n| 20 | Boston | Boston | 17 | 1976 |\n| 20 | Bruce Springsteen | Born in the U.S.A. | 17 | 1984 |\n| 20 | Elton John | Greatest Hits | 17 | 1974 |\n| 20 | The Beatles | The Beatles 1967 - 1970 | 17 | 1973 |",
+    "ai_analysis": {
+      "core_insight": "70-90年代摇滚与流行专辑主导美国音乐市场历史销量榜。",
+      "data_highlights": [
+        "老鹰乐队以《精选集》4000万张销量高居榜首，是唯一销量超3000万的专辑。",
+        "迈克尔·杰克逊的《颤栗》以3400万张位列第二，定义了流行音乐巅峰。",
+        "前20名榜单中，近70%的专辑发行于1970-1999年间，尤其是1976年和1994年各有4张专辑入榜。",
+        "榜单以摇滚和流行为主，乡村歌手加斯·布鲁克斯有两张专辑上榜，显示其巨大影响力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Artist",
+            "Album Title",
+            "Certified Units Sold (Millions)",
+            "Year"
+          ],
+          "rows": [
+            [
+              "1",
+              "Eagles",
+              "Their Greatest Hits 1971 - 1975",
+              "40",
+              "1976"
+            ],
+            [
+              "2",
+              "Michael Jackson",
+              "Thriller",
+              "34",
+              "1982"
+            ],
+            [
+              "3",
+              "Eagles",
+              "Hotel California",
+              "28",
+              "1976"
+            ],
+            [
+              "4",
+              "AC/DC",
+              "Back in Black",
+              "27",
+              "1980"
+            ],
+            [
+              "5",
+              "Garth Brooks",
+              "Double Live",
+              "25",
+              "1998"
+            ],
+            [
+              "6",
+              "Led Zeppelin",
+              "Led Zeppelin IV",
+              "24",
+              "1971"
+            ],
+            [
+              "6",
+              "The Beatles",
+              "The Beatles",
+              "24",
+              "1968"
+            ],
+            [
+              "8",
+              "Billy Joel",
+              "Greatest Hits Volume I & Volume II",
+              "23",
+              "1985"
+            ],
+            [
+              "8",
+              "Pink Floyd",
+              "The Wall",
+              "23",
+              "1979"
+            ],
+            [
+              "10",
+              "Hootie & the Blowfish",
+              "Cracked Rear View",
+              "22",
+              "1994"
+            ],
+            [
+              "11",
+              "Fleetwood Mac",
+              "Rumours",
+              "21",
+              "1977"
+            ],
+            [
+              "12",
+              "Green Day",
+              "Dookie",
+              "20",
+              "1994"
+            ],
+            [
+              "12",
+              "Metallica",
+              "Metallica",
+              "20",
+              "1991"
+            ],
+            [
+              "12",
+              "Shania Twain",
+              "Come On Over",
+              "20",
+              "1997"
+            ],
+            [
+              "15",
+              "Whitney Houston",
+              "The Bodyguard (Soundtrack)",
+              "19",
+              "1992"
+            ],
+            [
+              "16",
+              "Bob Marley & The Wailers",
+              "Legend",
+              "18",
+              "1984"
+            ],
+            [
+              "16",
+              "Garth Brooks",
+              "No Fences",
+              "18",
+              "1990"
+            ],
+            [
+              "16",
+              "Guns N' Roses",
+              "Appetite for Destruction",
+              "18",
+              "1987"
+            ],
+            [
+              "16",
+              "Journey",
+              "Greatest Hits",
+              "18",
+              "1988"
+            ],
+            [
+              "20",
+              "Adele",
+              "21",
+              "17",
+              "2011"
+            ],
+            [
+              "20",
+              "Alanis Morissette",
+              "Jagged Little Pill",
+              "17",
+              "1995"
+            ],
+            [
+              "20",
+              "Boston",
+              "Boston",
+              "17",
+              "1976"
+            ],
+            [
+              "20",
+              "Bruce Springsteen",
+              "Born in the U.S.A.",
+              "17",
+              "1984"
+            ],
+            [
+              "20",
+              "Elton John",
+              "Greatest Hits",
+              "17",
+              "1974"
+            ],
+            [
+              "20",
+              "The Beatles",
+              "The Beatles 1967 - 1970",
+              "17",
+              "1973"
+            ]
+          ],
+          "caption": "美国历史畅销专辑TOP25排名"
+        }
+      ],
+      "deep_dive": "## 市场格局：经典摇滚与流行乐的黄金时代\n这份榜单生动描绘了美国唱片工业在实体专辑销售鼎盛时期（20世纪70年代至90年代）的繁荣景象。从数据来看，**前20名中，1970年代发行的专辑占7席，1980年代占6席，1990年代占7席**，而2000年后仅有阿黛尔2011年的《21》上榜。这清晰表明，榜单记录的是**实体唱片（尤其是CD）作为主流音乐消费载体的黄金时代**，数字音乐兴起后的销量记录机制已完全不同。\n\n摇滚乐队占据了统治地位，老鹰乐队、AC/DC、齐柏林飞艇、平克·弗洛伊德等均榜上有名。但值得注意的是，**“精选集”模式非常成功**，老鹰乐队和比利·乔尔的精选集均进入前十，这反映了在专辑时代，消费者对歌手经典作品的集中消费需求。\n\n## 深层解读：榜单背后的消费模式与启示\n1.  **长尾效应与文化符号**：榜单前三名——老鹰乐队精选集、迈克尔·杰克逊《颤栗》、《加州旅馆》——已成为美国文化的符号性作品。其超高销量并非短期爆发，而是经历了数十年的持续积累，体现了经典作品的永恒市场价值。\n2.  **榜单的“时间陷阱”**：榜单高度集中于1970-1999年，这并非因为当代音乐质量下降，而是**音乐消费模式根本性变革**的结果。流媒体时代的“销量”（播放量）统计口径与实体唱片的“认证销量”无法直接对比，因此这份榜单实质上是**实体唱片时代的一份历史快照**。\n3.  **类型多元化与细分市场**：在摇滚主导的格局中，乡村音乐（加斯·布鲁克斯）、节奏布鲁斯/灵魂乐（惠特尼·休斯顿）、雷鬼（鲍勃·马利）等风格均有代表作上榜，显示美国音乐市场的广度。加斯·布鲁克斯作为唯一的乡村歌手有两张专辑上榜，证明了他在商业上的巨大成功。\n\n## 局限与未来展望\n本榜单的数据来源是美国唱片业协会（RIAA）的“认证销量”，该指标主要统计唱片公司向零售商出货的数量，可能与实际消费者购买量存在滞后。更重要的是，**它完全无法涵盖数字下载和流媒体播放**。在当今市场，一张专辑通过流媒体获得数百万次播放所创造的价值，可能远超其传统“销量”。因此，这份榜单是回顾历史的宝贵资料，但若用于评估当代艺术家的影响力，则需结合流媒体数据等全新维度进行综合判断。",
+      "glossary": [
+        {
+          "term": "Certified Units Sold",
+          "explanation": "经认证的销量。通常指由行业组织（如美国唱片业协会RIAA）根据唱片公司提供的发货数据认证的销售或出货量，是衡量商业成功的重要指标。"
+        },
+        {
+          "term": "精选集",
+          "explanation": "Greatest Hits专辑。指收录艺人已发行歌曲中最受欢迎、最具代表性单曲的合辑，是唱片工业中一种常见的商业化产品形式。"
+        },
+        {
+          "term": "实体唱片",
+          "explanation": "Physical Media。主要指黑胶唱片、磁带、CD等具有物理形态的音乐载体，与数字音乐相对。其销售模式是传统唱片工业收入的核心。"
+        },
+        {
+          "term": "流媒体",
+          "explanation": "Streaming。通过互联网实时传输并播放音乐文件的服务模式，用户通常按月付费或免费（含广告）收听。该模式改变了音乐消费和收益计算方式。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b3b4e807",
     "title": "Ranked: The World’s Most and Least Peaceful Countries in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-and-least-peaceful-countries/",
