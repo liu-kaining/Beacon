@@ -1,5 +1,197 @@
 [
   {
+    "id": "284f3030",
+    "title": "Mapped: Where the World’s Highest Temperatures Were Recorded",
+    "original_url": "https://www.visualcapitalist.com/mapped-worlds-highest-temperatures-recorded/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/284f3030.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrZUqFY+auSCo1AzWDOuL0BU4oqdRxRTHzH//Z",
+    "image_version": 1782652098,
+    "pub_date": "Sun, 28 Jun 2026 12:03:13 +0000",
+    "content_md": "| Rank | Country | Hottest Temperature Ever (°F) | Location | Year |\n| --- | --- | --- | --- | --- |\n| 1 | U.S. | 134.1 | Death Valley, California | 1913 |\n| 2 | Tunisia | 131.0 | Kebili | 1931 |\n| 3 | Kuwait | 129.2 | Mitribah, Al Jahra Governorate | 2016 |\n| 4 | Israel | 129.2 | Tirat Zvi | 1942 |\n| 5 | Iraq | 129.0 | Basra | 2016 |\n| 6 | Pakistan | 128.7 | Turbat | 2017 |\n| 7 | Iran | 128.7 | Ahvaz Airport (OIAW) | 2017 |\n| 8 | China | 126.0 | Turpan, Xinjiang | 2023 |\n| 9 | UAE | 125.8 | Sweihan, Al Ain | 2002 |\n| 10 | Mexico | 125.6 | San Luis Río Colorado, Sonora | 1966 |\n| 11 | Saudi Arabia | 125.6 | Jeddah | 2010 |\n| 12 | Oman | 124.9 | Joba | 2021 |\n| 13 | Algeria | 124.3 | El Bayadh, Province Ouargla | 1979 |\n| 14 | Egypt | 124.0 | Aswan and Asyut | 1918 |\n| 15 | Jordan | 124.0 | Deir Alla | 2010 |\n| 16 | India | 123.8 | Phalodi, Rajasthan | 2016 |\n| 17 | Australia | 123.3 | Oodnadatta, Western Australia | 1960 |\n| 18 | Türkiye | 122.9 | Silopi, Şırnak Province | 2025 |\n| 19 | Morocco | 122.7 | Agadir (Inezgane Airport) | 2023 |\n| 20 | Qatar | 122.7 | Doha | 2010 |",
+    "ai_analysis": {
+      "core_insight": "全球高温纪录集中于沙漠及干旱地区，且近十年刷新频繁。",
+      "data_highlights": [
+        "美国死亡谷以134.1°F（56.7°C）的纪录位居榜首，保持超过一个世纪。",
+        "中东与北非地区占据榜单绝对多数，前20名中有14个席位。",
+        "近十年（2014年后）有6项纪录被刷新，显示极端高温事件频发。",
+        "中国吐鲁番于2023年录得126.0°F，是唯一入榜的东亚国家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Hottest Temperature Ever (°F)",
+            "Location",
+            "Year"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "134.1",
+              "Death Valley, California",
+              "1913"
+            ],
+            [
+              "2",
+              "Tunisia",
+              "131.0",
+              "Kebili",
+              "1931"
+            ],
+            [
+              "3",
+              "Kuwait",
+              "129.2",
+              "Mitribah, Al Jahra Governorate",
+              "2016"
+            ],
+            [
+              "4",
+              "Israel",
+              "129.2",
+              "Tirat Zvi",
+              "1942"
+            ],
+            [
+              "5",
+              "Iraq",
+              "129.0",
+              "Basra",
+              "2016"
+            ],
+            [
+              "6",
+              "Pakistan",
+              "128.7",
+              "Turbat",
+              "2017"
+            ],
+            [
+              "7",
+              "Iran",
+              "128.7",
+              "Ahvaz Airport (OIAW)",
+              "2017"
+            ],
+            [
+              "8",
+              "China",
+              "126.0",
+              "Turpan, Xinjiang",
+              "2023"
+            ],
+            [
+              "9",
+              "UAE",
+              "125.8",
+              "Sweihan, Al Ain",
+              "2002"
+            ],
+            [
+              "10",
+              "Mexico",
+              "125.6",
+              "San Luis Río Colorado, Sonora",
+              "1966"
+            ],
+            [
+              "11",
+              "Saudi Arabia",
+              "125.6",
+              "Jeddah",
+              "2010"
+            ],
+            [
+              "12",
+              "Oman",
+              "124.9",
+              "Joba",
+              "2021"
+            ],
+            [
+              "13",
+              "Algeria",
+              "124.3",
+              "El Bayadh, Province Ouargla",
+              "1979"
+            ],
+            [
+              "14",
+              "Egypt",
+              "124.0",
+              "Aswan and Asyut",
+              "1918"
+            ],
+            [
+              "15",
+              "Jordan",
+              "124.0",
+              "Deir Alla",
+              "2010"
+            ],
+            [
+              "16",
+              "India",
+              "123.8",
+              "Phalodi, Rajasthan",
+              "2016"
+            ],
+            [
+              "17",
+              "Australia",
+              "123.3",
+              "Oodnadatta, Western Australia",
+              "1960"
+            ],
+            [
+              "18",
+              "Türkiye",
+              "122.9",
+              "Silopi, Şırnak Province",
+              "2025"
+            ],
+            [
+              "19",
+              "Morocco",
+              "122.7",
+              "Agadir (Inezgane Airport)",
+              "2023"
+            ],
+            [
+              "20",
+              "Qatar",
+              "122.7",
+              "Doha",
+              "2010"
+            ]
+          ],
+          "caption": "全球历史最高气温纪录TOP 20"
+        }
+      ],
+      "deep_dive": "## 地理与气候背景：极端高温的温床\n\n全球历史最高气温纪录的分布并非随机，而是高度集中在特定的地理和气候带。榜单揭示了一个清晰的模式：**副热带高压控制下的大陆内部干旱与半干旱地区**是孕育极端高温的绝对主力。这些区域通常具备以下特征：\n\n- **晴空少云**：大气干燥，太阳辐射几乎无阻碍地直达地面。\n- **地表反照率低**：以深色岩石或沙地为主，吸收热量能力强。\n- **缺乏水体与植被蒸腾冷却效应**：热量在地表持续积聚，形成强烈的辐射增温。\n\n例如，美国的死亡谷、中东的阿拉伯半岛与美索不达米亚平原、北非的撒哈拉沙漠边缘，以及中国的塔里木盆地（吐鲁番）和澳大利亚的内陆盆地，都符合这一模式。值得注意的是，**沿海地区（如卡塔尔、阿联酋部分地点）虽临海，但纪录产生于远离海洋调节的内陆地点**，这进一步印证了大陆性气候对极端高温的决定性作用。\n\n## 趋势与启示：纪录频繁刷新的警示\n\n尽管榜单最古老的纪录（美国，1913年）已逾百年，但**近十年的刷新频率显著加快**，这引发了重要思考：\n\n- **观测网络与记录可靠性**：现代密集的气象站网使得捕捉极端值的概率大大增加。2010年代后，科威特、伊拉克、巴基斯坦、伊朗、中国、阿曼、摩洛哥、土耳其等国纪录被刷新，部分得益于更完善的观测基础设施。\n- **气候变化的潜在影响**：在自然气候变率（如特定热浪事件）之上，全球变暖的大背景**提高了极端高温事件发生的概率和强度**。频繁的刷新可能是一个信号，表明人类活动导致的升温正在将历史纪录推向新的、更危险的边缘。\n- **对人类社会的挑战**：这些记录点所在地区，许多人口密集，且面临水资源短缺。极端高温直接威胁公共健康（热射病）、能源系统（空调需求激增）和农业生产。例如，印度、巴基斯坦等地的热浪已多次造成严重人道主义危机。\n\n**局限性**：历史气温记录的准确性受仪器变迁、站点迁移、观测标准（如百叶箱 vs. 地面温度）影响，尤其是早期纪录可能存在争议。但即便考虑这些因素，整体趋势依然指向一个更热、极端天气更频繁的未来。",
+      "glossary": [
+        {
+          "term": "副热带高压",
+          "explanation": "位于南北半球副热带地区的深厚高压系统，盛行下沉气流，导致天气晴朗、炎热、干燥，是许多高温纪录产生地的直接气候控制因素。"
+        },
+        {
+          "term": "大陆性气候",
+          "explanation": "位于大陆内部，受海洋调节作用小的气候类型。特点是气温年较差和日较差大，降水少，易于形成极端高温和严寒。"
+        },
+        {
+          "term": "辐射增温",
+          "explanation": "地表吸收太阳短波辐射后升温，并通过长波辐射加热近地面大气的过程。在干燥、少云、无植被覆盖的地区，此效应非常显著。"
+        },
+        {
+          "term": "热浪",
+          "explanation": "指一段异常炎热的天气现象，通常持续多日，在空间上具有群体性。其强度、频率和持续时间受自然变率和人为气候变化的共同影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "99c340bd",
     "title": "Ranked: The Highest-Earning Football Clubs in 2025",
     "original_url": "https://www.visualcapitalist.com/cp/ranked-the-highest-earning-football-clubs-in-2025/",
