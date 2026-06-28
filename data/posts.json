@@ -1,5 +1,152 @@
 [
   {
+    "id": "99c340bd",
+    "title": "Ranked: The Highest-Earning Football Clubs in 2025",
+    "original_url": "https://www.visualcapitalist.com/cp/ranked-the-highest-earning-football-clubs-in-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/99c340bd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCSFKJ1wtSw9KZdfdrIlmY7fMaKjk++aKkm5//Z",
+    "image_version": 1782629425,
+    "pub_date": "Sun, 28 Jun 2026 04:27:04 +0000",
+    "content_md": "| Rank | Club | 2024/25 Revenue(Millions of Euros) |\n| --- | --- | --- |\n| 1 | Real Madrid | 1,161.0 |\n| 2 | FC Barcelona | 974.8 |\n| 3 | Bayern Munich | 860.6 |\n| 4 | Paris Saint-Germain | 837.0 |\n| 5 | Liverpool | 836.1 |\n| 6 | Manchester City | 829.3 |\n| 7 | Arsenal | 821.7 |\n| 8 | Manchester United | 793.1 |\n| 9 | Tottenham Hotspur | 672.6 |\n| 10 | Chelsea | 584.1 |\n| 11 | FC Internazionale Milano | 537.5 |\n| 12 | Borussia Dortmund | 531.3 |\n| 13 | Atletico De Madrid | 454.5 |\n| 14 | Aston Villa | 450.2 |\n| 15 | AC Milan | 410.4 |\n| 16 | Juventus | 401.7 |\n| 17 | Newcastle United | 398.4 |\n| 18 | VFB Stuttgart | 296.3 |\n| 19 | SL Benfica | 283.4 |\n| 20 | West Ham United | 276.0 |",
+    "ai_analysis": {
+      "core_insight": "皇马以超11亿欧元收入断层领跑，传统豪门与新晋资本俱乐部共同主导市场。",
+      "data_highlights": [
+        "皇马以11.61亿欧元收入稳居榜首，大幅领先第二名巴萨近2亿欧元。",
+        "前20名俱乐部收入均超过2.7亿欧元，头部俱乐部营收规模庞大。",
+        "英超联赛占据半壁江山，在前20名中拥有10席，彰显其商业统治力。",
+        "德甲、法甲、西甲与意甲俱乐部分布相对均衡，但均无法挑战皇马地位。",
+        "新晋资本支持的纽卡斯尔联队以3.98亿欧元收入位列第17，展现增长潜力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Club",
+            "2024/25 Revenue(Millions of Euros)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Real Madrid",
+              "1,161.0"
+            ],
+            [
+              "2",
+              "FC Barcelona",
+              "974.8"
+            ],
+            [
+              "3",
+              "Bayern Munich",
+              "860.6"
+            ],
+            [
+              "4",
+              "Paris Saint-Germain",
+              "837.0"
+            ],
+            [
+              "5",
+              "Liverpool",
+              "836.1"
+            ],
+            [
+              "6",
+              "Manchester City",
+              "829.3"
+            ],
+            [
+              "7",
+              "Arsenal",
+              "821.7"
+            ],
+            [
+              "8",
+              "Manchester United",
+              "793.1"
+            ],
+            [
+              "9",
+              "Tottenham Hotspur",
+              "672.6"
+            ],
+            [
+              "10",
+              "Chelsea",
+              "584.1"
+            ],
+            [
+              "11",
+              "FC Internazionale Milano",
+              "537.5"
+            ],
+            [
+              "12",
+              "Borussia Dortmund",
+              "531.3"
+            ],
+            [
+              "13",
+              "Atletico De Madrid",
+              "454.5"
+            ],
+            [
+              "14",
+              "Aston Villa",
+              "450.2"
+            ],
+            [
+              "15",
+              "AC Milan",
+              "410.4"
+            ],
+            [
+              "16",
+              "Juventus",
+              "401.7"
+            ],
+            [
+              "17",
+              "Newcastle United",
+              "398.4"
+            ],
+            [
+              "18",
+              "VFB Stuttgart",
+              "296.3"
+            ],
+            [
+              "19",
+              "SL Benfica",
+              "283.4"
+            ],
+            [
+              "20",
+              "West Ham United",
+              "276.0"
+            ]
+          ],
+          "caption": "2025年收入最高的20家足球俱乐部"
+        }
+      ],
+      "deep_dive": "## 营收格局：一超多强与联赛集团化\n\n2025年全球足球俱乐部的营收版图呈现出鲜明的“一超多强”特征。皇家马德里以高达11.61亿欧元的收入独占鳌头，其营收规模不仅远超第二名巴塞罗那（9.748亿欧元），甚至高于榜单末尾数家俱乐部的收入总和。这凸显了皇马作为全球最具商业价值体育俱乐部之一，在品牌价值、比赛日收入、商业赞助和媒体版权等方面的综合优势。榜单前三均为传统欧洲豪门，但彼此间差距显著，显示出顶级俱乐部之间仍存在难以逾越的鸿沟。\n\n从联赛分布看，英格兰超级联赛展现出无与伦比的商业实力。在前20名中，英超俱乐部占据了10席，前8名中更是有5家来自英超，形成了强大的集团优势。这主要得益于英超联赛全球领先的电视转播收入分配体系、激烈的竞争带来的高关注度以及成熟的商业开发模式。相比之下，德甲、西甲、法甲和意甲虽各有代表入围，但整体席位和营收规模均无法与英超抗衡，反映了联赛整体商业价值的差距。\n\n## 驱动力、挑战与未来启示\n\n推动俱乐部营收增长的核心驱动力是多元化的收入结构。顶级俱乐部已不再单纯依赖比赛日门票和地方赞助，而是构建了包括全球商业合作、数字媒体内容变现、以及基于庞大球迷基数的衍生品销售在内的立体化收入模型。例如，曼城、巴黎圣日耳曼等俱乐部的背后有强大的资本支持，通过战略性投资快速提升了商业收入。同时，欧冠等顶级赛事的成绩与分成，对俱乐部收入有直接且重大的影响。\n\n然而，高营收也伴随着高风险和挑战。巨大的营收差异可能进一步加剧足球世界内部的竞争失衡，影响赛事悬念和长期健康发展。对于中游和新兴俱乐部（如纽卡斯尔），如何在资本注入后，将短期投资转化为可持续的竞技与商业成功，是重大考验。此外，所有俱乐部都面临着全球经济波动、球迷消费习惯变化以及新兴市场开拓等长期挑战。\n\n综上所述，2025年的足球经济格局由少数超级俱乐部和特定联赛主导。未来的竞争不仅在于球场成绩，更在于全球化商业运营、数字化转型以及财务可持续性的全方位比拼。只有实现竞技与商业良性循环的俱乐部，才能在不断变化的环境中保持领先地位。",
+      "glossary": [
+        {
+          "term": "商业收入",
+          "explanation": "指俱乐部通过赞助、商品销售、合作授权等非比赛相关活动获得的收入，是现代足球俱乐部总收入的重要支柱。"
+        },
+        {
+          "term": "媒体版权",
+          "explanation": "指俱乐部通过出售比赛转播权（包括国内联赛、杯赛及洲际赛事）所获得的收入，是总收入的关键组成部分。"
+        },
+        {
+          "term": "比赛日收入",
+          "explanation": "指俱乐部通过销售门票、举办比赛相关活动（如球场参观、餐饮）等在比赛日获得的直接收入。"
+        }
+      ]
+    }
+  },
+  {
     "id": "6e4e6ec4",
     "title": "Mapped: Birth Rates Are Falling Even Among Women in Their 30s",
     "original_url": "https://www.visualcapitalist.com/mapped-where-birth-rates-are-falling-fastest-in-america/",
