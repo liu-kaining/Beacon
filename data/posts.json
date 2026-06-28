@@ -1,5 +1,1000 @@
 [
   {
+    "id": "a736b599",
+    "title": "Mapped: Where Safe Drinking Water Is Still Out of Reach",
+    "original_url": "https://www.visualcapitalist.com/cp/mapped-safe-drinking-water-out-of-reach/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/a736b599.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUeSmrJzUbU1fvV1qKM7l5X4oqNfu0UuRAf//Z",
+    "image_version": 1782673116,
+    "pub_date": "Sun, 28 Jun 2026 17:16:09 +0000",
+    "content_md": "| Country | Share of the populationusing safe drinking water | Category |\n| --- | --- | --- |\n| Afghanistan | 31 | Safely managed service |\n| Albania | 71 | Safely managed service |\n| Algeria | 69 | Safely managed service |\n| Andorra | 91 | Safely managed service |\n| Angola | 68 | Basic service only |\n| Antigua and Barbuda | 99 | Basic service only |\n| Argentina | 100 | Urban only basic service |\n| Armenia | 82 | Safely managed service |\n| Australia | 100 | Urban only safely managed service |\n| Austria | 99 | Safely managed service |\n| Azerbaijan | 58 | Safely managed service |\n| Bahrain | 99 | Safely managed service |\n| Bangladesh | 59 | Safely managed service |\n| Barbados | 99 | Basic service only |\n| Belarus | 93 | Safely managed service |\n| Belgium | 100 | Safely managed service |\n| Belize | 95 | Basic service only |\n| Benin | 18 | Safely managed service |\n| Bhutan | 66 | Safely managed service |\n| Bolivia | 93 | Basic service only |\n| Bosnia and Herzegovina | 86 | Safely managed service |\n| Botswana | 63 | Safely managed service |\n| Brazil | 89 | Safely managed service |\n| Brunei | 100 | Basic service only |\n| Bulgaria | 96 | Safely managed service |\n| Burkina Faso | 50 | Basic service only |\n| Burundi | 66 | Basic service only |\n| Cambodia | 30 | Safely managed service |\n| Cameroon | 71 | Basic service only |\n| Canada | 97 | Safely managed service |\n| Central African Republic | 6 | Safely managed service |\n| Chad | 6 | Safely managed service |\n| Chile | 98 | Safely managed service |\n| China | 96 | Urban only safely managed service |\n| Colombia | 74 | Safely managed service |\n| Congo | 46 | Safely managed service |\n| Costa Rica | 81 | Safely managed service |\n| Cote d'Ivoire | 36 | Safely managed service |\n| Croatia | 87 | Safely managed service |\n| Cuba | 95 | Basic service only |\n| Cyprus | 100 | Safely managed service |\n| Czechia | 98 | Safely managed service |\n| Democratic Republic of Congo | 12 | Safely managed service |\n| Denmark | 100 | Safely managed service |\n| Djibouti | 80 | Basic service only |\n| Dominican Republic | 45 | Safely managed service |\n| Ecuador | 70 | Safely managed service |\n| Egypt | 79 | Safely managed service |\n| El Salvador | 76 | Urban only safely managed service |\n| Estonia | 99 | Safely managed service |\n| Eswatini | 38 | Safely managed service |\n| Ethiopia | 14 | Safely managed service |\n| Fiji | 42 | Safely managed service |\n| Finland | 100 | Safely managed service |\n| France | 100 | Safely managed service |\n| French Guiana | 92 | Safely managed service |\n| Gabon | 89 | Basic service only |\n| Gambia | 48 | Safely managed service |\n| Georgia | 71 | Safely managed service |\n| Germany | 100 | Safely managed service |\n| Ghana | 43 | Safely managed service |\n| Greece | 97 | Safely managed service |\n| Greenland | 100 | Basic service only |\n| Guatemala | 49 | Safely managed service |\n| Guinea | 74 | Basic service only |\n| Guinea-Bissau | 24 | Safely managed service |\n| Guyana | 67 | Safely managed service |\n| Haiti | 73 | Basic service only |\n| Honduras | 66 | Safely managed service |\n| Hungary | 100 | Safely managed service |\n| Iceland | 100 | Safely managed service |\n| India | 76 | Safely managed service |\n| Indonesia | 30 | Safely managed service |\n| Iran | 94 | Safely managed service |\n| Iraq | 60 | Safely managed service |\n| Ireland | 96 | Safely managed service |\n| Israel | 99 | Safely managed service |\n| Italy | 97 | Safely managed service |\n| Jamaica | 88 | Basic service only |\n| Japan | 99 | Safely managed service |\n| Jordan | 89 | Safely managed service |\n| Kazakhstan | 92 | Safely managed service |\n| Kenya | 66 | Basic service only |\n| Kiribati | 15 | Safely managed service |\n| Kuwait | 100 | Safely managed service |\n| Kyrgyzstan | 74 | Safely managed service |\n| Laos | 35 | Safely managed service |\n| Latvia | 97 | Safely managed service |\n| Lebanon | 48 | Safely managed service |\n| Lesotho | 31 | Safely managed service |\n| Liberia | 79 | Basic service only |\n| Libya | 96 | Basic service only |\n| Liechtenstein | 100 | Safely managed service |\n| Lithuania | 97 | Safely managed service |\n| Luxembourg | 100 | Safely managed service |\n| Madagascar | 22 | Safely managed service |\n| Malawi | 18 | Safely managed service |\n| Malaysia | 95 | Safely managed service |\n| Maldives | 100 | Basic service only |\n| Mali | 86 | Basic service only |\n| Malta | 100 | Safely managed service |\n| Marshall Islands | 87 | Basic service only |\n| Mauritania | 77 | Basic service only |\n| Mauritius | 100 | Basic service only |\n| Mexico | 43 | Safely managed service |\n| Moldova | 76 | Safely managed service |\n| Monaco | 100 | Safely managed service |\n| Mongolia | 43 | Safely managed service |\n| Montenegro | 86 | Safely managed service |\n| Morocco | 80 | Safely managed service |\n| Mozambique | 28 | Safely managed service |\n| Myanmar | 60 | Safely managed service |\n| Namibia | 87 | Basic service only |\n| Nauru | 19 | Safely managed service |\n| Nepal | 16 | Safely managed service |\n| Netherlands | 100 | Safely managed service |\n| New Caledonia | 97 | Safely managed service |\n| New Zealand | 100 | Safely managed service |\n| Nicaragua | 56 | Safely managed service |\n| Niger | 53 | Basic service only |\n| Nigeria | 30 | Safely managed service |\n| North Korea | 67 | Safely managed service |\n| North Macedonia | 81 | Safely managed service |\n| Norway | 99 | Safely managed service |\n| Oman | 91 | Safely managed service |\n| Pakistan | 45 | Safely managed service |\n| Palau | 91 | Safely managed service |\n| Palestine | 81 | Safely managed service |\n| Panama | 95 | Basic service only |\n| Papua New Guinea | 53 | Basic service only |\n| Paraguay | 64 | Safely managed service |\n| Peru | 49 | Safely managed service |\n| Philippines | 48 | Safely managed service |\n| Poland | 89 | Safely managed service |\n| Portugal | 95 | Safely managed service |\n| Puerto Rico | 99 | Safely managed service |\n| Qatar | 95 | Safely managed service |\n| Romania | 82 | Safely managed service |\n| Russia | 76 | Safely managed service |\n| Rwanda | 53 | Urban only safely managed service |\n| Saint Lucia | 98 | Basic service only |\n| Samoa | 63 | Safely managed service |\n| San Marino | 100 | Safely managed service |\n| Sao Tome and Principe | 37 | Safely managed service |\n| Saudi Arabia | 99 | Basic service only |\n| Senegal | 27 | Safely managed service |\n| Serbia | 75 | Safely managed service |\n| Seychelles | 65 | Safely managed service |\n| Sierra Leone | 11 | Safely managed service |\n| Singapore | 100 | Safely managed service |\n| Slovakia | 100 | Safely managed service |\n| Slovenia | 100 | Safely managed service |\n| Solomon Islands | 72 | Basic service only |\n| Somalia | 75 | Basic service only |\n| South Africa | 68 | Safely managed service |\n| South Korea | 99 | Safely managed service |\n| South Sudan | 40 | Basic service only |\n| Spain | 99 | Safely managed service |\n| Sri Lanka | 47 | Safely managed service |\n| Suriname | 56 | Safely managed service |\n| Sweden | 100 | Safely managed service |\n| Switzerland | 97 | Safely managed service |\n| Syria | 94 | Basic service only |\n| Tajikistan | 65 | Safely managed service |\n| Tanzania | 31 | Safely managed service |\n| Thailand | 100 | Basic service only |\n| Togo | 21 | Safely managed service |\n| Tonga | 30 | Safely managed service |\n| Trinidad and Tobago | 69 | Safely managed service |\n| Tunisia | 65 | Safely managed service |\n| Türkiye | 96 | Basic service only |\n| Turkmenistan | 95 | Safely managed service |\n| Tuvalu | 9 | Safely managed service |\n| Uganda | 18 | Safely managed service |\n| Ukraine | 88 | Safely managed service |\n| United Arab Emirates | 99 | Safely managed service |\n| United Kingdom | 100 | Safely managed service |\n| United States | 98 | Safely managed service |\n| Uruguay | 91 | Safely managed service |\n| Uzbekistan | 82 | Safely managed service |\n| Vanuatu | 19 | Safely managed service |\n| Venezuela | 93 | Basic service only |\n| Vietnam | 59 | Safely managed service |\n| Yemen | 75 | Basic service only |\n| Zambia | 50 | Urban only safely managed service |\n| Zimbabwe | 25 | Safely managed service |",
+    "ai_analysis": {
+      "core_insight": "全球安全饮用水服务存在巨大国别差异，部分地区仍面临严峻挑战。",
+      "data_highlights": [
+        "超过20个国家（如中非、乍得、图瓦卢）安全饮用水覆盖率低于20%，面临极端短缺。",
+        "大量发达国家（如比利时、丹麦、芬兰）覆盖率达100%，享有完全安全的饮用水服务。",
+        "部分国家（如阿根廷、澳大利亚、中国）虽整体覆盖高，但服务主要集中在城市地区。",
+        "许多非洲国家（如尼日利亚、刚果、埃塞俄比亚）覆盖率较低，水资源挑战尤为突出。",
+        "服务分类复杂，除基础服务外，存在'仅城市安全'等类别，凸显城乡差距。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Share of the population using safe drinking water",
+            "Category"
+          ],
+          "rows": [
+            [
+              "Afghanistan",
+              "31",
+              "Safely managed service"
+            ],
+            [
+              "Central African Republic",
+              "6",
+              "Safely managed service"
+            ],
+            [
+              "Chad",
+              "6",
+              "Safely managed service"
+            ],
+            [
+              "Tuvalu",
+              "9",
+              "Safely managed service"
+            ],
+            [
+              "Ethiopia",
+              "14",
+              "Safely managed service"
+            ],
+            [
+              "Sierra Leone",
+              "11",
+              "Safely managed service"
+            ],
+            [
+              "Democratic Republic of Congo",
+              "12",
+              "Safely managed service"
+            ],
+            [
+              "Nigeria",
+              "30",
+              "Safely managed service"
+            ],
+            [
+              "India",
+              "76",
+              "Safely managed service"
+            ],
+            [
+              "China",
+              "96",
+              "Urban only safely managed service"
+            ],
+            [
+              "Brazil",
+              "89",
+              "Safely managed service"
+            ],
+            [
+              "United States",
+              "98",
+              "Safely managed service"
+            ],
+            [
+              "Australia",
+              "100",
+              "Urban only safely managed service"
+            ],
+            [
+              "Denmark",
+              "100",
+              "Safely managed service"
+            ],
+            [
+              "Finland",
+              "100",
+              "Safely managed service"
+            ],
+            [
+              "Singapore",
+              "100",
+              "Safely managed service"
+            ]
+          ],
+          "caption": "全球安全饮用水使用人口比例与服务类别（部分国家示例）"
+        }
+      ],
+      "deep_dive": "## 数据揭示的全球水资源鸿沟\n\n根据表格数据，全球安全饮用水服务的覆盖水平呈现出极端的不均衡性。一方面，以丹麦、芬兰、新加坡等为代表的发达国家及部分小国，实现了100%的安全饮用水覆盖，这标志着其基础设施、水处理技术和公共卫生体系的成熟与完善。另一方面，中非、乍得、图瓦卢等国的覆盖率低于10%，意味着绝大多数人口无法获得最基本的用水安全保障。这种巨大的差距不仅是经济和技术发展水平差异的直接体现，也深刻影响着公共卫生、儿童发展及社会经济长期稳定。\n\n特别值得注意的是，服务类别（Category）的细分揭示了更深层次的问题。一些国家如阿根廷、澳大利亚、中国被标注为“仅城市安全”（Urban only safely managed service），表明其整体高覆盖率背后存在显著的城乡差距，农村地区的饮用水安全可能远未达到标准。此外，部分高覆盖率国家（如沙特阿拉伯、泰国）的服务仅被归类为“基础服务”（Basic service），暗示其水质或供应的稳定性可能未达到“安全管理”的更高标准。这些细节说明，单纯看覆盖率百分比可能掩盖服务质量和公平性问题。\n\n## 对于发展与政策的启示\n\n从政策角度审视，这份数据地图为国际发展和援助提供了明确的地理与优先次序。非洲和部分亚洲国家无疑是水安全危机的重灾区，需要国际社会在基础设施投资、技术转移和能力建设上给予重点支持。解决安全饮用水问题，是实现联合国可持续发展目标（SDG 6：清洁饮水和卫生设施）的核心，也与其他多个目标（如健康、教育、减贫）紧密相连。\n\n同时，数据也提醒我们，在追求覆盖率数字提升的同时，必须关注服务的内涵与质量。推动从“基础服务”向“安全管理服务”的升级，以及弥合城乡之间的服务鸿沟，是许多中等收入国家面临的共同挑战。对于政策制定者而言，需要因地制宜，结合本地地理、气候与社会经济条件，设计可持续的水资源管理与供应方案。最终，保障安全饮用水是一项系统工程，需要涵盖水源保护、水处理技术、管网维护、质量监测及可持续融资等多个环节的综合努力。",
+      "glossary": [
+        {
+          "term": "Safely managed service",
+          "explanation": "指在需要时可获得、未受污染的饮用水服务，通常在住所内且质量符合标准。这是饮用水服务的最高级别。"
+        },
+        {
+          "term": "Basic service only",
+          "explanation": "指基本的饮用水服务，通常定义为从改进水源取水，且往返取水时间不超过30分钟。该服务不涉及水质是否安全达标。"
+        },
+        {
+          "term": "Urban only safely managed service",
+          "explanation": "特指“安全管理的饮用水服务”仅覆盖城市地区。这表明该国的农村地区可能仍缺乏此类高级服务，存在城乡差距。"
+        },
+        {
+          "term": "可持续发展目标 (SDG)",
+          "explanation": "联合国于2015年通过的《2030年可持续发展议程》中的17个全球目标，其中目标6（SDG 6）专门致力于确保人人享有清洁饮水和卫生设施。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "03e5485d",
+    "title": "Mapped: Countries With Lower GDP Than Elon Musk’s Net Worth",
+    "original_url": "https://www.visualcapitalist.com/countries-with-lower-gdp-than-elon-musk-net-worth-map/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/03e5485d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkUNSMeKiSnN0qGIYTzRTT1opjP//Z",
+    "image_version": 1782673141,
+    "pub_date": "Sun, 28 Jun 2026 14:11:43 +0000",
+    "content_md": "| Country | 2026 GDP ($B) |\n| --- | --- |\n| Taiwan | 977 |\n| Ireland | 779 |\n| Belgium | 777 |\n| Sweden | 760 |\n| Israel | 720 |\n| Argentina | 688 |\n| Singapore | 660 |\n| Austria | 624 |\n| United Arab Emirates | 622 |\n| Norway | 599 |\n| Thailand | 580 |\n| Colombia | 540 |\n| Vietnam | 527 |\n| Malaysia | 516 |\n| Philippines | 512 |\n| Bangladesh | 511 |\n| Denmark | 504 |\n| Romania | 481 |\n| South Africa | 480 |\n| Hong Kong | 450 |\n| Czech Republic | 433 |\n| Egypt | 430 |\n| Chile | 408 |\n| Pakistan | 408 |\n| Peru | 381 |\n| Portugal | 381 |\n| Nigeria | 377 |\n| Kazakhstan | 360 |\n| Finland | 338 |\n| Algeria | 317 |\n| Greece | 308 |\n| Iran | 300 |\n| New Zealand | 279 |\n| Hungary | 271 |\n| Iraq | 265 |\n| Ukraine | 225 |\n| Qatar | 217 |\n| Morocco | 194 |\n| Uzbekistan | 182 |\n| Kuwait | 173 |\n| Slovakia | 169 |\n| Angola | 152 |\n| Bulgaria | 148 |\n| Kenya | 147 |\n| Ecuador | 138 |\n| Dominican Republic | 136 |\n| Puerto Rico | 129 |\n| Guatemala | 129 |\n| Congo (DRC) | 123 |\n| Ethiopia | 122 |\n| Ghana | 118 |\n| Oman | 117 |\n| Croatia | 117 |\n| Côte d'Ivoire | 112 |\n| Serbia | 112 |\n| Venezuela | 111 |\n| Luxembourg | 110 |\n| Costa Rica | 110 |\n| Lithuania | 106 |\n| Belarus | 102 |\n| Sri Lanka | 99 |\n| Uruguay | 96 |\n| Panama | 95 |\n| Tanzania | 95 |\n| Slovenia | 87 |\n| Myanmar | 84 |\n| Turkmenistan | 83 |\n| Bolivia | 81 |\n| Azerbaijan | 78 |\n| Uganda | 73 |\n| Cameroon | 65 |\n| Jordan | 65 |\n| Tunisia | 61 |\n| Paraguay | 61 |\n| Zimbabwe | 57 |\n| Macao | 54 |\n| Latvia | 54 |\n| Libya | 52 |\n| Cambodia | 52 |\n| Estonia | 52 |\n| Bahrain | 49 |\n| Nepal | 46 |\n| Cyprus | 45 |\n| Sudan | 45 |\n| Iceland | 44 |\n| Georgia | 43 |\n| Honduras | 42 |\n| Zambia | 41 |\n| Senegal | 40 |\n| El Salvador | 40 |\n| Haiti | 39 |\n| Bosnia and Herzegovina | 37 |\n| Lebanon | 34 |\n| Papua New Guinea | 34 |\n| Guyana | 34 |\n| Mali | 34 |\n| Albania | 33 |\n| Burkina Faso | 33 |\n| Armenia | 32 |\n| Malta | 31 |\n| Guinea | 30 |\n| Mongolia | 28 |\n| Benin | 28 |\n| Trinidad and Tobago | 27 |\n| Chad | 26 |\n| Niger | 25 |\n| Nicaragua | 24 |\n| Kyrgyz Republic | 24 |\n| Gabon | 23 |\n| Mozambique | 23 |\n| Jamaica | 23 |\n| Botswana | 22 |\n| Moldova | 22 |\n| North Macedonia | 22 |\n| Madagascar | 21 |\n| Tajikistan | 20 |\n| Afghanistan | 20 |\n| Laos | 19 |\n| Malawi | 18 |\n| Rwanda | 17 |\n| Namibia | 17 |\n| Mauritius | 17 |\n| Bahamas, The | 17 |\n| Congo, Rep. of the | 17 |\n| Brunei | 17 |\n| West Bank and Gaza | 16 |\n| Mauritania | 14 |\n| Somalia | 14 |\n| Kosovo | 14 |\n| Equatorial Guinea | 14 |\n| Togo | 13 |\n| Montenegro | 10 |\n| Liechtenstein | 9.4 |\n| Barbados | 8.5 |\n| Sierra Leone | 8.3 |\n| Burundi | 8.1 |\n| Maldives | 8.1 |\n| Yemen | 7.4 |\n| Fiji | 6.4 |\n| South Sudan | 6.1 |\n| Suriname | 5.9 |\n| Eswatini | 5.8 |\n| Liberia | 5.6 |\n| Andorra | 4.9 |\n| Djibouti | 4.7 |\n| Aruba | 4.7 |\n| Bhutan | 3.9 |\n| Central African Republic | 3.5 |\n| Belize | 3.5 |\n| Cabo Verde | 3.4 |\n| Guinea-Bissau | 3.0 |\n| Lesotho | 3.0 |\n| Gambia, The | 2.8 |\n| Saint Lucia | 2.8 |\n| San Marino | 2.4 |\n| Antigua and Barbuda | 2.4 |\n| Seychelles | 2.3 |\n| Timor-Leste | 2.2 |\n| Solomon Islands | 1.8 |\n| Comoros | 1.8 |\n| Grenada | 1.5 |\n| Vanuatu | 1.4 |\n| Samoa | 1.4 |\n| Saint Vincent and the Grenadines | 1.2 |\n| São Tomé and Príncipe | 1.2 |\n| Saint Kitts and Nevis | 1.1 |\n| Dominica | 0.8 |\n| Tonga | 0.7 |\n| Micronesia | 0.5 |\n| Kiribati | 0.4 |\n| Palau | 0.4 |\n| Marshall Islands | 0.3 |\n| Nauru | 0.2 |\n| Tuvalu | 0.1 |\n\n| Rank | Country | 2026 GDP ($B) |\n| --- | --- | --- |\n| 1 | United States | 32,384 |\n| 2 | China | 20,852 |\n| 3 | Germany | 5,453 |\n| 4 | Japan | 4,379 |\n| 5 | United Kingdom | 4,265 |\n| 6 | India | 4,153 |\n| 7 | France | 3,596 |\n| 8 | Italy | 2,738 |\n| 9 | Russia | 2,656 |\n| 10 | Brazil | 2,636 |\n| 11 | Canada | 2,507 |\n| 12 | Australia | 2,124 |\n| 13 | Mexico | 2,121 |\n| 14 | Spain | 2,091 |\n| 15 | South Korea | 1,931 |\n| 16 | Turkey | 1,640 |\n| 17 | Indonesia | 1,540 |\n| 18 | Netherlands | 1,450 |\n| 19 | Saudi Arabia | 1,389 |\n| 20 | Switzerland | 1,147 |\n| 21 | Poland | 1,134 |",
+    "ai_analysis": {
+      "core_insight": "个人财富规模可比肩众多国家的GDP，凸显全球财富分配的极端不平等。",
+      "data_highlights": [
+        "列表中有超过150个国家和地区的预测2026年GDP低于马斯克的个人净资产。",
+        "即使在经济规模较大的国家中，如爱尔兰、瑞典、以色列等，其GDP也低于马斯克的财富。",
+        "全球GDP排名前21的经济体中，美国以超过32万亿美元的规模独占鳌头，是其他国家数倍。",
+        "许多人口众多的发展中大国，如巴基斯坦、尼日利亚、孟加拉国等，其经济总量均未进入榜单前列。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "2026 GDP ($B)"
+          ],
+          "rows": [
+            [
+              "Taiwan",
+              "977"
+            ],
+            [
+              "Ireland",
+              "779"
+            ],
+            [
+              "Belgium",
+              "777"
+            ],
+            [
+              "Sweden",
+              "760"
+            ],
+            [
+              "Israel",
+              "720"
+            ],
+            [
+              "Argentina",
+              "688"
+            ],
+            [
+              "Singapore",
+              "660"
+            ],
+            [
+              "Austria",
+              "624"
+            ],
+            [
+              "United Arab Emirates",
+              "622"
+            ],
+            [
+              "Norway",
+              "599"
+            ],
+            [
+              "Thailand",
+              "580"
+            ],
+            [
+              "Colombia",
+              "540"
+            ],
+            [
+              "Vietnam",
+              "527"
+            ],
+            [
+              "Malaysia",
+              "516"
+            ],
+            [
+              "Philippines",
+              "512"
+            ],
+            [
+              "Bangladesh",
+              "511"
+            ],
+            [
+              "Denmark",
+              "504"
+            ],
+            [
+              "Romania",
+              "481"
+            ],
+            [
+              "South Africa",
+              "480"
+            ],
+            [
+              "Hong Kong",
+              "450"
+            ],
+            [
+              "Czech Republic",
+              "433"
+            ],
+            [
+              "Egypt",
+              "430"
+            ],
+            [
+              "Chile",
+              "408"
+            ],
+            [
+              "Pakistan",
+              "408"
+            ],
+            [
+              "Peru",
+              "381"
+            ],
+            [
+              "Portugal",
+              "381"
+            ],
+            [
+              "Nigeria",
+              "377"
+            ],
+            [
+              "Kazakhstan",
+              "360"
+            ],
+            [
+              "Finland",
+              "338"
+            ],
+            [
+              "Algeria",
+              "317"
+            ],
+            [
+              "Greece",
+              "308"
+            ],
+            [
+              "Iran",
+              "300"
+            ],
+            [
+              "New Zealand",
+              "279"
+            ],
+            [
+              "Hungary",
+              "271"
+            ],
+            [
+              "Iraq",
+              "265"
+            ],
+            [
+              "Ukraine",
+              "225"
+            ],
+            [
+              "Qatar",
+              "217"
+            ],
+            [
+              "Morocco",
+              "194"
+            ],
+            [
+              "Uzbekistan",
+              "182"
+            ],
+            [
+              "Kuwait",
+              "173"
+            ],
+            [
+              "Slovakia",
+              "169"
+            ],
+            [
+              "Angola",
+              "152"
+            ],
+            [
+              "Bulgaria",
+              "148"
+            ],
+            [
+              "Kenya",
+              "147"
+            ],
+            [
+              "Ecuador",
+              "138"
+            ],
+            [
+              "Dominican Republic",
+              "136"
+            ],
+            [
+              "Puerto Rico",
+              "129"
+            ],
+            [
+              "Guatemala",
+              "129"
+            ],
+            [
+              "Congo (DRC)",
+              "123"
+            ],
+            [
+              "Ethiopia",
+              "122"
+            ],
+            [
+              "Ghana",
+              "118"
+            ],
+            [
+              "Oman",
+              "117"
+            ],
+            [
+              "Croatia",
+              "117"
+            ],
+            [
+              "Côte d'Ivoire",
+              "112"
+            ],
+            [
+              "Serbia",
+              "112"
+            ],
+            [
+              "Venezuela",
+              "111"
+            ],
+            [
+              "Luxembourg",
+              "110"
+            ],
+            [
+              "Costa Rica",
+              "110"
+            ],
+            [
+              "Lithuania",
+              "106"
+            ],
+            [
+              "Belarus",
+              "102"
+            ],
+            [
+              "Sri Lanka",
+              "99"
+            ],
+            [
+              "Uruguay",
+              "96"
+            ],
+            [
+              "Panama",
+              "95"
+            ],
+            [
+              "Tanzania",
+              "95"
+            ],
+            [
+              "Slovenia",
+              "87"
+            ],
+            [
+              "Myanmar",
+              "84"
+            ],
+            [
+              "Turkmenistan",
+              "83"
+            ],
+            [
+              "Bolivia",
+              "81"
+            ],
+            [
+              "Azerbaijan",
+              "78"
+            ],
+            [
+              "Uganda",
+              "73"
+            ],
+            [
+              "Cameroon",
+              "65"
+            ],
+            [
+              "Jordan",
+              "65"
+            ],
+            [
+              "Tunisia",
+              "61"
+            ],
+            [
+              "Paraguay",
+              "61"
+            ],
+            [
+              "Zimbabwe",
+              "57"
+            ],
+            [
+              "Macao",
+              "54"
+            ],
+            [
+              "Latvia",
+              "54"
+            ],
+            [
+              "Libya",
+              "52"
+            ],
+            [
+              "Cambodia",
+              "52"
+            ],
+            [
+              "Estonia",
+              "52"
+            ],
+            [
+              "Bahrain",
+              "49"
+            ],
+            [
+              "Nepal",
+              "46"
+            ],
+            [
+              "Cyprus",
+              "45"
+            ],
+            [
+              "Sudan",
+              "45"
+            ],
+            [
+              "Iceland",
+              "44"
+            ],
+            [
+              "Georgia",
+              "43"
+            ],
+            [
+              "Honduras",
+              "42"
+            ],
+            [
+              "Zambia",
+              "41"
+            ],
+            [
+              "Senegal",
+              "40"
+            ],
+            [
+              "El Salvador",
+              "40"
+            ],
+            [
+              "Haiti",
+              "39"
+            ],
+            [
+              "Bosnia and Herzegovina",
+              "37"
+            ],
+            [
+              "Lebanon",
+              "34"
+            ],
+            [
+              "Papua New Guinea",
+              "34"
+            ],
+            [
+              "Guyana",
+              "34"
+            ],
+            [
+              "Mali",
+              "34"
+            ],
+            [
+              "Albania",
+              "33"
+            ],
+            [
+              "Burkina Faso",
+              "33"
+            ],
+            [
+              "Armenia",
+              "32"
+            ],
+            [
+              "Malta",
+              "31"
+            ],
+            [
+              "Guinea",
+              "30"
+            ],
+            [
+              "Mongolia",
+              "28"
+            ],
+            [
+              "Benin",
+              "28"
+            ],
+            [
+              "Trinidad and Tobago",
+              "27"
+            ],
+            [
+              "Chad",
+              "26"
+            ],
+            [
+              "Niger",
+              "25"
+            ],
+            [
+              "Nicaragua",
+              "24"
+            ],
+            [
+              "Kyrgyz Republic",
+              "24"
+            ],
+            [
+              "Gabon",
+              "23"
+            ],
+            [
+              "Mozambique",
+              "23"
+            ],
+            [
+              "Jamaica",
+              "23"
+            ],
+            [
+              "Botswana",
+              "22"
+            ],
+            [
+              "Moldova",
+              "22"
+            ],
+            [
+              "North Macedonia",
+              "22"
+            ],
+            [
+              "Madagascar",
+              "21"
+            ],
+            [
+              "Tajikistan",
+              "20"
+            ],
+            [
+              "Afghanistan",
+              "20"
+            ],
+            [
+              "Laos",
+              "19"
+            ],
+            [
+              "Malawi",
+              "18"
+            ],
+            [
+              "Rwanda",
+              "17"
+            ],
+            [
+              "Namibia",
+              "17"
+            ],
+            [
+              "Mauritius",
+              "17"
+            ],
+            [
+              "Bahamas, The",
+              "17"
+            ],
+            [
+              "Congo, Rep. of the",
+              "17"
+            ],
+            [
+              "Brunei",
+              "17"
+            ],
+            [
+              "West Bank and Gaza",
+              "16"
+            ],
+            [
+              "Mauritania",
+              "14"
+            ],
+            [
+              "Somalia",
+              "14"
+            ],
+            [
+              "Kosovo",
+              "14"
+            ],
+            [
+              "Equatorial Guinea",
+              "14"
+            ],
+            [
+              "Togo",
+              "13"
+            ],
+            [
+              "Montenegro",
+              "10"
+            ],
+            [
+              "Liechtenstein",
+              "9.4"
+            ],
+            [
+              "Barbados",
+              "8.5"
+            ],
+            [
+              "Sierra Leone",
+              "8.3"
+            ],
+            [
+              "Burundi",
+              "8.1"
+            ],
+            [
+              "Maldives",
+              "8.1"
+            ],
+            [
+              "Yemen",
+              "7.4"
+            ],
+            [
+              "Fiji",
+              "6.4"
+            ],
+            [
+              "South Sudan",
+              "6.1"
+            ],
+            [
+              "Suriname",
+              "5.9"
+            ],
+            [
+              "Eswatini",
+              "5.8"
+            ],
+            [
+              "Liberia",
+              "5.6"
+            ],
+            [
+              "Andorra",
+              "4.9"
+            ],
+            [
+              "Djibouti",
+              "4.7"
+            ],
+            [
+              "Aruba",
+              "4.7"
+            ],
+            [
+              "Bhutan",
+              "3.9"
+            ],
+            [
+              "Central African Republic",
+              "3.5"
+            ],
+            [
+              "Belize",
+              "3.5"
+            ],
+            [
+              "Cabo Verde",
+              "3.4"
+            ],
+            [
+              "Guinea-Bissau",
+              "3.0"
+            ],
+            [
+              "Lesotho",
+              "3.0"
+            ],
+            [
+              "Gambia, The",
+              "2.8"
+            ],
+            [
+              "Saint Lucia",
+              "2.8"
+            ],
+            [
+              "San Marino",
+              "2.4"
+            ],
+            [
+              "Antigua and Barbuda",
+              "2.4"
+            ],
+            [
+              "Seychelles",
+              "2.3"
+            ],
+            [
+              "Timor-Leste",
+              "2.2"
+            ],
+            [
+              "Solomon Islands",
+              "1.8"
+            ],
+            [
+              "Comoros",
+              "1.8"
+            ],
+            [
+              "Grenada",
+              "1.5"
+            ],
+            [
+              "Vanuatu",
+              "1.4"
+            ],
+            [
+              "Samoa",
+              "1.4"
+            ],
+            [
+              "Saint Vincent and the Grenadines",
+              "1.2"
+            ],
+            [
+              "São Tomé and Príncipe",
+              "1.2"
+            ],
+            [
+              "Saint Kitts and Nevis",
+              "1.1"
+            ],
+            [
+              "Dominica",
+              "0.8"
+            ],
+            [
+              "Tonga",
+              "0.7"
+            ],
+            [
+              "Micronesia",
+              "0.5"
+            ],
+            [
+              "Kiribati",
+              "0.4"
+            ],
+            [
+              "Palau",
+              "0.4"
+            ],
+            [
+              "Marshall Islands",
+              "0.3"
+            ],
+            [
+              "Nauru",
+              "0.2"
+            ],
+            [
+              "Tuvalu",
+              "0.1"
+            ]
+          ],
+          "caption": "部分国家及地区预测GDP（低于马斯克净资产）"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 GDP ($B)"
+          ],
+          "rows": [
+            [
+              "1",
+              "United States",
+              "32,384"
+            ],
+            [
+              "2",
+              "China",
+              "20,852"
+            ],
+            [
+              "3",
+              "Germany",
+              "5,453"
+            ],
+            [
+              "4",
+              "Japan",
+              "4,379"
+            ],
+            [
+              "5",
+              "United Kingdom",
+              "4,265"
+            ],
+            [
+              "6",
+              "India",
+              "4,153"
+            ],
+            [
+              "7",
+              "France",
+              "3,596"
+            ],
+            [
+              "8",
+              "Italy",
+              "2,738"
+            ],
+            [
+              "9",
+              "Russia",
+              "2,656"
+            ],
+            [
+              "10",
+              "Brazil",
+              "2,636"
+            ],
+            [
+              "11",
+              "Canada",
+              "2,507"
+            ],
+            [
+              "12",
+              "Australia",
+              "2,124"
+            ],
+            [
+              "13",
+              "Mexico",
+              "2,121"
+            ],
+            [
+              "14",
+              "Spain",
+              "2,091"
+            ],
+            [
+              "15",
+              "South Korea",
+              "1,931"
+            ],
+            [
+              "16",
+              "Turkey",
+              "1,640"
+            ],
+            [
+              "17",
+              "Indonesia",
+              "1,540"
+            ],
+            [
+              "18",
+              "Netherlands",
+              "1,450"
+            ],
+            [
+              "19",
+              "Saudi Arabia",
+              "1,389"
+            ],
+            [
+              "20",
+              "Switzerland",
+              "1,147"
+            ],
+            [
+              "21",
+              "Poland",
+              "1,134"
+            ]
+          ],
+          "caption": "全球GDP排名前21的经济体"
+        }
+      ],
+      "deep_dive": "## 个人财富与国家经济的量级对比\n\n这张图表通过将埃隆·马斯克的个人净资产与各国预测GDP进行并列，生动地展示了当代财富集中的惊人程度。其核心启示在于：**个人财富的积累速度与规模，在某些情况下已能超越众多主权国家的年度经济产出总和**。这不仅仅是一个关于个人的财富故事，更是全球资本回报率长期高于经济增长率（r > g）这一宏观趋势的微观缩影。马斯克的财富主要来源于其持有的特斯拉、SpaceX等公司的股权价值，这些公司在全球科技和资本市场的助力下实现了价值爆发。相比之下，一个国家的GDP是其境内所有常住单位在一定时期内生产活动的最终成果，是复杂的生产、消费、投资和净出口的综合体现。将两者直接对比虽存在概念差异，但作为衡量经济规模和影响力的“数量级”参照，极具冲击力。\n\n## 经济格局的启示与反思\n\n### 全球经济的金字塔结构\n从第二个表格的GDP排名可以看出，全球经济高度集中。排名前五的经济体（美、中、德、日、英）GDP总量就占据了全球的大部分份额。美国以超过32万亿美元的规模一骑绝尘，是第二名中国的约1.55倍，更是榜单末位波兰（约1.1万亿美元）的近29倍。这种悬殊差距同样体现在第一个长表中：排名靠前的“低于马斯克净资产”的国家/地区，如台湾、爱尔兰、瑞典等，本身已是发达或新兴工业化经济体，拥有可观的GDP，但仍不及一位企业家的个人财富。\n\n### 发展中国家的挑战与机遇\n第一个长表中包含了大量发展中国家，如巴基斯坦、尼日利亚、孟加拉国、埃塞俄比亚等。这些国家人口众多，但GDP规模相对有限。这凸显了它们在提升人均产出、完善基础设施、融入全球价值链等方面面临的巨大挑战。然而，这也意味着巨大的发展潜力。科技驱动的商业模式和资本市场在创造巨额个人财富的同时，也可能为这些国家带来新的发展范式与投资机遇，例如在清洁能源、数字基建等领域。\n\n### 衡量标准的局限性\n需要指出的是，这种对比存在内在局限。GDP是流量概念，衡量年度生产；而个人净资产是存量概念，代表某一时点的财富积累，且其估值基于资产（主要是公司股权）的市场价格，波动性极大。此外，GDP涵盖了政府服务、非市场活动等，而个人财富通常不包括这些。因此，这一对比更应被视为一个引发思考的“思维实验”，用以直观感受财富不平等的量级，而非严谨的经济学分析。它促使我们思考：资本在全球化与金融化时代是如何被创造和分配的？以及社会应如何平衡创新激励与财富再分配。",
+      "glossary": [
+        {
+          "term": "GDP (国内生产总值)",
+          "explanation": "一个国家或地区在一定时期内生产的所有最终商品和服务的市场价值总和，是衡量经济规模和活动的核心指标。"
+        },
+        {
+          "term": "净资产",
+          "explanation": "个人或实体拥有的资产总值减去其负债总额后的净值，代表某一时点的财富存量。"
+        },
+        {
+          "term": "财富不平等",
+          "explanation": "社会成员之间财富分配的不均等状态。当前全球趋势显示，财富日益向少数顶级富豪集中。"
+        },
+        {
+          "term": "资本回报率 (r)",
+          "explanation": "资本（如投资、资产）在一定时期内获得的收益率，通常包括利息、股息、租金和资本增值。"
+        },
+        {
+          "term": "经济增长率 (g)",
+          "explanation": "通常指一个国家或地区GDP的年增长率，反映其整体经济规模的扩张速度。"
+        }
+      ]
+    }
+  },
+  {
     "id": "284f3030",
     "title": "Mapped: Where the World’s Highest Temperatures Were Recorded",
     "original_url": "https://www.visualcapitalist.com/mapped-worlds-highest-temperatures-recorded/",
