@@ -1,5 +1,127 @@
 [
   {
+    "id": "83c8a110",
+    "title": "Countries With the Highest Percentage of Female Population",
+    "original_url": "https://www.visualcapitalist.com/cp/countries-with-the-highest-percentage-of-female-population/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/83c8a110.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrs0BqRqbVncmS7qKjopFH/9k=",
+    "image_version": 1782737707,
+    "pub_date": "Mon, 29 Jun 2026 09:29:08 +0000",
+    "content_md": "| Rank | Country | Percentage Female Population |\n| --- | --- | --- |\n| 1 | Hong Kong | 54.9% |\n| 2 | Moldova | 54.0% |\n| 3 | Macao | 53.9% |\n| 4 | Latvia | 53.7% |\n| 5 | Armenia | 53.6% |\n| 6 | Russia | 53.6% |\n| 7 | Ukraine | 53.5% |\n| 8 | Georgia | 53.4% |\n| 9 | Belarus | 53.4% |\n| 10 | Puerto Rico | 52.9% |\n| 11 | Lithuania | 52.8% |\n| 12 | Aruba | 52.8% |\n| 13 | Tonga | 52.6% |\n| 14 | Serbia | 52.5% |\n| 15 | Estonia | 52.5% |",
+    "ai_analysis": {
+      "core_insight": "前15名女性人口占比均超52.5%，香港居首，前苏联及东欧地区占据绝对主导。",
+      "data_highlights": [
+        "香港以54.9%的女性人口占比位居全球第一，远超其他地区。",
+        "前15名中，有9个为前苏联加盟共和国或东欧国家，如摩尔多瓦、拉脱维亚、俄罗斯等。",
+        "前10名中，女性人口占比均高于52.9%，地区集中性特征极为显著。",
+        "波多黎各、阿鲁巴、汤加等非欧洲地区也进入榜单，但排名相对靠后。",
+        "第13至15名的汤加、塞尔维亚、爱沙尼亚占比均为52.5%-52.6%，竞争激烈。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Percentage Female Population"
+          ],
+          "rows": [
+            [
+              "1",
+              "Hong Kong",
+              "54.9%"
+            ],
+            [
+              "2",
+              "Moldova",
+              "54.0%"
+            ],
+            [
+              "3",
+              "Macao",
+              "53.9%"
+            ],
+            [
+              "4",
+              "Latvia",
+              "53.7%"
+            ],
+            [
+              "5",
+              "Armenia",
+              "53.6%"
+            ],
+            [
+              "6",
+              "Russia",
+              "53.6%"
+            ],
+            [
+              "7",
+              "Ukraine",
+              "53.5%"
+            ],
+            [
+              "8",
+              "Georgia",
+              "53.4%"
+            ],
+            [
+              "9",
+              "Belarus",
+              "53.4%"
+            ],
+            [
+              "10",
+              "Puerto Rico",
+              "52.9%"
+            ],
+            [
+              "11",
+              "Lithuania",
+              "52.8%"
+            ],
+            [
+              "12",
+              "Aruba",
+              "52.8%"
+            ],
+            [
+              "13",
+              "Tonga",
+              "52.6%"
+            ],
+            [
+              "14",
+              "Serbia",
+              "52.5%"
+            ],
+            [
+              "15",
+              "Estonia",
+              "52.5%"
+            ]
+          ],
+          "caption": "女性人口占比最高的15个国家/地区"
+        }
+      ],
+      "deep_dive": "## 核心驱动因素：人口结构与历史路径\n\n女性人口占比高的现象背后，是多种社会经济与历史因素交织的结果。以榜单中占据主导地位的前苏联及东欧国家为例，其成因复杂且具有共性。\n\n- **历史性男性人口损失**：该地区在20世纪经历了多次重大战争（如第二次世界大战），造成大规模男性青壮年死亡，这一人口结构的创伤具有长期影响。\n- **显著的预期寿命性别差异**：在俄罗斯、乌克兰等国，男性因酗酒、职业风险、医疗条件等因素，平均预期寿命远低于女性，导致老年女性人口比例显著偏高。\n- **持续的人口外流**：部分国家（如摩尔多瓦、格鲁吉亚）存在大量男性劳动力向欧洲或俄罗斯等地区迁移，进一步拉高了国内女性占比。\n\n## 超越欧洲的个案与普遍启示\n\n香港、澳门以及波多黎各等地上榜，则揭示了另一类机制。香港和澳门的超高比例，与大量外籍家庭佣工（绝大多数为女性）的输入直接相关，是一种“人口结构”的特殊构成。而波多黎各等地区，则可能受到特定移民模式的影响。\n\n这一数据排名带给我们多方面的启示：\n- **社会服务需求**：女性人口比例高的社会，在养老、医疗、社区服务等方面可能面临与性别结构相关的需求差异。\n- **经济与劳动力市场**：在劳动力短缺的背景下，如何充分利用女性人力资源，对相关国家和地区的经济发展至关重要。\n- **数据局限性**：需注意，单纯的“占比”数据无法反映绝对人口规模、年龄结构或社会地位。例如，占比高可能源于老年女性寿命长，也可能是年轻女性移民流入，二者的社会经济含义截然不同。因此，结合年龄金字塔、劳动力参与率等数据进行交叉分析，才能得出更全面的结论。",
+      "glossary": [
+        {
+          "term": "女性人口占比",
+          "explanation": "指某一国家或地区总人口中女性人数所占的百分比，是衡量人口性别结构的基本指标。"
+        },
+        {
+          "term": "预期寿命性别差异",
+          "explanation": "指男性和女性平均预期寿命之间的差距。在许多国家，女性预期寿命高于男性，这一差距会影响人口年龄结构。"
+        },
+        {
+          "term": "人口外流",
+          "explanation": "指一个国家或地区的人口向国外迁移的现象，通常以劳动力迁移为主，会改变迁出地的人口结构和性别比。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a736b599",
     "title": "Mapped: Where Safe Drinking Water Is Still Out of Reach",
     "original_url": "https://www.visualcapitalist.com/cp/mapped-safe-drinking-water-out-of-reach/",
