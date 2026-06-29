@@ -1,5 +1,963 @@
 [
   {
+    "id": "5e24e57a",
+    "title": "How Global Central Bank Reserves Have Shifted Since 2000",
+    "original_url": "https://www.visualcapitalist.com/how-global-central-bank-reserves-have-shifted-since-2000/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5e24e57a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCa6amWrfPS3Xeo7X74rAx5Vc3I2+QUU2L7gopG1j//2Q==",
+    "image_version": 1782753949,
+    "pub_date": "Mon, 29 Jun 2026 17:17:15 +0000",
+    "content_md": "| Central Bank Reserve Assets | 2000 | 2025 | Change |\n| --- | --- | --- | --- |\n| Gold | 11.4% | 24.5% | +13.0 pts |\n| U.S. dollar | 58.7% | 39.6% | -19.1 pts |\n| Euro | 14.8% | 14.1% | -0.7 pts |\n| Yen | 5.5% | 4.0% | -1.5 pts |\n| Pound | 2.9% | 3.1% | +0.2 pts |\n| Renminbi | — | 1.4% | +1.4 pts |\n| Other | 6.8% | 13.4% | +6.7 pts |",
+    "ai_analysis": {
+      "core_insight": "全球央行储备资产构成正经历结构性转变，美元主导地位显著削弱，黄金与非主流货币重要性上升。",
+      "data_highlights": [
+        "美元占比从2000年的58.7%大幅下降至2025年的39.6%，降幅达19.1个百分点。",
+        "黄金占比同期从11.4%上升至24.5%，升幅达13个百分点，成为第二大储备资产。",
+        "人民币自2000年后从无到有，在2025年占比达1.4%，实现了零的突破。",
+        "日元与欧元占比均有小幅下降，英镑基本稳定，而‘其他’货币类别占比增长显著。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Central Bank Reserve Assets",
+            "2000",
+            "2025",
+            "Change"
+          ],
+          "rows": [
+            [
+              "Gold",
+              "11.4%",
+              "24.5%",
+              "+13.0 pts"
+            ],
+            [
+              "U.S. dollar",
+              "58.7%",
+              "39.6%",
+              "-19.1 pts"
+            ],
+            [
+              "Euro",
+              "14.8%",
+              "14.1%",
+              "-0.7 pts"
+            ],
+            [
+              "Yen",
+              "5.5%",
+              "4.0%",
+              "-1.5 pts"
+            ],
+            [
+              "Pound",
+              "2.9%",
+              "3.1%",
+              "+0.2 pts"
+            ],
+            [
+              "Renminbi",
+              "—",
+              "1.4%",
+              "+1.4 pts"
+            ],
+            [
+              "Other",
+              "6.8%",
+              "13.4%",
+              "+6.7 pts"
+            ]
+          ],
+          "caption": "全球央行储备资产构成变化（2000-2025年）"
+        }
+      ],
+      "deep_dive": "## 趋势解读：从“美元独大”到“多元分散”\n\n数据显示，2000年至2025年间，全球央行储备资产的配置逻辑发生了根本性变化。核心趋势是**显著的去美元化**和**多元化储备**。美元份额的大幅下滑（-19.1个百分点）并非由单一货币承接，而是分散至黄金、人民币及其他货币，这反映出各国央行对地缘政治风险、美国财政状况及货币政策独立性的深层考量。\n\n黄金地位的飙升（+13个百分点）尤为引人注目。这不仅是对冲通胀的传统需求，更是在全球不确定性加剧背景下，央行对“无主权风险”终极储备资产的战略性增持。与之相对，传统主要货币如欧元、日元的份额均出现萎缩，表明市场对其所在区域经济前景或货币政策存在疑虑。\n\n## 深层驱动与启示\n\n**驱动因素：**\n- **地缘政治与金融制裁风险：** 俄乌冲突后，俄罗斯等国央行资产被冻结，凸显了依赖单一主权货币的风险，加速了储备多元化。\n- **对美元信用的长期担忧：** 美国巨额国债与政治极化引发的债务上限危机，削弱了市场对美元长期价值的信心。\n- **新兴市场货币的崛起：** 人民币份额的从无到有，是中国经济影响力提升和金融市场逐步开放的直接体现，但其份额仍相对有限，国际化进程仍处早期。\n\n**启示与局限：**\n- **储备货币体系进入新常态：** 短期内美元仍将占据主导，但其单极地位正在松动，未来或形成以美元、欧元、人民币及黄金等多资产共存的“多极”储备格局。\n- **数据的前瞻性：** 表中2025年数据为预测或估算值，实际发展将受未来全球经济走势、重大地缘事件及各国央行的政策博弈影响。\n- **“其他”类别值得观察：** “其他”货币份额增长6.7个百分点，可能包含澳元、加元、瑞士法郎及一些新兴市场货币，这同样是分散化趋势的佐证，但其具体构成需进一步细分数据支持。",
+      "glossary": [
+        {
+          "term": "外汇储备",
+          "explanation": "各国中央银行持有的外币资产及其他储备资产，用于国际支付、稳定本币汇率和应对国际收支危机。"
+        },
+        {
+          "term": "去美元化",
+          "explanation": "指各国央行或国际投资者减少美元在其外汇储备、贸易结算或金融资产中比重的过程，通常出于对冲风险或政治经济战略考量。"
+        },
+        {
+          "term": "储备货币",
+          "explanation": "被各国中央银行大量持有作为外汇储备的货币，通常需要具备经济规模大、金融市场深广、币值稳定且自由兑换等特征。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "472765f3",
+    "title": "Ranked: America’s 20 Highest-Paying College Degrees",
+    "original_url": "https://www.visualcapitalist.com/sp/ter02-ranked-americas-20-highest-paying-college-degrees/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/472765f3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDoJ5QKhjmBaoLtzUFsxL1nZi9qzbRvlopkSnYKKB8xTuYCe1NtbYh+la0kamkijUGruTyD44sIKKsqBiikXyn/2Q==",
+    "image_version": 1782753972,
+    "pub_date": "Mon, 29 Jun 2026 15:48:00 +0000",
+    "content_md": "| Rank | Major | Mid-Career Median Wage ($k) |\n| --- | --- | --- |\n| 1 | Chemical Engineering | 135 |\n| 2 | Computer Engineering | 131 |\n| 3 | Aerospace Engineering | 130 |\n| 4 | Electrical Engineering | 123 |\n| 5 | Computer Science | 120 |\n| 6 | Mechanical Engineering | 120 |\n| 7 | Construction Services | 120 |\n| 8 | Civil Engineering | 115 |\n| 9 | Economics | 115 |\n| 10 | Finance | 112 |\n| 11 | Business Analytics | 109 |\n| 12 | General Engineering | 105 |\n| 13 | Misc Engineering | 105 |\n| 14 | Physics | 105 |\n| 15 | Engineering Technologies | 104 |\n| 16 | Info Systems & Mgmt | 100 |\n| 17 | Industrial Engineering | 100 |\n| 18 | Biochemistry | 100 |\n| 19 | Mathematics | 100 |\n| 20 | Political Science | 100 |",
+    "ai_analysis": {
+      "core_insight": "工程类专业主导美国高薪学位榜单，STEM领域薪资优势显著。",
+      "data_highlights": [
+        "化学工程以13.5万美元的中位职业中期薪资高居榜首。",
+        "排名前20的专业中，有16个属于工程、计算机科学或相关STEM领域。",
+        "非工程类专业中，经济学（第9）和政治学（第20）是唯一进入榜单的社会科学。",
+        "榜单中排名前7的专业年薪中位数均超过12万美元，门槛较高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Major",
+            "Mid-Career Median Wage ($k)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Chemical Engineering",
+              "135"
+            ],
+            [
+              "2",
+              "Computer Engineering",
+              "131"
+            ],
+            [
+              "3",
+              "Aerospace Engineering",
+              "130"
+            ],
+            [
+              "4",
+              "Electrical Engineering",
+              "123"
+            ],
+            [
+              "5",
+              "Computer Science",
+              "120"
+            ],
+            [
+              "6",
+              "Mechanical Engineering",
+              "120"
+            ],
+            [
+              "7",
+              "Construction Services",
+              "120"
+            ],
+            [
+              "8",
+              "Civil Engineering",
+              "115"
+            ],
+            [
+              "9",
+              "Economics",
+              "115"
+            ],
+            [
+              "10",
+              "Finance",
+              "112"
+            ],
+            [
+              "11",
+              "Business Analytics",
+              "109"
+            ],
+            [
+              "12",
+              "General Engineering",
+              "105"
+            ],
+            [
+              "13",
+              "Misc Engineering",
+              "105"
+            ],
+            [
+              "14",
+              "Physics",
+              "105"
+            ],
+            [
+              "15",
+              "Engineering Technologies",
+              "104"
+            ],
+            [
+              "16",
+              "Info Systems & Mgmt",
+              "100"
+            ],
+            [
+              "17",
+              "Industrial Engineering",
+              "100"
+            ],
+            [
+              "18",
+              "Biochemistry",
+              "100"
+            ],
+            [
+              "19",
+              "Mathematics",
+              "100"
+            ],
+            [
+              "20",
+              "Political Science",
+              "100"
+            ]
+          ],
+          "caption": "美国20大高薪大学专业排名"
+        }
+      ],
+      "deep_dive": "## 核心驱动：STEM学科的结构性优势\n\n本次榜单清晰地揭示了美国劳动力市场对STEM（科学、技术、工程、数学）人才的巨大需求与溢价。**工程类专业**是绝对的赢家，在前20名中占据了15个席位。这背后的驱动机制是明确的：\n\n- **高附加值产业需求**：半导体、航空航天、能源化工、软件开发等高端制造业和科技产业，是推动全球经济增长的引擎，其核心研发与工程岗位需要高度专业化的知识，因此愿意支付高薪。\n- **技能的专用性与稀缺性**：例如化学工程、航空航天工程的知识体系复杂且更新快，培养周期长，合格人才供给有限，从而推高了其市场价格。\n- **高起薪与稳健增长**：这些专业通常起薪就很高，且随着经验积累（“职业中期”），薪资增长曲线陡峭，形成了长期的财务优势。\n\n## 值得关注的细节与对比\n\n除了工程主导这一主旋律，一些细节同样具有启示意义：\n\n- **计算机领域的内部分化**：计算机工程（硬件与软件结合）的薪资（131k）略高于更偏软件的计算机科学（120k）。这可能反映了在人工智能、芯片制造等领域，软硬件结合能力的人才更为稀缺。\n- **非工程STEM的潜力**：物理、数学、生物化学等基础科学专业同样位列榜单，说明扎实的数理基础在金融、数据分析、研发等领域同样具备强大的跨界竞争力。\n- **社会科学中的“异类”**：经济学和政治学是唯二上榜的社会科学。经济学（115k）的高薪源于其与金融、数据分析的紧密结合；而政治学（100k）的上榜，可能与其毕业生大量进入高薪的法律、政策咨询和商业管理领域有关，体现了通识教育在特定路径下的回报。\n- **“万金油”专业的薪资天花板**：信息管理、工业工程等专业的薪资（约100k）处于榜单末位。这暗示了这些领域虽然需求广泛，但专业壁垒相对较低，可替代性较强，导致薪资增长后劲可能不足。\n\n## 局限与思考\n\n此榜单提供了有价值的薪资参考，但需注意：\n1.  **地域与行业差异**：13.5万美元的中位数在全美范围内存在巨大波动，硅谷工程师的收入可能远高于该值，而小城市则可能低得多。\n2.  **个人因素权重**：薪资并非职业选择的唯一标准，个人兴趣、长期职业满意度、工作强度等非量化因素同样关键。\n3.  **数据时效性**：榜单反映的是特定时期（通常是过往5-10年毕业生）的薪资状况，未来技术变革可能重塑不同专业的价值。",
+      "glossary": [
+        {
+          "term": "Mid-Career Median Wage",
+          "explanation": "职业中期中位数工资。指该专业毕业生在职业生涯中期（通常为毕业10-15年后）的收入中位数，能更好地反映该专业的长期收入潜力，而非仅仅起薪。"
+        },
+        {
+          "term": "STEM",
+          "explanation": "科学、技术、工程与数学四大领域的总称。在全球范围内，STEM教育与人才被视为国家创新能力和产业竞争力的核心，相关专业毕业生通常享有更高的薪资和就业率。"
+        },
+        {
+          "term": "专业壁垒",
+          "explanation": "指从事某一职业或专业所必需的特定知识、技能或资质认证，这些要求构成了进入该领域的障碍。壁垒越高，通常意味着该领域人才越稀缺，薪资议价能力越强。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9feeea83",
+    "title": "Ranked: The World’s Safest Countries for Investors in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-safest-countries-for-investors-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/9feeea83.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDr3mqB33VE5NIvWqM0xTHmiph0op2LP//Z",
+    "image_version": 1782753995,
+    "pub_date": "Mon, 29 Jun 2026 14:08:57 +0000",
+    "content_md": "| Rank | Country | Global Investment Risk and Resilience Score2026 |\n| --- | --- | --- |\n| 1 | Switzerland | 88.4 |\n| 2 | Denmark | 85.1 |\n| 3 | Norway | 83.5 |\n| 4 | Singapore | 83.4 |\n| 5 | Sweden | 83.2 |\n| 6 | Luxembourg | 83.0 |\n| 7 | Finland | 82.1 |\n| 8 | Netherlands | 80.8 |\n| 9 | Germany | 80.7 |\n| 10 | Iceland | 79.8 |\n| 11 | Canada | 78.5 |\n| 12 | Austria | 78.5 |\n| 13 | Estonia | 78.4 |\n| 14 | Czechia | 78.0 |\n| 15 | Ireland | 77.9 |\n| 16 | New Zealand | 77.8 |\n| 17 | Hong Kong SAR | 76.5 |\n| 18 | Slovenia | 75.7 |\n| 19 | UK | 75.2 |\n| 20 | South Korea | 74.8 |\n| 21 | Belgium | 74.4 |\n| 22 | Lithuania | 74.4 |\n| 23 | France | 74.2 |\n| 24 | U.S. | 73.0 |\n| 25 | Brunei | 73.0 |\n| 26 | Latvia | 72.9 |\n| 27 | Japan | 71.7 |\n| 28 | Malta | 71.5 |\n| 29 | UAE | 71.3 |\n| 30 | Slovakia | 70.7 |\n| 31 | Croatia | 69.8 |\n| 32 | Australia | 69.6 |\n| 33 | Poland | 69.5 |\n| 34 | Uruguay | 69.3 |\n| 35 | Israel | 69.1 |\n| 36 | Italy | 68.6 |\n| 37 | China | 68.5 |\n| 38 | Qatar | 68.1 |\n| 39 | Georgia | 68.0 |\n| 40 | Bulgaria | 67.9 |\n| 41 | Malaysia | 67.4 |\n| 42 | Hungary | 67.4 |\n| 43 | Chile | 67.1 |\n| 44 | Saudi Arabia | 67.0 |\n| 45 | Kuwait | 66.5 |\n| 46 | Spain | 66.4 |\n| 47 | Cyprus | 66.1 |\n| 48 | Portugal | 65.2 |\n| 49 | North Macedonia | 65.0 |\n| 50 | Panama | 64.8 |",
+    "ai_analysis": {
+      "core_insight": "瑞士以绝对优势领跑2026年全球投资风险与韧性指数，北欧国家及新加坡构成安全投资第一梯队。",
+      "data_highlights": [
+        "瑞士以88.4分高居榜首，领先第二名丹麦3.3分，优势显著。",
+        "前六名中，北欧国家占据四席（丹麦、挪威、瑞典、芬兰），加上瑞士与新加坡，共同构成顶尖安全投资地。",
+        "传统经济大国排名分化：德国（第9）与加拿大（第11）跻身前列，而美国（第24）、日本（第27）排名相对靠后。",
+        "中国以68.5分排名第37，位于榜单中游，得分高于意大利、以色列等，但低于波兰、乌拉圭。",
+        "榜单末尾的巴拿马（第50，64.8分）与榜首瑞士分差达23.6分，全球投资环境安全性差异巨大。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Global Investment Risk and Resilience Score2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Switzerland",
+              "88.4"
+            ],
+            [
+              "2",
+              "Denmark",
+              "85.1"
+            ],
+            [
+              "3",
+              "Norway",
+              "83.5"
+            ],
+            [
+              "4",
+              "Singapore",
+              "83.4"
+            ],
+            [
+              "5",
+              "Sweden",
+              "83.2"
+            ],
+            [
+              "6",
+              "Luxembourg",
+              "83.0"
+            ],
+            [
+              "7",
+              "Finland",
+              "82.1"
+            ],
+            [
+              "8",
+              "Netherlands",
+              "80.8"
+            ],
+            [
+              "9",
+              "Germany",
+              "80.7"
+            ],
+            [
+              "10",
+              "Iceland",
+              "79.8"
+            ],
+            [
+              "11",
+              "Canada",
+              "78.5"
+            ],
+            [
+              "12",
+              "Austria",
+              "78.5"
+            ],
+            [
+              "13",
+              "Estonia",
+              "78.4"
+            ],
+            [
+              "14",
+              "Czechia",
+              "78.0"
+            ],
+            [
+              "15",
+              "Ireland",
+              "77.9"
+            ],
+            [
+              "16",
+              "New Zealand",
+              "77.8"
+            ],
+            [
+              "17",
+              "Hong Kong SAR",
+              "76.5"
+            ],
+            [
+              "18",
+              "Slovenia",
+              "75.7"
+            ],
+            [
+              "19",
+              "UK",
+              "75.2"
+            ],
+            [
+              "20",
+              "South Korea",
+              "74.8"
+            ],
+            [
+              "21",
+              "Belgium",
+              "74.4"
+            ],
+            [
+              "22",
+              "Lithuania",
+              "74.4"
+            ],
+            [
+              "23",
+              "France",
+              "74.2"
+            ],
+            [
+              "24",
+              "U.S.",
+              "73.0"
+            ],
+            [
+              "25",
+              "Brunei",
+              "73.0"
+            ],
+            [
+              "26",
+              "Latvia",
+              "72.9"
+            ],
+            [
+              "27",
+              "Japan",
+              "71.7"
+            ],
+            [
+              "28",
+              "Malta",
+              "71.5"
+            ],
+            [
+              "29",
+              "UAE",
+              "71.3"
+            ],
+            [
+              "30",
+              "Slovakia",
+              "70.7"
+            ],
+            [
+              "31",
+              "Croatia",
+              "69.8"
+            ],
+            [
+              "32",
+              "Australia",
+              "69.6"
+            ],
+            [
+              "33",
+              "Poland",
+              "69.5"
+            ],
+            [
+              "34",
+              "Uruguay",
+              "69.3"
+            ],
+            [
+              "35",
+              "Israel",
+              "69.1"
+            ],
+            [
+              "36",
+              "Italy",
+              "68.6"
+            ],
+            [
+              "37",
+              "China",
+              "68.5"
+            ],
+            [
+              "38",
+              "Qatar",
+              "68.1"
+            ],
+            [
+              "39",
+              "Georgia",
+              "68.0"
+            ],
+            [
+              "40",
+              "Bulgaria",
+              "67.9"
+            ],
+            [
+              "41",
+              "Malaysia",
+              "67.4"
+            ],
+            [
+              "42",
+              "Hungary",
+              "67.4"
+            ],
+            [
+              "43",
+              "Chile",
+              "67.1"
+            ],
+            [
+              "44",
+              "Saudi Arabia",
+              "67.0"
+            ],
+            [
+              "45",
+              "Kuwait",
+              "66.5"
+            ],
+            [
+              "46",
+              "Spain",
+              "66.4"
+            ],
+            [
+              "47",
+              "Cyprus",
+              "66.1"
+            ],
+            [
+              "48",
+              "Portugal",
+              "65.2"
+            ],
+            [
+              "49",
+              "North Macedonia",
+              "65.0"
+            ],
+            [
+              "50",
+              "Panama",
+              "64.8"
+            ]
+          ],
+          "caption": "2026年全球投资风险与韧性指数排名（前50）"
+        }
+      ],
+      "deep_dive": "## 区域格局与核心驱动因素\n2026年的全球投资风险与韧性指数清晰地勾勒出以**欧洲，特别是北欧和西欧**为核心的安全投资高地。瑞士、丹麦、挪威等国长期占据榜首，并非偶然。其背后的共同驱动因素包括：**高度成熟且透明的法律与监管体系**、**政治稳定性极强**、**宏观经济基本面稳健**（如低公共债务、高主权信用评级），以及**高效的公共治理与社会契约**。这些要素共同构建了一个可预测、低风险的投资环境，显著降低了政策突变、社会动荡或债务违约等系统性风险。\n\n值得注意的是，**新加坡（第4）和中国香港特别行政区（第17）** 作为亚洲的金融枢纽，凭借其卓越的营商便利性、法治水平和资本流动自由度，成功跻身安全投资前列，体现了**法治与市场开放度**对资本信心的关键作用。相比之下，传统经济强国如美国（第24）、日本（第27）的排名凸显了指数可能更侧重于 **“风险规避”而非“增长潜力”** 。美国可能因政治极化加剧、债务可持续性担忧等结构性问题失分；日本则可能受制于长期的人口老龄化与增长乏力挑战。\n\n## 主要经济体的镜鉴与启示\n该排名对主要经济体提供了深刻的镜鉴。**德国（第9）** 作为欧洲经济引擎，其稳健的财政纪律、强大的制造业基础和深度融入欧洲单一市场，是其高分的基石。**中国（第37）** 位于中游，反映了其庞大的市场机遇与固有投资风险并存的局面。尽管中国在基础设施和数字经济方面取得巨大进步，但外部投资者可能仍对其**监管政策的可预测性、市场准入限制以及地缘政治风险**存在顾虑。\n\n榜单末尾的国家（如巴拿马、北马其顿等）通常面临更严峻的治理挑战、政治不确定性或经济结构单一问题。这份排名启示全球投资者：**“安全”是一个多维度的概念**，不仅关乎短期回报，更关乎长期资本的保值与风险可控性。在进行跨国资产配置时，将此类韧性指数纳入考量，有助于构建更具防御性的投资组合，尤其在面对全球不确定性上升的时期。\n\n## 方法论的潜在局限\n尽管该指数提供了有价值的横向比较，但投资者也需理解其潜在局限。首先，**“投资风险”与“韧性”的构成权重未明**，我们不清楚经济、政治、社会或地缘政治因素各自占多少比重。其次，**前瞻性评分（2026年）可能包含模型预测成分**，其准确性取决于模型假设。最后，任何量化指数都难以完全捕捉**非线性风险（如突发金融危机）或文化等软性因素**。因此，该排名应作为投资决策的参考工具之一，而非唯一标准。",
+      "glossary": [
+        {
+          "term": "Global Investment Risk and Resilience Score",
+          "explanation": "全球投资风险与韧性指数，用于综合评估一个国家或地区对投资者的风险水平及应对外部冲击的韧性，通常涵盖政治、经济、法治、社会等多维度指标。"
+        },
+        {
+          "term": "主权信用评级",
+          "explanation": "由专业评级机构对一国政府作为债务人的信用风险进行的评估，是衡量国家经济稳定性和偿债能力的重要指标，直接影响其融资成本。"
+        },
+        {
+          "term": "营商便利性",
+          "explanation": "衡量在一个国家开办和运营企业的难易程度，通常涉及行政审批效率、税收制度、合同执行、产权保护等多个方面的评价。"
+        },
+        {
+          "term": "地缘政治风险",
+          "explanation": "指因国家或地区间政治、军事、外交关系紧张或冲突，可能对投资环境、贸易通道、资产安全等造成的潜在威胁。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0cc5db2b",
+    "title": "Mapped: Where Americans Work the Longest Weeks",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-americans-work-the-longest-weeks/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0cc5db2b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrLibFV458tTLwnmqkJO/rWCZ3cisbqSfKKKgjPyCiqMeU/9k=",
+    "image_version": 1782754028,
+    "pub_date": "Mon, 29 Jun 2026 12:04:52 +0000",
+    "content_md": "| Rank | State | Average Weekly Hours Worked |\n| --- | --- | --- |\n| 1 | Louisiana | 36.3 |\n| 2 | Texas | 35.9 |\n| 3 | Alabama | 35.8 |\n| 4 | District of Columbia | 35.4 |\n| 5 | Alaska | 35.3 |\n| 5 | West Virginia | 35.3 |\n| 7 | Mississippi | 35.2 |\n| 8 | Arkansas | 35.1 |\n| 8 | Kentucky | 35.1 |\n| 8 | Oklahoma | 35.1 |\n| 11 | Georgia | 34.9 |\n| 11 | North Dakota | 34.9 |\n| 11 | Wyoming | 34.9 |\n| 14 | Nevada | 34.7 |\n| 14 | Tennessee | 34.7 |\n| 16 | Washington | 34.5 |\n| 17 | Idaho | 34.4 |\n| 17 | Pennsylvania | 34.4 |\n| 19 | Florida | 34.2 |\n| 19 | North Carolina | 34.2 |\n| 21 | New Mexico | 34.1 |\n| 21 | Ohio | 34.1 |\n| 23 | Arizona | 33.9 |\n| 23 | Iowa | 33.9 |\n| 23 | Virginia | 33.9 |\n| 26 | Michigan | 33.8 |\n| 26 | New Jersey | 33.8 |\n| 26 | South Carolina | 33.8 |\n| 29 | Indiana | 33.7 |\n| 30 | Kansas | 33.6 |\n| 30 | Nebraska | 33.6 |\n| 30 | Vermont | 33.6 |\n| 33 | Connecticut | 33.5 |\n| 34 | Illinois | 33.4 |\n| 34 | Maryland | 33.4 |\n| 36 | Rhode Island | 33.3 |\n| 37 | Montana | 33.1 |\n| 37 | Utah | 33.1 |\n| 39 | Massachusetts | 33 |\n| 40 | Colorado | 32.9 |\n| 40 | Missouri | 32.9 |\n| 40 | New Hampshire | 32.9 |\n| 40 | New York | 32.9 |\n| 40 | Oregon | 32.9 |\n| 40 | Wisconsin | 32.9 |\n| 46 | California | 32.8 |\n| 47 | Maine | 32.7 |\n| 47 | Minnesota | 32.7 |\n| 49 | South Dakota | 32.6 |\n| 50 | Hawaii | 32.5 |\n| 51 | Delaware | 32.4 |",
+    "ai_analysis": {
+      "core_insight": "美国南部各州平均工作时长普遍更长，而东北及西海岸各州普遍更短。",
+      "data_highlights": [
+        "路易斯安那州以每周36.3小时位居榜首，比最后一名特拉华州多出近4小时。",
+        "前10名中，南部各州占据绝对多数（8个），包括德州、阿拉巴马、密西西比等。",
+        "哥伦比亚特区以35.4小时位列第4，反映了首都地区独特的工作节奏。",
+        "多个州出现并列排名，如阿拉斯加与西弗吉尼亚并列第5（35.3小时）。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Average Weekly Hours Worked"
+          ],
+          "rows": [
+            [
+              "1",
+              "Louisiana",
+              "36.3"
+            ],
+            [
+              "2",
+              "Texas",
+              "35.9"
+            ],
+            [
+              "3",
+              "Alabama",
+              "35.8"
+            ],
+            [
+              "4",
+              "District of Columbia",
+              "35.4"
+            ],
+            [
+              "5",
+              "Alaska",
+              "35.3"
+            ],
+            [
+              "5",
+              "West Virginia",
+              "35.3"
+            ],
+            [
+              "7",
+              "Mississippi",
+              "35.2"
+            ],
+            [
+              "8",
+              "Arkansas",
+              "35.1"
+            ],
+            [
+              "8",
+              "Kentucky",
+              "35.1"
+            ],
+            [
+              "8",
+              "Oklahoma",
+              "35.1"
+            ],
+            [
+              "11",
+              "Georgia",
+              "34.9"
+            ],
+            [
+              "11",
+              "North Dakota",
+              "34.9"
+            ],
+            [
+              "11",
+              "Wyoming",
+              "34.9"
+            ],
+            [
+              "14",
+              "Nevada",
+              "34.7"
+            ],
+            [
+              "14",
+              "Tennessee",
+              "34.7"
+            ],
+            [
+              "16",
+              "Washington",
+              "34.5"
+            ],
+            [
+              "17",
+              "Idaho",
+              "34.4"
+            ],
+            [
+              "17",
+              "Pennsylvania",
+              "34.4"
+            ],
+            [
+              "19",
+              "Florida",
+              "34.2"
+            ],
+            [
+              "19",
+              "North Carolina",
+              "34.2"
+            ],
+            [
+              "21",
+              "New Mexico",
+              "34.1"
+            ],
+            [
+              "21",
+              "Ohio",
+              "34.1"
+            ],
+            [
+              "23",
+              "Arizona",
+              "33.9"
+            ],
+            [
+              "23",
+              "Iowa",
+              "33.9"
+            ],
+            [
+              "23",
+              "Virginia",
+              "33.9"
+            ],
+            [
+              "26",
+              "Michigan",
+              "33.8"
+            ],
+            [
+              "26",
+              "New Jersey",
+              "33.8"
+            ],
+            [
+              "26",
+              "South Carolina",
+              "33.8"
+            ],
+            [
+              "29",
+              "Indiana",
+              "33.7"
+            ],
+            [
+              "30",
+              "Kansas",
+              "33.6"
+            ],
+            [
+              "30",
+              "Nebraska",
+              "33.6"
+            ],
+            [
+              "30",
+              "Vermont",
+              "33.6"
+            ],
+            [
+              "33",
+              "Connecticut",
+              "33.5"
+            ],
+            [
+              "34",
+              "Illinois",
+              "33.4"
+            ],
+            [
+              "34",
+              "Maryland",
+              "33.4"
+            ],
+            [
+              "36",
+              "Rhode Island",
+              "33.3"
+            ],
+            [
+              "37",
+              "Montana",
+              "33.1"
+            ],
+            [
+              "37",
+              "Utah",
+              "33.1"
+            ],
+            [
+              "39",
+              "Massachusetts",
+              "33"
+            ],
+            [
+              "40",
+              "Colorado",
+              "32.9"
+            ],
+            [
+              "40",
+              "Missouri",
+              "32.9"
+            ],
+            [
+              "40",
+              "New Hampshire",
+              "32.9"
+            ],
+            [
+              "40",
+              "New York",
+              "32.9"
+            ],
+            [
+              "40",
+              "Oregon",
+              "32.9"
+            ],
+            [
+              "40",
+              "Wisconsin",
+              "32.9"
+            ],
+            [
+              "46",
+              "California",
+              "32.8"
+            ],
+            [
+              "47",
+              "Maine",
+              "32.7"
+            ],
+            [
+              "47",
+              "Minnesota",
+              "32.7"
+            ],
+            [
+              "49",
+              "South Dakota",
+              "32.6"
+            ],
+            [
+              "50",
+              "Hawaii",
+              "32.5"
+            ],
+            [
+              "51",
+              "Delaware",
+              "32.4"
+            ]
+          ],
+          "caption": "美国各州平均每周工作时长排名"
+        }
+      ],
+      "deep_dive": "## 区域差异与经济结构分析\n数据显示，美国各州的平均每周工作时长存在显著的区域差异。排名靠前的州多集中在南部和西部资源型州，而排名靠后的州则多位于东北部和西海岸的发达州。这种差异主要源于以下几个因素：\n- **产业结构**：南部各州如路易斯安那、德克萨斯和阿拉巴马，传统能源、制造业和农业占比高，这些行业通常需要更长的工时。而东北部的纽约、马萨诸塞等州以金融、科技、专业服务为主，更注重效率而非工时长度。\n- **生活成本与工资水平**：高生活成本地区的居民可能通过更短的工时或更灵活的工作安排来维持生活质量，而低成本地区的居民可能需要通过延长工时来增加收入。\n- **政策与文化**：各州劳动法规、工会力量以及工作文化的不同也会影响工时。例如，哥伦比亚特区的高排名可能与政府机构、游说团体及高强度的政治活动相关。\n\n## 对劳动力市场的启示与局限性\n这一排名为理解美国劳动力市场提供了重要视角，但也存在一些局限：\n- **启示**：长工时不一定等于高生产率。企业及政策制定者应关注工作质量与员工福祉，避免“工时竞赛”。同时，产业结构转型地区的工时变化可作为经济健康度的参考指标。\n- **局限性**：平均工时数据掩盖了行业、职业和个体间的巨大差异。例如，同一州内，科技公司员工与餐饮业员工的工时可能天差地别。此外，数据未区分自愿加班与强制加班，也未涵盖零工经济等非传统就业形式。\n- **政策参考**：地方政府在制定劳动政策时，需结合本地产业特点，避免“一刀切”。对于工时普遍较长的地区，应加强劳动权益保障，推动弹性工作制，以提升整体社会福祉。",
+      "glossary": [
+        {
+          "term": "Average Weekly Hours Worked",
+          "explanation": "指特定地区就业人员在一周内的平均工作小时数，是衡量劳动力投入强度和工作文化的重要指标。"
+        },
+        {
+          "term": "产业结构",
+          "explanation": "指一个地区或国家经济中各产业（如农业、制造业、服务业）的构成比例和相互关系，深刻影响就业模式和工时水平。"
+        },
+        {
+          "term": "零工经济",
+          "explanation": "指基于短期合同或自由职业，而非长期稳定雇佣关系的经济模式，通常通过数字平台匹配供需，其工时统计往往不被传统数据完全覆盖。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "73e25d75",
+    "title": "Countries With the Highest Percentage of Male Population",
+    "original_url": "https://www.visualcapitalist.com/cp/countries-with-the-highest-percentage-of-male-population/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/73e25d75.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwBBS5oNNNejc4eRWFzRTaKq5PKf/9k=",
+    "image_version": 1782754053,
+    "pub_date": "Mon, 29 Jun 2026 09:28:58 +0000",
+    "content_md": "| Rank | Country | Percentage Male Population |\n| --- | --- | --- |\n| 1 | Qatar | 72% |\n| 2 | U.A.E | 64% |\n| 3 | Maldives | 62% |\n| 4 | Oman | 62% |\n| 5 | Bahrain | 62% |\n| 6 | Kuwait | 61% |\n| 7 | Saudi Arabia | 61% |\n| 8 | Seychelles | 55% |\n| 9 | Palau | 54% |\n| 10 | Bhutan | 53% |\n| 11 | Brunei Darussalam | 53% |\n| 12 | Equatorial Guinea | 53% |\n| 13 | Greenland | 53% |\n| 14 | Malaysia | 52% |\n| 15 | Malta | 52% |",
+    "ai_analysis": {
+      "core_insight": "男性人口比例最高的国家集中于中东产油国，反映外籍劳工结构。",
+      "data_highlights": [
+        "卡塔尔以72%的男性人口比例高居榜首，远超全球平均水平。",
+        "前七名均为中东产油国，男性比例均超过60%。",
+        "自第8名起，性别比例显著下降，接近全球50:50的常态。",
+        "非洲、亚洲及小岛国也出现在榜单中，但比例仅略高于50%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Percentage Male Population"
+          ],
+          "rows": [
+            [
+              "1",
+              "Qatar",
+              "72%"
+            ],
+            [
+              "2",
+              "U.A.E",
+              "64%"
+            ],
+            [
+              "3",
+              "Maldives",
+              "62%"
+            ],
+            [
+              "4",
+              "Oman",
+              "62%"
+            ],
+            [
+              "5",
+              "Bahrain",
+              "62%"
+            ],
+            [
+              "6",
+              "Kuwait",
+              "61%"
+            ],
+            [
+              "7",
+              "Saudi Arabia",
+              "61%"
+            ],
+            [
+              "8",
+              "Seychelles",
+              "55%"
+            ],
+            [
+              "9",
+              "Palau",
+              "54%"
+            ],
+            [
+              "10",
+              "Bhutan",
+              "53%"
+            ],
+            [
+              "11",
+              "Brunei Darussalam",
+              "53%"
+            ],
+            [
+              "12",
+              "Equatorial Guinea",
+              "53%"
+            ],
+            [
+              "13",
+              "Greenland",
+              "53%"
+            ],
+            [
+              "14",
+              "Malaysia",
+              "52%"
+            ],
+            [
+              "15",
+              "Malta",
+              "52%"
+            ]
+          ],
+          "caption": "男性人口比例最高的15个国家"
+        }
+      ],
+      "deep_dive": "## 现象解读：高度集中的性别比失衡\n数据显示，男性人口比例最高的国家呈现明显的地域和产业集中性。前七名国家（卡塔尔、阿联酋、马尔代夫、阿曼、巴林、科威特、沙特阿拉伯）均位于中东波斯湾沿岸，且是重要的石油和天然气生产国或旅游服务枢纽。这些国家的男性人口比例普遍超过60%，远高于全球约50.4%的平均水平。这种极端失衡并非由自然出生性别比导致，而是其经济结构吸引大量外籍男性劳工的直接体现。\n\n## 驱动机制与结构性分析\n### 1. 经济结构是核心驱动力\n中东产油国依赖石油出口积累了巨额财富，并启动了大规模基础设施建设计划。建筑业、能源业和相关服务业需要大量体力劳动者，而这些岗位通常由来自南亚、东南亚等地的男性劳工承担。他们普遍为单身或暂时移居，不携带家眷，导致工作年龄人口中男性比例极高。例如，卡塔尔在承办世界杯等大型活动期间，建筑业劳动力需求激增，进一步拉高了男性比例。\n\n### 2. 移民政策与人口结构\n这些国家的签证和就业政策通常倾向于吸引特定行业的男性劳动力，而家庭团聚签证门槛较高。这形成了“侨民劳动力”的独特人口结构，侨民人口总数可能远超本国公民。以卡塔尔为例，其总人口中本国公民仅占少数，绝大多数是外籍工人，其中男性占压倒性多数。\n\n### 3. 与其他国家的对比\n榜单后段的国家，如塞舌尔、帕劳、不丹、文莱、赤道几内亚、格陵兰等，其男性比例（53%-55%）虽仍略高，但原因各不相同。可能涉及小型岛国特定产业（如渔业、旅游业）对男性劳动力的需求、历史人口模式或少量男性侨民的影响。马来西亚和马耳他（52%）的比例则已非常接近平衡，其上榜更多是由于细微的统计差异。\n\n## 启示与局限性思考\n这一数据揭示了全球化背景下劳动力流动对国家人口结构的深刻重塑。然而，也需注意其局限性：首先，高比例掩盖了潜在的劳工权益和社会融入问题；其次，这种结构高度依赖单一经济模式，具有脆弱性；最后，此类统计是“快照”，无法反映人口流动的动态变化。理解性别比例，必须结合该国具体的经济模式、移民政策和人口普查方法。",
+      "glossary": [
+        {
+          "term": "外籍劳工",
+          "explanation": "指离开其原籍国前往其他国家工作以获取报酬的劳动者，在中东地区尤为普遍，是造成当地性别比例失衡的主要原因。"
+        },
+        {
+          "term": "性别比例",
+          "explanation": "通常指每100名女性对应的男性数量。本文中以“男性人口百分比”表示，计算公式为（男性人口/总人口）* 100%。"
+        },
+        {
+          "term": "侨民劳动力",
+          "explanation": "指一个国家中非本国出生、因工作目的而居住的劳动者群体，其规模和结构深刻影响着该国的人口统计和经济。"
+        }
+      ]
+    }
+  },
+  {
     "id": "83c8a110",
     "title": "Countries With the Highest Percentage of Female Population",
     "original_url": "https://www.visualcapitalist.com/cp/countries-with-the-highest-percentage-of-female-population/",
