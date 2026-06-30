@@ -1,5 +1,105 @@
 [
   {
+    "id": "7ea046f4",
+    "title": "Ranked: Countries Building the Most Small Modular Nuclear Reactors",
+    "original_url": "https://www.visualcapitalist.com/sp/npuc26-ranked-countries-building-the-most-small-modular-nuclear-reactors/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7ea046f4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuZHqAtzTmzTMHNMyY8HiikxRQSTmOk8up6KRpYh8uipqKYWP/2Q==",
+    "image_version": 1782857179,
+    "pub_date": "Tue, 30 Jun 2026 15:46:00 +0000",
+    "content_md": "| Rank | Country | Number of Siting Announcements |\n| --- | --- | --- |\n| 1 | United States | 28 |\n| 2 | Canada | 9 |\n| 3 | United Kingdom | 7 |\n| 4 | Russia | 5 |\n| 5 | China | 4 |\n| 6 | Finland | 4 |\n| 7 | France | 4 |\n| 8 | Poland | 4 |\n| 9 | Indonesia | 3 |\n| 10 | Sweden | 3 |",
+    "ai_analysis": {
+      "core_insight": "美国在小型模块化核反应堆（SMR）的厂址宣布数量上遥遥领先，凸显其在该领域的战略雄心。",
+      "data_highlights": [
+        "美国以28个厂址宣布数量位居榜首，远超其他国家。",
+        "加拿大和英国分列第二、三位，显示出盎格鲁-撒克逊国家在SMR领域的集体布局。",
+        "芬兰、法国、波兰并列第六，各有4个厂址宣布，反映了欧洲多国积极布局。",
+        "亚洲方面，中国和印度尼西亚上榜，显示亚洲新兴市场的参与。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Number of Siting Announcements"
+          ],
+          "rows": [
+            [
+              "1",
+              "United States",
+              "28"
+            ],
+            [
+              "2",
+              "Canada",
+              "9"
+            ],
+            [
+              "3",
+              "United Kingdom",
+              "7"
+            ],
+            [
+              "4",
+              "Russia",
+              "5"
+            ],
+            [
+              "5",
+              "China",
+              "4"
+            ],
+            [
+              "6",
+              "Finland",
+              "4"
+            ],
+            [
+              "7",
+              "France",
+              "4"
+            ],
+            [
+              "8",
+              "Poland",
+              "4"
+            ],
+            [
+              "9",
+              "Indonesia",
+              "3"
+            ],
+            [
+              "10",
+              "Sweden",
+              "3"
+            ]
+          ],
+          "caption": "各国小型模块化核反应堆（SMR）厂址宣布数量排名"
+        }
+      ],
+      "deep_dive": "## 全球SMR部署竞赛：格局与动因分析\n\n本次排名清晰地勾勒出全球小型模块化核反应堆（SMR）领域的早期竞争格局。美国以压倒性的28个厂址宣布数量独占鳌头，这与其政府的强力政策支持、庞大的能源市场、成熟的核工业基础以及追求能源安全与脱碳目标的战略密切相关。加拿大的第二名（9个）和英国的第三名（7个）同样值得关注，两国均将SMR视为实现净零排放目标和重振本土核工业的关键抓手，形成了盎格鲁-撒克逊国家的先发集团。\n\n另一方面，传统核大国如俄罗斯（5个）、中国（4个）与法国（4个）也悉数上榜，但宣布数量相对有限。这或许表明其技术路线或战略重心仍侧重于传统大型反应堆，但也在为下一代技术进行前瞻布局。值得注意的是，波兰（4个）作为非传统核能国家积极入局，反映了地缘政治变化（如寻求能源独立）和脱碳压力对其能源战略的重大影响。芬兰和瑞典（3个）上榜，则体现了北欧国家在坚持可再生能源的同时，为电网稳定性寻求低碳基荷电源的考量。\n\n## 技术前景、商业挑战与全球启示\n\n“厂址宣布”是项目开发的早期信号，远非最终投资决定或建成运行。因此，高排名代表了市场热度和国家支持意愿，但后续面临巨大挑战：技术成熟度、成本控制、监管审批、供应链建设以及公众接受度都是关键变量。美国的领先地位能否转化为实际部署优势，取决于其能否解决复杂的监管整合和融资问题。\n\n从全球视角看，SMR竞赛正在重塑核能产业地图。它不仅是技术竞争，更是国家能源战略、产业政策和地缘影响力的综合比拼。对于发展中国家如印度尼西亚（3个）而言，SMR可能为其提供一种更灵活、投资门槛相对较低的低碳能源选择。然而，所有参与者都需警惕“技术泡沫”，避免因过度乐观的宣布而忽视项目落地的真实难度。SMR的未来成败，将深刻影响全球能源转型的路径和速度。",
+      "glossary": [
+        {
+          "term": "Small Modular Reactor (SMR)",
+          "explanation": "小型模块化反应堆，指发电功率通常低于300兆瓦、可采用模块化方式制造和运输的核反应堆。相比传统大型堆，其投资更灵活、建设周期可能更短。"
+        },
+        {
+          "term": "Siting Announcement",
+          "explanation": "厂址宣布，指政府或企业正式公布计划在特定地点建造核反应堆的意向声明。这是项目开发的早期阶段，远早于获得最终许可和开工建设。"
+        },
+        {
+          "term": "Net Zero Emissions",
+          "explanation": "净零排放，指通过减排和碳移除等方式，使人为排放的温室气体总量与从大气中移除的总量相平衡，是应对气候变化的核心目标。"
+        },
+        {
+          "term": "Baseload Power",
+          "explanation": "基荷电源，指能够持续、稳定地提供电力供应，以满足电网最低需求的电力来源。核电因其高容量因子常被视为理想的基荷电源。"
+        }
+      ]
+    }
+  },
+  {
     "id": "94d71830",
     "title": "Ranked: Where It Costs the Most to Stay Cool in America",
     "original_url": "https://www.visualcapitalist.com/where-it-costs-the-most-to-stay-cool-in-america/",
