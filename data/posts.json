@@ -1,5 +1,387 @@
 [
   {
+    "id": "ee841d64",
+    "title": "Ranked: America’s 20 Lowest-Paying College Degrees",
+    "original_url": "https://www.visualcapitalist.com/sp/ter02-ranked-americas-20-lowest-paying-college-degrees/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ee841d64.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDGWmydKmRabKvFZX1O+2hTJ5opWXmiruc9i3HIKJHBFUUc05nOKOUSmx7MM0VXLHNFOwrn/9k=",
+    "image_version": 1782827380,
+    "pub_date": "Tue, 30 Jun 2026 13:02:00 +0000",
+    "content_md": "| Rank | Major | Mid-Career Median Wage ($k) |\n| --- | --- | --- |\n| 1 | Early Childhood Education | 52 |\n| 2 | Elementary Education | 55 |\n| 3 | General Education | 56 |\n| 4 | Special Education | 56 |\n| 5 | Miscellaneous Education | 60 |\n| 6 | Social Services | 60 |\n| 7 | Secondary Education | 62 |\n| 8 | Family and Consumer Sciences | 65 |\n| 9 | Anthropology | 65 |\n| 10 | Theology and Religion | 66 |\n| 11 | Health Services | 67 |\n| 12 | Nutrition Sciences | 70 |\n| 13 | Treatment Therapy | 70 |\n| 14 | Psychology | 72 |\n| 15 | Fine Arts | 72 |\n| 16 | Liberal Arts | 75 |\n| 17 | Leisure and Hospitality | 75 |\n| 18 | Earth Sciences | 75 |\n| 19 | General Social Sciences | 75 |\n| 20 | Performing Arts | 75 |",
+    "ai_analysis": {
+      "core_insight": "教育类专业占据低薪榜主导，文理社科艺术类紧随其后。",
+      "data_highlights": [
+        "教育类专业（前7名中占6席）薪资显著偏低，职业生涯中期中位数工资均低于6.2万美元。",
+        "社会科学与艺术类专业广泛分布于榜单中后段，薪资集中在6.5万至7.5万美元区间。",
+        "薪资最低的三个专业（幼教、小学教育、通识教育）与最高的专业（表演艺术）相差达2.3万美元。",
+        "榜单末尾多个专业薪资并列7.5万美元，显示部分文理、社科及艺术领域薪资天花板相近。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Major",
+            "Mid-Career Median Wage ($k)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Early Childhood Education",
+              "52"
+            ],
+            [
+              "2",
+              "Elementary Education",
+              "55"
+            ],
+            [
+              "3",
+              "General Education",
+              "56"
+            ],
+            [
+              "4",
+              "Special Education",
+              "56"
+            ],
+            [
+              "5",
+              "Miscellaneous Education",
+              "60"
+            ],
+            [
+              "6",
+              "Social Services",
+              "60"
+            ],
+            [
+              "7",
+              "Secondary Education",
+              "62"
+            ],
+            [
+              "8",
+              "Family and Consumer Sciences",
+              "65"
+            ],
+            [
+              "9",
+              "Anthropology",
+              "65"
+            ],
+            [
+              "10",
+              "Theology and Religion",
+              "66"
+            ],
+            [
+              "11",
+              "Health Services",
+              "67"
+            ],
+            [
+              "12",
+              "Nutrition Sciences",
+              "70"
+            ],
+            [
+              "13",
+              "Treatment Therapy",
+              "70"
+            ],
+            [
+              "14",
+              "Psychology",
+              "72"
+            ],
+            [
+              "15",
+              "Fine Arts",
+              "72"
+            ],
+            [
+              "16",
+              "Liberal Arts",
+              "75"
+            ],
+            [
+              "17",
+              "Leisure and Hospitality",
+              "75"
+            ],
+            [
+              "18",
+              "Earth Sciences",
+              "75"
+            ],
+            [
+              "19",
+              "General Social Sciences",
+              "75"
+            ],
+            [
+              "20",
+              "Performing Arts",
+              "75"
+            ]
+          ],
+          "caption": "美国20个薪资最低的大学专业排名"
+        }
+      ],
+      "deep_dive": "## 教育专业：公共服务属性下的薪资困境\n这份榜单揭示了一个清晰的模式：**教育类专业包揽了榜单前七名中的六席**。从幼儿教育到中等教育，这些专业的职业生涯中期中位数工资均未超过6.2万美元。这一现象背后是深刻的机制：公立教育系统（尤其是K-12基础教育）的薪酬结构主要由政府预算和税收决定，而非市场供需。教师的薪资增长通常与工龄和学历挂钩，而非专业技能在自由市场的议价能力，导致其收入曲线相对平缓。尽管社会对教育工作者的需求稳定，但其薪酬回报却显著低于许多需要同等教育年限的其他专业。\n\n## 文理社科与艺术：通用技能与“热爱”的代价\n榜单的中后段广泛分布着社会科学（如人类学、心理学）、人文学科（如神学、文科）以及艺术类专业（美术、表演艺术）。这些领域的共同特点是：\n- **技能通用性强，但专业壁垒低**：培养的批判性思维、沟通能力是宝贵的通用技能，但在就业市场上面临来自众多专业背景的竞争，难以形成独特的薪资溢价。\n- **职业路径分散，市场议价能力弱**：毕业生常进入非营利组织、文化机构、基础服务业等薪酬预算有限的领域。\n- **存在显著的“热情溢价”抵消**：许多学生选择这些专业出于强烈兴趣，这在一定程度上压低了市场均衡工资水平，因为供给端有稳定的“为热爱而工作”的群体。\n\n## 横向对比与结构性启示\n将这份低薪榜单与常见高薪专业（如工程、计算机科学、金融）对比，差异核心在于**技能的专有性与市场需求的急迫性**。STEM和商科专业的技能更直接对应资本密集型、高利润率行业的具体岗位，而教育、社科、艺术则更多对应公共服务、社会支持及文化消费领域，这些领域的价值衡量标准与资本增值逻辑不同。\n\n**结论**：这份排名不仅反映了专业选择的经济回报差异，更深层地揭示了社会对不同服务类型的估值排序。选择低薪专业往往意味着选择了特定的价值实现路径，而政策层面（如提高教育投入、扶持文化艺术产业）或能改变其经济回报。对于个体而言，选择这些专业需对长期职业回报有清晰预期，并在职业生涯中通过横向技能拓展（如教育技术、艺术管理）或进入高端细分市场来突破薪资天花板。",
+      "glossary": [
+        {
+          "term": "职业生涯中期中位数工资 (Mid-Career Median Wage)",
+          "explanation": "通常指毕业生在工作10年左右时的收入中位数，能较好反映该专业长期的薪资回报水平，避免了起薪的极端值影响。"
+        },
+        {
+          "term": "技能的专有性与通用性 (Specificity vs. Generality of Skills)",
+          "explanation": "专有性技能指针对特定岗位或行业、难以迁移的技能（如编程、手术）；通用性技能指可在多种职业中应用的技能（如写作、分析）。专有性技能通常对应更高的市场溢价。"
+        },
+        {
+          "term": "公共服务属性 (Public Service Nature)",
+          "explanation": "指职业的主要目标是提供公共产品或服务（如基础教育、社会福利），其薪酬通常由公共财政决定，而非完全遵循市场供需定价机制。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "764d017e",
+    "title": "Ranked: The World’s 30 Most Profitable Companies",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-most-profitable-companies-by-industry/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/764d017e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDCiXNWPKyKit+tXgPlr1KsbI82PvMotFzRVlhzRXFzG3s0f//Z",
+    "image_version": 1782827416,
+    "pub_date": "Tue, 30 Jun 2026 12:04:47 +0000",
+    "content_md": "| Rank | Name | Sector | Profit (billions $) |\n| --- | --- | --- | --- |\n| 1 | Alphabet | Technology | 160.2 |\n| 2 | Microsoft | Technology | 125.2 |\n| 3 | Apple | Technology | 122.6 |\n| 4 | NVIDIA | Technology | 120.1 |\n| 5 | Saudi Aramco | Energy | 99.3 |\n| 6 | Amazon | Retail | 90.8 |\n| 7 | Berkshire Hathaway | Financials | 72.5 |\n| 8 | Meta Platforms | Technology | 70.6 |\n| 9 | TSMC | Technology | 62.5 |\n| 10 | JPMorganChase | Financials | 58.6 |\n| 11 | Samsung | Technology | 58.5 |\n| 12 | SK Hynix | Technology | 52.7 |\n| 13 | ICBC | Financials | 51.3 |\n| 14 | China Construction Bank | Financials | 48.2 |\n| 15 | Agricultural Bank of China | Financials | 39.2 |\n| 16 | Bank of China | Financials | 34.5 |\n| 17 | Tencent Holdings | Technology | 33.1 |\n| 18 | Softbank | Technology | 33.1 |\n| 19 | Bank of America | Financials | 31.8 |\n| 20 | Toyota Motor | Autos | 25.5 |\n| 21 | ExxonMobil | Energy | 25.3 |\n| 22 | Eli Lilly | Health Care | 25.3 |\n| 23 | Broadcom | Technology | 25.0 |\n| 24 | Micron Technology | Technology | 24.1 |\n| 25 | Schweizerische Nationalbank | Financials | 23.6 |\n| 26 | PetroChina | Energy | 22.4 |\n| 27 | Visa | Financials | 22.0 |\n| 28 | Walmart | Retail | 21.9 |\n| 29 | Wells Fargo | Financials | 21.7 |\n| 30 | China Life Insurance | Financials | 21.5 |",
+    "ai_analysis": {
+      "core_insight": "科技巨头与金融巨头主导全球利润榜，行业利润高度集中。",
+      "data_highlights": [
+        "科技行业占据前四席，Alphabet以1602亿美元利润高居榜首。",
+        "金融行业公司数量最多（12家），但利润规模普遍低于科技巨头。",
+        "沙特阿美是唯一进入前五的非科技、非金融公司，位列第五。",
+        "中国公司有6家上榜，主要集中在金融和能源领域。",
+        "榜单利润总额超过3600亿美元，前四家公司贡献近四成。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Name",
+            "Sector",
+            "Profit (billions $)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Alphabet",
+              "Technology",
+              "160.2"
+            ],
+            [
+              "2",
+              "Microsoft",
+              "Technology",
+              "125.2"
+            ],
+            [
+              "3",
+              "Apple",
+              "Technology",
+              "122.6"
+            ],
+            [
+              "4",
+              "NVIDIA",
+              "Technology",
+              "120.1"
+            ],
+            [
+              "5",
+              "Saudi Aramco",
+              "Energy",
+              "99.3"
+            ],
+            [
+              "6",
+              "Amazon",
+              "Retail",
+              "90.8"
+            ],
+            [
+              "7",
+              "Berkshire Hathaway",
+              "Financials",
+              "72.5"
+            ],
+            [
+              "8",
+              "Meta Platforms",
+              "Technology",
+              "70.6"
+            ],
+            [
+              "9",
+              "TSMC",
+              "Technology",
+              "62.5"
+            ],
+            [
+              "10",
+              "JPMorganChase",
+              "Financials",
+              "58.6"
+            ],
+            [
+              "11",
+              "Samsung",
+              "Technology",
+              "58.5"
+            ],
+            [
+              "12",
+              "SK Hynix",
+              "Technology",
+              "52.7"
+            ],
+            [
+              "13",
+              "ICBC",
+              "Financials",
+              "51.3"
+            ],
+            [
+              "14",
+              "China Construction Bank",
+              "Financials",
+              "48.2"
+            ],
+            [
+              "15",
+              "Agricultural Bank of China",
+              "Financials",
+              "39.2"
+            ],
+            [
+              "16",
+              "Bank of China",
+              "Financials",
+              "34.5"
+            ],
+            [
+              "17",
+              "Tencent Holdings",
+              "Technology",
+              "33.1"
+            ],
+            [
+              "18",
+              "Softbank",
+              "Technology",
+              "33.1"
+            ],
+            [
+              "19",
+              "Bank of America",
+              "Financials",
+              "31.8"
+            ],
+            [
+              "20",
+              "Toyota Motor",
+              "Autos",
+              "25.5"
+            ],
+            [
+              "21",
+              "ExxonMobil",
+              "Energy",
+              "25.3"
+            ],
+            [
+              "22",
+              "Eli Lilly",
+              "Health Care",
+              "25.3"
+            ],
+            [
+              "23",
+              "Broadcom",
+              "Technology",
+              "25.0"
+            ],
+            [
+              "24",
+              "Micron Technology",
+              "Technology",
+              "24.1"
+            ],
+            [
+              "25",
+              "Schweizerische Nationalbank",
+              "Financials",
+              "23.6"
+            ],
+            [
+              "26",
+              "PetroChina",
+              "Energy",
+              "22.4"
+            ],
+            [
+              "27",
+              "Visa",
+              "Financials",
+              "22.0"
+            ],
+            [
+              "28",
+              "Walmart",
+              "Retail",
+              "21.9"
+            ],
+            [
+              "29",
+              "Wells Fargo",
+              "Financials",
+              "21.7"
+            ],
+            [
+              "30",
+              "China Life Insurance",
+              "Financials",
+              "21.5"
+            ]
+          ],
+          "caption": "全球最赚钱的30家公司"
+        }
+      ],
+      "deep_dive": "## 科技与金融：利润版图的两极分化\n\n榜单清晰地揭示了全球企业利润的行业集中度。**科技行业**展现出惊人的盈利能力，前四名被Alphabet、Microsoft、Apple和NVIDIA包揽，合计利润高达5281亿美元，占榜单总利润的约14.5%。这得益于数字广告、云计算、消费电子和人工智能芯片等高毛利、轻资产商业模式的规模效应与网络效应。尤其是NVIDIA，凭借在AI芯片领域的绝对优势，利润飙升至第四位。\n\n相比之下，**金融行业**在数量上占据绝对优势（12家），但其利润规模相对分散。从美国的摩根大通、伯克希尔哈撒韦，到中国的四大行，它们受益于资本密集型业务和宏观经济周期，但单个公司的利润天花板低于顶尖科技公司。瑞士央行作为央行机构上榜，其利润主要来自其庞大的外汇储备和资产运作，属于特例。\n\n## 地缘与行业的交织：值得关注的结构性信号\n\n1.  **美国主导，但中国力量凸显**：美国公司在前10名中占据8席，展现了其在科技和金融领域的强大实力。中国有6家公司上榜，虽然排名相对靠后，但覆盖金融、科技和能源，体现了其大型国企和新兴科技企业的全球竞争力。\n2.  **“旧经济”的坚守者**：沙特阿美（能源）、丰田汽车（汽车）和埃克森美孚（能源）等传统行业巨头依然位居前列，表明石油、汽车制造等实体经济领域在特定区域和价值链关键环节仍能产生巨额利润，但其增长故事与科技公司截然不同。\n3.  **利润背后的风险与局限**：高利润公司往往也面临高风险。科技巨头面临全球反垄断监管和估值压力；金融巨头与宏观经济及利率政策深度绑定；能源巨头的盈利则高度依赖大宗商品价格周期。此外，榜单衡量的是短期会计利润，未能完全反映公司的长期创新投入、社会外部性或可持续性表现。",
+      "glossary": [
+        {
+          "term": "规模效应",
+          "explanation": "指随着企业生产规模扩大，单位产品的成本下降，从而提升利润率的经济现象。在科技和金融行业尤为显著。"
+        },
+        {
+          "term": "轻资产商业模式",
+          "explanation": "指企业主要依靠品牌、知识产权、技术平台等无形资产运营，而非大量投资于厂房、设备等有形资产，通常具有较高的资产回报率和利润率。"
+        },
+        {
+          "term": "网络效应",
+          "explanation": "指一个产品或服务的价值随着用户数量的增加而增加。这是许多科技平台（如搜索引擎、社交网络）实现高利润和高市场壁垒的关键机制。"
+        },
+        {
+          "term": "资本密集型业务",
+          "explanation": "指需要大量资本投入（如机器、设备、建筑、金融资本）来维持运营和增长的行业，例如银行、能源和重工业。"
+        },
+        {
+          "term": "大宗商品周期",
+          "explanation": "指石油、金属等基础原材料的价格受全球供需关系影响而呈现的周期性波动，直接影响相关资源类公司（如沙特阿美、埃克森美孚）的盈利水平。"
+        }
+      ]
+    }
+  },
+  {
     "id": "dd3b5d94",
     "title": "Mapped: The Global Fertility Divide",
     "original_url": "https://www.visualcapitalist.com/mapped-global-fertility-divide/",
