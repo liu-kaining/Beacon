@@ -1,5 +1,312 @@
 [
   {
+    "id": "94d71830",
+    "title": "Ranked: Where It Costs the Most to Stay Cool in America",
+    "original_url": "https://www.visualcapitalist.com/where-it-costs-the-most-to-stay-cool-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/94d71830.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC5E/NX4DWXD1rSt+1fOI75IuDpRQOlFUQf/9k=",
+    "image_version": 1782847686,
+    "pub_date": "Tue, 30 Jun 2026 17:11:53 +0000",
+    "content_md": "| Rank | State or District | Estimated Average Electric BillJun–Sep 2026 |\n| --- | --- | --- |\n| 1 | Arizona | $1,060 |\n| 2 | Connecticut | $994 |\n| 3 | Texas | $936 |\n| 4 | Florida | $935 |\n| 5 | New Jersey | $915 |\n| 6 | Alabama | $911 |\n| 7 | Georgia | $891 |\n| 8 | Maryland | $886 |\n| 9 | Massachusetts | $882 |\n| 10 | South Carolina | $839 |\n| 11 | Mississippi | $834 |\n| 12 | Louisiana | $833 |\n| 13 | California | $828 |\n| 14 | Missouri | $803 |\n| 15 | Virginia | $798 |\n| 16 | Delaware | $789 |\n| 17 | Oklahoma | $786 |\n| 18 | Tennessee | $779 |\n| 19 | New York | $777 |\n| 20 | Rhode Island | $772 |\n| 21 | Indiana | $769 |\n| 22 | Pennsylvania | $749 |\n| 23 | Ohio | $745 |\n| 24 | District of Columbia | $725 |\n| 25 | North Carolina | $723 |\n| 26 | West Virginia | $718 |\n| 27 | Arkansas | $716 |\n| 28 | New Hampshire | $710 |\n| 29 | Kentucky | $708 |\n| 30 | Nevada | $705 |\n| 31 | Illinois | $687 |\n| 32 | Kansas | $687 |\n| 33 | Michigan | $655 |\n| 34 | Maine | $610 |\n| 35 | Utah | $609 |\n| 36 | Iowa | $601 |\n| 37 | Colorado | $592 |\n| 38 | Nebraska | $587 |\n| 39 | New Mexico | $584 |\n| 40 | Wisconsin | $580 |\n| 41 | Vermont | $579 |\n| 42 | South Dakota | $578 |\n| 43 | Oregon | $572 |\n| 44 | Minnesota | $556 |\n| 45 | Idaho | $512 |\n| 46 | Montana | $500 |\n| 47 | Wyoming | $491 |\n| 48 | North Dakota | $488 |\n| 49 | Washington | $488 |\n| -- | Alaska | n/a |\n| -- | Hawaii | n/a |\n| -- | U.S. Average | $792 |",
+    "ai_analysis": {
+      "core_insight": "美国夏季制冷电费负担呈现显著地域差异，高温与高电价共同推高了部分地区成本。",
+      "data_highlights": [
+        "亚利桑那州以1060美元高居榜首，是全国平均的1.34倍。",
+        "电价最高的前五州（亚利桑那、康涅狄格、德克萨斯、佛罗里达、新泽西）均超过900美元。",
+        "最经济的五个州（怀俄明、北达科他、华盛顿、蒙大拿、爱达荷）夏季制冷电费均低于520美元。",
+        "阿拉斯加和夏威夷数据缺失，但其气候与电价结构特殊，不在常规比较之列。",
+        "全国平均夏季制冷电费为792美元，约一半州低于此水平。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or District",
+            "Estimated Average Electric BillJun–Sep 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Arizona",
+              "$1,060"
+            ],
+            [
+              "2",
+              "Connecticut",
+              "$994"
+            ],
+            [
+              "3",
+              "Texas",
+              "$936"
+            ],
+            [
+              "4",
+              "Florida",
+              "$935"
+            ],
+            [
+              "5",
+              "New Jersey",
+              "$915"
+            ],
+            [
+              "6",
+              "Alabama",
+              "$911"
+            ],
+            [
+              "7",
+              "Georgia",
+              "$891"
+            ],
+            [
+              "8",
+              "Maryland",
+              "$886"
+            ],
+            [
+              "9",
+              "Massachusetts",
+              "$882"
+            ],
+            [
+              "10",
+              "South Carolina",
+              "$839"
+            ],
+            [
+              "11",
+              "Mississippi",
+              "$834"
+            ],
+            [
+              "12",
+              "Louisiana",
+              "$833"
+            ],
+            [
+              "13",
+              "California",
+              "$828"
+            ],
+            [
+              "14",
+              "Missouri",
+              "$803"
+            ],
+            [
+              "15",
+              "Virginia",
+              "$798"
+            ],
+            [
+              "16",
+              "Delaware",
+              "$789"
+            ],
+            [
+              "17",
+              "Oklahoma",
+              "$786"
+            ],
+            [
+              "18",
+              "Tennessee",
+              "$779"
+            ],
+            [
+              "19",
+              "New York",
+              "$777"
+            ],
+            [
+              "20",
+              "Rhode Island",
+              "$772"
+            ],
+            [
+              "21",
+              "Indiana",
+              "$769"
+            ],
+            [
+              "22",
+              "Pennsylvania",
+              "$749"
+            ],
+            [
+              "23",
+              "Ohio",
+              "$745"
+            ],
+            [
+              "24",
+              "District of Columbia",
+              "$725"
+            ],
+            [
+              "25",
+              "North Carolina",
+              "$723"
+            ],
+            [
+              "26",
+              "West Virginia",
+              "$718"
+            ],
+            [
+              "27",
+              "Arkansas",
+              "$716"
+            ],
+            [
+              "28",
+              "New Hampshire",
+              "$710"
+            ],
+            [
+              "29",
+              "Kentucky",
+              "$708"
+            ],
+            [
+              "30",
+              "Nevada",
+              "$705"
+            ],
+            [
+              "31",
+              "Illinois",
+              "$687"
+            ],
+            [
+              "32",
+              "Kansas",
+              "$687"
+            ],
+            [
+              "33",
+              "Michigan",
+              "$655"
+            ],
+            [
+              "34",
+              "Maine",
+              "$610"
+            ],
+            [
+              "35",
+              "Utah",
+              "$609"
+            ],
+            [
+              "36",
+              "Iowa",
+              "$601"
+            ],
+            [
+              "37",
+              "Colorado",
+              "$592"
+            ],
+            [
+              "38",
+              "Nebraska",
+              "$587"
+            ],
+            [
+              "39",
+              "New Mexico",
+              "$584"
+            ],
+            [
+              "40",
+              "Wisconsin",
+              "$580"
+            ],
+            [
+              "41",
+              "Vermont",
+              "$579"
+            ],
+            [
+              "42",
+              "South Dakota",
+              "$578"
+            ],
+            [
+              "43",
+              "Oregon",
+              "$572"
+            ],
+            [
+              "44",
+              "Minnesota",
+              "$556"
+            ],
+            [
+              "45",
+              "Idaho",
+              "$512"
+            ],
+            [
+              "46",
+              "Montana",
+              "$500"
+            ],
+            [
+              "47",
+              "Wyoming",
+              "$491"
+            ],
+            [
+              "48",
+              "North Dakota",
+              "$488"
+            ],
+            [
+              "49",
+              "Washington",
+              "$488"
+            ],
+            [
+              "--",
+              "Alaska",
+              "n/a"
+            ],
+            [
+              "--",
+              "Hawaii",
+              "n/a"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "$792"
+            ]
+          ],
+          "caption": "2026年夏季（6-9月）美国各州/特区预估平均电费排名"
+        }
+      ],
+      "deep_dive": "## 热浪与电价：夏季制冷成本的双重驱动力\n该排名揭示了影响夏季家庭电费的两大核心变量：气候炎热程度和基础电价水平。排名靠前的州通常兼具两者之一或全部特征。例如，亚利桑那州、德克萨斯州和佛罗里达州常年高温，制冷需求巨大，其高昂电费主要由漫长的“制冷季”和高能耗驱动。而康涅狄格、新泽西等东北部州，尽管夏季不如南方酷热，但其电价全美最高，推高了账单总额。这表明，即使制冷需求中等，高电价同样会导致沉重的能源支出负担。\n\n## 地域分异与能源结构启示\n从地理上看，美国夏季制冷成本呈现出清晰的南北差异和东西差异。南方“阳光地带”各州普遍位列前茅，反映了其气候对能源消费的刚性需求。而西北部太平洋沿岸的华盛顿、俄勒冈等州，得益于温和的气候和相对较低的电价，成为制冷最经济的地区之一。这种差异对公共政策有重要启示：在电价高企的地区，推广节能建筑、提升能效标准对缓解居民能源负担更为紧迫；在高温地区，电网韧性建设和分布式能源（如屋顶光伏）的发展则至关重要。同时，阿拉斯加和夏威夷的缺失提醒我们，岛屿和极地等特殊地理单元的能源体系与本土48州存在根本不同，需单独分析。\n\n## 数据的局限与思考\n需要指出的是，该数据为预估的平均电费，并未考虑家庭收入差异、住房类型、隔热条件以及个体用能习惯等微观因素。一个在高电价州拥有高效节能住宅的用户，其实际电费可能远低于州平均水平。因此，此排名主要反映的是宏观层面的地区性能源成本压力，而非个体家庭的具体账单。对于政策制定者和投资者而言，还需结合具体细分数据，才能精准识别问题并制定干预措施。",
+      "glossary": [
+        {
+          "term": "制冷季",
+          "explanation": "指一年中需要主动使用空调等设备进行制冷降温的时间段，通常为夏季。其长短直接影响区域电力需求峰值和居民用电量。"
+        },
+        {
+          "term": "电价",
+          "explanation": "指电力供应商向用户收取的单位电量费用，是构成电费的主要因素之一。美国电价因州而异，受发电成本、输配电网络、监管政策及市场竞争等因素影响。"
+        },
+        {
+          "term": "能源负担",
+          "explanation": "指家庭或个人为满足基本能源需求（如取暖、制冷、照明）所支付的费用占其总收入的比例。高能源负担是衡量能源贫困的重要指标。"
+        }
+      ]
+    }
+  },
+  {
     "id": "5861df15",
     "title": "Which States Produce the Most Food in America?",
     "original_url": "https://www.visualcapitalist.com/which-states-produce-the-most-food-in-america/",
