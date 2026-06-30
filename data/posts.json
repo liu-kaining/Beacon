@@ -1,5 +1,166 @@
 [
   {
+    "id": "dd3b5d94",
+    "title": "Mapped: The Global Fertility Divide",
+    "original_url": "https://www.visualcapitalist.com/mapped-global-fertility-divide/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/dd3b5d94.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlozUpPFV46lPSqMiNjzRTT1oqhH//2Q==",
+    "image_version": 1782784789,
+    "pub_date": "Mon, 29 Jun 2026 20:59:55 +0000",
+    "content_md": "| Country | Total Fertility Rate (TFR) | Above or Below 2.1(Replacement Rate) |\n| --- | --- | --- |\n| Chad | 5.94 | Above |\n| Somalia | 5.91 | Above |\n| DR Congo | 5.90 | Above |\n| Central African Republic | 5.81 | Above |\n| Niger | 5.79 | Above |\n| Mali | 5.42 | Above |\n| Angola | 4.95 | Above |\n| Burundi | 4.68 | Above |\n| Afghanistan | 4.66 | Above |\n| Mozambique | 4.62 | Above |\n| Mauritania | 4.56 | Above |\n| Mayotte | 4.50 | Above |\n| Tanzania | 4.47 | Above |\n| Benin | 4.42 | Above |\n| Yemen | 4.41 | Above |\n| Nigeria | 4.30 | Above |\n| Sudan | 4.19 | Above |\n| Cameroon | 4.19 | Above |\n| Ivory Coast | 4.17 | Above |\n| Togo | 4.07 | Above |\n| Uganda | 4.06 | Above |\n| Congo | 4.05 | Above |\n| Guinea | 4.04 | Above |\n| Equatorial Guinea | 4.04 | Above |\n| Burkina Faso | 4.00 | Above |\n| Zambia | 3.97 | Above |\n| Madagascar | 3.84 | Above |\n| Ethiopia | 3.81 | Above |\n| Gambia | 3.80 | Above |\n| Liberia | 3.79 | Above |\n| Comoros | 3.76 | Above |\n| Samoa | 3.75 | Above |\n| Senegal | 3.71 | Above |\n| South Sudan | 3.71 | Above |\n| Guinea-Bissau | 3.68 | Above |\n| Zimbabwe | 3.62 | Above |\n| Sierra Leone | 3.61 | Above |\n| Eritrea | 3.61 | Above |\n| Rwanda | 3.59 | Above |\n| Gabon | 3.54 | Above |\n| Malawi | 3.53 | Above |\n| Vanuatu | 3.53 | Above |\n| Sao Tome and Principe | 3.53 | Above |\n| Pakistan | 3.50 | Above |\n| Solomon Islands | 3.47 | Above |\n| Uzbekistan | 3.45 | Above |\n| Ghana | 3.30 | Above |\n| French Guiana | 3.29 | Above |\n| Nauru | 3.25 | Above |\n| Palestine | 3.19 | Above |\n| Iraq | 3.17 | Above |\n| Namibia | 3.17 | Above |\n| Tuvalu | 3.14 | Above |\n| Kenya | 3.12 | Above |\n| Kiribati | 3.09 | Above |\n| Tonga | 3.07 | Above |\n| Papua New Guinea | 3.03 | Above |\n| Tajikistan | 2.99 | Above |\n| Kazakhstan | 2.95 | Above |\n| Marshall Islands | 2.82 | Above |\n| Israel | 2.75 | Above |\n| Kyrgyzstan | 2.75 | Above |\n| Egypt | 2.71 | Above |\n| Guam | 2.71 | Above |\n| Micronesia | 2.71 | Above |\n| Eswatini | 2.68 | Above |\n| Algeria | 2.67 | Above |\n| Syria | 2.66 | Above |\n| Botswana | 2.66 | Above |\n| Lesotho | 2.64 | Above |\n| Turkmenistan | 2.63 | Above |\n| Saint Martin (French part) | 2.63 | Above |\n| Haiti | 2.59 | Above |\n| Mongolia | 2.58 | Above |\n| Djibouti | 2.58 | Above |\n| Jordan | 2.57 | Above |\n| Tokelau | 2.57 | Above |\n| Timor-Leste | 2.56 | Above |\n| Cambodia | 2.51 | Above |\n| Bolivia | 2.50 | Above |\n| Oman | 2.48 | Above |\n| Niue | 2.46 | Above |\n| Honduras | 2.45 | Above |\n| Paraguay | 2.39 | Above |\n| Guyana | 2.37 | Above |\n| Laos | 2.36 | Above |\n| Saudi Arabia | 2.29 | Above |\n| Northern Mariana Islands | 2.28 | Above |\n| Guatemala | 2.26 | Above |\n| Libya | 2.25 | Above |\n| Fiji | 2.25 | Above |\n| American Samoa | 2.25 | Above |\n| Lebanon | 2.21 | Above |\n| Suriname | 2.21 | Above |\n| Faroe Islands | 2.20 | Above |\n| South Africa | 2.19 | Above |\n| Dominican Republic | 2.19 | Above |\n| Morocco | 2.18 | Above |\n| Nicaragua | 2.18 | Above |\n| Western Sahara | 2.15 | Above |\n| Réunion | 2.13 | Above |\n| Bangladesh | 2.11 | Above |\n| Indonesia | 2.10 | Above |\n| Panama | 2.09 | Below |\n| Monaco | 2.09 | Below |\n| Myanmar | 2.08 | Below |\n| Seychelles | 2.08 | Below |\n| United States Virgin Islands | 2.07 | Below |\n| Venezuela | 2.06 | Below |\n| Guadeloupe | 2.05 | Below |\n| Belize | 2.01 | Below |\n| Cook Islands | 2.00 | Below |\n| Martinique | 1.97 | Below |\n| New Caledonia | 1.95 | Below |\n| India | 1.94 | Below |\n| Peru | 1.94 | Below |\n| Nepal | 1.94 | Below |\n| Sri Lanka | 1.94 | Below |\n| Greenland | 1.91 | Below |\n| Philippines | 1.88 | Below |\n| Vietnam | 1.88 | Below |\n| Gibraltar | 1.88 | Below |\n| Mexico | 1.87 | Below |\n| Palau | 1.86 | Below |\n| Tunisia | 1.80 | Below |\n| Montenegro | 1.80 | Below |\n| Ecuador | 1.79 | Below |\n| Georgia | 1.79 | Below |\n| Bahrain | 1.78 | Below |\n| Dem. People's Republic of Korea | 1.77 | Below |\n| El Salvador | 1.75 | Below |\n| St. Vincent & Grenadines | 1.75 | Below |\n| Bulgaria | 1.74 | Below |\n| Moldova | 1.72 | Below |\n| Romania | 1.71 | Below |\n| Armenia | 1.71 | Below |\n| Brunei | 1.71 | Below |\n| Qatar | 1.70 | Below |\n| Barbados | 1.70 | Below |\n| Falkland Islands | 1.69 | Below |\n| Iran | 1.67 | Below |\n| Azerbaijan | 1.66 | Below |\n| New Zealand | 1.65 | Below |\n| France | 1.64 | Below |\n| Australia | 1.64 | Below |\n| St. Helena | 1.64 | Below |\n| United States | 1.62 | Below |\n| Turkey | 1.62 | Below |\n| Colombia | 1.62 | Below |\n| Aruba | 1.61 | Below |\n| Brazil | 1.60 | Below |\n| Ireland | 1.60 | Below |\n| Slovenia | 1.58 | Below |\n| Antigua and Barbuda | 1.58 | Below |\n| Slovakia | 1.57 | Below |\n| Maldives | 1.55 | Below |\n| United Kingdom | 1.54 | Below |\n| Liechtenstein | 1.54 | Below |\n| Malaysia | 1.53 | Below |\n| Kosovo (under UNSC res. 1244) | 1.53 | Below |\n| Isle of Man | 1.53 | Below |\n| Portugal | 1.52 | Below |\n| Denmark | 1.52 | Below |\n| Trinidad and Tobago | 1.52 | Below |\n| Cayman Islands | 1.51 | Below |\n| St. Kitts & Nevis | 1.51 | Below |\n| Argentina | 1.50 | Below |\n| Hungary | 1.50 | Below |\n| Serbia | 1.50 | Below |\n| Kuwait | 1.50 | Below |\n| Bosnia and Herzegovina | 1.50 | Below |\n| Cape Verde | 1.50 | Below |\n| Iceland | 1.50 | Below |\n| French Polynesia | 1.48 | Below |\n| Czechia | 1.47 | Below |\n| Croatia | 1.47 | Below |\n| North Macedonia | 1.47 | Below |\n| Dominica | 1.47 | Below |\n| Russia | 1.46 | Below |\n| Germany | 1.46 | Below |\n| Grenada | 1.46 | Below |\n| Cuba | 1.45 | Below |\n| Bonaire | 1.45 | Below |\n| Montserrat | 1.45 | Below |\n| Netherlands | 1.44 | Below |\n| Sweden | 1.44 | Below |\n| Switzerland | 1.44 | Below |\n| Bhutan | 1.44 | Below |\n| Turks and Caicos Islands | 1.44 | Below |\n| Sint Maarten | 1.43 | Below |\n| Norway | 1.42 | Below |\n| Bermuda | 1.41 | Below |\n| Luxembourg | 1.40 | Below |\n| Wallis & Futuna | 1.40 | Below |\n| Belgium | 1.39 | Below |\n| Uruguay | 1.39 | Below |\n| St. Lucia | 1.38 | Below |\n| Jersey | 1.38 | Below |\n| Cyprus | 1.37 | Below |\n| Estonia | 1.37 | Below |\n| Guernsey | 1.37 | Below |\n| Bahamas | 1.36 | Below |\n| Latvia | 1.35 | Below |\n| Anguilla | 1.35 | Below |\n| Greece | 1.34 | Below |\n| Jamaica | 1.34 | Below |\n| Canada | 1.33 | Below |\n| Austria | 1.33 | Below |\n| Albania | 1.33 | Below |\n| Poland | 1.31 | Below |\n| Costa Rica | 1.31 | Below |\n| Finland | 1.30 | Below |\n| Saint Pierre and Miquelon | 1.28 | Below |\n| Japan | 1.23 | Below |\n| Spain | 1.23 | Below |\n| Belarus | 1.22 | Below |\n| Lithuania | 1.22 | Below |\n| Italy | 1.21 | Below |\n| United Arab Emirates | 1.21 | Below |\n| Mauritius | 1.21 | Below |\n| Thailand | 1.19 | Below |\n| San Marino | 1.16 | Below |\n| Chile | 1.13 | Below |\n| Malta | 1.11 | Below |\n| Andorra | 1.10 | Below |\n| Curacao | 1.07 | Below |\n| British Virgin Islands | 1.06 | Below |\n| China | 1.02 | Below |\n| Ukraine | 1.00 | Below |\n| Singapore | 0.96 | Below |\n| Puerto Rico | 0.94 | Below |\n| Taiwan | 0.86 | Below |\n| St. Barthélemy | 0.83 | Below |\n| South Korea | 0.75 | Below |\n| Hong Kong | 0.74 | Below |\n| Macao | 0.69 | Below |",
+    "ai_analysis": {
+      "core_insight": "全球生育率呈现极端两极分化，撒哈拉以南非洲高居榜首，东亚深陷超低生育率泥潭。",
+      "data_highlights": [
+        "生育率前十名均来自撒哈拉以南非洲，乍得以5.94的TFR高居榜首。",
+        "全球共有100个国家和地区生育率高于2.1的世代更替水平，主要分布在非洲和亚洲。",
+        "超过半数国家（约140个）生育率低于更替水平，涵盖所有发达经济体和众多发展中国家。",
+        "东亚地区生育率普遍极低，韩国（0.75）、香港（0.74）、澳门（0.69）位列全球最低梯队。",
+        "印度生育率已降至1.94，低于更替水平，标志着全球人口结构转变的重要里程碑。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Total Fertility Rate (TFR)",
+            "Above or Below 2.1(Replacement Rate)"
+          ],
+          "rows": [
+            [
+              "South Korea",
+              "0.75",
+              "Below"
+            ],
+            [
+              "Hong Kong",
+              "0.74",
+              "Below"
+            ],
+            [
+              "Macao",
+              "0.69",
+              "Below"
+            ],
+            [
+              "Taiwan",
+              "0.86",
+              "Below"
+            ],
+            [
+              "Puerto Rico",
+              "0.94",
+              "Below"
+            ],
+            [
+              "Singapore",
+              "0.96",
+              "Below"
+            ],
+            [
+              "Ukraine",
+              "1.00",
+              "Below"
+            ],
+            [
+              "China",
+              "1.02",
+              "Below"
+            ],
+            [
+              "British Virgin Islands",
+              "1.06",
+              "Below"
+            ],
+            [
+              "Curacao",
+              "1.07",
+              "Below"
+            ]
+          ],
+          "caption": "全球生育率最低的10个国家和地区"
+        },
+        {
+          "headers": [
+            "Country",
+            "Total Fertility Rate (TFR)",
+            "Above or Below 2.1(Replacement Rate)"
+          ],
+          "rows": [
+            [
+              "Chad",
+              "5.94",
+              "Above"
+            ],
+            [
+              "Somalia",
+              "5.91",
+              "Above"
+            ],
+            [
+              "DR Congo",
+              "5.90",
+              "Above"
+            ],
+            [
+              "Central African Republic",
+              "5.81",
+              "Above"
+            ],
+            [
+              "Niger",
+              "5.79",
+              "Above"
+            ],
+            [
+              "Mali",
+              "5.42",
+              "Above"
+            ],
+            [
+              "Angola",
+              "4.95",
+              "Above"
+            ],
+            [
+              "Burundi",
+              "4.68",
+              "Above"
+            ],
+            [
+              "Afghanistan",
+              "4.66",
+              "Above"
+            ],
+            [
+              "Mozambique",
+              "4.62",
+              "Above"
+            ]
+          ],
+          "caption": "全球生育率最高的10个国家"
+        }
+      ],
+      "deep_dive": "## 极化的全球图景：增长极与收缩极\n\n全球生育率地图呈现出惊人的两极分化格局。以撒哈拉以南非洲为核心的“增长极”，总和生育率（TFR）普遍超过4.0，前十名均来自该区域，乍得高达5.94。这些国家面临高人口增长率，将带来年轻人口红利与资源压力、就业市场挑战并存的双重效应。另一端是以东亚为代表的“收缩极”，包括韩国、中国香港、中国澳门、中国台湾、新加坡等地，TFR均低于1.0，远低于更替水平。这预示着未来劳动力短缺、人口老龄化加剧以及养老金体系承压等系统性挑战。介于两者之间的是广大的“过渡带”，包括南亚、拉丁美洲、中东及北非等地区，生育率多在2.0-3.0之间徘徊，正处于人口转型的关键期。\n\n## 驱动因素与发展启示\n\n**高生育率地区**的驱动因素主要包括：经济发展水平较低、女性受教育程度和就业率有限、现代避孕措施普及不足、传统生育文化影响深远，以及部分国家的社会动荡。持续的高生育率意味着未来数十年内年轻人口占比极高，若无法创造足够的教育和就业机会，可能引发社会不稳定。**低生育率地区**则受制于高昂的育儿成本（教育、住房）、女性地位提升与职业发展压力、个人主义价值观盛行、生活规划观念改变以及稳定的社会福利体系。例如，韩国的低生育率与高强度教育竞争、高房价密切相关。中国的快速下降则与过去长期的计划生育政策惯性、社会经济快速发展及高昂的养育成本紧密相连。\n\n## 结构性挑战与政策启示\n\n这种全球生育率大分化将重塑未来的地缘经济与地缘政治格局。对于高生育率国家，核心挑战在于如何将人口增长转化为可持续的经济增长，需要大规模投资于教育、医疗和基础设施。对于低生育率国家，挑战则在于如何应对人口萎缩与结构老化，政策焦点转向鼓励生育（如提供育儿补贴、完善托幼服务）、延迟退休、接纳移民以补充劳动力，以及通过科技创新提升生产率。值得注意的是，全球超过半数的国家生育率已低于更替水平，标志着全球人口增长时代的尾声。未来，人口结构的变化将成为影响各国经济潜力、财政可持续性及社会活力的核心变量。各国需要基于自身所处的人口转型阶段，制定具有前瞻性和针对性的中长期战略。",
+      "glossary": [
+        {
+          "term": "总和生育率（TFR）",
+          "explanation": "假设妇女按照当前年龄别生育率度过育龄期，平均每个妇女生育的子女数。是衡量生育水平的核心指标。"
+        },
+        {
+          "term": "世代更替水平",
+          "explanation": "指在长期来看，能够使人口总数保持相对稳定所需的生育率水平。在发达地区通常约为2.1，即平均每对夫妇生育2.1个孩子以弥补父母及子女的死亡。"
+        },
+        {
+          "term": "人口转型",
+          "explanation": "描述社会从高出生率、高死亡率向低出生率、低死亡率转变的过程，通常与经济发展和现代化进程相伴。"
+        },
+        {
+          "term": "人口红利",
+          "explanation": "当一个国家劳动年龄人口占总人口比重较大，从而为经济发展创造有利条件的时期。高生育率国家可能在未来迎来此窗口期，但需配套政策才能兑现。"
+        }
+      ]
+    }
+  },
+  {
     "id": "5e24e57a",
     "title": "How Global Central Bank Reserves Have Shifted Since 2000",
     "original_url": "https://www.visualcapitalist.com/how-global-central-bank-reserves-have-shifted-since-2000/",
