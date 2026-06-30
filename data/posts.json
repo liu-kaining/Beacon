@@ -1,5 +1,307 @@
 [
   {
+    "id": "5861df15",
+    "title": "Which States Produce the Most Food in America?",
+    "original_url": "https://www.visualcapitalist.com/which-states-produce-the-most-food-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5861df15.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwB14vBqjGMPWnd9DWev3644yKlEvR/cFFCfdFFVcR//2Q==",
+    "image_version": 1782838778,
+    "pub_date": "Tue, 30 Jun 2026 14:05:55 +0000",
+    "content_md": "| Rank | State | Agricultural Production Value 2024 |\n| --- | --- | --- |\n| 1 | California | $67.4B |\n| 2 | Iowa | $40.5B |\n| 3 | Texas | $37.6B |\n| 4 | Nebraska | $34.2B |\n| 5 | Kansas | $26.3B |\n| 6 | Illinois | $24.4B |\n| 7 | Minnesota | $24.1B |\n| 8 | Wisconsin | $16.9B |\n| 9 | North Carolina | $16.8B |\n| 10 | Indiana | $16.3B |\n| 11 | Missouri | $15.4B |\n| 12 | South Dakota | $15.1B |\n| 13 | Ohio | $14.6B |\n| 14 | Georgia | $14.2B |\n| 15 | Washington | $14.2B |\n| 16 | Arkansas | $13.5B |\n| 17 | North Dakota | $13.0B |\n| 18 | Idaho | $12.6B |\n| 19 | Michigan | $12.2B |\n| 20 | Florida | $11.2B |\n| 21 | Colorado | $10.8B |\n| 22 | Oklahoma | $10.7B |\n| 23 | Pennsylvania | $10.7B |\n| 24 | Kentucky | $9.2B |\n| 25 | Alabama | $9.0B |\n| 26 | New York | $8.2B |\n| 27 | Oregon | $8.1B |\n| 28 | Mississippi | $7.9B |\n| 29 | Tennessee | $6.1B |\n| 30 | Montana | $6.0B |\n| 31 | Arizona | $5.6B |\n| 32 | Virginia | $5.6B |\n| 33 | Louisiana | $5.0B |\n| 34 | New Mexico | $4.7B |\n| 35 | South Carolina | $4.2B |\n| 36 | Maryland | $3.6B |\n| 37 | Utah | $3.0B |\n| 38 | Wyoming | $2.4B |\n| 39 | Delaware | $2.3B |\n| 40 | New Jersey | $2.0B |\n| 41 | Nevada | $1.3B |\n| 42 | West Virginia | $1.2B |\n| 43 | Vermont | $1.1B |\n| 44 | Maine | $1.1B |\n| 45 | Hawaii | $917M |\n| 46 | Connecticut | $909M |\n| 47 | Massachusetts | $782M |\n| 48 | New Hampshire | $340M |\n| 49 | Rhode Island | $139M |\n| 50 | Alaska | $71M |\n| -- | U.S. Total | $573B |",
+    "ai_analysis": {
+      "core_insight": "加州农业产值遥遥领先，中西部粮仓各州构成农业主力。",
+      "data_highlights": [
+        "加利福尼亚州以674亿美元产值位居榜首，几乎是第二名爱荷华州的1.7倍。",
+        "前五名州（加州、爱荷华、德克萨斯、内布拉斯加、堪萨斯）合计产值占全国总产值的36%。",
+        "排名前10的州总产值占全国总产值的51%，农业地理集中度高。",
+        "全美50州农业总产值达5730亿美元，其中44个州产值超过10亿美元。",
+        "阿拉斯加州产值最低，仅为7100万美元，与加州相差近千倍。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Agricultural Production Value 2024"
+          ],
+          "rows": [
+            [
+              "1",
+              "California",
+              "$67.4B"
+            ],
+            [
+              "2",
+              "Iowa",
+              "$40.5B"
+            ],
+            [
+              "3",
+              "Texas",
+              "$37.6B"
+            ],
+            [
+              "4",
+              "Nebraska",
+              "$34.2B"
+            ],
+            [
+              "5",
+              "Kansas",
+              "$26.3B"
+            ],
+            [
+              "6",
+              "Illinois",
+              "$24.4B"
+            ],
+            [
+              "7",
+              "Minnesota",
+              "$24.1B"
+            ],
+            [
+              "8",
+              "Wisconsin",
+              "$16.9B"
+            ],
+            [
+              "9",
+              "North Carolina",
+              "$16.8B"
+            ],
+            [
+              "10",
+              "Indiana",
+              "$16.3B"
+            ],
+            [
+              "11",
+              "Missouri",
+              "$15.4B"
+            ],
+            [
+              "12",
+              "South Dakota",
+              "$15.1B"
+            ],
+            [
+              "13",
+              "Ohio",
+              "$14.6B"
+            ],
+            [
+              "14",
+              "Georgia",
+              "$14.2B"
+            ],
+            [
+              "15",
+              "Washington",
+              "$14.2B"
+            ],
+            [
+              "16",
+              "Arkansas",
+              "$13.5B"
+            ],
+            [
+              "17",
+              "North Dakota",
+              "$13.0B"
+            ],
+            [
+              "18",
+              "Idaho",
+              "$12.6B"
+            ],
+            [
+              "19",
+              "Michigan",
+              "$12.2B"
+            ],
+            [
+              "20",
+              "Florida",
+              "$11.2B"
+            ],
+            [
+              "21",
+              "Colorado",
+              "$10.8B"
+            ],
+            [
+              "22",
+              "Oklahoma",
+              "$10.7B"
+            ],
+            [
+              "23",
+              "Pennsylvania",
+              "$10.7B"
+            ],
+            [
+              "24",
+              "Kentucky",
+              "$9.2B"
+            ],
+            [
+              "25",
+              "Alabama",
+              "$9.0B"
+            ],
+            [
+              "26",
+              "New York",
+              "$8.2B"
+            ],
+            [
+              "27",
+              "Oregon",
+              "$8.1B"
+            ],
+            [
+              "28",
+              "Mississippi",
+              "$7.9B"
+            ],
+            [
+              "29",
+              "Tennessee",
+              "$6.1B"
+            ],
+            [
+              "30",
+              "Montana",
+              "$6.0B"
+            ],
+            [
+              "31",
+              "Arizona",
+              "$5.6B"
+            ],
+            [
+              "32",
+              "Virginia",
+              "$5.6B"
+            ],
+            [
+              "33",
+              "Louisiana",
+              "$5.0B"
+            ],
+            [
+              "34",
+              "New Mexico",
+              "$4.7B"
+            ],
+            [
+              "35",
+              "South Carolina",
+              "$4.2B"
+            ],
+            [
+              "36",
+              "Maryland",
+              "$3.6B"
+            ],
+            [
+              "37",
+              "Utah",
+              "$3.0B"
+            ],
+            [
+              "38",
+              "Wyoming",
+              "$2.4B"
+            ],
+            [
+              "39",
+              "Delaware",
+              "$2.3B"
+            ],
+            [
+              "40",
+              "New Jersey",
+              "$2.0B"
+            ],
+            [
+              "41",
+              "Nevada",
+              "$1.3B"
+            ],
+            [
+              "42",
+              "West Virginia",
+              "$1.2B"
+            ],
+            [
+              "43",
+              "Vermont",
+              "$1.1B"
+            ],
+            [
+              "44",
+              "Maine",
+              "$1.1B"
+            ],
+            [
+              "45",
+              "Hawaii",
+              "$917M"
+            ],
+            [
+              "46",
+              "Connecticut",
+              "$909M"
+            ],
+            [
+              "47",
+              "Massachusetts",
+              "$782M"
+            ],
+            [
+              "48",
+              "New Hampshire",
+              "$340M"
+            ],
+            [
+              "49",
+              "Rhode Island",
+              "$139M"
+            ],
+            [
+              "50",
+              "Alaska",
+              "$71M"
+            ],
+            [
+              "--",
+              "U.S. Total",
+              "$573B"
+            ]
+          ],
+          "caption": "2024年美国各州农业产值排名（前50名）"
+        }
+      ],
+      "deep_dive": "## 格局分析：高度集中与地理禀赋\n美国农业产值呈现显著的“金字塔”结构。位居榜首的加利福尼亚州产值高达674亿美元，凭借其多样化的气候、发达的灌溉系统和高价值的蔬果、坚果及葡萄酒产业，建立了难以撼动的领先优势。第二梯队的爱荷华、德克萨斯、内布拉斯加和堪萨斯州，则主要依赖于大规模的粮食（玉米、大豆）、牲畜和棉花生产，共同构成了美国的“中央粮仓”。\n\n这种分布格局深刻反映了地理和资源禀赋的决定性作用：\n- **自然条件**：中西部广袤的平原适合大规模机械化耕作；加州和佛罗里达的气候适合园艺作物；西北部的华盛顿州、爱达荷州则是苹果、马铃薯的重要产区。\n- **产业传统与基础设施**：传统农业州拥有完善的农业产业链、仓储物流和科研支持系统，形成了强大的集群效应。\n- **规模经济**：前10名州贡献了全国超过一半的产值，表明农业生产存在显著的规模效益，大型农场和企业在资源获取、技术应用和市场议价上更具优势。\n\n## 经济启示与潜在挑战\n美国农业的区域集中性是一把双刃剑。\n- **效率与风险**：这种集中化模式带来了极高的生产效率和国际竞争力，但同时也增加了系统性风险。一旦主要产区遭遇极端天气（如干旱、洪水）或大规模病虫害，可能对全国乃至全球的农产品供应和价格造成剧烈冲击。\n- **区域发展不均衡**：农业产值的悬殊加剧了州际经济差距。排名靠后的州在农业领域缺乏比较优势，需要寻找其他经济增长点。例如，阿拉斯加、罗德岛等州的产值微乎其微，其农业主要服务于本地细分市场。\n- **政策焦点**：针对农业主产区的政策支持（如保险、补贴、基础设施建设）对于保障国家粮食安全至关重要。同时，也需要关注资源可持续利用（如加州的水资源管理）和环境影响。\n- **价值链分析**：加州的领先地位不仅在于产量，更在于其高附加值产品。这提示其他农业州在保障大宗农产品供应的同时，也应考虑向特色、有机或精深加工方向升级，以提升产业价值。",
+      "glossary": [
+        {
+          "term": "Agricultural Production Value (农业产值)",
+          "explanation": "衡量一个地区在一定时期内（通常为一年）农业生产活动所创造的总货币价值，包括种植业、畜牧业、林业、渔业等产出，是反映农业生产规模和经济贡献的核心指标。"
+        },
+        {
+          "term": "Food Security (粮食安全)",
+          "explanation": "指所有人在任何时候都能在物质上和经济上获得足够、安全和富有营养的食物，以满足其积极和健康生活的膳食需要及食物偏好。美国作为农业大国，其国内生产格局直接影响全球粮食安全。"
+        },
+        {
+          "term": "Scale Economies (规模经济)",
+          "explanation": "指随着生产规模的扩大，单位产品的平均成本随之下降的经济现象。在农业中，表现为大型农场在采购、生产、销售等环节更具成本优势。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ee841d64",
     "title": "Ranked: America’s 20 Lowest-Paying College Degrees",
     "original_url": "https://www.visualcapitalist.com/sp/ter02-ranked-americas-20-lowest-paying-college-degrees/",
