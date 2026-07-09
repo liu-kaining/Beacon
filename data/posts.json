@@ -1,5 +1,312 @@
 [
   {
+    "id": "4b740a32",
+    "title": "Which U.S. States Have the Most Vehicles Per 1,000 People?",
+    "original_url": "https://www.visualcapitalist.com/mapped-americas-vehicles-per-capita/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/4b740a32.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqLmq0Y+arVzVeL71cDk7naloXEX5aKen3aKZB/9k=",
+    "image_version": 1783597332,
+    "pub_date": "Tue, 07 Jul 2026 17:10:27 +0000",
+    "content_md": "| Rank | State | Vehicles Per 1,000 People |\n| --- | --- | --- |\n| 1 | Montana | 2,174 |\n| 2 | South Dakota | 1,518 |\n| 3 | Wyoming | 1,495 |\n| 4 | North Dakota | 1,357 |\n| 5 | Iowa | 1,194 |\n| 6 | Alabama | 1,095 |\n| 7 | Arkansas | 1,087 |\n| 8 | New York | 1,049 |\n| 9 | Vermont | 1,038 |\n| 10 | Minnesota | 1,024 |\n| 11 | Idaho | 1,015 |\n| 12 | Oregon | 997 |\n| 13 | Kentucky | 995 |\n| 14 | Nebraska | 992 |\n| 15 | Tennessee | 990 |\n| 16 | Louisiana | 987 |\n| 17 | New Hampshire | 987 |\n| 18 | Wisconsin | 980 |\n| 19 | Ohio | 958 |\n| 20 | Michigan | 951 |\n| 21 | Washington | 948 |\n| 22 | Alaska | 927 |\n| 23 | South Carolina | 923 |\n| 24 | Utah | 916 |\n| 25 | New Mexico | 908 |\n| 26 | Virginia | 905 |\n| 27 | Oklahoma | 905 |\n| 28 | Arizona | 886 |\n| 29 | Hawaii | 885 |\n| 30 | Colorado | 881 |\n| 31 | Indiana | 880 |\n| 32 | United States | 875 |\n| 33 | Missouri | 868 |\n| 34 | Maine | 857 |\n| 35 | Florida | 847 |\n| 36 | West Virginia | 837 |\n| 37 | Georgia | 831 |\n| 38 | Illinois | 830 |\n| 39 | Pennsylvania | 813 |\n| 40 | North Carolina | 802 |\n| 41 | Maryland | 795 |\n| 42 | California | 786 |\n| 43 | Connecticut | 765 |\n| 44 | Rhode Island | 755 |\n| 45 | Texas | 754 |\n| 46 | Mississippi | 751 |\n| 47 | Nevada | 734 |\n| 48 | Massachusetts | 714 |\n| 49 | Kansas | 677 |\n| 50 | New Jersey | 658 |\n| 51 | District of Columbia | 438 |\n| 52 | Delaware | 426 |",
+    "ai_analysis": {
+      "core_insight": "蒙大拿州每千人汽车拥有量高达2,174辆，为全国均值2.5倍，凸显农村依赖汽车，而华盛顿特区仅438辆，展现城市公共交通优势。",
+      "data_highlights": [
+        "蒙大拿州以2,174辆/千人的数值高居榜首，远超第二名南达科他州（1,518辆）。",
+        "全美平均水平为875辆/千人，共有12个州超过1,000辆/千人。",
+        "排名前五的州均位于中西部或大平原地区，地广人稀特征显著。",
+        "华盛顿特区（438辆）和特拉华州（426辆）为最低区域，不足全国均值的一半。",
+        "传统高密度州如纽约州（1,049辆）和加利福尼亚州（786辆）呈现较大差异，纽约州位列第八。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Vehicles Per 1,000 People"
+          ],
+          "rows": [
+            [
+              "1",
+              "Montana",
+              "2,174"
+            ],
+            [
+              "2",
+              "South Dakota",
+              "1,518"
+            ],
+            [
+              "3",
+              "Wyoming",
+              "1,495"
+            ],
+            [
+              "4",
+              "North Dakota",
+              "1,357"
+            ],
+            [
+              "5",
+              "Iowa",
+              "1,194"
+            ],
+            [
+              "6",
+              "Alabama",
+              "1,095"
+            ],
+            [
+              "7",
+              "Arkansas",
+              "1,087"
+            ],
+            [
+              "8",
+              "New York",
+              "1,049"
+            ],
+            [
+              "9",
+              "Vermont",
+              "1,038"
+            ],
+            [
+              "10",
+              "Minnesota",
+              "1,024"
+            ],
+            [
+              "11",
+              "Idaho",
+              "1,015"
+            ],
+            [
+              "12",
+              "Oregon",
+              "997"
+            ],
+            [
+              "13",
+              "Kentucky",
+              "995"
+            ],
+            [
+              "14",
+              "Nebraska",
+              "992"
+            ],
+            [
+              "15",
+              "Tennessee",
+              "990"
+            ],
+            [
+              "16",
+              "Louisiana",
+              "987"
+            ],
+            [
+              "17",
+              "New Hampshire",
+              "987"
+            ],
+            [
+              "18",
+              "Wisconsin",
+              "980"
+            ],
+            [
+              "19",
+              "Ohio",
+              "958"
+            ],
+            [
+              "20",
+              "Michigan",
+              "951"
+            ],
+            [
+              "21",
+              "Washington",
+              "948"
+            ],
+            [
+              "22",
+              "Alaska",
+              "927"
+            ],
+            [
+              "23",
+              "South Carolina",
+              "923"
+            ],
+            [
+              "24",
+              "Utah",
+              "916"
+            ],
+            [
+              "25",
+              "New Mexico",
+              "908"
+            ],
+            [
+              "26",
+              "Virginia",
+              "905"
+            ],
+            [
+              "27",
+              "Oklahoma",
+              "905"
+            ],
+            [
+              "28",
+              "Arizona",
+              "886"
+            ],
+            [
+              "29",
+              "Hawaii",
+              "885"
+            ],
+            [
+              "30",
+              "Colorado",
+              "881"
+            ],
+            [
+              "31",
+              "Indiana",
+              "880"
+            ],
+            [
+              "32",
+              "United States",
+              "875"
+            ],
+            [
+              "33",
+              "Missouri",
+              "868"
+            ],
+            [
+              "34",
+              "Maine",
+              "857"
+            ],
+            [
+              "35",
+              "Florida",
+              "847"
+            ],
+            [
+              "36",
+              "West Virginia",
+              "837"
+            ],
+            [
+              "37",
+              "Georgia",
+              "831"
+            ],
+            [
+              "38",
+              "Illinois",
+              "830"
+            ],
+            [
+              "39",
+              "Pennsylvania",
+              "813"
+            ],
+            [
+              "40",
+              "North Carolina",
+              "802"
+            ],
+            [
+              "41",
+              "Maryland",
+              "795"
+            ],
+            [
+              "42",
+              "California",
+              "786"
+            ],
+            [
+              "43",
+              "Connecticut",
+              "765"
+            ],
+            [
+              "44",
+              "Rhode Island",
+              "755"
+            ],
+            [
+              "45",
+              "Texas",
+              "754"
+            ],
+            [
+              "46",
+              "Mississippi",
+              "751"
+            ],
+            [
+              "47",
+              "Nevada",
+              "734"
+            ],
+            [
+              "48",
+              "Massachusetts",
+              "714"
+            ],
+            [
+              "49",
+              "Kansas",
+              "677"
+            ],
+            [
+              "50",
+              "New Jersey",
+              "658"
+            ],
+            [
+              "51",
+              "District of Columbia",
+              "438"
+            ],
+            [
+              "52",
+              "Delaware",
+              "426"
+            ]
+          ],
+          "caption": "美国各州每千人拥有车辆数排名"
+        }
+      ],
+      "deep_dive": "## 极高汽车拥有率的驱动因素\n排名前列的州（如蒙大拿州、南达科他州、怀俄明州）均以地广人稀、农村人口为主。低人口密度导致公共交通系统极不发达，居民日常通勤、购物、就医高度依赖私家车。同时，这些地区农业和畜牧业占比较大，皮卡等多功能车辆需求高，且车辆登记政策宽松，可能推高人均保有量。气候因素如严寒冬季也促使家庭拥有多辆车以备不时之需。\n\n- **地理与人口分布**：蒙大拿州面积全美第四，人口仅约110万，每平方公里不足3人，出行几乎必须驾车。\n- **经济结构**：农业、采矿、旅游等产业需要车辆作为生产工具，部分州对企业用车登记宽松，拉高总体数值。\n- **替代交通缺乏**：铁路、公交覆盖稀疏，航空票价高昂，汽车成为唯一可行的中长途出行方式。\n\n## 低汽车拥有率的成因与区域对比\n华盛顿特区（438辆）和特拉华州（426辆）垫底，反映城市密度与公共交通效率对汽车依赖的抑制作用。特区地铁系统发达，停车成本高，居民更倾向步行、骑行或公共交通。特拉华州虽面积小，但威尔明顿等城市区域紧凑，且部分居民可能将车辆登记在邻州，导致本州数据偏低。\n\n- **城市化与交通选项**：纽约州排名第八（1,049辆）看似矛盾，实则因纽约市公共交通极发达，但上州地区农村化，全州数据受大城市拉低与农村拉高的双重影响。加州（786辆）低于全国均值，得益于洛杉矶、旧金山等大都会区的公交发展和高油价。\n- **经济与政策影响**：经济发达、密度高的州（如马萨诸塞州714辆、新泽西州658辆）普遍较低，这与高停车费、保险成本、拥堵费和环保政策导向有关。德克萨斯州（754辆）虽地广，但休斯顿、达拉斯等城市蔓延严重，仍依赖汽车，但人均低于预期，可能因移民多或登记数据未完全反映实际保有量。\n\n## 数据启示与局限\n该排名为交通规划、新能源推广提供了关键依据。高车辆州是电动汽车和充电桩布局的优先市场，但需解决寒冷天气电池效率问题。低车辆州则需强化公共交通接驳和共享出行。然而，数据存在局限：车辆登记数可能包含公司车队、租赁车辆，且各州报废注销政策不一；部分居民可能在异地登记，扭曲了实际使用情况。此外，人均指标受人口结构影响，如学生、军人聚居地可能偏低。未来应结合车龄、车型等细分信息，制定更有针对性的政策。",
+      "glossary": [
+        {
+          "term": "每千人拥有车辆数",
+          "explanation": "衡量一个国家或地区汽车普及程度的指标，计算公式为（登记车辆总数 / 人口总数）× 1000，数值越高表明汽车依赖度越强。"
+        },
+        {
+          "term": "公共交通依赖度",
+          "explanation": "居民出行选择公共汽车、地铁、轻轨等交通方式的比例，通常与汽车拥有率成反比，在城市密集区域更为显著。"
+        },
+        {
+          "term": "车辆登记",
+          "explanation": "机动车所有人依法向交通管理部门办理的注册手续，登记数据是计算每千人车辆数的基础，但可能受跨州登记、商用车登记等因素影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "3f6ab177",
     "title": "Mapped: Which Countries Have Been Banned from the World Cup?",
     "original_url": "https://www.visualcapitalist.com/countries-banned-from-world-cup/",
@@ -991,9 +1298,9 @@
     "id": "4d196036",
     "title": "The Only Five Countries to Land on the Moon, and When They Did It",
     "original_url": "https://www.visualcapitalist.com/the-only-five-countries-to-land-on-the-moon-and-when-they-did-it/",
-    "r2_image_url": "",
-    "base64_blur": "",
-    "image_version": null,
+    "r2_image_url": "https://beacon-img.thetamind.ai/4d196036.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDklp7DioFenGTiqRLAjmiml6KBEWaM0UUihKKKKAP/2Q==",
+    "image_version": 1783597328,
     "pub_date": "Tue, 07 Jul 2026 19:59:35 +0000",
     "content_md": "| Year | Nation | Mission | Notes |\n| --- | --- | --- | --- |\n| Feb 3, 1966 | ☭ USSR | Luna 9 | Seven years after the previous Luna 2 reached the Moon (but crashed into it), Luna 9 landed and transmitted data from the lunar surface. |\n| Jun 2, 1966 | United States | Surveyor 1 | Surveyor 1 landed and took over 11,000 pictures. Between 1969-1972, the U.S. then had six successful crewed missions through its Apollo program. |\n| Dec 14, 2013 | China | Change'e 3 | China landed its first soft rover on the Moon. This was the world's first celestial landing since August 1976. |\n| Aug 13, 2023 | India | Chandrayaan-3 | India's ISRO became the fourth space agency to land on the Moon, and the first to land at the lunar south pole. |\n| Jan 19, 2024 | Japan | SLIM | Nicknamed the \"Moon Sniper\", Japan's entry was designed to be the first hyper-accurate Moon landing. It arrived within 100 m of its target. |",
     "ai_analysis": {
