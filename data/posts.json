@@ -1,5 +1,302 @@
 [
   {
+    "id": "05da75b1",
+    "title": "Mapped: The Most Dangerous States in the U.S.",
+    "original_url": "https://www.visualcapitalist.com/mapped-the-most-dangerous-states-in-the-u-s/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/05da75b1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDEgizUssPy0+1qzMBsqWbpaGK8fzGip5PvmimZn//Z",
+    "image_version": 1783784530,
+    "pub_date": "Sat, 11 Jul 2026 14:08:48 +0000",
+    "content_md": "| Rank | State/District | Violent crime rate per 100K people (Mar 2025–Feb 2026) |\n| --- | --- | --- |\n| 1 | District of Columbia | 789 |\n| 2 | Alaska | 731 |\n| 3 | New Mexico | 645 |\n| 4 | Arkansas | 533 |\n| 5 | Tennessee | 482 |\n| 6 | Kansas | 465 |\n| 7 | Louisiana | 461 |\n| 8 | Colorado | 429 |\n| 9 | Missouri | 428 |\n| 10 | Michigan | 426 |\n| 11 | California | 417 |\n| 12 | Montana | 414 |\n| 13 | Oklahoma | 408 |\n| 14 | New York | 389 |\n| 15 | Arizona | 379 |\n| 16 | Nevada | 379 |\n| 17 | South Carolina | 376 |\n| 18 | Maryland | 353 |\n| 19 | Delaware | 345 |\n| 20 | Texas | 343 |\n| 21 | Alabama | 335 |\n| 22 | South Dakota | 322 |\n| 23 | North Carolina | 316 |\n| 24 | Oregon | 311 |\n| 25 | Washington | 290 |\n| 26 | Indiana | 289 |\n| 27 | Ohio | 283 |\n| 28 | Georgia | 281 |\n| 29 | Massachusetts | 267 |\n| 30 | West Virginia | 260 |\n| 31 | Florida | 252 |\n| 32 | Illinois | 250 |\n| 33 | Wisconsin | 239 |\n| 34 | Iowa | 239 |\n| 35 | North Dakota | 230 |\n| 36 | Minnesota | 224 |\n| 37 | Pennsylvania | 222 |\n| 38 | Nebraska | 222 |\n| 39 | Utah | 220 |\n| 40 | Idaho | 218 |\n| 41 | Vermont | 212 |\n| 42 | Mississippi | 207 |\n| 43 | Kentucky | 207 |\n| 44 | Virginia | 201 |\n| 45 | New Jersey | 194 |\n| 46 | Hawaii | 190 |\n| 47 | Wyoming | 189 |\n| 48 | Rhode Island | 143 |\n| 49 | New Hampshire | 121 |\n| 50 | Connecticut | 108 |\n| 51 | Maine | 92 |",
+    "ai_analysis": {
+      "core_insight": "华盛顿特区暴力犯罪率居首，全美地域差异显著，公共安全挑战严峻。",
+      "data_highlights": [
+        "华盛顿特区以每10万人789起暴力犯罪率高居榜首，远高于全国平均。",
+        "阿拉斯加和新墨西哥州分列二、三位，犯罪率均超过600。",
+        "新英格兰地区部分州（如缅因、康涅狄格）犯罪率最低，均低于110。",
+        "南部和中西部州普遍排名靠前，前10名中包含阿肯色、田纳西等。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State/District",
+            "Violent crime rate per 100K people"
+          ],
+          "rows": [
+            [
+              "1",
+              "District of Columbia",
+              "789"
+            ],
+            [
+              "2",
+              "Alaska",
+              "731"
+            ],
+            [
+              "3",
+              "New Mexico",
+              "645"
+            ],
+            [
+              "4",
+              "Arkansas",
+              "533"
+            ],
+            [
+              "5",
+              "Tennessee",
+              "482"
+            ],
+            [
+              "6",
+              "Kansas",
+              "465"
+            ],
+            [
+              "7",
+              "Louisiana",
+              "461"
+            ],
+            [
+              "8",
+              "Colorado",
+              "429"
+            ],
+            [
+              "9",
+              "Missouri",
+              "428"
+            ],
+            [
+              "10",
+              "Michigan",
+              "426"
+            ],
+            [
+              "11",
+              "California",
+              "417"
+            ],
+            [
+              "12",
+              "Montana",
+              "414"
+            ],
+            [
+              "13",
+              "Oklahoma",
+              "408"
+            ],
+            [
+              "14",
+              "New York",
+              "389"
+            ],
+            [
+              "15",
+              "Arizona",
+              "379"
+            ],
+            [
+              "16",
+              "Nevada",
+              "379"
+            ],
+            [
+              "17",
+              "South Carolina",
+              "376"
+            ],
+            [
+              "18",
+              "Maryland",
+              "353"
+            ],
+            [
+              "19",
+              "Delaware",
+              "345"
+            ],
+            [
+              "20",
+              "Texas",
+              "343"
+            ],
+            [
+              "21",
+              "Alabama",
+              "335"
+            ],
+            [
+              "22",
+              "South Dakota",
+              "322"
+            ],
+            [
+              "23",
+              "North Carolina",
+              "316"
+            ],
+            [
+              "24",
+              "Oregon",
+              "311"
+            ],
+            [
+              "25",
+              "Washington",
+              "290"
+            ],
+            [
+              "26",
+              "Indiana",
+              "289"
+            ],
+            [
+              "27",
+              "Ohio",
+              "283"
+            ],
+            [
+              "28",
+              "Georgia",
+              "281"
+            ],
+            [
+              "29",
+              "Massachusetts",
+              "267"
+            ],
+            [
+              "30",
+              "West Virginia",
+              "260"
+            ],
+            [
+              "31",
+              "Florida",
+              "252"
+            ],
+            [
+              "32",
+              "Illinois",
+              "250"
+            ],
+            [
+              "33",
+              "Wisconsin",
+              "239"
+            ],
+            [
+              "34",
+              "Iowa",
+              "239"
+            ],
+            [
+              "35",
+              "North Dakota",
+              "230"
+            ],
+            [
+              "36",
+              "Minnesota",
+              "224"
+            ],
+            [
+              "37",
+              "Pennsylvania",
+              "222"
+            ],
+            [
+              "38",
+              "Nebraska",
+              "222"
+            ],
+            [
+              "39",
+              "Utah",
+              "220"
+            ],
+            [
+              "40",
+              "Idaho",
+              "218"
+            ],
+            [
+              "41",
+              "Vermont",
+              "212"
+            ],
+            [
+              "42",
+              "Mississippi",
+              "207"
+            ],
+            [
+              "43",
+              "Kentucky",
+              "207"
+            ],
+            [
+              "44",
+              "Virginia",
+              "201"
+            ],
+            [
+              "45",
+              "New Jersey",
+              "194"
+            ],
+            [
+              "46",
+              "Hawaii",
+              "190"
+            ],
+            [
+              "47",
+              "Wyoming",
+              "189"
+            ],
+            [
+              "48",
+              "Rhode Island",
+              "143"
+            ],
+            [
+              "49",
+              "New Hampshire",
+              "121"
+            ],
+            [
+              "50",
+              "Connecticut",
+              "108"
+            ],
+            [
+              "51",
+              "Maine",
+              "92"
+            ]
+          ],
+          "caption": "美国各州及特区暴力犯罪率排名（2025年3月–2026年2月）"
+        }
+      ],
+      "deep_dive": "## 地域分布特征与热点分析\n\n从排名来看，暴力犯罪率呈现显著地域集中。华盛顿特区（789）作为首都，犯罪率远超各州，这与其高人口密度、社会经济不平等及警力资源配置密切相关。阿拉斯加（731）和新墨西哥（645）紧随其后，均属高风险地区。前10名中，南部州（阿肯色、田纳西、路易斯安那）和中西部州（堪萨斯、密苏里、密歇根）占多数，这些地区面临经济转型压力、枪支持有率高等共性挑战。\n\n- **西部山地与沙漠州**：内华达、亚利桑那犯罪率也相对较高，可能与旅游业流动性人口及边境治安问题有关。\n- **东北部和新英格兰地区**：垫底的缅因（92）、康涅狄格（108）、新罕布什尔（121）等州，暴力犯罪率极低，体现了较强的社区治理和社会经济稳定性。\n- **意外现象**：加州（417）虽常被感知为治安不佳，但实际排名第11，低于许多中部州；纽约州（389）也低于预期。这反映了媒体关注度与实际数据的偏差。\n\n## 影响因素与政策启示\n\n暴力犯罪率的高低并非单一因素决定，而是经济、社会、执法和政策交织的结果。\n\n- **经济与不平等**：高犯罪率州普遍面临较高贫困率、失业率或收入不平等。例如，路易斯安那和密西西比虽有较低犯罪率，但深层分析需要结合凶杀案数据等子指标。\n- **枪支政策**：宽松的枪支管控与部分高犯罪率州重合，但并非绝对。如佛蒙特（212）持枪率高但犯罪率低，说明文化因素同样关键。\n- **警务与刑事司法**：执法资源、社区警务策略和监狱政策影响犯罪率。例如，华盛顿特区的警力密度高，但犯罪率仍高企，暴露出系统性治理难题。\n- **数据局限性**：该排名基于“暴力犯罪”统一定义，但各州报告标准可能存在差异。此外，2025–2026年为预测数据，实际受疫情后社会恢复、经济形势等影响，需谨慎解读。\n\n## 比较与反思\n\n对比历史数据，美国暴力犯罪率经历波动，疫情期间曾普遍上升。当前数据显示整体回落，但地区差距拉大。低犯罪率州如新英格兰地区，强调预防性社会政策和教育投入，这为高犯罪率州提供了借鉴。然而，简单复制成功模式并不可行，因地域文化、人口结构各异。政策制定者需结合本地实际，在执法与根源性社会干预间寻求平衡。",
+      "glossary": [
+        {
+          "term": "Violent crime rate",
+          "explanation": "每10万人口中发生的暴力犯罪数量，包括谋杀、强奸、抢劫和严重袭击等，是衡量公共安全的核心指标。"
+        },
+        {
+          "term": "Per 100K people",
+          "explanation": "标准化比率，将犯罪数量按每10万居民折算，便于不同人口规模地区间比较。"
+        }
+      ]
+    }
+  },
+  {
     "id": "f66cf901",
     "title": "Ranked: The Best Countries for Quality of Life in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-best-countries-for-quality-of-life-in-2026/",
