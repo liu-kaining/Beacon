@@ -1,5 +1,576 @@
 [
   {
+    "id": "c6ace22e",
+    "title": "Mapped: Every Country That Gained Independence Since WWII",
+    "original_url": "https://www.visualcapitalist.com/cp/all-the-countries-that-gained-independence-since-wwii/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c6ace22e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtnamA80jUgqySWimjpRTA/9k=",
+    "image_version": 1783795245,
+    "pub_date": "Sat, 11 Jul 2026 16:49:42 +0000",
+    "content_md": "| Country | Year | Independence from |\n| --- | --- | --- |\n| Palau | 1994 | U.S. |\n| Armenia | 1991 | Soviet Union |\n| Azerbaijan | 1991 | Soviet Union |\n| Belarus | 1991 | Soviet Union |\n| Estonia | 1991 | Soviet Union |\n| Georgia | 1991 | Soviet Union |\n| Kazakhstan | 1991 | Soviet Union |\n| Kyrgyzstan | 1991 | Soviet Union |\n| Latvia | 1991 | Soviet Union |\n| Lithuania | 1991 | Soviet Union |\n| Moldova | 1991 | Soviet Union |\n| Tajikistan | 1991 | Soviet Union |\n| Turkmenistan | 1991 | Soviet Union |\n| Ukraine | 1991 | Soviet Union |\n| Uzbekistan | 1991 | Soviet Union |\n| Micronesia | 1986 | U.S. |\n| Brunei | 1984 | UK |\n| St Kitts and Nevis | 1983 | UK |\n| Antigua and Barbuda | 1981 | UK |\n| Belize | 1981 | UK |\n| Vanuatu | 1980 | UK |\n| Kiribati | 1979 | UK |\n| Marshall Islands | 1979 | U.S. |\n| St Lucia | 1979 | UK |\n| St Vincent and the Grenadines | 1979 | UK |\n| Dominica | 1978 | UK |\n| Solomon Islands | 1978 | UK |\n| Tuvalu | 1978 | UK |\n| Djibouti | 1977 | France |\n| Seychelles | 1976 | UK |\n| Angola | 1975 | Portugal |\n| Cape Verde | 1975 | Portugal |\n| Comoros | 1975 | France |\n| Mozambique | 1975 | Portugal |\n| São Tomé and Príncipe | 1975 | Portugal |\n| Suriname | 1975 | Netherlands |\n| Timor-Leste | 1975 | Portugal |\n| Grenada | 1974 | UK |\n| Guinea-Bissau | 1974 | Portugal |\n| Bahamas, the | 1973 | UK |\n| Bahrain | 1971 | UK |\n| Qatar | 1971 | UK |\n| United Arab Emirates | 1971 | UK |\n| Fiji | 1970 | UK |\n| Tonga | 1970 | UK |\n| Equatorial Guinea | 1968 | Spain |\n| Eswatini | 1968 | UK |\n| Mauritius | 1968 | UK |\n| Nauru | 1968 | UK |\n| Yemen | 1967 | UK |\n| Barbados | 1966 | UK |\n| Botswana | 1966 | UK |\n| Guyana | 1966 | UK |\n| Lesotho | 1966 | UK |\n| Gambia, The | 1965 | UK |\n| Maldives | 1965 | UK |\n| Malawi | 1964 | UK |\n| Malta | 1964 | UK |\n| Zambia | 1964 | UK |\n| Kenya | 1963 | UK |\n| Algeria | 1962 | France |\n| Burundi | 1962 | Belgium |\n| Jamaica | 1962 | UK |\n| Rwanda | 1962 | Belgium |\n| Trinidad and Tobago | 1962 | UK |\n| Uganda | 1962 | UK |\n| Kuwait | 1961 | UK |\n| Sierra Leone | 1961 | UK |\n| Tanzania | 1961 | UK |\n| Benin | 1960 | France |\n| Burkina Faso | 1960 | France |\n| Cameroon | 1960 | France |\n| Central African Republic | 1960 | France |\n| Chad | 1960 | France |\n| DR Congo | 1960 | Belgium |\n| Congo, Republic of the | 1960 | France |\n| Côte d'Ivoire | 1960 | France |\n| Cyprus | 1960 | UK |\n| Gabon | 1960 | France |\n| Madagascar | 1960 | France |\n| Mali | 1960 | France |\n| Mauritania | 1960 | France |\n| Niger | 1960 | France |\n| Nigeria | 1960 | UK |\n| Senegal | 1960 | France |\n| Somalia | 1960 | Italy |\n| Togo | 1960 | France |\n| Guinea | 1958 | France |\n| Ghana | 1957 | UK |\n| Malaysia | 1957 | UK |\n| Egypt | 1956 | UK |\n| Morocco | 1956 | France/Spain |\n| Sudan | 1956 | UK |\n| Tunisia | 1956 | France |\n| Cambodia | 1953 | France |\n| Libya | 1951 | Italy |\n| Israel | 1948 | UK |\n| Myanmar | 1948 | UK |\n| Sri Lanka | 1948 | UK |\n| India | 1947 | UK |\n| Pakistan | 1947 | UK |\n| Jordan | 1946 | UK |\n| Syria | 1946 | France |\n| Indonesia | 1945 | Netherlands |\n| Vietnam | 1945 | France |",
+    "ai_analysis": {
+      "core_insight": "二战后非殖民化浪潮重塑了世界版图，英法主导的殖民体系在1960年代集中瓦解。",
+      "data_highlights": [
+        "1960年成为“非洲独立年”，17个国家摆脱殖民统治",
+        "苏联解体直接催生15个新国家，形成1991年独立高峰",
+        "英国是涉及独立国家最多的前宗主国，共影响52国独立",
+        "1975年葡萄牙殖民帝国终结，5个非洲国家同年独立"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Year",
+            "Independence from"
+          ],
+          "rows": [
+            [
+              "Palau",
+              "1994",
+              "U.S."
+            ],
+            [
+              "Armenia",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Azerbaijan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Belarus",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Estonia",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Georgia",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Kazakhstan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Kyrgyzstan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Latvia",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Lithuania",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Moldova",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Tajikistan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Turkmenistan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Ukraine",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Uzbekistan",
+              "1991",
+              "Soviet Union"
+            ],
+            [
+              "Micronesia",
+              "1986",
+              "U.S."
+            ],
+            [
+              "Brunei",
+              "1984",
+              "UK"
+            ],
+            [
+              "St Kitts and Nevis",
+              "1983",
+              "UK"
+            ],
+            [
+              "Antigua and Barbuda",
+              "1981",
+              "UK"
+            ],
+            [
+              "Belize",
+              "1981",
+              "UK"
+            ],
+            [
+              "Vanuatu",
+              "1980",
+              "UK"
+            ],
+            [
+              "Kiribati",
+              "1979",
+              "UK"
+            ],
+            [
+              "Marshall Islands",
+              "1979",
+              "U.S."
+            ],
+            [
+              "St Lucia",
+              "1979",
+              "UK"
+            ],
+            [
+              "St Vincent and the Grenadines",
+              "1979",
+              "UK"
+            ],
+            [
+              "Dominica",
+              "1978",
+              "UK"
+            ],
+            [
+              "Solomon Islands",
+              "1978",
+              "UK"
+            ],
+            [
+              "Tuvalu",
+              "1978",
+              "UK"
+            ],
+            [
+              "Djibouti",
+              "1977",
+              "France"
+            ],
+            [
+              "Seychelles",
+              "1976",
+              "UK"
+            ],
+            [
+              "Angola",
+              "1975",
+              "Portugal"
+            ],
+            [
+              "Cape Verde",
+              "1975",
+              "Portugal"
+            ],
+            [
+              "Comoros",
+              "1975",
+              "France"
+            ],
+            [
+              "Mozambique",
+              "1975",
+              "Portugal"
+            ],
+            [
+              "São Tomé and Príncipe",
+              "1975",
+              "Portugal"
+            ],
+            [
+              "Suriname",
+              "1975",
+              "Netherlands"
+            ],
+            [
+              "Timor-Leste",
+              "1975",
+              "Portugal"
+            ],
+            [
+              "Grenada",
+              "1974",
+              "UK"
+            ],
+            [
+              "Guinea-Bissau",
+              "1974",
+              "Portugal"
+            ],
+            [
+              "Bahamas, the",
+              "1973",
+              "UK"
+            ],
+            [
+              "Bahrain",
+              "1971",
+              "UK"
+            ],
+            [
+              "Qatar",
+              "1971",
+              "UK"
+            ],
+            [
+              "United Arab Emirates",
+              "1971",
+              "UK"
+            ],
+            [
+              "Fiji",
+              "1970",
+              "UK"
+            ],
+            [
+              "Tonga",
+              "1970",
+              "UK"
+            ],
+            [
+              "Equatorial Guinea",
+              "1968",
+              "Spain"
+            ],
+            [
+              "Eswatini",
+              "1968",
+              "UK"
+            ],
+            [
+              "Mauritius",
+              "1968",
+              "UK"
+            ],
+            [
+              "Nauru",
+              "1968",
+              "UK"
+            ],
+            [
+              "Yemen",
+              "1967",
+              "UK"
+            ],
+            [
+              "Barbados",
+              "1966",
+              "UK"
+            ],
+            [
+              "Botswana",
+              "1966",
+              "UK"
+            ],
+            [
+              "Guyana",
+              "1966",
+              "UK"
+            ],
+            [
+              "Lesotho",
+              "1966",
+              "UK"
+            ],
+            [
+              "Gambia, The",
+              "1965",
+              "UK"
+            ],
+            [
+              "Maldives",
+              "1965",
+              "UK"
+            ],
+            [
+              "Malawi",
+              "1964",
+              "UK"
+            ],
+            [
+              "Malta",
+              "1964",
+              "UK"
+            ],
+            [
+              "Zambia",
+              "1964",
+              "UK"
+            ],
+            [
+              "Kenya",
+              "1963",
+              "UK"
+            ],
+            [
+              "Algeria",
+              "1962",
+              "France"
+            ],
+            [
+              "Burundi",
+              "1962",
+              "Belgium"
+            ],
+            [
+              "Jamaica",
+              "1962",
+              "UK"
+            ],
+            [
+              "Rwanda",
+              "1962",
+              "Belgium"
+            ],
+            [
+              "Trinidad and Tobago",
+              "1962",
+              "UK"
+            ],
+            [
+              "Uganda",
+              "1962",
+              "UK"
+            ],
+            [
+              "Kuwait",
+              "1961",
+              "UK"
+            ],
+            [
+              "Sierra Leone",
+              "1961",
+              "UK"
+            ],
+            [
+              "Tanzania",
+              "1961",
+              "UK"
+            ],
+            [
+              "Benin",
+              "1960",
+              "France"
+            ],
+            [
+              "Burkina Faso",
+              "1960",
+              "France"
+            ],
+            [
+              "Cameroon",
+              "1960",
+              "France"
+            ],
+            [
+              "Central African Republic",
+              "1960",
+              "France"
+            ],
+            [
+              "Chad",
+              "1960",
+              "France"
+            ],
+            [
+              "DR Congo",
+              "1960",
+              "Belgium"
+            ],
+            [
+              "Congo, Republic of the",
+              "1960",
+              "France"
+            ],
+            [
+              "Côte d'Ivoire",
+              "1960",
+              "France"
+            ],
+            [
+              "Cyprus",
+              "1960",
+              "UK"
+            ],
+            [
+              "Gabon",
+              "1960",
+              "France"
+            ],
+            [
+              "Madagascar",
+              "1960",
+              "France"
+            ],
+            [
+              "Mali",
+              "1960",
+              "France"
+            ],
+            [
+              "Mauritania",
+              "1960",
+              "France"
+            ],
+            [
+              "Niger",
+              "1960",
+              "France"
+            ],
+            [
+              "Nigeria",
+              "1960",
+              "UK"
+            ],
+            [
+              "Senegal",
+              "1960",
+              "France"
+            ],
+            [
+              "Somalia",
+              "1960",
+              "Italy"
+            ],
+            [
+              "Togo",
+              "1960",
+              "France"
+            ],
+            [
+              "Guinea",
+              "1958",
+              "France"
+            ],
+            [
+              "Ghana",
+              "1957",
+              "UK"
+            ],
+            [
+              "Malaysia",
+              "1957",
+              "UK"
+            ],
+            [
+              "Egypt",
+              "1956",
+              "UK"
+            ],
+            [
+              "Morocco",
+              "1956",
+              "France/Spain"
+            ],
+            [
+              "Sudan",
+              "1956",
+              "UK"
+            ],
+            [
+              "Tunisia",
+              "1956",
+              "France"
+            ],
+            [
+              "Cambodia",
+              "1953",
+              "France"
+            ],
+            [
+              "Libya",
+              "1951",
+              "Italy"
+            ],
+            [
+              "Israel",
+              "1948",
+              "UK"
+            ],
+            [
+              "Myanmar",
+              "1948",
+              "UK"
+            ],
+            [
+              "Sri Lanka",
+              "1948",
+              "UK"
+            ],
+            [
+              "India",
+              "1947",
+              "UK"
+            ],
+            [
+              "Pakistan",
+              "1947",
+              "UK"
+            ],
+            [
+              "Jordan",
+              "1946",
+              "UK"
+            ],
+            [
+              "Syria",
+              "1946",
+              "France"
+            ],
+            [
+              "Indonesia",
+              "1945",
+              "Netherlands"
+            ],
+            [
+              "Vietnam",
+              "1945",
+              "France"
+            ]
+          ],
+          "caption": "二战后独立国家列表"
+        }
+      ],
+      "deep_dive": "## 非殖民化的时间浪潮与宗主国格局\n二战后的全球独立运动呈现明显的波次特征。**第一波**集中于1940年代后期至1950年代，亚洲和中东国家率先挣脱殖民枷锁，如印度、巴基斯坦（1947）、缅甸（1948）、印度尼西亚（1945）等，掀起了大英帝国在亚洲解体的序幕。**第二波**是1960年代的非洲独立高潮，仅1960年就有17个非洲国家独立，因此被称为“非洲独立年”。法国和英国在非洲的大片殖民地集中消失，比利时、意大利等也退出非洲。**第三波**是1970年代至1980年代，加勒比海和太平洋岛屿小国陆续独立，如巴哈马（1973）、所罗门群岛（1978）等。**第四波**是1991年苏联解体带来的东欧和中亚15国独立，这是意识形态帝国崩溃的直接产物。\n\n从宗主国格局看，英国以52个前殖民地居首，法国以23个次之，两国合计占据独立国家总数的约80%，印证了老牌殖民帝国的深远影响。葡萄牙（6国）、比利时（3国）、美国（3个托管地）、荷兰（2国）等也贡献了若干国家。值得注意的是，美国作为非传统殖民大国，其涉及独立的国家主要来自太平洋岛屿的联合国托管地，这与英法的直接殖民统治性质不同。\n\n## 独立路径与地缘政治遗产\n各国独立路径差异显著。多数国家通过和平谈判或宪法程序完成权力交接，如印度、马来西亚等英联邦成员国，保留了与英国的某种联系。但也有国家历经武装斗争，如阿尔及利亚（1962年从法国独立）、安哥拉（1975年从葡萄牙独立），这些过程常伴随惨烈战争，并留下长期内乱隐患。苏联解体造成的独立则近乎一夜之间，但其中波罗的海三国的独立具有更强的民族自决色彩，而中亚国家的独立更多是联盟解散的被动结果。\n\n独立后地缘格局并未完全脱离前宗主国的影响。法国通过“法非共同体”、货币挂钩等机制维持了对前殖民地的经济与文化纽带；英国则借助英联邦维系松散联结。许多国家独立后仍面临边界争端（如印巴分治遗留的克什米尔问题）、内部族群冲突（如卢旺达、布隆迪的胡图-图西矛盾常被归因于殖民分治政策）以及资源依附等挑战。中东地区1940年代的独立，尤其是以色列（1948）和叙利亚（1946），奠定了后续阿以冲突和地区动荡的地缘基础。\n\n## 数据局限与未尽议题\n本表格仅统计了二战后获得普遍承认的国家，未包含未获广泛承认的实体（如索马里兰、科索沃等）或自治领升级（如加拿大、澳大利亚等更早的自治）。此外，独立年份的宣示与实际控制可能存在时间差，如东帝汶在1975年宣布独立后随即被印尼吞并，直至2002年才正式恢复独立，表格仅列1975年，可能造成误解。一些太平洋岛国通过《自由联系条约》仍与美国保持安全与财政依赖关系（如密克罗尼西亚、马绍尔群岛），其“独立”的实质程度值得探讨。因此，该数据集更应被视为主权国家诞生的象征性节点汇总，而非完全的经济或政治自主标志。",
+      "glossary": [
+        {
+          "term": "非殖民化",
+          "explanation": "指殖民地或附属领土摆脱外来统治、获得独立主权的历史进程，二战后在全球范围内加速。"
+        },
+        {
+          "term": "宗主国",
+          "explanation": "对殖民地或附属国行使主权、控制其内政外交的母国，如英国、法国等。"
+        },
+        {
+          "term": "联合国托管地",
+          "explanation": "二战后由联合国委托特定国家管理的领土，旨在推动其逐步走向自治或独立，如太平洋岛屿。"
+        }
+      ]
+    }
+  },
+  {
     "id": "05da75b1",
     "title": "Mapped: The Most Dangerous States in the U.S.",
     "original_url": "https://www.visualcapitalist.com/mapped-the-most-dangerous-states-in-the-u-s/",
@@ -2725,9 +3296,9 @@
     "id": "ae118d35",
     "title": "What are the Largest Commodity Companies in North America?",
     "original_url": "https://www.visualcapitalist.com/sp/gx04-what-are-the-largest-commodity-companies-in-north-america/",
-    "r2_image_url": "",
-    "base64_blur": "",
-    "image_version": null,
+    "r2_image_url": "https://beacon-img.thetamind.ai/ae118d35.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDiRLQ0lVkJp5HFTyl+0Y/zKKiIoo5UHOxVXFSY4oFLVtGSY0iinUVNirn/2Q==",
+    "image_version": 1783795243,
     "pub_date": "Thu, 09 Jul 2026 15:52:28 +0000",
     "content_md": "| Commodity | Company | Market Cap$CAD Billions | 2025 ProductionMetric Tons | Headquarters |\n| --- | --- | --- | --- | --- |\n| Oil & Gas | Exxon Mobil | 857 | 235,800,000 | Spring, Texas, USA |\n| Gold | Newmont | 165 | 167 | Denver, Colorado, USA |\n| Copper | Freeport-McMoRan | 128 | 1,540,000 | Phoenix, Arizona, USA |\n| Uranium | Cameco | 65 | 10,193 | Saskatoon, Saskatchewan, Canada |\n| Silver | Fresnillo | 45 | 1,349 | Mexico City, Mexico |\n| Lithium | Albermarle | 28 | 42,000 | Charlotte, North Carolina, USA |",
     "ai_analysis": {
