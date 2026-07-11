@@ -1,5 +1,357 @@
 [
   {
+    "id": "f66cf901",
+    "title": "Ranked: The Best Countries for Quality of Life in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-best-countries-for-quality-of-life-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f66cf901.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDj1WmSLxUy9KZL0rtM09SqRzRSnrRQaH//2Q==",
+    "image_version": 1783773947,
+    "pub_date": "Sat, 11 Jul 2026 12:05:49 +0000",
+    "content_md": "| Rank | Country | 2026 Quality of Life Score |\n| --- | --- | --- |\n| 1 | Sweden | 100.0 |\n| 2 | Denmark | 98.2 |\n| 3 | Canada | 95.0 |\n| 4 | Switzerland | 94.8 |\n| 5 | Finland | 92.4 |\n| 6 | Norway | 92.4 |\n| 7 | Netherlands | 90.8 |\n| 8 | Australia | 87.5 |\n| 9 | Germany | 82.9 |\n| 10 | Belgium | 78.6 |\n| 11 | Austria | 76.7 |\n| 12 | New Zealand | 74.0 |\n| 13 | UK | 73.7 |\n| 14 | Japan | 73.4 |\n| 15 | Luxembourg | 69.9 |\n| 16 | Ireland | 63.5 |\n| 17 | Singapore | 61.6 |\n| 18 | Poland | 59.6 |\n| 19 | Spain | 56.7 |\n| 20 | France | 56.2 |\n| 21 | Portugal | 56.1 |\n| 22 | Iceland | 55.8 |\n| 23 | UAE | 52.2 |\n| 24 | South Korea | 51.7 |\n| 25 | Italy | 49.9 |\n| 26 | China | 49.8 |\n| 27 | U.S. | 48.6 |\n| 28 | Greece | 36.2 |\n| 29 | Saudi Arabia | 35.6 |\n| 30 | Czechia | 32.3 |\n\n| Rank | Country | 2026 Quality of Life Score |\n| --- | --- | --- |\n| 85 | Ukraine | 0.0 |\n| 84 | Iran | 1.8 |\n| 83 | Lebanon | 4.1 |\n| 82 | Kazakhstan | 4.4 |\n| 81 | Cameroon | 6.5 |\n| 80 | Azerbaijan | 7.0 |\n| 79 | Uzbekistan | 7.3 |\n| 78 | Ghana | 8.0 |\n| 77 | Algeria | 8.0 |\n| 76 | Belarus | 8.2 |\n| 75 | Kenya | 8.5 |\n| 74 | Serbia | 8.6 |\n| 73 | South Africa | 8.6 |\n| 72 | Guatemala | 9.1 |\n| 71 | Sri Lanka | 9.2 |\n| 70 | Ecuador | 9.3 |\n| 69 | Colombia | 9.7 |\n| 68 | Dominican Republic | 9.9 |\n| 67 | Jordan | 10.6 |\n| 66 | Panama | 10.8 |\n| 65 | Bangladesh | 11.3 |\n| 64 | Cambodia | 11.8 |\n| 63 | Israel | 11.9 |\n| 62 | Peru | 12.1 |\n| 61 | Tunisia | 12.7 |\n| 60 | Costa Rica | 13.5 |\n| 59 | Oman | 14.7 |\n| 58 | Lithuania | 14.9 |\n| 57 | Chile | 15.6 |\n| 56 | Uruguay | 15.7 |",
+    "ai_analysis": {
+      "core_insight": "北欧国家垄断品质生活榜首，乌克兰因地缘冲突垫底，发达国家与发展中国家差距悬殊。",
+      "data_highlights": [
+        "瑞典以满分100分位居第一，丹麦（98.2）和加拿大（95.0）紧随其后，北欧四国均位列前六。",
+        "美国（48.6）和中国（49.8）得分相近，均处于中游偏下，未进入前25名。",
+        "乌克兰因战争遭受重创，得分为0，伊朗和黎巴嫩等受冲突或经济危机影响的国家排名末尾。",
+        "榜单两端分差超过100分，前10名得分均高于78，而末尾10名得分均低于8。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Quality of Life Score"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sweden",
+              "100.0"
+            ],
+            [
+              "2",
+              "Denmark",
+              "98.2"
+            ],
+            [
+              "3",
+              "Canada",
+              "95.0"
+            ],
+            [
+              "4",
+              "Switzerland",
+              "94.8"
+            ],
+            [
+              "5",
+              "Finland",
+              "92.4"
+            ],
+            [
+              "6",
+              "Norway",
+              "92.4"
+            ],
+            [
+              "7",
+              "Netherlands",
+              "90.8"
+            ],
+            [
+              "8",
+              "Australia",
+              "87.5"
+            ],
+            [
+              "9",
+              "Germany",
+              "82.9"
+            ],
+            [
+              "10",
+              "Belgium",
+              "78.6"
+            ],
+            [
+              "11",
+              "Austria",
+              "76.7"
+            ],
+            [
+              "12",
+              "New Zealand",
+              "74.0"
+            ],
+            [
+              "13",
+              "UK",
+              "73.7"
+            ],
+            [
+              "14",
+              "Japan",
+              "73.4"
+            ],
+            [
+              "15",
+              "Luxembourg",
+              "69.9"
+            ],
+            [
+              "16",
+              "Ireland",
+              "63.5"
+            ],
+            [
+              "17",
+              "Singapore",
+              "61.6"
+            ],
+            [
+              "18",
+              "Poland",
+              "59.6"
+            ],
+            [
+              "19",
+              "Spain",
+              "56.7"
+            ],
+            [
+              "20",
+              "France",
+              "56.2"
+            ],
+            [
+              "21",
+              "Portugal",
+              "56.1"
+            ],
+            [
+              "22",
+              "Iceland",
+              "55.8"
+            ],
+            [
+              "23",
+              "UAE",
+              "52.2"
+            ],
+            [
+              "24",
+              "South Korea",
+              "51.7"
+            ],
+            [
+              "25",
+              "Italy",
+              "49.9"
+            ],
+            [
+              "26",
+              "China",
+              "49.8"
+            ],
+            [
+              "27",
+              "U.S.",
+              "48.6"
+            ],
+            [
+              "28",
+              "Greece",
+              "36.2"
+            ],
+            [
+              "29",
+              "Saudi Arabia",
+              "35.6"
+            ],
+            [
+              "30",
+              "Czechia",
+              "32.3"
+            ]
+          ],
+          "caption": "2026年品质生活指数前30名"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2026 Quality of Life Score"
+          ],
+          "rows": [
+            [
+              "85",
+              "Ukraine",
+              "0.0"
+            ],
+            [
+              "84",
+              "Iran",
+              "1.8"
+            ],
+            [
+              "83",
+              "Lebanon",
+              "4.1"
+            ],
+            [
+              "82",
+              "Kazakhstan",
+              "4.4"
+            ],
+            [
+              "81",
+              "Cameroon",
+              "6.5"
+            ],
+            [
+              "80",
+              "Azerbaijan",
+              "7.0"
+            ],
+            [
+              "79",
+              "Uzbekistan",
+              "7.3"
+            ],
+            [
+              "78",
+              "Ghana",
+              "8.0"
+            ],
+            [
+              "77",
+              "Algeria",
+              "8.0"
+            ],
+            [
+              "76",
+              "Belarus",
+              "8.2"
+            ],
+            [
+              "75",
+              "Kenya",
+              "8.5"
+            ],
+            [
+              "74",
+              "Serbia",
+              "8.6"
+            ],
+            [
+              "73",
+              "South Africa",
+              "8.6"
+            ],
+            [
+              "72",
+              "Guatemala",
+              "9.1"
+            ],
+            [
+              "71",
+              "Sri Lanka",
+              "9.2"
+            ],
+            [
+              "70",
+              "Ecuador",
+              "9.3"
+            ],
+            [
+              "69",
+              "Colombia",
+              "9.7"
+            ],
+            [
+              "68",
+              "Dominican Republic",
+              "9.9"
+            ],
+            [
+              "67",
+              "Jordan",
+              "10.6"
+            ],
+            [
+              "66",
+              "Panama",
+              "10.8"
+            ],
+            [
+              "65",
+              "Bangladesh",
+              "11.3"
+            ],
+            [
+              "64",
+              "Cambodia",
+              "11.8"
+            ],
+            [
+              "63",
+              "Israel",
+              "11.9"
+            ],
+            [
+              "62",
+              "Peru",
+              "12.1"
+            ],
+            [
+              "61",
+              "Tunisia",
+              "12.7"
+            ],
+            [
+              "60",
+              "Costa Rica",
+              "13.5"
+            ],
+            [
+              "59",
+              "Oman",
+              "14.7"
+            ],
+            [
+              "58",
+              "Lithuania",
+              "14.9"
+            ],
+            [
+              "57",
+              "Chile",
+              "15.6"
+            ],
+            [
+              "56",
+              "Uruguay",
+              "15.7"
+            ]
+          ],
+          "caption": "2026年品质生活指数后30名（第56–85名）"
+        }
+      ],
+      "deep_dive": "## 北欧模式的持续领先\n北欧国家几乎垄断了榜单前六名，瑞典、丹麦、芬兰、挪威均获得90分以上的高分。这反映出其完善的社会福利体系、高水平的医疗保障、优质的教育资源以及高度平等的收入分配机制。高税负支撑的普惠型公共服务有效降低了居民的生活焦虑，同时自然环境和社会安全也维持在高水平。值得注意的是，加拿大（第3）和瑞士（第4）同样挤入前五，加拿大依赖多元文化社会的包容性与丰富的自然资源，而瑞士则凭借稳定的政治经济环境和卓越的公共设施赢得高分。\n\n## 大国表现的分化与启示\n美国（48.6分）和中国（49.8分）作为全球最大经济体，品质生活评分却仅列第26和27位，远低于北欧国家。美国得分受高昂的医疗成本、收入不平等和社会治安问题拖累；中国则面临环境污染、社会保障覆盖不均等挑战。日本（73.4分）和英国（73.7分）处于中上水平，但老龄化社会和脱欧后的不确定性拉低了英国的排名。这表明GDP总量与居民主观幸福感并不直接挂钩，社会公平、公共服务和公共安全等软性指标对生活品质的影响更为显著。\n\n## 冲突与贫困的极端代价\n榜单末尾几乎被冲突地区和发展中国家占据。乌克兰因战争直接获得0分，基础设施损毁、民生崩溃；伊朗和黎巴嫩分别仅得1.8和4.1分，长期的经济制裁和政治动荡使基本生活条件难以保障。撒哈拉以南非洲国家如喀麦隆、加纳得分均在8分以下，凸显贫困、疾病和治理失效对品质生活的毁灭性影响。即便是中等收入国家如南非、哥伦比亚，得分也不足10分，反映出犯罪率、失业和不平等问题的深层顽疾。这些极端案例警示：没有和平与发展，任何提升生活品质的努力都难以奏效。",
+      "glossary": [
+        {
+          "term": "Quality of Life Score",
+          "explanation": "衡量一国居民整体生活水平的综合指数，通常涵盖医疗、教育、安全、环境、基础设施、政治稳定等维度，经标准化后以0-100分呈现，分数越高代表生活质量越好。"
+        },
+        {
+          "term": "社会福利体系",
+          "explanation": "国家通过立法和行政手段建立的、保护社会成员基本生活权益的系统，包括医疗、养老、失业、生育等保险及社会救助，是北欧高生活品质的主要支柱。"
+        }
+      ]
+    }
+  },
+  {
     "id": "e7bbccbf",
     "title": "Mapped: Europe’s Military Spending by GDP",
     "original_url": "https://www.visualcapitalist.com/mapped-europes-defense-spending-in-2025/",
