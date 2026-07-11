@@ -1,5 +1,267 @@
 [
   {
+    "id": "e7bbccbf",
+    "title": "Mapped: Europe’s Military Spending by GDP",
+    "original_url": "https://www.visualcapitalist.com/mapped-europes-defense-spending-in-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e7bbccbf.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDklarVvLtNUFqZCa5aiuiWbKXQCjmissMcdaK5fYoLn//Z",
+    "image_version": 1783747800,
+    "pub_date": "Sat, 11 Jul 2026 04:45:47 +0000",
+    "content_md": "| Rank | Country | 2025 military spending (% of GDP) |\n| --- | --- | --- |\n| 1 | Ukraine | 39.56% |\n| 2 | Russia | 7.50% |\n| 3 | Poland | 4.50% |\n| 4 | Latvia | 3.61% |\n| 5 | Estonia | 3.37% |\n| 6 | Norway | 3.28% |\n| 7 | Denmark | 3.25% |\n| 8 | Serbia | 2.76% |\n| 9 | Finland | 2.57% |\n| 10 | Sweden | 2.47% |\n| 11 | Belarus | 2.40% |\n| 12 | United Kingdom | 2.35% |\n| 13 | Romania | 2.28% |\n| 14 | Germany | 2.27% |\n| 15 | Netherlands | 2.19% |\n| 16 | Spain | 2.13% |\n| 17 | Hungary | 2.04% |\n| 18 | Albania | 2.03% |\n| 19 | France | 2.03% |\n| 20 | Slovakia | 2.03% |\n| 21 | Croatia | 2.02% |\n| 22 | Belgium | 2.01% |\n| 23 | Bulgaria | 2.01% |\n| 24 | North Macedonia | 1.97% |\n| 25 | Türkiye | 1.91% |\n| 26 | Italy | 1.89% |\n| 27 | Montenegro | 1.89% |\n| 28 | Kosovo | 1.85% |\n| 29 | Czechia | 1.84% |\n| 30 | Lithuania | 1.83% |\n| 31 | Georgia | 1.75% |\n| 32 | Portugal | 1.71% |\n| 33 | Cyprus | 1.61% |\n| 34 | Slovenia | 1.54% |\n| 35 | Greece | 1.17% |\n| 36 | Austria | 1.10% |\n| 37 | Luxembourg | 0.85% |\n| 38 | Switzerland | 0.76% |\n| 39 | Bosnia and Herzegovina | 0.73% |\n| 40 | Moldova | 0.56% |\n| 41 | Malta | 0.45% |\n| 42 | Ireland | 0.22% |\n| 43 | Iceland | 0.00% |",
+    "ai_analysis": {
+      "core_insight": "乌克兰军费占比近40%极端突显战争冲击，北约多数成员国勉强达标。",
+      "data_highlights": [
+        "乌克兰以39.56%的GDP占比遥遥领先，远超其他国家，反映全面战争下的经济军事化。",
+        "俄罗斯军费占比7.50%位列第二，显示其持续的高强度军事投入。",
+        "波兰（4.50%）、拉脱维亚（3.61%）、爱沙尼亚（3.37%）等东翼国家大幅高于北约2%基准线。",
+        "德国（2.27%）、法国（2.03%）、意大利（1.89%）等西欧大国仅略高于或低于2%目标。",
+        "冰岛军费占比为0.00%，因其无正规军队，依靠北约集体防御。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2025 military spending (% of GDP)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Ukraine",
+              "39.56%"
+            ],
+            [
+              "2",
+              "Russia",
+              "7.50%"
+            ],
+            [
+              "3",
+              "Poland",
+              "4.50%"
+            ],
+            [
+              "4",
+              "Latvia",
+              "3.61%"
+            ],
+            [
+              "5",
+              "Estonia",
+              "3.37%"
+            ],
+            [
+              "6",
+              "Norway",
+              "3.28%"
+            ],
+            [
+              "7",
+              "Denmark",
+              "3.25%"
+            ],
+            [
+              "8",
+              "Serbia",
+              "2.76%"
+            ],
+            [
+              "9",
+              "Finland",
+              "2.57%"
+            ],
+            [
+              "10",
+              "Sweden",
+              "2.47%"
+            ],
+            [
+              "11",
+              "Belarus",
+              "2.40%"
+            ],
+            [
+              "12",
+              "United Kingdom",
+              "2.35%"
+            ],
+            [
+              "13",
+              "Romania",
+              "2.28%"
+            ],
+            [
+              "14",
+              "Germany",
+              "2.27%"
+            ],
+            [
+              "15",
+              "Netherlands",
+              "2.19%"
+            ],
+            [
+              "16",
+              "Spain",
+              "2.13%"
+            ],
+            [
+              "17",
+              "Hungary",
+              "2.04%"
+            ],
+            [
+              "18",
+              "Albania",
+              "2.03%"
+            ],
+            [
+              "19",
+              "France",
+              "2.03%"
+            ],
+            [
+              "20",
+              "Slovakia",
+              "2.03%"
+            ],
+            [
+              "21",
+              "Croatia",
+              "2.02%"
+            ],
+            [
+              "22",
+              "Belgium",
+              "2.01%"
+            ],
+            [
+              "23",
+              "Bulgaria",
+              "2.01%"
+            ],
+            [
+              "24",
+              "North Macedonia",
+              "1.97%"
+            ],
+            [
+              "25",
+              "Türkiye",
+              "1.91%"
+            ],
+            [
+              "26",
+              "Italy",
+              "1.89%"
+            ],
+            [
+              "27",
+              "Montenegro",
+              "1.89%"
+            ],
+            [
+              "28",
+              "Kosovo",
+              "1.85%"
+            ],
+            [
+              "29",
+              "Czechia",
+              "1.84%"
+            ],
+            [
+              "30",
+              "Lithuania",
+              "1.83%"
+            ],
+            [
+              "31",
+              "Georgia",
+              "1.75%"
+            ],
+            [
+              "32",
+              "Portugal",
+              "1.71%"
+            ],
+            [
+              "33",
+              "Cyprus",
+              "1.61%"
+            ],
+            [
+              "34",
+              "Slovenia",
+              "1.54%"
+            ],
+            [
+              "35",
+              "Greece",
+              "1.17%"
+            ],
+            [
+              "36",
+              "Austria",
+              "1.10%"
+            ],
+            [
+              "37",
+              "Luxembourg",
+              "0.85%"
+            ],
+            [
+              "38",
+              "Switzerland",
+              "0.76%"
+            ],
+            [
+              "39",
+              "Bosnia and Herzegovina",
+              "0.73%"
+            ],
+            [
+              "40",
+              "Moldova",
+              "0.56%"
+            ],
+            [
+              "41",
+              "Malta",
+              "0.45%"
+            ],
+            [
+              "42",
+              "Ireland",
+              "0.22%"
+            ],
+            [
+              "43",
+              "Iceland",
+              "0.00%"
+            ]
+          ],
+          "caption": "2025年欧洲各国军费开支占GDP百分比排名"
+        }
+      ],
+      "deep_dive": "## 战争驱动的极端分化\n2025年欧洲军费地图呈现两极分化的鲜明格局。乌克兰以39.56%的GDP占比位居榜首，这一数字几乎是排名第二的俄罗斯（7.50%）的五倍，更是北约2%基准线的近二十倍。这种极端数值并非正常国防规划的结果，而是全面战争下经济全面军事化的直接体现——大量国内资源被强制转向国防，同时依赖外部援助填补财政缺口。俄罗斯7.50%的占比同样远超其历史水平，表明克里姆林宫正以战时经济模式维持长期冲突。这两个国家的数据共同揭示了热战对资源配置的扭曲效应。\n\n## 北约东翼的防务觉醒与西翼的迟缓达标\n- 波兰（4.50%）、拉脱维亚（3.61%）、爱沙尼亚（3.37%）等东翼国家军费比例显著高于北约2%基准。这些国家与俄乌战场地理邻近，深感安全威胁，正加速推进军事现代化，其高比例也反映出较小的GDP总量放大了开支的权重。\n- 对比之下，西欧大国德国（2.27%）、法国（2.03%）、意大利（1.89%）的军费占比大多仅勉强触及或略低于2%。德国虽在“时代转折”后宣布千亿欧元特别基金，但GDP基数庞大导致占比增长缓慢；意大利和西班牙（2.13%）则受制于高额公共债务与政治分歧。这种东高西低的梯度映射出欧洲安全威胁感知的“地缘距离”。\n- 值得注意的是，北欧国家挪威（3.28%）、丹麦（3.25%）和芬兰（2.57%）同样高于基准，芬兰更是因加入北约而加速提升防务。英国（2.35%）维持传统防务角色，但经济疲软可能限制进一步增长空间。\n\n## 2%目标的局限性与战略启示\n自2014年威尔士峰会设定国防开支占GDP 2%的目标以来，该指标成为衡量北约成员国防务付出的核心标尺。然而，单纯的比例指标存在明显局限：它无法反映绝对支出规模、开支效率，以及经济衰退时被动达标的虚假繁荣。例如，立陶宛GDP较小，即使1.83%的比例也能实现相对可观的采购；而德国即使达标，其绝对数额已位列欧洲前列。同时，冰岛（0.00%）、爱尔兰（0.22%）等低比例国家各有特殊国情，冰岛无武装力量，爱尔兰坚守军事中立。\n- 启示一：欧洲防务自主化进程仍需克服长期投资不足与碎片化问题。尽管多数成员国已达标，但装备互操作性、联合采购与快速部署能力仍待加强。\n- 启示二：乌克兰的数值警示，若危机蔓延，欧洲经济韧性可能受重压，平衡福利支出与防务投入将成为长期挑战。未来，北约可能转向更复合的评估框架，兼顾支出规模、能力输出与集体防御贡献。",
+      "glossary": [
+        {
+          "term": "军费开支占GDP比例",
+          "explanation": "一国年度国防支出与国内生产总值（GDP）的比值，是衡量军事负担和经济军事化程度的国际通用指标。"
+        },
+        {
+          "term": "北约2%国防开支指南",
+          "explanation": "北约成员国于2014年达成的非约束性目标，承诺在2024年前将军费提升至GDP的2%，以公平分担防务责任。"
+        },
+        {
+          "term": "东翼国家（Eastern Flank）",
+          "explanation": "指北约位于中东欧的成员国，如波兰、波罗的海三国等，因毗邻俄罗斯而面临更高安全风险，近年来大幅增加军费。"
+        }
+      ]
+    }
+  },
+  {
     "id": "2f5b900d",
     "title": "Mapped: Which Countries Spend the Most on Education?",
     "original_url": "https://www.visualcapitalist.com/cp/countries-spend-most-on-education-gdp-map/",
