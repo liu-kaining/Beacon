@@ -1,5 +1,2569 @@
 [
   {
+    "id": "2f5b900d",
+    "title": "Mapped: Which Countries Spend the Most on Education?",
+    "original_url": "https://www.visualcapitalist.com/cp/countries-spend-most-on-education-gdp-map/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2f5b900d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCuLI+lOFkfStcKPSnqq+lZNnNExvsB9KK3Qq46UUyrH//Z",
+    "image_version": 1783732762,
+    "pub_date": "Fri, 10 Jul 2026 18:21:48 +0000",
+    "content_md": "| Rank | Country/Territory | Education Spending as % of GDP |\n| --- | --- | --- |\n| 1 | Kiribati | 16.39 |\n| 2 | Tuvalu | 12.85 |\n| 3 | Micronesia | 11.56 |\n| 4 | Namibia | 9.08 |\n| 5 | Algeria | 8.98 |\n| 6 | Cuba | 8.44 |\n| 7 | Solomon Islands | 8.29 |\n| 8 | Botswana | 8.06 |\n| 9 | Marshall Islands | 7.70 |\n| 10 | Vanuatu | 7.64 |\n| 11 | Mauritania | 7.61 |\n| 12 | Bolivia | 7.54 |\n| 13 | Sweden | 7.32 |\n| 14 | Iceland | 7.31 |\n| 15 | Kyrgyzstan | 6.83 |\n| 16 | Tunisia | 6.73 |\n| 17 | Lesotho | 6.62 |\n| 18 | Moldova | 6.56 |\n| 19 | Saint Vincent and the Grenadines | 6.46 |\n| 20 | Kuwait | 6.44 |\n| 21 | Finland | 6.38 |\n| 22 | Denmark | 6.36 |\n| 23 | Belgium | 6.28 |\n| 24 | Senegal | 6.16 |\n| 25 | Eswatini | 6.03 |\n| 26 | South Africa | 6.02 |\n| 27 | Morocco | 6.02 |\n| 28 | Mozambique | 5.98 |\n| 29 | Israel | 5.93 |\n| 30 | United Kingdom | 5.91 |\n| 31 | Bhutan | 5.85 |\n| 32 | Nauru | 5.78 |\n| 33 | Brazil | 5.62 |\n| 34 | Jamaica | 5.51 |\n| 35 | Uzbekistan | 5.47 |\n| 36 | Samoa | 5.46 |\n| 37 | Tajikistan | 5.44 |\n| 38 | Palestine | 5.43 |\n| 39 | Norway | 5.43 |\n| 40 | United States | 5.42 |\n| 41 | South Korea | 5.41 |\n| 42 | Dominica | 5.39 |\n| 43 | Burkina Faso | 5.33 |\n| 44 | France | 5.32 |\n| 45 | Costa Rica | 5.31 |\n| 46 | Tonga | 5.31 |\n| 47 | Slovenia | 5.28 |\n| 48 | Austria | 5.28 |\n| 49 | Colombia | 5.26 |\n| 50 | East Timor | 5.24 |\n| 51 | Germany | 5.24 |\n| 52 | New Zealand | 5.21 |\n| 53 | Mongolia | 5.21 |\n| 54 | Estonia | 5.21 |\n| 55 | Netherlands | 5.18 |\n| 56 | Maldives | 5.17 |\n| 57 | Ukraine | 5.14 |\n| 58 | Grenada | 5.13 |\n| 59 | Australia | 5.06 |\n| 60 | Belarus | 5.05 |\n| 61 | Sao Tome and Principe | 5.03 |\n| 62 | Argentina | 5.00 |\n| 63 | Chile | 4.91 |\n| 64 | Kazakhstan | 4.86 |\n| 65 | Switzerland | 4.86 |\n| 66 | Canada | 4.84 |\n| 67 | Uruguay | 4.76 |\n| 68 | Cyprus | 4.74 |\n| 69 | Malta | 4.71 |\n| 70 | Slovakia | 4.66 |\n| 71 | Belize | 4.62 |\n| 72 | Rwanda | 4.61 |\n| 73 | Spain | 4.59 |\n| 74 | Portugal | 4.55 |\n| 75 | Honduras | 4.55 |\n| 76 | Burundi | 4.50 |\n| 77 | Bulgaria | 4.50 |\n| 78 | Saudi Arabia | 4.48 |\n| 79 | Seychelles | 4.45 |\n| 80 | Guyana | 4.45 |\n| 81 | Brunei | 4.43 |\n| 82 | Oman | 4.38 |\n| 83 | Peru | 4.36 |\n| 84 | Cape Verde | 4.35 |\n| 85 | Afghanistan | 4.34 |\n| 86 | Latvia | 4.32 |\n| 87 | Poland | 4.31 |\n| 88 | Czechia | 4.30 |\n| 89 | Turkmenistan | 4.29 |\n| 90 | Puerto Rico | 4.27 |\n| 91 | Lithuania | 4.25 |\n| 92 | Mauritius | 4.25 |\n| 93 | Fiji | 4.25 |\n| 94 | Mali | 4.18 |\n| 95 | Russia | 4.16 |\n| 96 | Togo | 4.14 |\n| 97 | India | 4.10 |\n| 98 | Croatia | 4.09 |\n| 99 | Niger | 4.07 |\n| 100 | Zambia | 4.07 |\n| 101 | Italy | 4.07 |\n| 102 | Mexico | 4.06 |\n| 103 | Kenya | 4.02 |\n| 104 | Georgia | 3.98 |\n| 105 | Philippines | 3.97 |\n| 106 | China | 3.90 |\n| 107 | United Arab Emirates | 3.89 |\n| 108 | Saint Lucia | 3.85 |\n| 109 | Hungary | 3.80 |\n| 110 | Dominican Republic | 3.76 |\n| 111 | Djibouti | 3.75 |\n| 112 | Luxembourg | 3.74 |\n| 113 | Ecuador | 3.69 |\n| 114 | Nepal | 3.69 |\n| 115 | Azerbaijan | 3.66 |\n| 116 | Cote d'Ivoire | 3.61 |\n| 117 | Barbados | 3.56 |\n| 118 | Paraguay | 3.53 |\n| 119 | Malaysia | 3.51 |\n| 120 | Saint Kitts and Nevis | 3.50 |\n| 121 | Palau | 3.44 |\n| 122 | Serbia | 3.40 |\n| 123 | Greece | 3.38 |\n| 124 | Congo | 3.34 |\n| 125 | Japan | 3.34 |\n| 126 | El Salvador | 3.32 |\n| 127 | Romania | 3.28 |\n| 128 | Bosnia and Herzegovina | 3.25 |\n| 129 | Qatar | 3.23 |\n| 130 | Trinidad and Tobago | 3.23 |\n| 131 | Jordan | 3.23 |\n| 132 | Benin | 3.23 |\n| 133 | Chad | 3.20 |\n| 134 | Tanzania | 3.16 |\n| 135 | Antigua and Barbuda | 3.11 |\n| 136 | Turkey | 3.10 |\n| 137 | Albania | 3.09 |\n| 138 | Guatemala | 3.08 |\n| 139 | Madagascar | 3.05 |\n| 140 | Ghana | 2.91 |\n| 141 | Ireland | 2.90 |\n| 142 | San Marino | 2.90 |\n| 143 | Vietnam | 2.89 |\n| 144 | Nicaragua | 2.87 |\n| 145 | Suriname | 2.87 |\n| 146 | Democratic Republic of Congo | 2.84 |\n| 147 | Cameroon | 2.84 |\n| 148 | Iran | 2.82 |\n| 149 | Gambia | 2.81 |\n| 150 | Malawi | 2.75 |\n| 151 | Bahamas | 2.74 |\n| 152 | Sierra Leone | 2.62 |\n| 153 | Uganda | 2.56 |\n| 154 | Thailand | 2.52 |\n| 155 | Angola | 2.51 |\n| 156 | Panama | 2.47 |\n| 157 | Armenia | 2.44 |\n| 158 | Comoros | 2.34 |\n| 159 | Gabon | 2.32 |\n| 160 | Ethiopia | 2.30 |\n| 161 | Liberia | 2.27 |\n| 162 | Singapore | 2.19 |\n| 163 | Cambodia | 2.18 |\n| 164 | Bangladesh | 2.03 |\n| 165 | Myanmar | 2.00 |\n| 166 | Pakistan | 1.95 |\n| 167 | Andorra | 1.90 |\n| 168 | Bahrain | 1.89 |\n| 169 | Central African Republic | 1.83 |\n| 170 | Sri Lanka | 1.83 |\n| 171 | Monaco | 1.73 |\n| 172 | Guinea | 1.72 |\n| 173 | South Sudan | 1.57 |\n| 174 | Indonesia | 1.28 |\n| 175 | Laos | 1.23 |\n| 176 | Lebanon | 1.22 |\n| 177 | Haiti | 0.96 |\n| 178 | Papua New Guinea | 0.78 |\n| 179 | Zimbabwe | 0.38 |\n| 180 | Nigeria | 0.32 |\n| 181 | Somalia | 0.0000081 |",
+    "ai_analysis": {
+      "core_insight": "小岛国教育支出占GDP比例居首，但高比例不代表高投入，需结合经济规模与效率看。",
+      "data_highlights": [
+        "基里巴斯以16.39%的教育支出占比位列全球第一，而索马里几乎为零（0.0000081%）。",
+        "北欧国家瑞典、冰岛、芬兰、丹麦均超过6%，体现高福利社会对教育的重视。",
+        "美国、英国、德国等主要发达国家支出占比在5%-6%之间，中国为3.90%。",
+        "日本（3.34%）、新加坡（2.19%）等教育强国支出占比反而偏低，显示出资金利用效率的差异。",
+        "排名前列的多为太平洋岛国和非洲国家，其GDP基数较小，绝对金额有限。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country/Territory",
+            "Education Spending as % of GDP"
+          ],
+          "rows": [
+            [
+              "1",
+              "Kiribati",
+              "16.39"
+            ],
+            [
+              "2",
+              "Tuvalu",
+              "12.85"
+            ],
+            [
+              "3",
+              "Micronesia",
+              "11.56"
+            ],
+            [
+              "4",
+              "Namibia",
+              "9.08"
+            ],
+            [
+              "5",
+              "Algeria",
+              "8.98"
+            ],
+            [
+              "6",
+              "Cuba",
+              "8.44"
+            ],
+            [
+              "7",
+              "Solomon Islands",
+              "8.29"
+            ],
+            [
+              "8",
+              "Botswana",
+              "8.06"
+            ],
+            [
+              "9",
+              "Marshall Islands",
+              "7.70"
+            ],
+            [
+              "10",
+              "Vanuatu",
+              "7.64"
+            ],
+            [
+              "11",
+              "Mauritania",
+              "7.61"
+            ],
+            [
+              "12",
+              "Bolivia",
+              "7.54"
+            ],
+            [
+              "13",
+              "Sweden",
+              "7.32"
+            ],
+            [
+              "14",
+              "Iceland",
+              "7.31"
+            ],
+            [
+              "15",
+              "Kyrgyzstan",
+              "6.83"
+            ],
+            [
+              "16",
+              "Tunisia",
+              "6.73"
+            ],
+            [
+              "17",
+              "Lesotho",
+              "6.62"
+            ],
+            [
+              "18",
+              "Moldova",
+              "6.56"
+            ],
+            [
+              "19",
+              "Saint Vincent and the Grenadines",
+              "6.46"
+            ],
+            [
+              "20",
+              "Kuwait",
+              "6.44"
+            ],
+            [
+              "21",
+              "Finland",
+              "6.38"
+            ],
+            [
+              "22",
+              "Denmark",
+              "6.36"
+            ],
+            [
+              "23",
+              "Belgium",
+              "6.28"
+            ],
+            [
+              "24",
+              "Senegal",
+              "6.16"
+            ],
+            [
+              "25",
+              "Eswatini",
+              "6.03"
+            ],
+            [
+              "26",
+              "South Africa",
+              "6.02"
+            ],
+            [
+              "27",
+              "Morocco",
+              "6.02"
+            ],
+            [
+              "28",
+              "Mozambique",
+              "5.98"
+            ],
+            [
+              "29",
+              "Israel",
+              "5.93"
+            ],
+            [
+              "30",
+              "United Kingdom",
+              "5.91"
+            ],
+            [
+              "31",
+              "Bhutan",
+              "5.85"
+            ],
+            [
+              "32",
+              "Nauru",
+              "5.78"
+            ],
+            [
+              "33",
+              "Brazil",
+              "5.62"
+            ],
+            [
+              "34",
+              "Jamaica",
+              "5.51"
+            ],
+            [
+              "35",
+              "Uzbekistan",
+              "5.47"
+            ],
+            [
+              "36",
+              "Samoa",
+              "5.46"
+            ],
+            [
+              "37",
+              "Tajikistan",
+              "5.44"
+            ],
+            [
+              "38",
+              "Palestine",
+              "5.43"
+            ],
+            [
+              "39",
+              "Norway",
+              "5.43"
+            ],
+            [
+              "40",
+              "United States",
+              "5.42"
+            ],
+            [
+              "41",
+              "South Korea",
+              "5.41"
+            ],
+            [
+              "42",
+              "Dominica",
+              "5.39"
+            ],
+            [
+              "43",
+              "Burkina Faso",
+              "5.33"
+            ],
+            [
+              "44",
+              "France",
+              "5.32"
+            ],
+            [
+              "45",
+              "Costa Rica",
+              "5.31"
+            ],
+            [
+              "46",
+              "Tonga",
+              "5.31"
+            ],
+            [
+              "47",
+              "Slovenia",
+              "5.28"
+            ],
+            [
+              "48",
+              "Austria",
+              "5.28"
+            ],
+            [
+              "49",
+              "Colombia",
+              "5.26"
+            ],
+            [
+              "50",
+              "East Timor",
+              "5.24"
+            ],
+            [
+              "51",
+              "Germany",
+              "5.24"
+            ],
+            [
+              "52",
+              "New Zealand",
+              "5.21"
+            ],
+            [
+              "53",
+              "Mongolia",
+              "5.21"
+            ],
+            [
+              "54",
+              "Estonia",
+              "5.21"
+            ],
+            [
+              "55",
+              "Netherlands",
+              "5.18"
+            ],
+            [
+              "56",
+              "Maldives",
+              "5.17"
+            ],
+            [
+              "57",
+              "Ukraine",
+              "5.14"
+            ],
+            [
+              "58",
+              "Grenada",
+              "5.13"
+            ],
+            [
+              "59",
+              "Australia",
+              "5.06"
+            ],
+            [
+              "60",
+              "Belarus",
+              "5.05"
+            ],
+            [
+              "61",
+              "Sao Tome and Principe",
+              "5.03"
+            ],
+            [
+              "62",
+              "Argentina",
+              "5.00"
+            ],
+            [
+              "63",
+              "Chile",
+              "4.91"
+            ],
+            [
+              "64",
+              "Kazakhstan",
+              "4.86"
+            ],
+            [
+              "65",
+              "Switzerland",
+              "4.86"
+            ],
+            [
+              "66",
+              "Canada",
+              "4.84"
+            ],
+            [
+              "67",
+              "Uruguay",
+              "4.76"
+            ],
+            [
+              "68",
+              "Cyprus",
+              "4.74"
+            ],
+            [
+              "69",
+              "Malta",
+              "4.71"
+            ],
+            [
+              "70",
+              "Slovakia",
+              "4.66"
+            ],
+            [
+              "71",
+              "Belize",
+              "4.62"
+            ],
+            [
+              "72",
+              "Rwanda",
+              "4.61"
+            ],
+            [
+              "73",
+              "Spain",
+              "4.59"
+            ],
+            [
+              "74",
+              "Portugal",
+              "4.55"
+            ],
+            [
+              "75",
+              "Honduras",
+              "4.55"
+            ],
+            [
+              "76",
+              "Burundi",
+              "4.50"
+            ],
+            [
+              "77",
+              "Bulgaria",
+              "4.50"
+            ],
+            [
+              "78",
+              "Saudi Arabia",
+              "4.48"
+            ],
+            [
+              "79",
+              "Seychelles",
+              "4.45"
+            ],
+            [
+              "80",
+              "Guyana",
+              "4.45"
+            ],
+            [
+              "81",
+              "Brunei",
+              "4.43"
+            ],
+            [
+              "82",
+              "Oman",
+              "4.38"
+            ],
+            [
+              "83",
+              "Peru",
+              "4.36"
+            ],
+            [
+              "84",
+              "Cape Verde",
+              "4.35"
+            ],
+            [
+              "85",
+              "Afghanistan",
+              "4.34"
+            ],
+            [
+              "86",
+              "Latvia",
+              "4.32"
+            ],
+            [
+              "87",
+              "Poland",
+              "4.31"
+            ],
+            [
+              "88",
+              "Czechia",
+              "4.30"
+            ],
+            [
+              "89",
+              "Turkmenistan",
+              "4.29"
+            ],
+            [
+              "90",
+              "Puerto Rico",
+              "4.27"
+            ],
+            [
+              "91",
+              "Lithuania",
+              "4.25"
+            ],
+            [
+              "92",
+              "Mauritius",
+              "4.25"
+            ],
+            [
+              "93",
+              "Fiji",
+              "4.25"
+            ],
+            [
+              "94",
+              "Mali",
+              "4.18"
+            ],
+            [
+              "95",
+              "Russia",
+              "4.16"
+            ],
+            [
+              "96",
+              "Togo",
+              "4.14"
+            ],
+            [
+              "97",
+              "India",
+              "4.10"
+            ],
+            [
+              "98",
+              "Croatia",
+              "4.09"
+            ],
+            [
+              "99",
+              "Niger",
+              "4.07"
+            ],
+            [
+              "100",
+              "Zambia",
+              "4.07"
+            ],
+            [
+              "101",
+              "Italy",
+              "4.07"
+            ],
+            [
+              "102",
+              "Mexico",
+              "4.06"
+            ],
+            [
+              "103",
+              "Kenya",
+              "4.02"
+            ],
+            [
+              "104",
+              "Georgia",
+              "3.98"
+            ],
+            [
+              "105",
+              "Philippines",
+              "3.97"
+            ],
+            [
+              "106",
+              "China",
+              "3.90"
+            ],
+            [
+              "107",
+              "United Arab Emirates",
+              "3.89"
+            ],
+            [
+              "108",
+              "Saint Lucia",
+              "3.85"
+            ],
+            [
+              "109",
+              "Hungary",
+              "3.80"
+            ],
+            [
+              "110",
+              "Dominican Republic",
+              "3.76"
+            ],
+            [
+              "111",
+              "Djibouti",
+              "3.75"
+            ],
+            [
+              "112",
+              "Luxembourg",
+              "3.74"
+            ],
+            [
+              "113",
+              "Ecuador",
+              "3.69"
+            ],
+            [
+              "114",
+              "Nepal",
+              "3.69"
+            ],
+            [
+              "115",
+              "Azerbaijan",
+              "3.66"
+            ],
+            [
+              "116",
+              "Cote d'Ivoire",
+              "3.61"
+            ],
+            [
+              "117",
+              "Barbados",
+              "3.56"
+            ],
+            [
+              "118",
+              "Paraguay",
+              "3.53"
+            ],
+            [
+              "119",
+              "Malaysia",
+              "3.51"
+            ],
+            [
+              "120",
+              "Saint Kitts and Nevis",
+              "3.50"
+            ],
+            [
+              "121",
+              "Palau",
+              "3.44"
+            ],
+            [
+              "122",
+              "Serbia",
+              "3.40"
+            ],
+            [
+              "123",
+              "Greece",
+              "3.38"
+            ],
+            [
+              "124",
+              "Congo",
+              "3.34"
+            ],
+            [
+              "125",
+              "Japan",
+              "3.34"
+            ],
+            [
+              "126",
+              "El Salvador",
+              "3.32"
+            ],
+            [
+              "127",
+              "Romania",
+              "3.28"
+            ],
+            [
+              "128",
+              "Bosnia and Herzegovina",
+              "3.25"
+            ],
+            [
+              "129",
+              "Qatar",
+              "3.23"
+            ],
+            [
+              "130",
+              "Trinidad and Tobago",
+              "3.23"
+            ],
+            [
+              "131",
+              "Jordan",
+              "3.23"
+            ],
+            [
+              "132",
+              "Benin",
+              "3.23"
+            ],
+            [
+              "133",
+              "Chad",
+              "3.20"
+            ],
+            [
+              "134",
+              "Tanzania",
+              "3.16"
+            ],
+            [
+              "135",
+              "Antigua and Barbuda",
+              "3.11"
+            ],
+            [
+              "136",
+              "Turkey",
+              "3.10"
+            ],
+            [
+              "137",
+              "Albania",
+              "3.09"
+            ],
+            [
+              "138",
+              "Guatemala",
+              "3.08"
+            ],
+            [
+              "139",
+              "Madagascar",
+              "3.05"
+            ],
+            [
+              "140",
+              "Ghana",
+              "2.91"
+            ],
+            [
+              "141",
+              "Ireland",
+              "2.90"
+            ],
+            [
+              "142",
+              "San Marino",
+              "2.90"
+            ],
+            [
+              "143",
+              "Vietnam",
+              "2.89"
+            ],
+            [
+              "144",
+              "Nicaragua",
+              "2.87"
+            ],
+            [
+              "145",
+              "Suriname",
+              "2.87"
+            ],
+            [
+              "146",
+              "Democratic Republic of Congo",
+              "2.84"
+            ],
+            [
+              "147",
+              "Cameroon",
+              "2.84"
+            ],
+            [
+              "148",
+              "Iran",
+              "2.82"
+            ],
+            [
+              "149",
+              "Gambia",
+              "2.81"
+            ],
+            [
+              "150",
+              "Malawi",
+              "2.75"
+            ],
+            [
+              "151",
+              "Bahamas",
+              "2.74"
+            ],
+            [
+              "152",
+              "Sierra Leone",
+              "2.62"
+            ],
+            [
+              "153",
+              "Uganda",
+              "2.56"
+            ],
+            [
+              "154",
+              "Thailand",
+              "2.52"
+            ],
+            [
+              "155",
+              "Angola",
+              "2.51"
+            ],
+            [
+              "156",
+              "Panama",
+              "2.47"
+            ],
+            [
+              "157",
+              "Armenia",
+              "2.44"
+            ],
+            [
+              "158",
+              "Comoros",
+              "2.34"
+            ],
+            [
+              "159",
+              "Gabon",
+              "2.32"
+            ],
+            [
+              "160",
+              "Ethiopia",
+              "2.30"
+            ],
+            [
+              "161",
+              "Liberia",
+              "2.27"
+            ],
+            [
+              "162",
+              "Singapore",
+              "2.19"
+            ],
+            [
+              "163",
+              "Cambodia",
+              "2.18"
+            ],
+            [
+              "164",
+              "Bangladesh",
+              "2.03"
+            ],
+            [
+              "165",
+              "Myanmar",
+              "2.00"
+            ],
+            [
+              "166",
+              "Pakistan",
+              "1.95"
+            ],
+            [
+              "167",
+              "Andorra",
+              "1.90"
+            ],
+            [
+              "168",
+              "Bahrain",
+              "1.89"
+            ],
+            [
+              "169",
+              "Central African Republic",
+              "1.83"
+            ],
+            [
+              "170",
+              "Sri Lanka",
+              "1.83"
+            ],
+            [
+              "171",
+              "Monaco",
+              "1.73"
+            ],
+            [
+              "172",
+              "Guinea",
+              "1.72"
+            ],
+            [
+              "173",
+              "South Sudan",
+              "1.57"
+            ],
+            [
+              "174",
+              "Indonesia",
+              "1.28"
+            ],
+            [
+              "175",
+              "Laos",
+              "1.23"
+            ],
+            [
+              "176",
+              "Lebanon",
+              "1.22"
+            ],
+            [
+              "177",
+              "Haiti",
+              "0.96"
+            ],
+            [
+              "178",
+              "Papua New Guinea",
+              "0.78"
+            ],
+            [
+              "179",
+              "Zimbabwe",
+              "0.38"
+            ],
+            [
+              "180",
+              "Nigeria",
+              "0.32"
+            ],
+            [
+              "181",
+              "Somalia",
+              "0.0000081"
+            ]
+          ],
+          "caption": "各国教育支出占GDP百分比排名"
+        }
+      ],
+      "deep_dive": "## 全球教育支出占比的版图\n- 太平洋岛国和部分非洲国家因GDP总量小，教育支出占比异常突出，如基里巴斯（16.39%）、图瓦卢（12.85%）等，但这往往源于国际援助或政府优先配置，绝对投入仍有限。\n- 北欧福利国家（瑞典7.32%、冰岛7.31%、芬兰6.38%）持续高比例投入，与其高税收、高公共服务模式一致，保障了优质公平的教育体系。\n- 主要发达经济体大多处于4.5%-6%区间（美国5.42%、英国5.91%、德国5.24%），反映出工业国在公共服务间的平衡。新兴经济体中，中国3.90%、印度4.10%，虽比例不高，但受益于庞大经济体量，绝对支出可观。\n- 排名末端的国家如索马里（几乎为0）、尼日利亚（0.32%）、津巴布韦（0.38%）等，长期受冲突、治理薄弱或经济危机困扰，教育投入严重不足。\n\n## 比例陷阱与效率悖论\n- **高比例≠高投入**：基里巴斯GDP仅约2亿美元，16%的支出也仅约3200万美元；而美国GDP超25万亿美元，5.42%的支出即超1.3万亿美元，绝对差距悬殊。因此，仅看占比会严重扭曲对教育投入力度的判断。\n- **低比例≠低产出**：日本（3.34%）和新加坡（2.19%）的教育支出占比相对较低，却在PISA等国际测评中长期位居前列。这得益于高效的治理、优质的师资、严格的课程标准以及家庭和社会的补充投入。这提示我们，资金使用效率和教育生态可能比投入比例更为关键。\n- **数据局限**：该排名仅反映公共教育支出占GDP比例，未包含私人部门投入（如新加坡家庭补习支出庞大），且各国统计口径可能存在差异（如是否涵盖高等教育、职业教育等）。此外，GDP数据本身受汇率和统计方法影响，跨国比较需谨慎。\n\n## 启示与展望\n- 发展中国家若想提升人力资本，应稳定提高教育支出比例，但更需关注支出结构和效率，确保资金直达教学一线，减少行政损耗。\n- 全球教育投入的中位水平约在4%-5%，低于此区间的国家（如巴基斯坦、孟加拉国）需警惕教育短板对长期发展的制约。\n- 对于索马里等极端案例，国际援助和和平重建是恢复教育体系的先决条件，否则任何比例的数字都只是空中楼阁。",
+      "glossary": [
+        {
+          "term": "Education Spending as % of GDP",
+          "explanation": "公共教育支出占国内生产总值的百分比，衡量一国政府对教育的财政投入相对规模。通常包括各级教育的经常性支出和资本支出，数据多来自联合国教科文组织或世界银行。"
+        },
+        {
+          "term": "GDP",
+          "explanation": "国内生产总值，一定时期内一国境内生产的最终产品和服务的市场价值总和，是衡量经济规模的关键指标。"
+        },
+        {
+          "term": "PISA",
+          "explanation": "国际学生评估项目，由经合组织（OECD）统筹，评估15岁学生的阅读、数学和科学素养，常用于比较教育系统的成效。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2debcc37",
+    "title": "The World’s Biggest Gold, Silver, and Platinum Reserves",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-biggest-gold-silver-and-platinum-reserves/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2debcc37.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDBSHNSeRgVPGBUrAYrOoy4IzzHzRVhutFYcxrY/9k=",
+    "image_version": 1783732805,
+    "pub_date": "Fri, 10 Jul 2026 13:49:14 +0000",
+    "content_md": "| Country | Gold Reserves (metric tons) | Share of world total |\n| --- | --- | --- |\n| Australia | 13,000 | 20% |\n| Russia | 12,000 | 18% |\n| South Africa | 5,000 | 8% |\n| Indonesia | 3,600 | 6% |\n| Canada | 3,200 | 5% |\n| Other | 29,200 | 44% |\n| World total | 66,000 | 100% |\n\n| Country | Silver Reserves (metric tons) | Share of world total |\n| --- | --- | --- |\n| Peru | 110,000 | 18% |\n| Russia | 92,000 | 15% |\n| Australia | 91,000 | 15% |\n| China | 67,000 | 11% |\n| Poland | 59,000 | 10% |\n| Other | 191,000 | 31% |\n| World Total | 610,000 | 100% |\n\n| Country | Platinum group metal reserves (kilograms) | Share of world total |\n| --- | --- | --- |\n| South Africa | 63,000,000 | 83% |\n| Russia | 11,000,000 | 15% |\n| Zimbabwe | 1,300,000 | 2% |\n| United States | 590,000 | 1% |\n| Canada | 310,000 | 0.4% |\n| World total | >76,000,000 | 100% |",
+    "ai_analysis": {
+      "core_insight": "全球贵金属储量高度集中，澳大利亚、俄罗斯、南非、秘鲁各自主导不同品种。",
+      "data_highlights": [
+        "澳大利亚黄金储量13,000吨，占全球20%，位居第一。",
+        "南非铂族金属储量6,300万公斤，占全球83%，垄断地位显著。",
+        "秘鲁银储量11万吨，占全球18%，领跑全球。",
+        "俄罗斯在金、银、铂族三类储量中均位列前三，综合资源优势突出。",
+        "黄金世界总储量6.6万吨，按当前产量可开采约18年。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Gold Reserves (metric tons)",
+            "Share of world total"
+          ],
+          "rows": [
+            [
+              "Australia",
+              "13,000",
+              "20%"
+            ],
+            [
+              "Russia",
+              "12,000",
+              "18%"
+            ],
+            [
+              "South Africa",
+              "5,000",
+              "8%"
+            ],
+            [
+              "Indonesia",
+              "3,600",
+              "6%"
+            ],
+            [
+              "Canada",
+              "3,200",
+              "5%"
+            ],
+            [
+              "Other",
+              "29,200",
+              "44%"
+            ],
+            [
+              "World total",
+              "66,000",
+              "100%"
+            ]
+          ],
+          "caption": "全球黄金储量排名 (2023)"
+        },
+        {
+          "headers": [
+            "Country",
+            "Silver Reserves (metric tons)",
+            "Share of world total"
+          ],
+          "rows": [
+            [
+              "Peru",
+              "110,000",
+              "18%"
+            ],
+            [
+              "Russia",
+              "92,000",
+              "15%"
+            ],
+            [
+              "Australia",
+              "91,000",
+              "15%"
+            ],
+            [
+              "China",
+              "67,000",
+              "11%"
+            ],
+            [
+              "Poland",
+              "59,000",
+              "10%"
+            ],
+            [
+              "Other",
+              "191,000",
+              "31%"
+            ],
+            [
+              "World Total",
+              "610,000",
+              "100%"
+            ]
+          ],
+          "caption": "全球白银储量排名 (2023)"
+        },
+        {
+          "headers": [
+            "Country",
+            "Platinum group metal reserves (kilograms)",
+            "Share of world total"
+          ],
+          "rows": [
+            [
+              "South Africa",
+              "63,000,000",
+              "83%"
+            ],
+            [
+              "Russia",
+              "11,000,000",
+              "15%"
+            ],
+            [
+              "Zimbabwe",
+              "1,300,000",
+              "2%"
+            ],
+            [
+              "United States",
+              "590,000",
+              "1%"
+            ],
+            [
+              "Canada",
+              "310,000",
+              "0.4%"
+            ],
+            [
+              "World total",
+              ">76,000,000",
+              "100%"
+            ]
+          ],
+          "caption": "全球铂族金属储量排名 (2023)"
+        }
+      ],
+      "deep_dive": "## 一、储量分布的“单寡头”与“双巨头”格局\n\n黄金储备呈现“双巨头+长尾”格局：澳大利亚（20%）与俄罗斯（18%）合计掌控全球近四成储量，而南非、印尼、加拿大等占比均不足10%，“其他”国家分散持有44%。这种分布意味着市场供应弹性高度依赖澳俄两国的政策与产出。\n\n白银方面，秘鲁、俄罗斯、澳大利亚三强占比相近（18%、15%、15%），中国（11%）和波兰（10%）紧随其后，整体集中度低于黄金，但前五国仍控制69%的储量。\n\n铂族金属（PGMs）则呈现极端垄断：南非一国独占83%储量，俄罗斯拥有15%，两国合计98%，形成近乎双寡头垄断。这种单一来源的高度依赖使全球供应链脆弱性极强，地缘政治或矿业罢工可直接冲击价格。\n\n## 二、供应风险与战略启示\n\n- **生产与储量错配**：部分储量大国并非主产国。例如澳大利亚黄金产量全球第二，但储量第一；而中国黄金产量第一，储量却未进前五，暗示高强度开采可能导致储量寿命缩短。\n- **铂族金属的“南非风险”**：南非PGMs储量占绝对主导，但其矿业深受电力短缺、劳工纠纷和监管不确定性的困扰，2023年南非铂族金属产量同比下降9%，任何供应中断都可能触发全球价格飙升。\n- **地缘政治维度**：俄罗斯在金、银、铂族三类均位居前三，在西方制裁背景下，其贵金属出口路径的变动已影响全球贸易流向，如俄黄金转向中东和亚洲市场。\n\n## 三、对中国市场的启示\n\n中国银储量全球第四（11%），但在金和铂族方面依赖进口。中国黄金储量未进入前五，而消费占全球近30%，供需缺口巨大；铂族金属几乎全部依赖进口，主要用于汽车催化剂和氢能产业。建议：\n- 加大国内勘探，尤其深部找矿和尾矿回收；\n- 多元化进口来源，增加从澳大利亚、非洲等地的长期协议；\n- 建立战略储备机制，平滑供应波动，尤其是铂族金属。\n\n综上，三类贵金属的储量集中度由高到低为：铂族 > 黄金 > 白银。这种结构性差异决定其价格波动特征和战略价值，各国需根据自身资源禀赋制定差异化供应安全策略。",
+      "glossary": [
+        {
+          "term": "矿产储量",
+          "explanation": "指经过勘探证实、在当前技术经济条件下可经济开采的矿产资源量，是衡量一国资源禀赋的重要指标。"
+        },
+        {
+          "term": "铂族金属",
+          "explanation": "包括铂、钯、铑等六种金属，主要应用于汽车尾气催化剂、首饰和工业催化，全球储量高度集中于南非和俄罗斯。"
+        },
+        {
+          "term": "资源集中度",
+          "explanation": "反映某种资源在地理或国家分布上的集中程度，常用前几位国家所占份额表示，高集中度通常意味着更高的供应风险。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3c4bbee1",
+    "title": "Ranked: The World’s Largest Tank Fleets in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-largest-tank-fleets-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3c4bbee1.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsnNRjrT3pg61zjJB0ooHSigZ//9k=",
+    "image_version": 1783732835,
+    "pub_date": "Fri, 10 Jul 2026 11:46:30 +0000",
+    "content_md": "| Rank | Country | Combat Tanks |\n| --- | --- | --- |\n| 1 | China | 5,870 |\n| 2 | Russia | 5,630 |\n| 3 | North Korea | 4,895 |\n| 4 | United States | 4,666 |\n| 5 | India | 3,913 |\n| 6 | Egypt | 3,620 |\n| 7 | Pakistan | 2,677 |\n| 8 | Iran | 2,675 |\n| 9 | Türkiye | 2,284 |\n| 10 | Vietnam | 1,999 |\n| 11 | South Korea | 1,831 |\n| 12 | Jordan | 1,508 |\n| 13 | Algeria | 1,485 |\n| 14 | Azerbaijan | 1,354 |\n| 15 | Morocco | 1,346 |",
+    "ai_analysis": {
+      "core_insight": "中俄朝坦克数量全球领先，但战力更取决于技术升级与体系融合。",
+      "data_highlights": [
+        "中国以5,870辆坦克排名第一，俄罗斯5,630辆紧随其后，朝鲜4,895辆列第三，均大幅领先其他国家。",
+        "亚洲国家在前五名中占据三席（中国、朝鲜、印度），凸显该地区陆权竞争的激烈程度。",
+        "美国以4,666辆排第四，虽数量不占优，但凭借M1A2等先进型号，质量优势显著。",
+        "伊朗与土耳其在中东地区坦克数量突出，反映地区安全局势持续紧张。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Combat Tanks"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "5,870"
+            ],
+            [
+              "2",
+              "Russia",
+              "5,630"
+            ],
+            [
+              "3",
+              "North Korea",
+              "4,895"
+            ],
+            [
+              "4",
+              "United States",
+              "4,666"
+            ],
+            [
+              "5",
+              "India",
+              "3,913"
+            ],
+            [
+              "6",
+              "Egypt",
+              "3,620"
+            ],
+            [
+              "7",
+              "Pakistan",
+              "2,677"
+            ],
+            [
+              "8",
+              "Iran",
+              "2,675"
+            ],
+            [
+              "9",
+              "Türkiye",
+              "2,284"
+            ],
+            [
+              "10",
+              "Vietnam",
+              "1,999"
+            ],
+            [
+              "11",
+              "South Korea",
+              "1,831"
+            ],
+            [
+              "12",
+              "Jordan",
+              "1,508"
+            ],
+            [
+              "13",
+              "Algeria",
+              "1,485"
+            ],
+            [
+              "14",
+              "Azerbaijan",
+              "1,354"
+            ],
+            [
+              "15",
+              "Morocco",
+              "1,346"
+            ]
+          ],
+          "caption": "2026年全球坦克舰队规模排名"
+        }
+      ],
+      "deep_dive": "## 数量格局折射地缘战略重心\n全球坦克保有量高度集中于欧亚大陆，前五名中亚洲国家占三席，欧洲方向则由俄罗斯主导。中国稳居榜首，与其庞大的陆军规模和周边复杂的安全环境密不可分；俄罗斯作为传统陆权强国，虽因战争损耗等因素有所下降，但仍保持对北约的地面威慑力；朝鲜的坦克数量位列第三，反映出政权对“先军政治”和地面突击力量的依赖，但装备老旧化问题严重。印度与巴基斯坦的坦克竞赛，以及伊朗、土耳其的高排名，均显示出陆基力量在地区冲突中的核心地位。\n\n## 质量与数量的鸿沟日益明显\n坦克舰队排名的数字背后，是技术代际的悬殊差异。美国M1艾布拉姆斯系列、中国99A/99A2、俄罗斯T-90M等第三代主战坦克，集成了复合装甲、主动防护系统、数字化网络等先进技术，而许多国家的庞大库存中仍包含大量老旧型号（如T-54/55、59式）。例如，朝鲜虽有近5000辆坦克，但多为设计于上世纪五六十年代的产品，在现代反坦克武器面前生存力堪忧。因此，单纯的数量比较具有误导性，实战效能取决于装备现代化比例、后勤保障及联合作战能力。\n\n## 未来趋势：坦克角色的再定义\n随着无人机、巡飞弹和精确火力的普及，坦克在乌克兰战场上遭遇前所未有的挑战，但并未退出历史舞台。各国正加速转型：一方面，通过升级主动防护系统和态势感知系统提升生存力；另一方面，发展无人炮塔、混动电驱等下一代平台。排名前列的国家亦在调整结构——中国推进合成旅改革，俄罗斯尝试组建“坦克-无人机”协同编组，美国则强调多域战概念下的机动火力。数量优势将继续让位于“智能化”和“体系化”，未来的坦克舰队将更注重可部署性和任务弹性。",
+      "glossary": [
+        {
+          "term": "Combat Tanks",
+          "explanation": "战斗坦克，此处指主战坦克（Main Battle Tank），即具备强大火力、防护和机动性的履带式装甲战斗车辆，为现代陆军核心突击装备。"
+        },
+        {
+          "term": "主战坦克",
+          "explanation": "用于执行多种作战任务的中型和重型坦克统称，取代了以往轻型、中型、重型坦克的分类，代表一个国家陆军的核心突击力量。"
+        },
+        {
+          "term": "主动防护系统",
+          "explanation": "通过传感器探测来袭弹药，并发射拦截弹或主动干扰，以破坏或摧毁威胁，提高坦克生存力的技术，如俄罗斯的“竞技场”和以色列的“战利品”系统。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "551e7903",
+    "title": "Ranked: Europe’s Youth Unemployment by Country",
+    "original_url": "https://www.visualcapitalist.com/cp/europe-youth-unemployment/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/551e7903.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnFlqOZ8ioUNEnSpNbaEDHmimnrRTIP//Z",
+    "image_version": 1783732861,
+    "pub_date": "Fri, 10 Jul 2026 04:13:44 +0000",
+    "content_md": "| Country | Unemployment Rate  (%, June 2025) |\n| --- | --- |\n| Estonia | 26.9 |\n| Spain | 24.0 |\n| Sweden | 23.8 |\n| Romania | 23.5 |\n| Finland | 21.4 |\n| Luxembourg | 20.5 |\n| Italy | 20.1 |\n| Portugal | 18.9 |\n| Greece | 18.8 |\n| France | 18.7 |\n| Latvia | 16.9 |\n| Croatia | 16.9 |\n| Lithuania | 16.1 |\n| Slovakia | 15.4 |\n| Belgium | 15.2 |\n| Bulgaria | 15.0 |\n| Cyprus | 14.8 |\n| Denmark | 14.8 |\n| Hungary | 13.8 |\n| Austria | 13.7 |\n| Poland | 12.7 |\n| Czechia | 11.7 |\n| Ireland | 11.3 |\n| Slovenia | 11.2 |\n| Netherlands | 8.7 |\n| Germany | 6.3 |\n| Malta | 6.2 |\n| EU | 14.8 |",
+    "ai_analysis": {
+      "core_insight": "欧洲青年失业率分化显著，爱沙尼亚高达26.9%，而德国仅6.3%。",
+      "data_highlights": [
+        "爱沙尼亚青年失业率26.9%，位居欧洲之首，是欧盟平均水平(14.8%)的近两倍。",
+        "德国(6.3%)和马耳他(6.2%)失业率最低，不到7%，表现突出。",
+        "南欧的西班牙(24.0%)、希腊(18.8%)和意大利(20.1%)失业率仍处高位。",
+        "北欧国家如瑞典(23.8%)、芬兰(21.4%)失业率意外偏高，超越部分南欧国家。",
+        "欧盟整体青年失业率为14.8%，但成员国间的差距超过20个百分点。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Unemployment Rate (%, June 2025)"
+          ],
+          "rows": [
+            [
+              "Estonia",
+              "26.9"
+            ],
+            [
+              "Spain",
+              "24.0"
+            ],
+            [
+              "Sweden",
+              "23.8"
+            ],
+            [
+              "Romania",
+              "23.5"
+            ],
+            [
+              "Finland",
+              "21.4"
+            ],
+            [
+              "Luxembourg",
+              "20.5"
+            ],
+            [
+              "Italy",
+              "20.1"
+            ],
+            [
+              "Portugal",
+              "18.9"
+            ],
+            [
+              "Greece",
+              "18.8"
+            ],
+            [
+              "France",
+              "18.7"
+            ],
+            [
+              "Latvia",
+              "16.9"
+            ],
+            [
+              "Croatia",
+              "16.9"
+            ],
+            [
+              "Lithuania",
+              "16.1"
+            ],
+            [
+              "Slovakia",
+              "15.4"
+            ],
+            [
+              "Belgium",
+              "15.2"
+            ],
+            [
+              "Bulgaria",
+              "15.0"
+            ],
+            [
+              "Cyprus",
+              "14.8"
+            ],
+            [
+              "Denmark",
+              "14.8"
+            ],
+            [
+              "Hungary",
+              "13.8"
+            ],
+            [
+              "Austria",
+              "13.7"
+            ],
+            [
+              "Poland",
+              "12.7"
+            ],
+            [
+              "Czechia",
+              "11.7"
+            ],
+            [
+              "Ireland",
+              "11.3"
+            ],
+            [
+              "Slovenia",
+              "11.2"
+            ],
+            [
+              "Netherlands",
+              "8.7"
+            ],
+            [
+              "Germany",
+              "6.3"
+            ],
+            [
+              "Malta",
+              "6.2"
+            ],
+            [
+              "EU",
+              "14.8"
+            ]
+          ],
+          "caption": "2025年6月欧洲各国青年失业率"
+        }
+      ],
+      "deep_dive": "## 欧洲青年失业率的区域分化\n\n2025年6月的数据显示欧洲青年失业率呈现明显的“中心-边缘”分化。德国、马耳他、荷兰等中欧和部分岛国失业率低于10%，而波罗的海国家、北欧及南欧普遍偏高。这种差异背后是产业结构、教育体系与劳动力市场制度的多重作用。\n\n- 德国双元制职业教育保障了青年从学校到就业的顺利过渡，青年失业率仅6.3%，成为欧洲的标杆。\n- 马耳他凭借服务业和旅游业吸收劳动力，加上灵活的用工政策，失业率极低。\n- 荷兰的兼职文化发达，为青年提供了大量入门岗位，失业率仅8.7%。\n\n相反，爱沙尼亚、西班牙、瑞典等国超过20%的失业率暴露出结构性问题。爱沙尼亚的案例值得关注：尽管整体经济转型成功，数字产业发达，但青年失业率却高企，可能与教育技能错配及部分青年长期依赖社会福利有关。瑞典的高失业率令人意外，其完善的福利体系可能降低了青年求职的紧迫性，同时移民青年的融入困难不容忽视。\n\n## 南欧“疤痕效应”与政策启示\n\n南欧国家（西班牙、意大利、希腊）青年失业率虽较欧债危机时期有所下降，但仍高达18%-24%，体现出危机带来的长期“疤痕效应”。劳动力市场僵化、临时合同泛滥以及对低学历青年的排斥是主因。\n\n- 西班牙劳动法改革成效有限，青年就业集中于旅游和建筑等周期性行业，波动大。\n- 意大利学徒制发展滞后，中小企业不愿长期投资青年培训。\n- 希腊财政紧缩后公共服务缩水，青年就业支持项目覆盖面不足。\n\n这些国家需要借鉴“德国模式”，加强职业培训与企业联动，同时通过欧盟复苏基金推动绿色和数字转型，创造可持续的青年岗位。\n\n## 数据局限与前瞻\n\n单一失业率指标未能反映就业质量（如临时工比例、低薪就业）和退出劳动力市场的“灰心青年”。例如，爱沙尼亚部分青年虽在学或接受培训而不计入失业，却可能处于不稳定的预备状态。未来需结合青年NEET（未就学、未就业、未受训）率和就业不足率来全面衡量。此外，2025年6月的数据为特定月份，季节性因素可能影响个别国家（如旅游旺季），纵向对比和年度数据更具参考意义。欧洲整体青年失业率从2013年峰值（约24%）降至14.8%，进步显著，但成员国之间的鸿沟仍是欧盟社会政策亟待弥合的挑战。",
+      "glossary": [
+        {
+          "term": "青年失业率",
+          "explanation": "通常指15-24岁（部分国家定义至29岁）劳动力人口中失业者所占比例，反映青年就业市场的紧张程度。"
+        },
+        {
+          "term": "NEET率",
+          "explanation": "指未就学、未就业、未受训的年轻人比例，覆盖了因灰心而退出劳动力市场的群体，比失业率更全面衡量青年困境。"
+        },
+        {
+          "term": "欧盟平均",
+          "explanation": "指欧盟27个成员国加权平均后的整体水平，各国人口规模不同，德国等大国对均值影响较大。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13ec453c",
+    "title": "Ranked: The Highest-Paying College Majors for New Graduates",
+    "original_url": "https://www.visualcapitalist.com/highest-paying-college-majors-for-new-graduates/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/13ec453c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDeW5HrVqGfNYiE561fticioUDSVRmur8UVEn3aKOUnnP/Z",
+    "image_version": 1783732893,
+    "pub_date": "Thu, 09 Jul 2026 17:16:08 +0000",
+    "content_md": "| Major | Early Career Median Wage | Stream |\n| --- | --- | --- |\n| Computer Engineering | $90,000 | Engineering |\n| Computer Science | $87,000 | STEM |\n| Aerospace Engineering | $85,000 | Engineering |\n| Chemical Engineering | $85,000 | Engineering |\n| Industrial Engineering | $83,000 | Engineering |\n| Electrical Engineering | $82,000 | Engineering |\n| Mechanical Engineering | $80,000 | Engineering |\n| Civil Engineering | $75,000 | Engineering |\n| Construction Services | $75,000 | Engineering |\n| General Engineering | $75,000 | Engineering |\n| Miscellaneous Engineering | $75,000 | Engineering |\n| Business Analytics | $72,000 | Business and Management |\n| Economics | $72,000 | Social and Behavioural Sciences |\n| Finance | $70,000 | Business and Management |\n| Mathematics | $70,000 | STEM |\n| Nursing | $70,000 | Health and Medical |\n| Accounting | $68,000 | Business and Management |\n| Information Systems & Management | $67,000 | Business and Management |\n| Physics | $67,000 | STEM |\n| Engineering Technologies | $65,000 | Engineering |\n| International Affairs | $64,000 | Social and Behavioural Sciences |\n| Medical Technicians | $62,000 | Health and Medical |\n| Advertising and Public Relations | $60,000 | Communications and Media |\n| Architecture | $60,000 | Architecture and Design |\n| General Business | $60,000 | Business and Management |\n| Marketing | $60,000 | Business and Management |\n| Miscellaneous Physical Sciences | $60,000 | STEM |\n| Agriculture | $56,000 | Agriculture and Environmental Sciences |\n| Business Management | $56,000 | Business and Management |\n| Public Policy and Law | $55,000 | Social and Behavioural Sciences |\n| Miscellaneous Technologies | $54,000 | STEM |\n| Biochemistry | $52,000 | STEM |\n| Communications | $52,000 | Communications and Media |\n| Ethnic Studies | $52,000 | Humanities and Arts |\n| Interdisciplinary Studies | $52,000 | Interdisciplinary |\n| Philosophy | $52,000 | Humanities and Arts |\n| Political Science | $52,000 | Social and Behavioural Sciences |\n| Chemistry | $50,000 | STEM |\n| Commercial Art & Graphic Design | $50,000 | Humanities and Arts |\n| Criminal Justice | $50,000 | Social and Behavioural Sciences |\n| Earth Sciences | $50,000 | STEM |\n| Environmental Studies | $50,000 | Agriculture and Environmental Sciences |\n| Geography | $50,000 | Social and Behavioural Sciences |\n| Health Services | $50,000 | Health and Medical |\n| Mass Media | $50,000 | Communications and Media |\n| Nutrition Sciences | $50,000 | Health and Medical |\n| Treatment Therapy | $50,000 | Health and Medical |\n| Sociology | $49,900 | Social and Behavioural Sciences |\n| Journalism | $49,000 | Communications and Media |\n| English Language | $48,000 | Humanities and Arts |\n| Family and Consumer Sciences | $48,000 | Social and Behavioural Sciences |\n| Foreign Language | $48,000 | Humanities and Arts |\n| Miscellaneous Education | $48,000 | Education |\n| History | $47,500 | Humanities and Arts |\n| Animal and Plant Sciences | $46,600 | STEM |\n| Miscellaneous Biological Science | $46,000 | STEM |\n| Special Education | $46,000 | Education |\n| Secondary Education | $45,300 | Education |\n| General Social Sciences | $45,200 | Social and Behavioural Sciences |\n| Anthropology | $45,000 | Social and Behavioural Sciences |\n| Art History | $45,000 | Humanities and Arts |\n| Biology | $45,000 | STEM |\n| Early Childhood Education | $45,000 | Education |\n| Elementary Education | $45,000 | Education |\n| Fine Arts | $45,000 | Humanities and Arts |\n| General Education | $45,000 | Education |\n| Leisure and Hospitality | $45,000 | Business and Management |\n| Liberal Arts | $45,000 | Humanities and Arts |\n| Psychology | $45,000 | Social and Behavioural Sciences |\n| Performing Arts | $44,000 | Humanities and Arts |\n| Social Services | $43,000 | Social and Behavioural Sciences |\n| Theology and Religion | $41,600 | Humanities and Arts |\n| Pharmacy | $40,000 | Health and Medical |\n| Overall | $58,000 | -- |",
+    "ai_analysis": {
+      "core_insight": "工程与计算机专业起薪领先，人文艺术类薪酬显著低于整体中位数。",
+      "data_highlights": [
+        "计算机工程以$90,000的早期职业生涯中位年薪位居榜首，计算机科学紧随其后（$87,000）。",
+        "工程类专业占据前11席中的9席，STEM领域整体表现强劲。",
+        "整体中位年薪为$58,000，约半数专业高于此线，薪酬分布呈右偏态。",
+        "人文与艺术类（如表演艺术、神学）普遍低于$45,000，薪酬差距显著。",
+        "医疗保健类差异大，护理学$70,000与药学$40,000形成鲜明对比。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Major",
+            "Early Career Median Wage",
+            "Stream"
+          ],
+          "rows": [
+            [
+              "Computer Engineering",
+              "$90,000",
+              "Engineering"
+            ],
+            [
+              "Computer Science",
+              "$87,000",
+              "STEM"
+            ],
+            [
+              "Aerospace Engineering",
+              "$85,000",
+              "Engineering"
+            ],
+            [
+              "Chemical Engineering",
+              "$85,000",
+              "Engineering"
+            ],
+            [
+              "Industrial Engineering",
+              "$83,000",
+              "Engineering"
+            ],
+            [
+              "Electrical Engineering",
+              "$82,000",
+              "Engineering"
+            ],
+            [
+              "Mechanical Engineering",
+              "$80,000",
+              "Engineering"
+            ],
+            [
+              "Civil Engineering",
+              "$75,000",
+              "Engineering"
+            ],
+            [
+              "Construction Services",
+              "$75,000",
+              "Engineering"
+            ],
+            [
+              "General Engineering",
+              "$75,000",
+              "Engineering"
+            ],
+            [
+              "Miscellaneous Engineering",
+              "$75,000",
+              "Engineering"
+            ],
+            [
+              "Business Analytics",
+              "$72,000",
+              "Business and Management"
+            ],
+            [
+              "Economics",
+              "$72,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Finance",
+              "$70,000",
+              "Business and Management"
+            ],
+            [
+              "Mathematics",
+              "$70,000",
+              "STEM"
+            ],
+            [
+              "Nursing",
+              "$70,000",
+              "Health and Medical"
+            ],
+            [
+              "Accounting",
+              "$68,000",
+              "Business and Management"
+            ],
+            [
+              "Information Systems & Management",
+              "$67,000",
+              "Business and Management"
+            ],
+            [
+              "Physics",
+              "$67,000",
+              "STEM"
+            ],
+            [
+              "Engineering Technologies",
+              "$65,000",
+              "Engineering"
+            ],
+            [
+              "International Affairs",
+              "$64,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Medical Technicians",
+              "$62,000",
+              "Health and Medical"
+            ],
+            [
+              "Advertising and Public Relations",
+              "$60,000",
+              "Communications and Media"
+            ],
+            [
+              "Architecture",
+              "$60,000",
+              "Architecture and Design"
+            ],
+            [
+              "General Business",
+              "$60,000",
+              "Business and Management"
+            ],
+            [
+              "Marketing",
+              "$60,000",
+              "Business and Management"
+            ],
+            [
+              "Miscellaneous Physical Sciences",
+              "$60,000",
+              "STEM"
+            ],
+            [
+              "Agriculture",
+              "$56,000",
+              "Agriculture and Environmental Sciences"
+            ],
+            [
+              "Business Management",
+              "$56,000",
+              "Business and Management"
+            ],
+            [
+              "Public Policy and Law",
+              "$55,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Miscellaneous Technologies",
+              "$54,000",
+              "STEM"
+            ],
+            [
+              "Biochemistry",
+              "$52,000",
+              "STEM"
+            ],
+            [
+              "Communications",
+              "$52,000",
+              "Communications and Media"
+            ],
+            [
+              "Ethnic Studies",
+              "$52,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Interdisciplinary Studies",
+              "$52,000",
+              "Interdisciplinary"
+            ],
+            [
+              "Philosophy",
+              "$52,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Political Science",
+              "$52,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Chemistry",
+              "$50,000",
+              "STEM"
+            ],
+            [
+              "Commercial Art & Graphic Design",
+              "$50,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Criminal Justice",
+              "$50,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Earth Sciences",
+              "$50,000",
+              "STEM"
+            ],
+            [
+              "Environmental Studies",
+              "$50,000",
+              "Agriculture and Environmental Sciences"
+            ],
+            [
+              "Geography",
+              "$50,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Health Services",
+              "$50,000",
+              "Health and Medical"
+            ],
+            [
+              "Mass Media",
+              "$50,000",
+              "Communications and Media"
+            ],
+            [
+              "Nutrition Sciences",
+              "$50,000",
+              "Health and Medical"
+            ],
+            [
+              "Treatment Therapy",
+              "$50,000",
+              "Health and Medical"
+            ],
+            [
+              "Sociology",
+              "$49,900",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Journalism",
+              "$49,000",
+              "Communications and Media"
+            ],
+            [
+              "English Language",
+              "$48,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Family and Consumer Sciences",
+              "$48,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Foreign Language",
+              "$48,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Miscellaneous Education",
+              "$48,000",
+              "Education"
+            ],
+            [
+              "History",
+              "$47,500",
+              "Humanities and Arts"
+            ],
+            [
+              "Animal and Plant Sciences",
+              "$46,600",
+              "STEM"
+            ],
+            [
+              "Miscellaneous Biological Science",
+              "$46,000",
+              "STEM"
+            ],
+            [
+              "Special Education",
+              "$46,000",
+              "Education"
+            ],
+            [
+              "Secondary Education",
+              "$45,300",
+              "Education"
+            ],
+            [
+              "General Social Sciences",
+              "$45,200",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Anthropology",
+              "$45,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Art History",
+              "$45,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Biology",
+              "$45,000",
+              "STEM"
+            ],
+            [
+              "Early Childhood Education",
+              "$45,000",
+              "Education"
+            ],
+            [
+              "Elementary Education",
+              "$45,000",
+              "Education"
+            ],
+            [
+              "Fine Arts",
+              "$45,000",
+              "Humanities and Arts"
+            ],
+            [
+              "General Education",
+              "$45,000",
+              "Education"
+            ],
+            [
+              "Leisure and Hospitality",
+              "$45,000",
+              "Business and Management"
+            ],
+            [
+              "Liberal Arts",
+              "$45,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Psychology",
+              "$45,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Performing Arts",
+              "$44,000",
+              "Humanities and Arts"
+            ],
+            [
+              "Social Services",
+              "$43,000",
+              "Social and Behavioural Sciences"
+            ],
+            [
+              "Theology and Religion",
+              "$41,600",
+              "Humanities and Arts"
+            ],
+            [
+              "Pharmacy",
+              "$40,000",
+              "Health and Medical"
+            ],
+            [
+              "Overall",
+              "$58,000",
+              "--"
+            ]
+          ],
+          "caption": "新毕业生最高薪专业排名（早期职业生涯中位年薪）"
+        }
+      ],
+      "deep_dive": "## 工程与STEM：起薪的绝对高地\n此次排名清晰地展现了工程和计算机科学在早期职业生涯中的薪酬统治力。前11个专业中，除计算机科学（$87,000）和商业分析（$72,000）外，其余均为传统工程学科，且计算机科学本质上与软件工程紧密相关。这反映出市场对技术技能的高度需求——从硬件（计算机工程$90,000）到系统优化（工业工程$83,000），工程类毕业生能够直接为企业创造可量化的价值，因此获得了显著的薪资溢价。STEM中的数学、物理也进入$67,000以上区间，但纯科学类（如化学$50,000、生物$45,000）因缺乏直接的应用转化路径，薪酬相对落后，提示学生仅凭理科基础不足以获得高起薪，需要结合计算或工程技能。\n\n## 商科与社科：分化中寻求定位\n商业与管理类表现分化：商业分析、金融、会计等量化导向的专业薪资突破$68,000，成为非工科中的佼佼者；而通用管理（$56,000）、市场营销（$60,000）则接近整体中位数（$58,000）。经济学（$72,000）虽归类为社科，但其强分析性使其薪资媲美商科。相比之下，纯社会科学（如社会学$49,900、政治学$52,000）和传播类（如新闻$49,000）收入较低，反映了市场对软技能定价的模糊性。值得注意的是，护理学（$70,000）作为医疗保健领域的“硬技能”专业，薪资逆势而上，凸显了执照壁垒和需求刚性对薪酬的支撑。\n\n## 人文艺术与教育：低薪中的长期回报悖论\n排名末端几乎被人文与艺术专业（表演艺术$44,000、神学$41,600）及部分教育专业（早期教育$45,000）占据。这些专业的低起薪常被视为“文科无用论”的证据，但需警惕单一指标的误导：许多人文社科毕业生在职业生涯中后期通过管理、法律或跨界整合实现收入跃升，且公共服务领域的非货币回报（如工作稳定性、社会贡献感）未被计量。不过，数据确实警示学生：若选择低薪专业，需提早规划技能叠加（如辅修技术、实习经历），或接受教育投资回报期较长的现实。\n\n## 局限与视角\n该排名仅反映“早期职业生涯中位工资”，未考虑职业成长天花板、失业风险、工作满意度等维度。例如，药学起薪仅$40,000，但药师后期收入可能大幅增长；而某些高薪工程岗位可能面临自动化或外包压力。此外，薪资数据未区分地区与院校层级，名校人文学科毕业生的收入可能远超中位数。因此，本排名应作为生涯规划的参考起点，而非唯一决策依据。",
+      "glossary": [
+        {
+          "term": "Early Career Median Wage",
+          "explanation": "早期职业生涯中位年薪，通常指毕业后五年内的薪资中位数，反映新毕业生群体的中间收入水平。"
+        },
+        {
+          "term": "Stream",
+          "explanation": "学科领域分类，如工程、STEM、商科、人文艺术等，用于归纳专业的学科归属。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ae118d35",
+    "title": "What are the Largest Commodity Companies in North America?",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-what-are-the-largest-commodity-companies-in-north-america/",
+    "r2_image_url": "",
+    "base64_blur": "",
+    "image_version": null,
+    "pub_date": "Thu, 09 Jul 2026 15:52:28 +0000",
+    "content_md": "| Commodity | Company | Market Cap$CAD Billions | 2025 ProductionMetric Tons | Headquarters |\n| --- | --- | --- | --- | --- |\n| Oil & Gas | Exxon Mobil | 857 | 235,800,000 | Spring, Texas, USA |\n| Gold | Newmont | 165 | 167 | Denver, Colorado, USA |\n| Copper | Freeport-McMoRan | 128 | 1,540,000 | Phoenix, Arizona, USA |\n| Uranium | Cameco | 65 | 10,193 | Saskatoon, Saskatchewan, Canada |\n| Silver | Fresnillo | 45 | 1,349 | Mexico City, Mexico |\n| Lithium | Albermarle | 28 | 42,000 | Charlotte, North Carolina, USA |",
+    "ai_analysis": {
+      "core_insight": "北美大宗商品巨头市值分化显著，油气傲视群雄，新能源矿产尚难匹敌。",
+      "data_highlights": [
+        "埃克森美孚以8570亿加元市值独占鳌头，超过其余五家公司总和。",
+        "纽蒙特黄金年产量仅167吨，市值却高达1650亿加元，凸显贵金属单位价值。",
+        "自由港麦克莫兰铜产量154万吨，市值1280亿加元，紧随其后。",
+        "锂业新贵Albemarle市值仅280亿加元，产量4.2万吨，反映锂价阶段性调整。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Commodity",
+            "Company",
+            "Market Cap (CAD Billions)",
+            "2025 Production (Metric Tons)",
+            "Headquarters"
+          ],
+          "rows": [
+            [
+              "Oil & Gas",
+              "Exxon Mobil",
+              "857",
+              "235,800,000",
+              "Spring, Texas, USA"
+            ],
+            [
+              "Gold",
+              "Newmont",
+              "165",
+              "167",
+              "Denver, Colorado, USA"
+            ],
+            [
+              "Copper",
+              "Freeport-McMoRan",
+              "128",
+              "1,540,000",
+              "Phoenix, Arizona, USA"
+            ],
+            [
+              "Uranium",
+              "Cameco",
+              "65",
+              "10,193",
+              "Saskatoon, Saskatchewan, Canada"
+            ],
+            [
+              "Silver",
+              "Fresnillo",
+              "45",
+              "1,349",
+              "Mexico City, Mexico"
+            ],
+            [
+              "Lithium",
+              "Albermarle",
+              "28",
+              "42,000",
+              "Charlotte, North Carolina, USA"
+            ]
+          ],
+          "caption": "2025年北美最大大宗商品公司概览"
+        }
+      ],
+      "deep_dive": "## 市值与产量的背离：大宗商品的价值密度\n从表格数据可直观看出，不同大宗商品的价值密度天差地别。以金矿巨头纽蒙特为例，其年产量仅167公吨，但市值达到1650亿加元，每吨产量对应的市值高达约9.9亿加元；相比之下，铜生产商自由港麦克莫兰每吨产量市值仅约831加元，油气巨头埃克森美孚每吨产量市值约36加元。这背后反映了各商品定价机制、稀缺程度和下游需求的结构性差异。黄金作为货币储备和避险资产，单价极高；油气虽是工业血液，但产能巨大，估值更依赖规模效应；而锂、铀等战略矿产，则受能源转型预期影响，估值波动剧烈。\n\n## 北美能源版图：传统与新兴的角力\n北美大宗商品公司呈现出鲜明的“传统能源主导，新兴矿产追赶”格局。埃克森美孚以绝对优势领跑，但若将视野拉长，碳中和目标正重塑行业估值。铀矿公司Cameco市值仅为埃克森美孚的不到8%，却因核能复兴预期近年股价大幅攀升；锂生产商Albemarle市值虽小，却是全球锂供应核心玩家，其产量与北美电动车电池产能息息相关。值得注意的是，表格中列入了一家白银公司Fresnillo，其总部位于墨西哥，显示北美市场涵盖墨西哥，且白银兼具工业与贵金属属性。产量单位从公吨到亿吨不等，提示跨商品直接比较市值时，必须结合单价与供需格局，不可仅看规模。\n\n## 启示与局限\n该表格仅选取了每类商品中市值最大的一家公司，并未穷尽北美所有大型商品商（如雪佛龙、巴里克黄金等），因此不能完全代表整个行业。此外，市值数据为某一时点快照，受市场情绪扰动；2025年产量为预估值，实际可能因政策、自然灾害等偏离。但作为宏观研究员，我们仍可提炼出两大洞察：其一，资源禀赋决定北美在油气、铜等领域仍掌握核心定价权；其二，能源转型相关矿产的产量增速将成为未来十年市值追赶的关键变量，投资者需警惕“绿色泡沫”与供需错配风险。",
+      "glossary": [
+        {
+          "term": "Market Cap",
+          "explanation": "市值，指公司发行在外的所有股票的总市场价值，以加元计。"
+        },
+        {
+          "term": "Metric Tons",
+          "explanation": "公吨，即1000千克，为大宗商品产量常用计量单位。"
+        },
+        {
+          "term": "Commodity",
+          "explanation": "大宗商品，指可进入流通领域但非零售环节，具有同质化、可交易特征的基础原材料。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2d31029c",
+    "title": "Mapped: Where It Costs the Most to Own a Car in America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-it-costs-the-most-to-own-a-car-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/2d31029c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCKGHNSSWxx0qxagValA2dKxUtS2jCaDnpRV5wNx4ora5B//9k=",
+    "image_version": 1783732953,
+    "pub_date": "Thu, 09 Jul 2026 14:06:45 +0000",
+    "content_md": "| Rank | State or District | Average Annual Cost of Car Ownership2025 |\n| --- | --- | --- |\n| 1 | Nevada | $6,119 |\n| 2 | Florida | $5,682 |\n| 3 | Louisiana | $5,663 |\n| 4 | Michigan | $5,350 |\n| 5 | Colorado | $5,151 |\n| 6 | Alabama | $5,099 |\n| 7 | Arizona | $5,060 |\n| 8 | Oklahoma | $5,021 |\n| 9 | Georgia | $5,014 |\n| 10 | Utah | $4,977 |\n| 11 | Arkansas | $4,947 |\n| 12 | California | $4,900 |\n| 13 | Kentucky | $4,862 |\n| 14 | Wyoming | $4,859 |\n| 15 | New Mexico | $4,855 |\n| 16 | Missouri | $4,819 |\n| 17 | Mississippi | $4,792 |\n| 18 | Indiana | $4,787 |\n| 19 | Rhode Island | $4,711 |\n| 20 | Texas | $4,636 |\n| 21 | Montana | $4,548 |\n| 22 | Kansas | $4,542 |\n| 23 | North Dakota | $4,540 |\n| 24 | Delaware | $4,538 |\n| 25 | Tennessee | $4,532 |\n| 26 | Illinois | $4,521 |\n| 27 | South Dakota | $4,493 |\n| 28 | Minnesota | $4,435 |\n| 29 | Connecticut | $4,419 |\n| 30 | New Jersey | $4,413 |\n| 31 | Oregon | $4,340 |\n| 32 | Nebraska | $4,307 |\n| 33 | Washington | $4,306 |\n| 34 | Maryland | $4,302 |\n| 35 | New York | $4,253 |\n| 36 | Pennsylvania | $4,181 |\n| 37 | South Carolina | $4,176 |\n| 38 | North Carolina | $4,157 |\n| 39 | Iowa | $4,146 |\n| 40 | Hawaii | $4,114 |\n| 41 | West Virginia | $4,102 |\n| 42 | Virginia | $4,061 |\n| 43 | Wisconsin | $3,963 |\n| 44 | District of Columbia | $3,925 |\n| 45 | Massachusetts | $3,834 |\n| 46 | Vermont | $3,829 |\n| 47 | Idaho | $3,781 |\n| 48 | Alaska | $3,682 |\n| 49 | Ohio | $3,544 |\n| 50 | Maine | $3,543 |\n| 51 | New Hampshire | $3,030 |\n| -- | U.S. Average | $4,507 |",
+    "ai_analysis": {
+      "core_insight": "内华达州成本最高达6119美元，新罕布什尔州最低仅3030美元，全美平均4507美元，地区差异悬殊。",
+      "data_highlights": [
+        "内华达州以年均6119美元居首，佛罗里达州和路易斯安那州紧随其后。",
+        "新罕布什尔州成本最低，仅3030美元，不足内华达州的50%。",
+        "全美平均成本4507美元，30个州或地区低于均值。",
+        "南部和西部多州成本超5000美元，东北部州普遍较低。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or District",
+            "Average Annual Cost of Car Ownership 2025"
+          ],
+          "rows": [
+            [
+              "1",
+              "Nevada",
+              "$6,119"
+            ],
+            [
+              "2",
+              "Florida",
+              "$5,682"
+            ],
+            [
+              "3",
+              "Louisiana",
+              "$5,663"
+            ],
+            [
+              "4",
+              "Michigan",
+              "$5,350"
+            ],
+            [
+              "5",
+              "Colorado",
+              "$5,151"
+            ],
+            [
+              "6",
+              "Alabama",
+              "$5,099"
+            ],
+            [
+              "7",
+              "Arizona",
+              "$5,060"
+            ],
+            [
+              "8",
+              "Oklahoma",
+              "$5,021"
+            ],
+            [
+              "9",
+              "Georgia",
+              "$5,014"
+            ],
+            [
+              "10",
+              "Utah",
+              "$4,977"
+            ],
+            [
+              "11",
+              "Arkansas",
+              "$4,947"
+            ],
+            [
+              "12",
+              "California",
+              "$4,900"
+            ],
+            [
+              "13",
+              "Kentucky",
+              "$4,862"
+            ],
+            [
+              "14",
+              "Wyoming",
+              "$4,859"
+            ],
+            [
+              "15",
+              "New Mexico",
+              "$4,855"
+            ],
+            [
+              "16",
+              "Missouri",
+              "$4,819"
+            ],
+            [
+              "17",
+              "Mississippi",
+              "$4,792"
+            ],
+            [
+              "18",
+              "Indiana",
+              "$4,787"
+            ],
+            [
+              "19",
+              "Rhode Island",
+              "$4,711"
+            ],
+            [
+              "20",
+              "Texas",
+              "$4,636"
+            ],
+            [
+              "21",
+              "Montana",
+              "$4,548"
+            ],
+            [
+              "22",
+              "Kansas",
+              "$4,542"
+            ],
+            [
+              "23",
+              "North Dakota",
+              "$4,540"
+            ],
+            [
+              "24",
+              "Delaware",
+              "$4,538"
+            ],
+            [
+              "25",
+              "Tennessee",
+              "$4,532"
+            ],
+            [
+              "26",
+              "Illinois",
+              "$4,521"
+            ],
+            [
+              "27",
+              "South Dakota",
+              "$4,493"
+            ],
+            [
+              "28",
+              "Minnesota",
+              "$4,435"
+            ],
+            [
+              "29",
+              "Connecticut",
+              "$4,419"
+            ],
+            [
+              "30",
+              "New Jersey",
+              "$4,413"
+            ],
+            [
+              "31",
+              "Oregon",
+              "$4,340"
+            ],
+            [
+              "32",
+              "Nebraska",
+              "$4,307"
+            ],
+            [
+              "33",
+              "Washington",
+              "$4,306"
+            ],
+            [
+              "34",
+              "Maryland",
+              "$4,302"
+            ],
+            [
+              "35",
+              "New York",
+              "$4,253"
+            ],
+            [
+              "36",
+              "Pennsylvania",
+              "$4,181"
+            ],
+            [
+              "37",
+              "South Carolina",
+              "$4,176"
+            ],
+            [
+              "38",
+              "North Carolina",
+              "$4,157"
+            ],
+            [
+              "39",
+              "Iowa",
+              "$4,146"
+            ],
+            [
+              "40",
+              "Hawaii",
+              "$4,114"
+            ],
+            [
+              "41",
+              "West Virginia",
+              "$4,102"
+            ],
+            [
+              "42",
+              "Virginia",
+              "$4,061"
+            ],
+            [
+              "43",
+              "Wisconsin",
+              "$3,963"
+            ],
+            [
+              "44",
+              "District of Columbia",
+              "$3,925"
+            ],
+            [
+              "45",
+              "Massachusetts",
+              "$3,834"
+            ],
+            [
+              "46",
+              "Vermont",
+              "$3,829"
+            ],
+            [
+              "47",
+              "Idaho",
+              "$3,781"
+            ],
+            [
+              "48",
+              "Alaska",
+              "$3,682"
+            ],
+            [
+              "49",
+              "Ohio",
+              "$3,544"
+            ],
+            [
+              "50",
+              "Maine",
+              "$3,543"
+            ],
+            [
+              "51",
+              "New Hampshire",
+              "$3,030"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "$4,507"
+            ]
+          ],
+          "caption": "2025年美国各州及特区汽车拥有成本排名"
+        }
+      ],
+      "deep_dive": "## 成本分布与区域特征\n汽车拥有成本在美国呈现明显的地域差异，最高内华达州（$6,119）与最低新罕布什尔州（$3,030）差距近一倍。南部和西部州普遍成本较高，如佛罗里达（$5,682）、路易斯安那（$5,663）等，这些地区通常面临较高的保险费、注册费或维修成本。内华达州因保费昂贵和车辆折旧快而居首；佛罗里达州则受极端天气影响推高保险。低成本州多集中于东北部和新英格兰地区，如新罕布什尔、缅因、俄亥俄，受益于较低的保险费、税收及维护费用。全美平均成本$4,507，约一半的州低于此值，说明成本分布偏向高价州拉动均值。\n\n## 成本驱动因素与启示\n汽车拥有成本主要由折旧、保险、燃油、维护保养、税费和融资利息构成。折旧通常是最大支出，受新车价格和转售价值影响；保险费因州而异，与事故率、盗窃率、自然灾害风险及保险法规密切相关，如密歇根州因无过失保险制度成本较高。燃油成本随油价和地方税波动。该排名提示消费者移居或购车时需全面考虑隐性持有成本，政策制定者可分析如何通过降低保险壁垒或税费来减轻居民负担，并关注交通公平性。然而，数据为平均估计，未区分车型、驾驶里程等个体差异，实际成本可能因个人选择而显著不同。",
+      "glossary": [
+        {
+          "term": "汽车拥有成本",
+          "explanation": "指拥有一辆汽车所需支付的年均总费用，包括折旧、保险、燃油、维护、税费等。"
+        },
+        {
+          "term": "折旧",
+          "explanation": "车辆价值随时间和使用而减少的部分，是汽车拥有成本中最大的单一支出项。"
+        },
+        {
+          "term": "保险费率",
+          "explanation": "保险公司基于风险评估收取的保费，受地区事故率、犯罪率、气候及保险法规影响。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5abe0534",
+    "title": "Ranked: The Richest Countries by Average vs. Median Wealth",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-richest-countries-by-average-and-median-wealth/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5abe0534.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDn44adJDxViICnSgYrCOpgzLaLmirLDmitLEXP/9k=",
+    "image_version": 1783732988,
+    "pub_date": "Thu, 09 Jul 2026 12:05:21 +0000",
+    "content_md": "| Rank | Country | Average Wealth Per Adult 2026 |\n| --- | --- | --- |\n| 1 | Switzerland | $910K |\n| 2 | U.S. | $696K |\n| 3 | Luxembourg | $655K |\n| 4 | Hong Kong SAR | $648K |\n| 5 | Australia | $616K |\n| 6 | Singapore | $527K |\n| 7 | Denmark | $523K |\n| 8 | New Zealand | $450K |\n| 9 | Norway | $425K |\n| 10 | Netherlands | $415K |\n| 11 | Belgium | $408K |\n| 12 | Sweden | $406K |\n| 13 | Canada | $400K |\n| 14 | Germany | $347K |\n| 15 | France | $341K |\n| 16 | Taiwan | $333K |\n| 17 | Ireland | $314K |\n| 18 | Israel | $312K |\n| 19 | South Korea | $311K |\n| 20 | Spain | $306K |\n| 21 | UK | $293K |\n| 22 | Austria | $280K |\n| 23 | Italy | $279K |\n| 24 | Japan | $212K |\n| 25 | Finland | $209K |\n| 26 | Portugal | $196K |\n| 27 | Qatar | $189K |\n| 28 | Malta | $164K |\n| 29 | UAE | $158K |\n| 30 | Greece | $143K |\n\n| Rank | Country | Median Wealth Per Adult 2026 |\n| --- | --- | --- |\n| 1 | Luxembourg | $394K |\n| 2 | Belgium | $277K |\n| 3 | Australia | $211K |\n| 4 | New Zealand | $207K |\n| 5 | Denmark | $204K |\n| 6 | Hong Kong SAR | $188K |\n| 7 | Canada | $148K |\n| 8 | Switzerland | $146K |\n| 9 | Norway | $140K |\n| 10 | Japan | $136K |\n| 11 | Italy | $131K |\n| 12 | Netherlands | $127K |\n| 13 | United Kingdom | $125K |\n| 14 | France | $122K |\n| 15 | Malta | $114K |\n| 16 | Taiwan | $113K |\n| 17 | Spain | $112K |\n| 18 | South Korea | $102K |\n| 19 | Ireland | $98K |\n| 20 | Singapore | $96K |\n| 21 | Qatar | $95K |\n| 22 | Finland | $90K |\n| 23 | Sweden | $84K |\n| 24 | Israel | $84K |\n| 25 | Slovenia | $81K |\n| 26 | Portugal | $77K |\n| 27 | Austria | $71K |\n| 28 | U.S. | $69K |\n| 29 | Greece | $59K |\n| 30 | Germany | $53K |",
+    "ai_analysis": {
+      "core_insight": "平均财富掩盖贫富差距，中位数揭示民众真实富裕度。",
+      "data_highlights": [
+        "美国平均财富$696K全球第二，中位数仅$69K跌至第28，贫富鸿沟最大。",
+        "瑞士平均财富$910K居首，但中位数$146K仅排第8，财富高度集中。",
+        "卢森堡中位数$394K夺冠，且平均-中位差相对较小，财富更均衡。",
+        "比利时平均$408K、中位$277K，差距仅$131K，分配最显公平。",
+        "日本中位$136K进前十，平均仅$212K，财富分布较平均。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Average Wealth Per Adult 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Switzerland",
+              "$910K"
+            ],
+            [
+              "2",
+              "U.S.",
+              "$696K"
+            ],
+            [
+              "3",
+              "Luxembourg",
+              "$655K"
+            ],
+            [
+              "4",
+              "Hong Kong SAR",
+              "$648K"
+            ],
+            [
+              "5",
+              "Australia",
+              "$616K"
+            ],
+            [
+              "6",
+              "Singapore",
+              "$527K"
+            ],
+            [
+              "7",
+              "Denmark",
+              "$523K"
+            ],
+            [
+              "8",
+              "New Zealand",
+              "$450K"
+            ],
+            [
+              "9",
+              "Norway",
+              "$425K"
+            ],
+            [
+              "10",
+              "Netherlands",
+              "$415K"
+            ],
+            [
+              "11",
+              "Belgium",
+              "$408K"
+            ],
+            [
+              "12",
+              "Sweden",
+              "$406K"
+            ],
+            [
+              "13",
+              "Canada",
+              "$400K"
+            ],
+            [
+              "14",
+              "Germany",
+              "$347K"
+            ],
+            [
+              "15",
+              "France",
+              "$341K"
+            ],
+            [
+              "16",
+              "Taiwan",
+              "$333K"
+            ],
+            [
+              "17",
+              "Ireland",
+              "$314K"
+            ],
+            [
+              "18",
+              "Israel",
+              "$312K"
+            ],
+            [
+              "19",
+              "South Korea",
+              "$311K"
+            ],
+            [
+              "20",
+              "Spain",
+              "$306K"
+            ],
+            [
+              "21",
+              "UK",
+              "$293K"
+            ],
+            [
+              "22",
+              "Austria",
+              "$280K"
+            ],
+            [
+              "23",
+              "Italy",
+              "$279K"
+            ],
+            [
+              "24",
+              "Japan",
+              "$212K"
+            ],
+            [
+              "25",
+              "Finland",
+              "$209K"
+            ],
+            [
+              "26",
+              "Portugal",
+              "$196K"
+            ],
+            [
+              "27",
+              "Qatar",
+              "$189K"
+            ],
+            [
+              "28",
+              "Malta",
+              "$164K"
+            ],
+            [
+              "29",
+              "UAE",
+              "$158K"
+            ],
+            [
+              "30",
+              "Greece",
+              "$143K"
+            ]
+          ],
+          "caption": "2026年成年人人均平均财富排名"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Median Wealth Per Adult 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "Luxembourg",
+              "$394K"
+            ],
+            [
+              "2",
+              "Belgium",
+              "$277K"
+            ],
+            [
+              "3",
+              "Australia",
+              "$211K"
+            ],
+            [
+              "4",
+              "New Zealand",
+              "$207K"
+            ],
+            [
+              "5",
+              "Denmark",
+              "$204K"
+            ],
+            [
+              "6",
+              "Hong Kong SAR",
+              "$188K"
+            ],
+            [
+              "7",
+              "Canada",
+              "$148K"
+            ],
+            [
+              "8",
+              "Switzerland",
+              "$146K"
+            ],
+            [
+              "9",
+              "Norway",
+              "$140K"
+            ],
+            [
+              "10",
+              "Japan",
+              "$136K"
+            ],
+            [
+              "11",
+              "Italy",
+              "$131K"
+            ],
+            [
+              "12",
+              "Netherlands",
+              "$127K"
+            ],
+            [
+              "13",
+              "United Kingdom",
+              "$125K"
+            ],
+            [
+              "14",
+              "France",
+              "$122K"
+            ],
+            [
+              "15",
+              "Malta",
+              "$114K"
+            ],
+            [
+              "16",
+              "Taiwan",
+              "$113K"
+            ],
+            [
+              "17",
+              "Spain",
+              "$112K"
+            ],
+            [
+              "18",
+              "South Korea",
+              "$102K"
+            ],
+            [
+              "19",
+              "Ireland",
+              "$98K"
+            ],
+            [
+              "20",
+              "Singapore",
+              "$96K"
+            ],
+            [
+              "21",
+              "Qatar",
+              "$95K"
+            ],
+            [
+              "22",
+              "Finland",
+              "$90K"
+            ],
+            [
+              "23",
+              "Sweden",
+              "$84K"
+            ],
+            [
+              "24",
+              "Israel",
+              "$84K"
+            ],
+            [
+              "25",
+              "Slovenia",
+              "$81K"
+            ],
+            [
+              "26",
+              "Portugal",
+              "$77K"
+            ],
+            [
+              "27",
+              "Austria",
+              "$71K"
+            ],
+            [
+              "28",
+              "U.S.",
+              "$69K"
+            ],
+            [
+              "29",
+              "Greece",
+              "$59K"
+            ],
+            [
+              "30",
+              "Germany",
+              "$53K"
+            ]
+          ],
+          "caption": "2026年成年人人均中位数财富排名"
+        }
+      ],
+      "deep_dive": "## 平均与中位数的背离：财富幻象与现实\n平均财富受极端高净值人群拉动，常夸大国家富庶程度。美国是典型案例：平均财富高达$696K，位居全球第二，但中位数骤降至$69K，排名第28。这意味着过半成年人的财富不足$69K，而平均值的膨胀主要由前1%的超级富豪贡献。类似地，瑞士平均$910K冠绝全球，中位数仅$146K，排名滑落至第8，反映出财富高度集中于银行家与跨境资产持有者。\n\n中位数作为分布中间值，更能捕捉普通民众的经济状况。卢森堡中位数$394K高居榜首，且与平均值（$655K）的差距相对温和，显示其财富增长更具包容性。比利时、澳大利亚、新西兰等国中位数均超过$200K，同时平均-中位数缺口较小，表明这些国家的财富分配更均衡，中产阶层稳固。\n\n## 财富平等的制度密码\n对比平均与中位数的排名变化，可窥见不同社会经济模式的烙印：\n- **北欧与西欧福利国家**：丹麦、挪威、荷兰等国的中位数排名均显著高于其平均排名，如丹麦平均第7、中位第5，荷兰平均第10、中位第12。高税收、强社会保障和资产广泛分配减轻了贫富分化。\n- **东亚经济体**：日本平均财富仅列第24，但中位数跃居第10，差距很小，凸显其一亿总中流的平等传统。韩国、台湾的中位数排名也略优于平均，但差距不如日本明显。\n- **城市型金融中心**：新加坡、香港平均排名极高（第6、第4），但中位数分别跌至第20、第6。作为财富管理中心，吸引了大量离岸资产，推高平均值，却未完全惠及当地居民。\n- **德国例外**：德国平均财富排名第14，但中位数仅$53K排第30，差距巨大。这可能因大量居民租房而非购房，资产以养老金权益等非市场财富形式存在，未被计入此类统计。\n\n## 启示与数据局限\n政策制定者应更多关注中位数财富和财富基尼系数，而非平均数字。高平均-低中位的国家需警惕社会撕裂风险，通过累进税制、住房政策和教育公平促进财富共享。然而，该数据为2026年预测，依赖历史趋势和模型假设，未必反映突发经济冲击。此外，财富统计通常忽略公共养老金、人力资本和实物公共服务，可能低估部分国家居民的真实福祉。跨国比较时，需结合社会保障体系综合评估。",
+      "glossary": [
+        {
+          "term": "平均财富 (Average Wealth)",
+          "explanation": "所有成年人财富总和除以成年人口数，极易被极高净值个体拉高，难以反映典型财富水平。"
+        },
+        {
+          "term": "中位数财富 (Median Wealth)",
+          "explanation": "将成年人按财富排序后位于中间位置的值，半数人口财富低于此数，更能体现普通居民的财富状况。"
+        },
+        {
+          "term": "财富不平等 (Wealth Inequality)",
+          "explanation": "财富在群体中分配不均的程度，常用平均与中位数的巨大差距来快速衡量。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4b740a32",
     "title": "Which U.S. States Have the Most Vehicles Per 1,000 People?",
     "original_url": "https://www.visualcapitalist.com/mapped-americas-vehicles-per-capita/",
