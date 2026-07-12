@@ -1,5 +1,371 @@
 [
   {
+    "id": "b8e424bc",
+    "title": "Ranked: The Most Expensive Weddings in History",
+    "original_url": "https://www.visualcapitalist.com/ranked-historys-most-expensive-weddings/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b8e424bc.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDXSTFOZ8iqoNSA1ukUxxPNFJRVEn//2Q==",
+    "image_version": 1783871130,
+    "pub_date": "Sun, 12 Jul 2026 14:10:43 +0000",
+    "content_md": "| Rank | Couple | Wedding Cost (2026 US $) | Year | Location |\n| --- | --- | --- | --- | --- |\n| 1 | Khadija Uzhakhova, Said Gutseriev | $1.4B | 2016 | Moscow |\n| 2 | Radhika Merchant, Anant Ambani | $641M-$1.1B | 2024 | Mumbai |\n| 3 | Diana Spencer, Prince Charles | $176M | 1981 | London |\n| 4 | Isha Ambani, Anand Piramal | $133M | 2018 | Mumbai |\n| 5 | Vanisha Mittal, Amit Bhatia | $106M | 2004 | Versailles |\n| 6 | Letizia Ortiz Rocasolano, Prince Felipe | $43-$62M | 2004 | Madrid |\n| 7 | Meghan Markle, Prince Harry | $60M | 2018 | Windsor |\n| 8 | Lauren Sánchez, Jeff Bezos | $48-$56M | 2025 | Venice |\n| 9 | Taylor Swift, Travis Kelce | $20-$50M | 2026 | New York |\n| 10 | Kate Middleton, Prince William | $49M | 2011 | London |",
+    "ai_analysis": {
+      "core_insight": "天价婚礼凸显全球顶级富豪与王室的炫耀性消费，榜首14亿美元开支刷新奢华纪录。",
+      "data_highlights": [
+        "榜首Khadija与Said婚礼耗资14亿美元，是第二名安巴尼家族婚礼预算上限的1.3倍。",
+        "印度安巴尼家族独占两席，2024年Radhika与Anant婚礼花费6.4–11亿美元，位列第二。",
+        "英国王室三场婚礼上榜，戴安娜与查尔斯1981年婚礼以1.76亿美元居第三。",
+        "名流结婚成本区间悬殊，Taylor Swift与Travis Kelce预估仅2千万至5千万美元。",
+        "俄罗斯寡头、印度财阀与欧洲王室构成榜单主导力量，凸显财富地域集中。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Couple",
+            "Wedding Cost (2026 US $)",
+            "Year",
+            "Location"
+          ],
+          "rows": [
+            [
+              "1",
+              "Khadija Uzhakhova, Said Gutseriev",
+              "$1.4B",
+              "2016",
+              "Moscow"
+            ],
+            [
+              "2",
+              "Radhika Merchant, Anant Ambani",
+              "$641M-$1.1B",
+              "2024",
+              "Mumbai"
+            ],
+            [
+              "3",
+              "Diana Spencer, Prince Charles",
+              "$176M",
+              "1981",
+              "London"
+            ],
+            [
+              "4",
+              "Isha Ambani, Anand Piramal",
+              "$133M",
+              "2018",
+              "Mumbai"
+            ],
+            [
+              "5",
+              "Vanisha Mittal, Amit Bhatia",
+              "$106M",
+              "2004",
+              "Versailles"
+            ],
+            [
+              "6",
+              "Letizia Ortiz Rocasolano, Prince Felipe",
+              "$43-$62M",
+              "2004",
+              "Madrid"
+            ],
+            [
+              "7",
+              "Meghan Markle, Prince Harry",
+              "$60M",
+              "2018",
+              "Windsor"
+            ],
+            [
+              "8",
+              "Lauren Sánchez, Jeff Bezos",
+              "$48-$56M",
+              "2025",
+              "Venice"
+            ],
+            [
+              "9",
+              "Taylor Swift, Travis Kelce",
+              "$20-$50M",
+              "2026",
+              "New York"
+            ],
+            [
+              "10",
+              "Kate Middleton, Prince William",
+              "$49M",
+              "2011",
+              "London"
+            ]
+          ],
+          "caption": "历史上最昂贵的婚礼排名（调整至2026年美元）"
+        }
+      ],
+      "deep_dive": "## 一、超级富豪婚礼的炫耀性消费与身份符号\n榜单中多数婚礼来自新兴市场寡头或老牌王室，其花费远超普通富豪。榜首14亿美元的莫斯科婚礼由俄罗斯石油大亨之子举办，邀请了詹妮弗·洛佩兹等国际巨星表演，直接将婚礼变为全球名流社交场。印度安巴尼家族两度上榜，2024年婚礼以6.41亿至11亿美元的成本，动用私人飞机接送宾客、包下奢华度假村，并邀请蕾哈娜驻唱，此类支出已非单纯仪式，而是家族实力与商业网络的展示。与西方科技新贵贝索斯或斯威夫特的婚礼相比，新兴市场富豪更倾向于通过天文数字的婚礼建立国际声誉，而后者虽成本高昂（如贝索斯5千万美元级），但更注重私密性或媒体版权回报，折射出不同财富层级的社交策略差异。\n\n## 二、地域文化与通胀调整的解析\n榜单地理分布从莫斯科、孟买到伦敦、巴黎近郊，映射全球财富中心的转移。俄罗斯、印度寡头依托能源与基建垄断积累财富，其婚礼常融入民族奢华元素（如黄金装饰、数日传统庆典），而欧洲王室婚礼则体现国家形象与文化外交——戴安娜与查尔斯的1.76亿美元（调整后）包含安保与公共庆典费用，实质由纳税人部分承担。值得注意的是，所有成本均按通胀调整至2026年美元，使跨时期比较更具科学性，但估算区间（如安巴尼婚礼达5.5亿美元浮动）仍说明此类奢华活动的隐性成本难以精确计量，且安保、场地、礼品等细节常被低估。此外，凡尔赛、威尼斯等历史地标成为婚礼举办地，凸显文化遗产的商业化与超豪华旅游经济的崛起。",
+      "glossary": [
+        {
+          "term": "炫耀性消费",
+          "explanation": "指购买商品或服务的主要目的不是实用，而是展示财富与社会地位，榜单中婚礼花费即典型例子。"
+        },
+        {
+          "term": "通胀调整",
+          "explanation": "将历史花费按消费者价格指数折合到指定年份（如2026年）的美元价值，以消除货币购买力变动的影响，便于跨期比较。"
+        },
+        {
+          "term": "新兴市场寡头",
+          "explanation": "指在俄罗斯、印度等经济体通过资源、政策或行业垄断迅速积累巨额财富的少数个人或家族，常以高调消费彰显权力。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abb60343",
+    "title": "Ranked: The Most Powerful Countries, According to Global Opinion",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-powerful-countries-according-to-global-opinion/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/abb60343.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrJqjV9tSyVUl6VJtFln7WBxmisl2O7rRSKsf/2Q==",
+    "image_version": 1783871162,
+    "pub_date": "Sun, 12 Jul 2026 12:07:30 +0000",
+    "content_md": "| Rank | Country | Relative Power Score 2026 |\n| --- | --- | --- |\n| 1 | U.S. | 100.0 |\n| 2 | China | 93.6 |\n| 3 | Russia | 91.4 |\n| 4 | UK | 84.3 |\n| 5 | Germany | 74.1 |\n| 6 | South Korea | 62.7 |\n| 7 | Saudi Arabia | 61.0 |\n| 8 | France | 59.5 |\n| 9 | Japan | 59.0 |\n| 10 | UAE | 58.6 |\n| 11 | Israel | 56.4 |\n| 12 | India | 45.0 |\n| 13 | Canada | 42.1 |\n| 14 | Türkiye | 32.7 |\n| 15 | Italy | 31.6 |\n| 16 | Iran | 28.4 |\n| 17 | Switzerland | 27.6 |\n| 18 | Ukraine | 27.6 |\n| 19 | Australia | 26.1 |\n| 20 | Spain | 25.2 |\n| 21 | Brazil | 21.7 |\n| 22 | Singapore | 20.4 |\n| 23 | Sweden | 19.5 |\n| 24 | Netherlands | 18.6 |\n| 25 | Belgium | 17.6 |\n| 26 | Kuwait | 17.6 |\n| 27 | Denmark | 16.9 |\n| 28 | Mexico | 15.4 |\n| 29 | Egypt | 14.3 |\n| 30 | Vietnam | 14.2 |\n| 31 | South Africa | 13.7 |\n| 32 | Norway | 12.9 |\n| 33 | Indonesia | 12.1 |\n| 34 | Poland | 10.8 |\n| 35 | Portugal | 10.7 |\n| 36 | Belarus | 10.2 |\n| 37 | Austria | 10.1 |\n| 38 | Argentina | 9.7 |\n| 39 | Finland | 9.4 |\n| 40 | Bangladesh | 8.9 |",
+    "ai_analysis": {
+      "core_insight": "全球舆论视美国为最强国家，但中美俄权力差距极小，三国近乎鼎立。",
+      "data_highlights": [
+        "美国以100分高居榜首，但中国（93.6）和俄罗斯（91.4）紧随其后，分差不足10分。",
+        "英国（84.3）与德国（74.1）位列第四、五名，欧洲老牌强国仍具影响力。",
+        "韩国（62.7）超越法国（59.5）和日本（59.0），反映其在全球舆论中的权重上升。",
+        "印度（45.0）排名第12，与其人口和经济体量不匹配，感知权力较低。",
+        "乌克兰（27.6）与瑞士并列第17位，战事可能提升其全球知名度与权力感知。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Relative Power Score 2026"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "100.0"
+            ],
+            [
+              "2",
+              "China",
+              "93.6"
+            ],
+            [
+              "3",
+              "Russia",
+              "91.4"
+            ],
+            [
+              "4",
+              "UK",
+              "84.3"
+            ],
+            [
+              "5",
+              "Germany",
+              "74.1"
+            ],
+            [
+              "6",
+              "South Korea",
+              "62.7"
+            ],
+            [
+              "7",
+              "Saudi Arabia",
+              "61.0"
+            ],
+            [
+              "8",
+              "France",
+              "59.5"
+            ],
+            [
+              "9",
+              "Japan",
+              "59.0"
+            ],
+            [
+              "10",
+              "UAE",
+              "58.6"
+            ],
+            [
+              "11",
+              "Israel",
+              "56.4"
+            ],
+            [
+              "12",
+              "India",
+              "45.0"
+            ],
+            [
+              "13",
+              "Canada",
+              "42.1"
+            ],
+            [
+              "14",
+              "Türkiye",
+              "32.7"
+            ],
+            [
+              "15",
+              "Italy",
+              "31.6"
+            ],
+            [
+              "16",
+              "Iran",
+              "28.4"
+            ],
+            [
+              "17",
+              "Switzerland",
+              "27.6"
+            ],
+            [
+              "18",
+              "Ukraine",
+              "27.6"
+            ],
+            [
+              "19",
+              "Australia",
+              "26.1"
+            ],
+            [
+              "20",
+              "Spain",
+              "25.2"
+            ],
+            [
+              "21",
+              "Brazil",
+              "21.7"
+            ],
+            [
+              "22",
+              "Singapore",
+              "20.4"
+            ],
+            [
+              "23",
+              "Sweden",
+              "19.5"
+            ],
+            [
+              "24",
+              "Netherlands",
+              "18.6"
+            ],
+            [
+              "25",
+              "Belgium",
+              "17.6"
+            ],
+            [
+              "26",
+              "Kuwait",
+              "17.6"
+            ],
+            [
+              "27",
+              "Denmark",
+              "16.9"
+            ],
+            [
+              "28",
+              "Mexico",
+              "15.4"
+            ],
+            [
+              "29",
+              "Egypt",
+              "14.3"
+            ],
+            [
+              "30",
+              "Vietnam",
+              "14.2"
+            ],
+            [
+              "31",
+              "South Africa",
+              "13.7"
+            ],
+            [
+              "32",
+              "Norway",
+              "12.9"
+            ],
+            [
+              "33",
+              "Indonesia",
+              "12.1"
+            ],
+            [
+              "34",
+              "Poland",
+              "10.8"
+            ],
+            [
+              "35",
+              "Portugal",
+              "10.7"
+            ],
+            [
+              "36",
+              "Belarus",
+              "10.2"
+            ],
+            [
+              "37",
+              "Austria",
+              "10.1"
+            ],
+            [
+              "38",
+              "Argentina",
+              "9.7"
+            ],
+            [
+              "39",
+              "Finland",
+              "9.4"
+            ],
+            [
+              "40",
+              "Bangladesh",
+              "8.9"
+            ]
+          ],
+          "caption": "2026年相对权力分数排名"
+        }
+      ],
+      "deep_dive": "## 全球权力感知格局：中美俄近乎三足鼎立\n\n本排名基于U.S. News & World Report的“最佳国家”调查，通过全球超过17,000名受访者对各国属性的评估，综合得出“相对权力分数”，反映全球舆论对国家影响力的主观感知。\n\n- 美国以满分100位列第一，但中国（93.6）与俄罗斯（91.4）的分数极为接近，显示全球舆论认为三国权力差距甚微。这映射出后冷战单极格局的持续松动，以及中俄在国际舞台上的硬实力与软实力投射能力。\n- 英国（84.3）与德国（74.1）分列第四、五名，表明欧洲核心国家仍保有较高的全球影响力认知，尤以英国凭借历史遗产、金融中心地位和软实力维持高位。\n- 韩国（62.7）超越传统强国法国（59.5）和日本（59.0），可能与韩流文化输出、科技品牌（三星、LG）及近年外交活跃度有关，提示软实力对权力感知的拉动作用。\n\n## 分数断层与地缘政治启示\n\n- 榜单出现明显分数断层：前11名（以色列56.4）与第12名印度（45.0）之间存在约11分的落差，形成“强权力阵营”与“中等权力国家”的分水岭。这说明全球舆论对权力阶梯的认知存在门槛效应。\n- 印度得分（45.0）远低于其经济体量（第五大GDP）和人口规模，或许反映外界对其内部治理挑战、基础设施不足和外交自主性的保守评估。同理，印度尼西亚（12.1）作为东南亚最大经济体，仅排名第33位，显示经济总量并非权力感知的唯一决定因素。\n- 乌克兰（27.6）与瑞士（27.6）并列第17位，是地缘冲突案例的突出体现。乌克兰因俄乌战争获得广泛国际关注与同情，其抵抗形象大幅提升了权力感知，但分数仍不及伊朗（28.4），说明持续的对抗未必直接转化为高权力分数。\n- 中东地区中的沙特阿拉伯（61.0）、阿联酋（58.6）和以色列（56.4）均跻身前20，凸显能源权力、科技实力与战略位置在塑造权力感知中的关键作用。\n\n## 数据局限与思考\n\n- 该分数基于主观调查，可能受抽样偏差、媒体叙事及当下热点事件影响，未必完全反映客观国力。\n- 排名仅反映2026年预期，快速变化的国际环境可能使分数时效性变短。\n- “权力”的定义可能偏向硬实力和影响力，忽略了文化、道德领导力等维度。未来可结合多维度指数（如全球软实力指数、人类发展指数）加以印证。",
+      "glossary": [
+        {
+          "term": "Relative Power Score",
+          "explanation": "U.S. News通过调查全球受访者对各国在政治、经济、军事等属性上的评价，综合计算得出的分数，以美国为基准100，量化各国的相对权力感知。"
+        },
+        {
+          "term": "软实力",
+          "explanation": "一个国家通过文化、政治价值观和外交政策的吸引力而非胁迫或收买，影响他人偏好的能力。"
+        },
+        {
+          "term": "硬实力",
+          "explanation": "利用军事和经济手段来影响他国行为或利益的能力，具有强制性。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c6ace22e",
     "title": "Mapped: Every Country That Gained Independence Since WWII",
     "original_url": "https://www.visualcapitalist.com/cp/all-the-countries-that-gained-independence-since-wwii/",
