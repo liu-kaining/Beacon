@@ -1,5 +1,245 @@
 [
   {
+    "id": "918c46d3",
+    "title": "Ranked: Where Wealth Is Most Concentrated",
+    "original_url": "https://www.visualcapitalist.com/ranked-where-wealth-is-most-concentrated/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/918c46d3.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDp7g1DEfmqW5qCH79ec5O5EtzRT7oopU+6KKu4H//Z",
+    "image_version": 1783969663,
+    "pub_date": "Mon, 13 Jul 2026 17:47:34 +0000",
+    "content_md": "| Rank | Country | Gini Index 2025 (0-100) | Region |\n| --- | --- | --- | --- |\n| 1 | UAE | 82 | Middle East |\n| 2 | Russia | 82 | Europe |\n| 3 | South Africa | 81 | Africa |\n| 4 | Brazil | 81 | Americas |\n| 5 | Saudi Arabia | 78 | Middle East |\n| 6 | U.S. | 77 | Americas |\n| 7 | Sweden | 74 | Europe |\n| 8 | India | 74 | Asia |\n| 9 | Türkiye | 73 | Middle East |\n| 10 | Mexico | 72 | Americas |\n| 11 | Chile | 71 | Americas |\n| 12 | Singapore | 69 | Asia |\n| 13 | Switzerland | 68 | Europe |\n| 14 | Germany | 67 | Europe |\n| 15 | Israel | 66 | Middle East |\n| 16 | Hong Kong SAR | 64 | Asia |\n| 17 | Portugal | 61 | Europe |\n| 18 | China (Mainland) | 60 | Asia |\n| 19 | Greece | 60 | Europe |\n| 20 | UK | 59 | Europe |\n| 21 | Taiwan | 59 | Asia |\n| 22 | France | 57 | Europe |\n| 23 | South Korea | 57 | Asia |\n| 24 | Poland | 57 | Europe |\n| 25 | Spain | 57 | Europe |\n| 26 | Hungary | 56 | Europe |\n| 27 | Italy | 54 | Europe |\n| 28 | Japan | 53 | Asia |\n| 29 | Australia | 53 | Oceania |\n| 30 | Qatar | 47 | Middle East |\n| 31 | Belgium | 46 | Europe |\n| 32 | Slovakia | 38 | Europe |",
+    "ai_analysis": {
+      "core_insight": "财富集中度在全球普遍存在，中东与金砖国家尤为突出，北欧高福利国家亦未幸免。",
+      "data_highlights": [
+        "阿联酋与俄罗斯以82的基尼指数并列榜首，财富集中度全球最高。",
+        "南非与巴西同为81，反映金砖国家内部贫富差距巨大。",
+        "沙特阿拉伯（78）和美国（77）紧随其后，发达经济体亦难逃财富集中。",
+        "瑞典（74）作为高福利国家仍居高位，凸显基尼指数涵盖的广泛不平等维度。",
+        "亚洲地区内部差异显著：印度74，新加坡69，中国大陆60，日本53。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Gini Index 2025 (0-100)",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "UAE",
+              "82",
+              "Middle East"
+            ],
+            [
+              "2",
+              "Russia",
+              "82",
+              "Europe"
+            ],
+            [
+              "3",
+              "South Africa",
+              "81",
+              "Africa"
+            ],
+            [
+              "4",
+              "Brazil",
+              "81",
+              "Americas"
+            ],
+            [
+              "5",
+              "Saudi Arabia",
+              "78",
+              "Middle East"
+            ],
+            [
+              "6",
+              "U.S.",
+              "77",
+              "Americas"
+            ],
+            [
+              "7",
+              "Sweden",
+              "74",
+              "Europe"
+            ],
+            [
+              "8",
+              "India",
+              "74",
+              "Asia"
+            ],
+            [
+              "9",
+              "Türkiye",
+              "73",
+              "Middle East"
+            ],
+            [
+              "10",
+              "Mexico",
+              "72",
+              "Americas"
+            ],
+            [
+              "11",
+              "Chile",
+              "71",
+              "Americas"
+            ],
+            [
+              "12",
+              "Singapore",
+              "69",
+              "Asia"
+            ],
+            [
+              "13",
+              "Switzerland",
+              "68",
+              "Europe"
+            ],
+            [
+              "14",
+              "Germany",
+              "67",
+              "Europe"
+            ],
+            [
+              "15",
+              "Israel",
+              "66",
+              "Middle East"
+            ],
+            [
+              "16",
+              "Hong Kong SAR",
+              "64",
+              "Asia"
+            ],
+            [
+              "17",
+              "Portugal",
+              "61",
+              "Europe"
+            ],
+            [
+              "18",
+              "China (Mainland)",
+              "60",
+              "Asia"
+            ],
+            [
+              "19",
+              "Greece",
+              "60",
+              "Europe"
+            ],
+            [
+              "20",
+              "UK",
+              "59",
+              "Europe"
+            ],
+            [
+              "21",
+              "Taiwan",
+              "59",
+              "Asia"
+            ],
+            [
+              "22",
+              "France",
+              "57",
+              "Europe"
+            ],
+            [
+              "23",
+              "South Korea",
+              "57",
+              "Asia"
+            ],
+            [
+              "24",
+              "Poland",
+              "57",
+              "Europe"
+            ],
+            [
+              "25",
+              "Spain",
+              "57",
+              "Europe"
+            ],
+            [
+              "26",
+              "Hungary",
+              "56",
+              "Europe"
+            ],
+            [
+              "27",
+              "Italy",
+              "54",
+              "Europe"
+            ],
+            [
+              "28",
+              "Japan",
+              "53",
+              "Asia"
+            ],
+            [
+              "29",
+              "Australia",
+              "53",
+              "Oceania"
+            ],
+            [
+              "30",
+              "Qatar",
+              "47",
+              "Middle East"
+            ],
+            [
+              "31",
+              "Belgium",
+              "46",
+              "Europe"
+            ],
+            [
+              "32",
+              "Slovakia",
+              "38",
+              "Europe"
+            ]
+          ],
+          "caption": "全球财富集中度排名（基尼指数，2025年）"
+        }
+      ],
+      "deep_dive": "## 全球财富集中的地理与制度经纬\n本次排名覆盖32个经济体，基尼指数从38（斯洛伐克）到82（阿联酋、俄罗斯），直观展现财富不平等的广泛分布。中东地区因石油经济租金、缺乏累进税制而集中度极高；俄罗斯、南非和巴西则受历史结构、资源依赖与制度弱化影响。值得注意的是，北欧高福利国家瑞典（74）亦居高位，反映财富基尼与收入基尼的差异——高税率可调节收入分配，但巨额资产存量仍高度集中。\n\n## 金砖国家与发达经济体的双面镜像\n- **资源型经济体**：阿联酋、沙特等石油财富由王室与精英控制，国民福利粉饰了实质不平等；俄罗斯寡头经济在转型后加剧分化。\n- **新兴市场**：南非种族隔离遗产、巴西土地集中与教育鸿沟推高基尼系数；印度74的背后是城乡割裂与种姓阶层的复合效应。\n- **美国模式**：77的指数揭示“美国梦”下的裂缝，科技创新造富与金融化拉大差距，税收累进性减弱加剧固化。\n\n## 欧洲内部的“平等幻象”反差\n斯洛伐克（38）、比利时（46）是欧洲均富标杆，而瑞士（68）、德国（67）等却在发达体中偏高，部分因子在于财富持有形式（如不动产）与统计口径。瑞典案例警示：高税收与高福利可抑制收入差距，但存量财富的积累惯性仍形成隐形围墙。欧洲一体化表面下，财富集中度差异超过20个百分点，暗示社会保障与财产税制的深层鸿沟。\n\n## 政策启示与数据局限性\n排名基于2025年估计值，可能受调查方法、涵盖资产类型影响。高基尼指数不一定等于社会危机（如阿联酋通过公民福利缓解矛盾），低指数亦可能掩盖结构性不公。决策者需多维审察：财富集中是否有损社会流动？是否催生政治寻租？斯洛伐克等国的低集中度或可归因于高住房拥有率与较小贫富极化，但其经验难以简单复制。在全球资本回报率长期高于经济增长率的背景下，遏制财富过度集中需税收改革、教育与资产建设并举。",
+      "glossary": [
+        {
+          "term": "基尼指数",
+          "explanation": "衡量一个国家或地区财富分配不平等程度的指标，0表示绝对平等，100表示绝对不平等，数值越高集中度越高。"
+        },
+        {
+          "term": "财富基尼系数",
+          "explanation": "区别于收入基尼系数，侧重资产存量（金融资产、不动产等）分布，往往比收入基尼系数更高，更能反映长期不平等。"
+        },
+        {
+          "term": "租金经济",
+          "explanation": "依赖自然资源（如石油）租金的经济发展模式，易导致财富向控制资源的少数群体集中。"
+        }
+      ]
+    }
+  },
+  {
     "id": "da1fad4b",
     "title": "Where U.S. Home Prices Have Outpaced Income the Most",
     "original_url": "https://www.visualcapitalist.com/sp/ter02-where-u-s-home-prices-have-outpaced-income-the-most/",
