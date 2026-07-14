@@ -1,5 +1,100 @@
 [
   {
+    "id": "adcb691d",
+    "title": "Germany Quit Nuclear. So Why Is It Importing More?",
+    "original_url": "https://www.visualcapitalist.com/cp/germany-quit-nuclear-why-is-it-importing-more/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/adcb691d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnhcD1qKabIqoCfWhyaB2Gs3zUVEetFAH/2Q==",
+    "image_version": 1784006322,
+    "pub_date": "Tue, 14 Jul 2026 04:26:03 +0000",
+    "content_md": "| Year | Nuclear PowerGenerated Domestically (GWh) | Nuclear PowerImported (GWh) |\n| --- | --- | --- |\n| 2015 | 91,790 | 5,830 |\n| 2016 | 84,630 | 4,363 |\n| 2017 | 76,320 | 3,979 |\n| 2018 | 76,000 | 6,407 |\n| 2019 | 75,070 | 9,211 |\n| 2020 | 64,380 | 8,757 |\n| 2021 | 69,130 | 7,235 |\n| 2022 | 34,710 | 4,542 |\n| 2023 | 7,220 | 11,778 |\n| 2024 | 0 | 18,313 |",
+    "ai_analysis": {
+      "core_insight": "德国弃核后国内核电归零，核电进口却激增3倍，暴露能源转型悖论。",
+      "data_highlights": [
+        "2024年国内核电发电量降至0 GWh，而进口量飙升至18,313 GWh，创历史新高。",
+        "从2015至2024年，核电进口量增长214%，与弃核政策形成直接对冲。",
+        "2023年国内核电骤降近80%，同年进口跳增159%，缺口依赖邻国填补。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "Nuclear Power Generated Domestically (GWh)",
+            "Nuclear Power Imported (GWh)"
+          ],
+          "rows": [
+            [
+              "2015",
+              "91,790",
+              "5,830"
+            ],
+            [
+              "2016",
+              "84,630",
+              "4,363"
+            ],
+            [
+              "2017",
+              "76,320",
+              "3,979"
+            ],
+            [
+              "2018",
+              "76,000",
+              "6,407"
+            ],
+            [
+              "2019",
+              "75,070",
+              "9,211"
+            ],
+            [
+              "2020",
+              "64,380",
+              "8,757"
+            ],
+            [
+              "2021",
+              "69,130",
+              "7,235"
+            ],
+            [
+              "2022",
+              "34,710",
+              "4,542"
+            ],
+            [
+              "2023",
+              "7,220",
+              "11,778"
+            ],
+            [
+              "2024",
+              "0",
+              "18,313"
+            ]
+          ],
+          "caption": "德国核电发电与进口量（2015-2024）"
+        }
+      ],
+      "deep_dive": "## 弃核政策下的进口替代悖论\n德国自2011年福岛事故后决定加速弃核，2023年4月关闭最后三座核电站，国内核电发电量从2015年的91,790 GWh骤降至2024年的0 GWh。然而，核电进口量却从2015年的5,830 GWh攀升至2024年的18,313 GWh，增幅超过214%。这一现象揭示出德国并未真正摆脱核电，而是将发电环节外包给邻国，本国仅承担消费端责任。进口电力中相当比例来自法国、捷克等国的核电站，形成“邻国冒烟、本国净零”的碳泄漏争议。\n\n## 能源安全与市场扭曲\n弃核后德国对进口电力的依赖显著上升，2023年净进口量创纪录，2024年核电进口占比进一步扩大。这导致德国电力批发价与邻国耦合度提高，2022年能源危机期间电价飙升，暴露出供应弹性不足的脆弱性。同时，德国国内可再生能源装机虽快速扩张，但出力的间歇性迫使基荷电力仍要靠进口煤电与核电填补，反而推高了欧盟整体碳排放。此举亦引发欧盟内部市场规则争议：享受绿色标签的德国进口核电，是否应计入碳排放核算体系。\n\n## 启示与局限\n德国案例表明，激进弃核若缺乏同步的储能与灵活电源建设，将引发“雷声大雨点小”的能源转型陷阱。一方面，政治承诺与市场现实脱节，消费者支付的“绿色溢价”并未带来对应的碳减排；另一方面，电力互联背景下，国家能源政策的外溢效应远超国界，需要更协调的欧洲能源治理框架。未来，德国若不能加速构建氢能调峰、需求侧响应等机制，进口依赖还可能加剧，甚至动摇其工业竞争力的根基。",
+      "glossary": [
+        {
+          "term": "GWh（吉瓦时）",
+          "explanation": "能量单位，1吉瓦时等于100万千瓦时，通常用于衡量大规模发电量或用电量。"
+        },
+        {
+          "term": "基荷电力",
+          "explanation": "电网中持续、稳定供应的最低负荷电力，通常由核电、煤电等可连续运行的电厂提供。"
+        },
+        {
+          "term": "碳泄漏",
+          "explanation": "一国严格的气候政策导致高碳活动转移到政策宽松地区，使全球总排放未减少的现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "918c46d3",
     "title": "Ranked: Where Wealth Is Most Concentrated",
     "original_url": "https://www.visualcapitalist.com/ranked-where-wealth-is-most-concentrated/",
