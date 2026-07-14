@@ -1,5 +1,275 @@
 [
   {
+    "id": "537a1699",
+    "title": "Ranked: Homeownership Rates Around the World",
+    "original_url": "https://www.visualcapitalist.com/homeownership-rates-world-ranking/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/537a1699.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDo5hUSDmrMtQp1rpSM7kyjiinL0oqrCuf/2Q==",
+    "image_version": 1784034003,
+    "pub_date": "Tue, 14 Jul 2026 12:02:04 +0000",
+    "content_md": "| Rank | Country | Homeownership rate |\n| --- | --- | --- |\n| 1 | Slovak Republic | 93.5% |\n| 2 | Romania | 92.8% |\n| 3 | Croatia | 90.4% |\n| 4 | China | 90.0% |\n| 5 | Lithuania | 86.9% |\n| 6 | Bulgaria | 85.2% |\n| 7 | Poland | 84.8% |\n| 8 | Japan | 84.0% |\n| 9 | Latvia | 80.6% |\n| 10 | Iceland | 78.4% |\n| 11 | Italy | 75.2% |\n| 12 | Estonia | 75.0% |\n| 13 | Slovenia | 73.9% |\n| 14 | Spain | 73.6% |\n| 15 | Costa Rica | 73.2% |\n| 16 | European Union | 72.5% |\n| 17 | Norway | 72.3% |\n| 18 | Portugal | 72.1% |\n| 19 | Czechia | 71.9% |\n| 20 | OECD average | 70.1% |\n| 21 | Mexico | 69.6% |\n| 22 | Canada | 68.6% |\n| 23 | United Kingdom | 68.4% |\n| 24 | Ireland | 68.2% |\n| 25 | Greece | 68.1% |\n| 26 | Malta | 66.0% |\n| 27 | Belgium | 65.9% |\n| 28 | United States | 65.3% |\n| 29 | New Zealand | 63.9% |\n| 30 | Cyprus | 63.5% |\n| 31 | Australia | 62.7% |\n| 32 | Luxembourg | 62.3% |\n| 33 | Finland | 61.0% |\n| 34 | France | 58.5% |\n| 35 | Sweden | 58.2% |\n| 36 | South Korea | 58.0% |\n| 37 | Netherlands | 57.9% |\n| 38 | Chile | 57.1% |\n| 39 | Türkiye | 55.7% |\n| 40 | Denmark | 52.2% |\n| 41 | Austria | 47.9% |\n| 42 | Germany | 41.0% |\n| 43 | Switzerland | 38.2% |\n| 44 | Colombia | 36.0% |",
+    "ai_analysis": {
+      "core_insight": "住房自有率呈现显著地域分化，东欧与中国领先，西欧发达经济体普遍偏低。",
+      "data_highlights": [
+        "斯洛伐克以93.5%的住房自有率高居榜首，罗马尼亚92.8%紧随其后。",
+        "中国住房自有率达90.0%，排名第四，显著高于欧美主要国家。",
+        "德国仅41.0%，瑞士38.2%，哥伦比亚36.0%，位居末位。",
+        "OECD平均住房自有率为70.1%，欧盟平均为72.5%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Homeownership rate"
+          ],
+          "rows": [
+            [
+              "1",
+              "Slovak Republic",
+              "93.5%"
+            ],
+            [
+              "2",
+              "Romania",
+              "92.8%"
+            ],
+            [
+              "3",
+              "Croatia",
+              "90.4%"
+            ],
+            [
+              "4",
+              "China",
+              "90.0%"
+            ],
+            [
+              "5",
+              "Lithuania",
+              "86.9%"
+            ],
+            [
+              "6",
+              "Bulgaria",
+              "85.2%"
+            ],
+            [
+              "7",
+              "Poland",
+              "84.8%"
+            ],
+            [
+              "8",
+              "Japan",
+              "84.0%"
+            ],
+            [
+              "9",
+              "Latvia",
+              "80.6%"
+            ],
+            [
+              "10",
+              "Iceland",
+              "78.4%"
+            ],
+            [
+              "11",
+              "Italy",
+              "75.2%"
+            ],
+            [
+              "12",
+              "Estonia",
+              "75.0%"
+            ],
+            [
+              "13",
+              "Slovenia",
+              "73.9%"
+            ],
+            [
+              "14",
+              "Spain",
+              "73.6%"
+            ],
+            [
+              "15",
+              "Costa Rica",
+              "73.2%"
+            ],
+            [
+              "16",
+              "European Union",
+              "72.5%"
+            ],
+            [
+              "17",
+              "Norway",
+              "72.3%"
+            ],
+            [
+              "18",
+              "Portugal",
+              "72.1%"
+            ],
+            [
+              "19",
+              "Czechia",
+              "71.9%"
+            ],
+            [
+              "20",
+              "OECD average",
+              "70.1%"
+            ],
+            [
+              "21",
+              "Mexico",
+              "69.6%"
+            ],
+            [
+              "22",
+              "Canada",
+              "68.6%"
+            ],
+            [
+              "23",
+              "United Kingdom",
+              "68.4%"
+            ],
+            [
+              "24",
+              "Ireland",
+              "68.2%"
+            ],
+            [
+              "25",
+              "Greece",
+              "68.1%"
+            ],
+            [
+              "26",
+              "Malta",
+              "66.0%"
+            ],
+            [
+              "27",
+              "Belgium",
+              "65.9%"
+            ],
+            [
+              "28",
+              "United States",
+              "65.3%"
+            ],
+            [
+              "29",
+              "New Zealand",
+              "63.9%"
+            ],
+            [
+              "30",
+              "Cyprus",
+              "63.5%"
+            ],
+            [
+              "31",
+              "Australia",
+              "62.7%"
+            ],
+            [
+              "32",
+              "Luxembourg",
+              "62.3%"
+            ],
+            [
+              "33",
+              "Finland",
+              "61.0%"
+            ],
+            [
+              "34",
+              "France",
+              "58.5%"
+            ],
+            [
+              "35",
+              "Sweden",
+              "58.2%"
+            ],
+            [
+              "36",
+              "South Korea",
+              "58.0%"
+            ],
+            [
+              "37",
+              "Netherlands",
+              "57.9%"
+            ],
+            [
+              "38",
+              "Chile",
+              "57.1%"
+            ],
+            [
+              "39",
+              "Türkiye",
+              "55.7%"
+            ],
+            [
+              "40",
+              "Denmark",
+              "52.2%"
+            ],
+            [
+              "41",
+              "Austria",
+              "47.9%"
+            ],
+            [
+              "42",
+              "Germany",
+              "41.0%"
+            ],
+            [
+              "43",
+              "Switzerland",
+              "38.2%"
+            ],
+            [
+              "44",
+              "Colombia",
+              "36.0%"
+            ]
+          ],
+          "caption": "全球住房自有率排名"
+        }
+      ],
+      "deep_dive": "## 全球住房自有率的地域分化\n住房自有率（Homeownership rate）是衡量居民居住稳定性和财富积累的重要指标。从数据可见，前列多为东欧转型国家，如斯洛伐克（93.5%）、罗马尼亚（92.8%）、克罗地亚（90.4%），中国以90.0%位列第四。这些高自有率反映了计划经济遗留的公有住房私有化浪潮，以及强烈的“有恒产者有恒心”文化观念。相反，西欧发达国家如德国（41.0%）、瑞士（38.2%）自有率极低，凸显了租赁市场的高度发达与住房政策的差异。\n\n## 高自有率背后的结构与文化动因\n东欧国家在上世纪90年代大规模推行住房私有化，居民以低廉价格获得所租公房产权，直接推升自有率至历史高位。中国则受益于1998年住房商品化改革及城镇化进程，加上传统文化中“买房安居”的观念，促成了高购房率。日本（84.0%）虽为发达国家，但其土地资源有限、长期低利率环境和政策鼓励也维持了较高自有率。\n\n## 低自有率国家的租赁市场与政策选择\n德国、瑞士、奥地利等国自有率长期处于低位，核心在于成熟的租赁市场与严格的法律保障。德国实行“租金刹车”（Mietpreisbremse）等政策，保障租客权益，使租赁成为体面的长期居住方案，削弱购房必要性。瑞士的房产税、资本利得税等制度提高了购房和持有成本，而广泛的合作社住房（Cooperative housing）提供稳定的非产权住房选择。哥伦比亚（36.0%）等拉美国家低自有率则更多与收入不平等、非正规住房和城市化问题相关。\n\n## 中等自有率国家的潜在风险\n美国（65.3%）、英国（68.4%）、加拿大（68.6%）等英语国家自有率处于OECD平均（70.1%）附近，但市场易受信贷周期冲击，如2008年次贷危机。这些国家住房金融化程度深，房价波动对居民资产负债表影响显著。相比之下，低自有率的德国模式在历次危机中更显韧性，凸显住房政策定位的重要性。\n\n## 启示与局限\n排名数据来自官方统计，但各国对“自有”定义可能存在差异（如是否包含仍在还贷的家庭）。此外，高自有率并不等同于高居住质量，因部分国家存在多代同堂或非正式产权。政策制定者应结合国情，平衡住房自有与租赁市场发展，避免过度刺激购房需求导致泡沫风险，同时保障租赁群体的居住尊严。",
+      "glossary": [
+        {
+          "term": "住房自有率",
+          "explanation": "指居住在自有住房中的家庭占全部家庭的百分比，是衡量住房市场结构和居民居住保障的国际通用指标。"
+        },
+        {
+          "term": "OECD平均",
+          "explanation": "经济合作与发展组织（OECD）成员国的算术平均住房自有率，代表发达经济体的一般水平，此处为70.1%。"
+        },
+        {
+          "term": "租金刹车",
+          "explanation": "德国等国家实施的租金管制政策，限制房东在租约更新或新租约中涨租幅度，以稳定租赁市场、保护租客。"
+        },
+        {
+          "term": "合作社住房",
+          "explanation": "一种非营利性的住房模式，由住房合作社开发和管理，会员共同拥有使用权而非产权，常见于德国、瑞士等国。"
+        }
+      ]
+    }
+  },
+  {
     "id": "adcb691d",
     "title": "Germany Quit Nuclear. So Why Is It Importing More?",
     "original_url": "https://www.visualcapitalist.com/cp/germany-quit-nuclear-why-is-it-importing-more/",
