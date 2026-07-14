@@ -1,5 +1,488 @@
 [
   {
+    "id": "be6280e5",
+    "title": "Silver vs. Gold: Annual Returns During Downturns",
+    "original_url": "https://www.visualcapitalist.com/sp/gx04-silver-vs-gold-annual-returns-during-downturns/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/be6280e5.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAZABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrOKeuKyhej1qVb1fWn7NC9szTwKKz/ty+tFHsw9szjRfn1p41A+tZQpa1OdGp/aJ9aKyqKQz/2Q==",
+    "image_version": 1784045205,
+    "pub_date": "Tue, 14 Jul 2026 15:41:00 +0000",
+    "content_md": "| Year | Gold Returns (%) | Silver Returns (%) |\n| --- | --- | --- |\n| 2000 | -6.26 | -14.07 |\n| 2001 | 1.41 | -1.31 |\n| 2002 | 23.96 | 3.32 |\n| 2003 | 21.74 | 27.84 |\n| 2004 | 4.97 | 14.24 |\n| 2005 | 17.12 | 29.47 |\n| 2006 | 23.92 | 46.09 |\n| 2007 | 31.59 | 14.42 |\n| 2008 | 3.41 | -26.9 |\n| 2009 | 27.63 | 57.46 |\n| 2010 | 27.74 | 80.28 |\n| 2011 | 11.65 | -8 |\n| 2012 | 5.68 | 6.28 |\n| 2013 | -27.79 | -34.89 |\n| 2014 | -0.19 | -18.1 |\n| 2015 | -11.59 | -13.59 |\n| 2016 | 8.63 | 15.86 |\n| 2017 | 12.57 | 7.12 |\n| 2018 | -1.15 | -9.4 |\n| 2019 | 18.83 | 15.36 |\n| 2020 | 24.43 | 47.44 |\n| 2021 | -3.51 | -11.55 |\n| 2022 | -0.23 | 2.64 |\n| 2023 | 13.08 | -0.72 |\n| 2024 | 27.23 | 21.36 |\n| 2025 | 64.69 | 148.14 |\n| 2026 | 4.13 | 23.32 |",
+    "ai_analysis": {
+      "core_insight": "白银波动性远超黄金，牛市放大收益，熊市放大损失，呈高贝塔特征。",
+      "data_highlights": [
+        "2025年白银回报率飙升至148.14%，黄金仅64.69%，白银弹性极强。",
+        "2008年金融危机中黄金微涨3.41%，白银暴跌26.9%，凸显黄金避险属性。",
+        "2013年金银双双重挫，白银跌幅（-34.89%）大于黄金（-27.79%），下行风险更高。",
+        "2000-2026年间白银年化波动率显著高于黄金，最大年涨幅与跌幅均更极端。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "Gold Returns (%)",
+            "Silver Returns (%)"
+          ],
+          "rows": [
+            [
+              "2000",
+              "-6.26",
+              "-14.07"
+            ],
+            [
+              "2001",
+              "1.41",
+              "-1.31"
+            ],
+            [
+              "2002",
+              "23.96",
+              "3.32"
+            ],
+            [
+              "2003",
+              "21.74",
+              "27.84"
+            ],
+            [
+              "2004",
+              "4.97",
+              "14.24"
+            ],
+            [
+              "2005",
+              "17.12",
+              "29.47"
+            ],
+            [
+              "2006",
+              "23.92",
+              "46.09"
+            ],
+            [
+              "2007",
+              "31.59",
+              "14.42"
+            ],
+            [
+              "2008",
+              "3.41",
+              "-26.9"
+            ],
+            [
+              "2009",
+              "27.63",
+              "57.46"
+            ],
+            [
+              "2010",
+              "27.74",
+              "80.28"
+            ],
+            [
+              "2011",
+              "11.65",
+              "-8"
+            ],
+            [
+              "2012",
+              "5.68",
+              "6.28"
+            ],
+            [
+              "2013",
+              "-27.79",
+              "-34.89"
+            ],
+            [
+              "2014",
+              "-0.19",
+              "-18.1"
+            ],
+            [
+              "2015",
+              "-11.59",
+              "-13.59"
+            ],
+            [
+              "2016",
+              "8.63",
+              "15.86"
+            ],
+            [
+              "2017",
+              "12.57",
+              "7.12"
+            ],
+            [
+              "2018",
+              "-1.15",
+              "-9.4"
+            ],
+            [
+              "2019",
+              "18.83",
+              "15.36"
+            ],
+            [
+              "2020",
+              "24.43",
+              "47.44"
+            ],
+            [
+              "2021",
+              "-3.51",
+              "-11.55"
+            ],
+            [
+              "2022",
+              "-0.23",
+              "2.64"
+            ],
+            [
+              "2023",
+              "13.08",
+              "-0.72"
+            ],
+            [
+              "2024",
+              "27.23",
+              "21.36"
+            ],
+            [
+              "2025",
+              "64.69",
+              "148.14"
+            ],
+            [
+              "2026",
+              "4.13",
+              "23.32"
+            ]
+          ],
+          "caption": "黄金与白银年度回报率 (2000-2026)"
+        }
+      ],
+      "deep_dive": "## 黄金与白银的避险属性差异\n黄金作为传统避险资产，在经济衰退或市场动荡时往往表现稳健。2008年全球金融危机中黄金微涨3.41%，2020年新冠疫情冲击下大涨24.43%，均体现储值功能。而白银在同一危机中表现分化：2008年暴跌26.9%，因其工业需求萎缩；2020年却大涨47.44%，受益于极度宽松货币环境与投机需求。这源于白银的双重属性——兼具贵金属与工业金属角色，经济下行压制工业需求，但政策刺激又可能推升其价格。\n\n## 波动性与风险收益特征\n2000-2026年数据显示白银年化波动率远高于黄金，最大单年亏损（2013年-34.89%）也超过黄金（-27.79%）。在牛市中白银弹性十足，如2010年（+80.28% vs +27.74%）和2025年（+148.14% vs +64.69%），呈现高Beta特征。投资者可将白银视为黄金的杠杆替代，但需警惕尾部风险：在温和衰退或流动性危机中，白银可能先于黄金下跌。\n\n## 周期视角与政策启示\n该数据集覆盖互联网泡沫破裂、全球金融危机、新冠冲击及通胀加息等阶段。黄金在多数衰退年份保持正收益，而白银与工业周期紧密相关。2022年美联储激进加息下黄金微跌0.23%，白银却小涨2.64%，或与绿色转型带来的工业需求预期有关。若未来经济硬着陆风险上升，黄金将再显避险本色；但若衰退伴随大规模刺激，白银的工业与投机需求可能使其跑赢黄金。\n\n## 局限性与数据说明\n标题“During Downturns”与实际数据有所出入，数据包含全部年份而不仅限于下行期。年度回报忽略了年内波动和回撤，实际投资需结合更精细的仓位管理和估值分析。",
+      "glossary": [
+        {
+          "term": "避险资产",
+          "explanation": "在经济动荡、市场下跌时仍能保值或增值的资产，例如黄金和部分国债。"
+        },
+        {
+          "term": "Beta系数",
+          "explanation": "衡量资产相对于基准（如黄金）的波动性指标，高Beta意味着涨跌幅度被放大。"
+        },
+        {
+          "term": "波动率",
+          "explanation": "资产价格变动的标准差，反映其风险水平与价格不确定性。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e71c85a7",
+    "title": "Mapped: Health Care Spending Per Person by State",
+    "original_url": "https://www.visualcapitalist.com/health-care-spending-per-person-by-us-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e71c85a7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDp5aiUc1NJTF61yvc6k9CVRxRTh0orWxnc/9k=",
+    "image_version": 1784045246,
+    "pub_date": "Tue, 14 Jul 2026 14:11:34 +0000",
+    "content_md": "| Rank | State | Per-Capita Health Care Spending |\n| --- | --- | --- |\n| 1 | Alaska | $14,044 |\n| 2 | District of Columbia | $13,865 |\n| 3 | South Dakota | $12,451 |\n| 4 | New York | $12,221 |\n| 5 | West Virginia | $12,055 |\n| 6 | Delaware | $11,987 |\n| 7 | Massachusetts | $11,985 |\n| 8 | North Dakota | $11,667 |\n| 9 | Vermont | $11,493 |\n| 10 | Indiana | $11,071 |\n| 11 | California | $11,054 |\n| 12 | Maine | $10,913 |\n| 13 | New Hampshire | $10,682 |\n| 14 | Connecticut | $10,639 |\n| 15 | Minnesota | $10,567 |\n| 16 | New Jersey | $10,468 |\n| 17 | Pennsylvania | $10,262 |\n| 18 | Ohio | $10,202 |\n| 19 | Nebraska | $10,192 |\n| 20 | Louisiana | $10,148 |\n| 21 | Wisconsin | $10,079 |\n| 22 | Missouri | $10,036 |\n| 23 | Kentucky | $9,964 |\n| 24 | Oregon | $9,931 |\n| 25 | Illinois | $9,895 |\n| 26 | Rhode Island | $9,864 |\n| 27 | Hawaii | $9,808 |\n| 28 | Montana | $9,747 |\n| 29 | Washington | $9,693 |\n| 30 | Wyoming | $9,640 |\n| 31 | Florida | $9,545 |\n| 32 | Maryland | $9,456 |\n| 33 | Virginia | $9,123 |\n| 34 | Kansas | $9,066 |\n| 35 | Oklahoma | $9,052 |\n| 36 | Michigan | $9,023 |\n| 37 | Colorado | $8,871 |\n| 38 | Tennessee | $8,761 |\n| 39 | North Carolina | $8,744 |\n| 40 | Georgia | $8,680 |\n| 41 | Iowa | $8,660 |\n| 42 | Arkansas | $8,562 |\n| 43 | Arizona | $8,556 |\n| 44 | New Mexico | $8,469 |\n| 45 | Mississippi | $8,135 |\n| 46 | Idaho | $8,078 |\n| 47 | Alabama | $7,980 |\n| 48 | Texas | $7,807 |\n| 49 | South Carolina | $7,741 |\n| 50 | Nevada | $7,536 |\n| 51 | Utah | $7,233 |",
+    "ai_analysis": {
+      "core_insight": "美国各州人均医疗支出悬殊，阿拉斯加近犹他州两倍，反映地理、成本与人口健康差异。",
+      "data_highlights": [
+        "阿拉斯加（$14,044）、哥伦比亚特区（$13,865）和南达科他（$12,451）位列前三。",
+        "犹他州支出最低，仅$7,233，不及阿拉斯加的一半。",
+        "支出前10州人均均超$11,000，后10州均低于$8,600。",
+        "加利福尼亚州支出$11,054，排名第11；德克萨斯州$7,807，排名第48。",
+        "51个地区的人均支出中位数约为$9,964（肯塔基州附近）。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Per-Capita Health Care Spending"
+          ],
+          "rows": [
+            [
+              "1",
+              "Alaska",
+              "$14,044"
+            ],
+            [
+              "2",
+              "District of Columbia",
+              "$13,865"
+            ],
+            [
+              "3",
+              "South Dakota",
+              "$12,451"
+            ],
+            [
+              "4",
+              "New York",
+              "$12,221"
+            ],
+            [
+              "5",
+              "West Virginia",
+              "$12,055"
+            ],
+            [
+              "6",
+              "Delaware",
+              "$11,987"
+            ],
+            [
+              "7",
+              "Massachusetts",
+              "$11,985"
+            ],
+            [
+              "8",
+              "North Dakota",
+              "$11,667"
+            ],
+            [
+              "9",
+              "Vermont",
+              "$11,493"
+            ],
+            [
+              "10",
+              "Indiana",
+              "$11,071"
+            ],
+            [
+              "11",
+              "California",
+              "$11,054"
+            ],
+            [
+              "12",
+              "Maine",
+              "$10,913"
+            ],
+            [
+              "13",
+              "New Hampshire",
+              "$10,682"
+            ],
+            [
+              "14",
+              "Connecticut",
+              "$10,639"
+            ],
+            [
+              "15",
+              "Minnesota",
+              "$10,567"
+            ],
+            [
+              "16",
+              "New Jersey",
+              "$10,468"
+            ],
+            [
+              "17",
+              "Pennsylvania",
+              "$10,262"
+            ],
+            [
+              "18",
+              "Ohio",
+              "$10,202"
+            ],
+            [
+              "19",
+              "Nebraska",
+              "$10,192"
+            ],
+            [
+              "20",
+              "Louisiana",
+              "$10,148"
+            ],
+            [
+              "21",
+              "Wisconsin",
+              "$10,079"
+            ],
+            [
+              "22",
+              "Missouri",
+              "$10,036"
+            ],
+            [
+              "23",
+              "Kentucky",
+              "$9,964"
+            ],
+            [
+              "24",
+              "Oregon",
+              "$9,931"
+            ],
+            [
+              "25",
+              "Illinois",
+              "$9,895"
+            ],
+            [
+              "26",
+              "Rhode Island",
+              "$9,864"
+            ],
+            [
+              "27",
+              "Hawaii",
+              "$9,808"
+            ],
+            [
+              "28",
+              "Montana",
+              "$9,747"
+            ],
+            [
+              "29",
+              "Washington",
+              "$9,693"
+            ],
+            [
+              "30",
+              "Wyoming",
+              "$9,640"
+            ],
+            [
+              "31",
+              "Florida",
+              "$9,545"
+            ],
+            [
+              "32",
+              "Maryland",
+              "$9,456"
+            ],
+            [
+              "33",
+              "Virginia",
+              "$9,123"
+            ],
+            [
+              "34",
+              "Kansas",
+              "$9,066"
+            ],
+            [
+              "35",
+              "Oklahoma",
+              "$9,052"
+            ],
+            [
+              "36",
+              "Michigan",
+              "$9,023"
+            ],
+            [
+              "37",
+              "Colorado",
+              "$8,871"
+            ],
+            [
+              "38",
+              "Tennessee",
+              "$8,761"
+            ],
+            [
+              "39",
+              "North Carolina",
+              "$8,744"
+            ],
+            [
+              "40",
+              "Georgia",
+              "$8,680"
+            ],
+            [
+              "41",
+              "Iowa",
+              "$8,660"
+            ],
+            [
+              "42",
+              "Arkansas",
+              "$8,562"
+            ],
+            [
+              "43",
+              "Arizona",
+              "$8,556"
+            ],
+            [
+              "44",
+              "New Mexico",
+              "$8,469"
+            ],
+            [
+              "45",
+              "Mississippi",
+              "$8,135"
+            ],
+            [
+              "46",
+              "Idaho",
+              "$8,078"
+            ],
+            [
+              "47",
+              "Alabama",
+              "$7,980"
+            ],
+            [
+              "48",
+              "Texas",
+              "$7,807"
+            ],
+            [
+              "49",
+              "South Carolina",
+              "$7,741"
+            ],
+            [
+              "50",
+              "Nevada",
+              "$7,536"
+            ],
+            [
+              "51",
+              "Utah",
+              "$7,233"
+            ]
+          ],
+          "caption": "美国各州人均医疗保健支出（美元）"
+        }
+      ],
+      "deep_dive": "## 支出差异的驱动因素\n美国各州人均医疗支出从阿拉斯加的14,044美元到犹他州的7,233美元，差距高达6,811美元，反映了多重复杂因素。首先，**地理与人口密度**扮演关键角色：阿拉斯加、南达科他等地广人稀，医疗服务提供成本更高，包括交通、设施与专业人才吸引力。其次，**生活成本与工资水平**影响医疗价格，如纽约、哥伦比亚特区等高房价地区推高运营成本和人力费用。再次，**人口健康特征**差异显著，西弗吉尼亚、肯塔基等州慢性病发病率较高，医疗服务利用率高；而犹他、科罗拉多等州居民相对年轻健康，需求较低。此外，**保险覆盖与政策环境**亦起作用：许多高支出州（如马萨诸塞）较早推行全民医保，扩大覆盖可能增加服务利用；而低支出州（如德克萨斯）未扩展医疗补助，限制了部分低收入人群的医疗可及性。\n\n## 区域比较与启示\n从排名可见，支出前10名多为东北部（纽约、马萨诸塞、佛蒙特）或偏远州（阿拉斯加、南达科他、北达科他），而低支出州集中在南部（德克萨斯、南卡罗来纳、阿拉巴马）和西部（内华达、犹他）。这一格局与**经济水平与财政能力**部分关联，但并非绝对——加利福尼亚作为高收入州，支出仅列第11，反映出其较高的商业竞争与效率提升。值得警惕的是，低支出未必等同于高效率：密西西比等州支出虽低，但健康结局常排名不佳，预期寿命与慢性病管理明显落后。政策制定需平衡成本、可及性与质量，避免单纯追求支出降低而牺牲健康。\n\n## 数据局限与展望\n本数据基于某一特定年份估计，未纳入联邦转移支付细节，亦未区分公私立支出结构。未来趋势可能受远程医疗普及、人口老龄化加速以及联邦药品价格谈判机制影响，各州位次或将变动。评估卫生系统绩效时，应结合质量指标（如可避免住院率、患者结局）进行综合分析，以更全面指导资源配置。",
+      "glossary": [
+        {
+          "term": "人均医疗支出 (Per-capita health care spending)",
+          "explanation": "一定时期内平均每人的医疗保健费用支出，反映地区医疗资源利用与价格水平。"
+        },
+        {
+          "term": "医疗补助 (Medicaid)",
+          "explanation": "美国联邦与州政府联合提供的医疗援助计划，主要覆盖低收入人群，各州政策差异显著影响支出。"
+        },
+        {
+          "term": "慢性病负担 (Chronic disease burden)",
+          "explanation": "地区内高血压、糖尿病等慢性病的患病率，与医疗支出正相关，高负担州往往支出更高。"
+        }
+      ]
+    }
+  },
+  {
     "id": "537a1699",
     "title": "Ranked: Homeownership Rates Around the World",
     "original_url": "https://www.visualcapitalist.com/homeownership-rates-world-ranking/",
