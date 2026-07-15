@@ -1,5 +1,105 @@
 [
   {
+    "id": "3f92f21d",
+    "title": "The Only Region Gaining Foreign Investment in 2026",
+    "original_url": "https://www.visualcapitalist.com/the-one-region-attracting-more-investment-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/3f92f21d.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmkFK/SkSkfpXVIypEDdaKD1oqbm9j/9k=",
+    "image_version": 1784131879,
+    "pub_date": "Wed, 15 Jul 2026 14:12:28 +0000",
+    "content_md": "| Region | 2025 FDI(# of projects, Mar-May) | 2026 FDI(# of projects, Mar-May) | YoY change(%) |\n| --- | --- | --- | --- |\n| North America | 1,456 | 1,517 | 4.2 |\n| Latin America and the Caribbean | 378 | 345 | -8.7 |\n| Asia-Pacific | 998 | 883 | -11.5 |\n| Africa | 208 | 183 | -12.0 |\n| Western Europe | 1,235 | 940 | -23.9 |\n| Emerging Europe | 315 | 206 | -34.6 |\n| Middle East | 580 | 191 | -67.1 |\n| Global Total | 5,170 | 4,265 | -17.5 |",
+    "ai_analysis": {
+      "core_insight": "全球FDI普遍下滑，北美逆势增长4.2%，成唯一亮点。",
+      "data_highlights": [
+        "全球FDI项目数同比下降17.5%，从5,170个降至4,265个。",
+        "北美同比增长4.2%，是唯一实现正增长的地区。",
+        "中东暴跌67.1%，新兴欧洲下降34.6%，降幅最为惨烈。",
+        "西欧FDI项目数减少23.9%，绝对减少295个，拖累全球表现。",
+        "亚太地区也下降11.5%，此前增长强劲的势头暂缓。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Region",
+            "2025 FDI(# of projects, Mar-May)",
+            "2026 FDI(# of projects, Mar-May)",
+            "YoY change(%)"
+          ],
+          "rows": [
+            [
+              "North America",
+              "1,456",
+              "1,517",
+              "4.2"
+            ],
+            [
+              "Latin America and the Caribbean",
+              "378",
+              "345",
+              "-8.7"
+            ],
+            [
+              "Asia-Pacific",
+              "998",
+              "883",
+              "-11.5"
+            ],
+            [
+              "Africa",
+              "208",
+              "183",
+              "-12.0"
+            ],
+            [
+              "Western Europe",
+              "1,235",
+              "940",
+              "-23.9"
+            ],
+            [
+              "Emerging Europe",
+              "315",
+              "206",
+              "-34.6"
+            ],
+            [
+              "Middle East",
+              "580",
+              "191",
+              "-67.1"
+            ],
+            [
+              "Global Total",
+              "5,170",
+              "4,265",
+              "-17.5"
+            ]
+          ],
+          "caption": "2025–2026年各地区FDI项目数及同比变化（3–5月）"
+        }
+      ],
+      "deep_dive": "## 全球FDI的区域分化与结构性转变\n\n本数据揭示了2026年3–5月全球外国直接投资（FDI）项目数的剧烈收缩，同比下降17.5%，但区域表现极度分化。北美以4.2%的增长成为唯一逆势上扬的地区，而其他所有区域均出现不同程度的下降，尤其以中东（-67.1%）和新兴欧洲（-34.6%）的崩溃最为触目。这种分化背后反映了全球供应链重组、地缘政治风险溢价以及政策环境的深刻变化。\n\n### 北美逆势增长的驱动因素\n\n- **政策激励与产业回流**：美国《通胀削减法案》和《芯片与科学法案》的持续效应，通过大规模补贴和税收优惠，吸引清洁能源、半导体等战略产业投资回流。加拿大也推出类似措施，强化了北美作为“近岸外包”目的地的吸引力。\n- **市场稳定性与能源优势**：在全球不确定性加剧的背景下，北美庞大的消费市场、稳定的法治环境以及相对低廉的能源成本（尤其是天然气）成为避险资本的首选。相比之下，欧洲因地缘冲突导致能源成本高企，削弱了制造业投资竞争力。\n- **技术生态与创新集群**：人工智能、生物科技等前沿领域的投资高度集中在美国，尤其是硅谷和波士顿等创新中心，进一步虹吸全球风险资本和跨国企业研发支出。\n\n### 其他地区大幅下滑的成因与警示\n\n- **西欧与新兴欧洲**：西欧（-23.9%）受制于能源危机余波、通胀黏性和货币政策紧缩，企业投资意愿低迷；新兴欧洲（-34.6%）则因地缘冲突直接冲击供应链和投资者信心，资本外逃加剧。\n- **中东**（-67.1%）：数据可能反映一次性大项目的完成或地缘政治紧张导致的大型基建与能源投资暂停，也可能受到全球能源转型预期下化石燃料投资减少的影响。如此剧烈的降幅需警惕统计基数效应，但也暴露了该地区经济多元化的脆弱性。\n- **亚太与拉美**：亚太（-11.5%）的温和下降或与中国经济增速换挡、科技行业监管调整以及全球电子产业周期波动有关；拉美（-8.7%）则因政治不稳定和商品价格回落而失去部分吸引力。\n- **非洲**（-12.0%）：虽然降幅相对较小，但可持续投资仍受制于基础设施缺口和债务困境，全球资本在风险偏好下降时往往会忽视前沿市场。\n\n### 对全球投资格局的启示\n\n此次数据凸显了FDI流动的“安全港”效应正在强化，资本向政策可预期、市场成熟和供应链安全的地区集中。对于发展中国家而言，吸引外资需要更深层次的结构改革和区域合作，以对冲地缘裂痕带来的资本结构性撤离风险。同时，单季度数据可能受季节性因素或个别大项目影响，需结合全年趋势审慎解读。然而，北美作为唯一增长极，可能预示着未来全球FDI将呈现“一个中心、多点收缩”的格局，对全球经济再平衡构成挑战。",
+      "glossary": [
+        {
+          "term": "外国直接投资（FDI）",
+          "explanation": "Foreign Direct Investment的缩写，指一国投资者在另一国设立企业或收购现有企业，并拥有持久利益和管理控制权的投资行为。此处以项目数量衡量流量。"
+        },
+        {
+          "term": "同比增长（YoY change）",
+          "explanation": "Year-over-Year change，指与上一年同期相比的百分比变化，用于消除季节性因素的影响。"
+        },
+        {
+          "term": "近岸外包",
+          "explanation": "Nearshoring，指企业将生产和供应链转移至邻近国家或本地区的策略，以降低运输成本、缩短交付时间并规避地缘风险。"
+        },
+        {
+          "term": "安全港效应",
+          "explanation": "Safe haven effect，指在全球不确定性上升时，资本流向政治经济稳定、法治健全地区的现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "92b29831",
     "title": "Ranked: Countries With the Biggest Declines in Academic Freedom",
     "original_url": "https://www.visualcapitalist.com/ranked-countries-with-the-biggest-declines-in-academic-freedom/",
