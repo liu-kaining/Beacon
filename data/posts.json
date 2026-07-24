@@ -1,5 +1,293 @@
 [
   {
+    "id": "ce12616b",
+    "title": "How Americans Spend Their Time on Weekdays vs. Weekends",
+    "original_url": "https://www.visualcapitalist.com/how-americans-spend-their-time-on-weekdays-vs-weekends/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ce12616b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuZnxUUb5akuKih+9SsRzamip+Wimp90UUrF3P/9k=",
+    "image_version": 1784920051,
+    "pub_date": "Fri, 24 Jul 2026 16:22:09 +0000",
+    "content_md": "| How Americans Spend Time | Weekday | Weekend | Change (h m) |\n| --- | --- | --- | --- |\n| Sleeping | 9h 32m | 10h 26m | +0h 55m |\n| Leisure & Sports | 4h 36m | 6h 29m | +1h 53m |\n| Working | 4h 16m | 1h 07m | -3h 09m |\n| House Chores | 1h 53m | 2h 16m | +0h 23m |\n| Eating | 1h 10m | 1h 20m | +0h 10m |\n| Shopping | 0h 40m | 0h 44m | +0h 04m |\n| Caring for Others | 0h 41m | 0h 34m | -0h 07m |\n| Education | 0h 33m | 0h 11m | -0h 22m |\n| Religion | 0h 13m | 0h 27m | +0h 14m |\n| Communication | 0h 12m | 0h 11m | -0h 01m |",
+    "ai_analysis": {
+      "core_insight": "周末美国人将工作减少的时间主要转向休闲与睡眠。",
+      "data_highlights": [
+        "周末休闲与运动时间增加1小时53分钟，为增幅最大活动。",
+        "工作日工作时间4小时16分，周末暴跌至1小时07分，减少3小时09分。",
+        "周末睡眠时间延长近1小时，达到10小时26分。",
+        "家务、购物等无偿劳动时间周末小幅增加，照顾他人时间微降。",
+        "教育、通信等活动时间在工作日与周末差异较小。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "How Americans Spend Time",
+            "Weekday",
+            "Weekend",
+            "Change (h m)"
+          ],
+          "rows": [
+            [
+              "Sleeping",
+              "9h 32m",
+              "10h 26m",
+              "+0h 55m"
+            ],
+            [
+              "Leisure & Sports",
+              "4h 36m",
+              "6h 29m",
+              "+1h 53m"
+            ],
+            [
+              "Working",
+              "4h 16m",
+              "1h 07m",
+              "-3h 09m"
+            ],
+            [
+              "House Chores",
+              "1h 53m",
+              "2h 16m",
+              "+0h 23m"
+            ],
+            [
+              "Eating",
+              "1h 10m",
+              "1h 20m",
+              "+0h 10m"
+            ],
+            [
+              "Shopping",
+              "0h 40m",
+              "0h 44m",
+              "+0h 04m"
+            ],
+            [
+              "Caring for Others",
+              "0h 41m",
+              "0h 34m",
+              "-0h 07m"
+            ],
+            [
+              "Education",
+              "0h 33m",
+              "0h 11m",
+              "-0h 22m"
+            ],
+            [
+              "Religion",
+              "0h 13m",
+              "0h 27m",
+              "+0h 14m"
+            ],
+            [
+              "Communication",
+              "0h 12m",
+              "0h 11m",
+              "-0h 01m"
+            ]
+          ],
+          "caption": "美国人工作日与周末时间分配对比"
+        }
+      ],
+      "deep_dive": "## 时间再分配：从生产性活动到消费性活动\n工作日与周末的时间使用呈现出显著的结构性断裂：**工作（Working）时间锐减3小时09分**，而**休闲与运动（Leisure & Sports）激增1小时53分**，解释了近六成的“释放”时间；其余则流向睡眠（+55分）、家务（+23分）等。这表明美国人将周末视为从有酬劳动向个人享乐和恢复的转换期，休闲增量远超家务，暗示强烈的享乐主义倾向。然而，照顾他人（Caring for Others）微降7分钟，可能反映周末家庭照护压力并未随工作暂停而线性上升，或统计中部分照顾活动被归入“家务”。\n\n## 社会结构镜鉴：不平等与时间贫困\n- **均值掩盖的差异**：此数据为全体成年人平均，但在职者工作日工作时间应远超4小时16分，说明数据包含大量非劳动力人口（学生、退休者），拉低了均值。实际全职雇员平均工作时长约8小时，周末的时间释放应更为剧烈。\n- **性别与阶层维度**：家务时间周末仅增23分钟，但若按性别拆分，女性往往承担更多，这可能揭示“第二班”效应在周末加剧。同时，休闲增量是否普惠？高收入群体可能将周末用于主动休闲，低收入群体或被迫从事更多兼职工作或家务，数据未体现。\n- **教育时间的断崖**：教育时间从33分钟降至11分钟，凸显正规教育主要集中在工作日，但如今的在线学习模糊了这一界限，该数据可能滞后。\n\n## 跨文化对比与政策启示\n与欧洲国家（如法国35小时工作制下）对比，美国全职雇员工作更长，但周末休闲增幅相似，或许反映美国“工作-生活”在周末才得以平衡。睡眠时间工作日9时32分已高于很多发达国家，周末更近10.5小时，折射美国人对睡眠的重视，但可能与工作日高压力累积有关。政策层面：弹性工作制若可平摊工作至周末，或将削弱休闲与家庭时间，需警惕。",
+      "glossary": [
+        {
+          "term": "时间使用调查",
+          "explanation": "通过日记法或问卷记录人们一天中各类活动时间分配的研究方式，用于分析劳动、休闲、家务等时间配置。"
+        },
+        {
+          "term": "闲暇时间",
+          "explanation": "除去满足生理需求（如睡眠、饮食）和有酬劳动、家务等必要活动后剩余的可自由支配时间，用于运动、娱乐等。"
+        },
+        {
+          "term": "无偿劳动",
+          "explanation": "包括家务、照顾家庭成员等没有直接货币收入但维持家庭再生产的工作，在时间使用统计中常单独列项。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c47b960a",
+    "title": "Mapped: Where America Produces Natural Gas",
+    "original_url": "https://www.visualcapitalist.com/where-america-produces-natural-gas/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c47b960a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAUABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmI7YntTpLYgdKtQutSTMu2t7GFzGaLBoqy5G40Uihkbt61I7tjrRRVEdSszHNFFFSWf/Z",
+    "image_version": 1784920073,
+    "pub_date": "Fri, 24 Jul 2026 13:55:45 +0000",
+    "content_md": "| Rank | State or Producing Area | Gross Natural Gas Withdrawals(Billion Cubic Feet) | Share U.S. Total(%) |\n| --- | --- | --- | --- |\n| 1 | Texas | 13603.5 | 28.5 |\n| 2 | Pennsylvania | 7675.8 | 16.1 |\n| 3 | New Mexico | 4150.5 | 8.7 |\n| 4 | Louisiana | 3817.3 | 8.0 |\n| 5 | West Virginia | 3600.0 | 7.5 |\n| 6 | Alaska | 3546.1 | 7.4 |\n| 7 | Oklahoma | 2877.7 | 6.0 |\n| 8 | Ohio | 2100.7 | 4.4 |\n| 9 | Colorado | 1869.8 | 3.9 |\n| 10 | North Dakota | 1266.3 | 2.7 |\n| 11 | Wyoming | 1197.5 | 2.5 |\n| 12 | Offshore Gulf of Mexico | 721.5 | 1.5 |\n| 13 | Utah | 338.7 | 0.7 |\n| 14 | Arkansas | 323.3 | 0.7 |\n| 15 | Kansas | 122.3 | 0.3 |\n| 16 | California | 113.2 | 0.2 |\n| 17 | Virginia | 80.9 | 0.2 |\n| 18 | Alabama | 75.8 | 0.2 |\n| 19 | Michigan | 64.1 | 0.1 |\n| 20 | Kentucky | 58.8 | 0.1 |\n| 21 | Montana | 50.5 | 0.1 |\n| 22 | Mississippi | 25.8 | 0.1 |",
+    "ai_analysis": {
+      "core_insight": "美国天然气生产高度集中于德克萨斯和宾夕法尼亚两州，前五州贡献近七成总产量。",
+      "data_highlights": [
+        "德克萨斯州以13.6万亿立方英尺的产量遥遥领先，占全国28.5%，相当于第二至第四位州的总和。",
+        "宾夕法尼亚州凭借马塞勒斯页岩以7.7万亿立方英尺位居第二，占比16.1%。",
+        "前五大产区合计占比68.8%，天然气生产高度集中。",
+        "墨西哥湾海上产区产量7215亿立方英尺，占比1.5%，传统海上油田仍具分量。",
+        "22个上榜产区合计产量接近全美总产量，其余州贡献极微。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or Producing Area",
+            "Gross Natural Gas Withdrawals (Billion Cubic Feet)",
+            "Share U.S. Total (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Texas",
+              "13603.5",
+              "28.5"
+            ],
+            [
+              "2",
+              "Pennsylvania",
+              "7675.8",
+              "16.1"
+            ],
+            [
+              "3",
+              "New Mexico",
+              "4150.5",
+              "8.7"
+            ],
+            [
+              "4",
+              "Louisiana",
+              "3817.3",
+              "8.0"
+            ],
+            [
+              "5",
+              "West Virginia",
+              "3600.0",
+              "7.5"
+            ],
+            [
+              "6",
+              "Alaska",
+              "3546.1",
+              "7.4"
+            ],
+            [
+              "7",
+              "Oklahoma",
+              "2877.7",
+              "6.0"
+            ],
+            [
+              "8",
+              "Ohio",
+              "2100.7",
+              "4.4"
+            ],
+            [
+              "9",
+              "Colorado",
+              "1869.8",
+              "3.9"
+            ],
+            [
+              "10",
+              "North Dakota",
+              "1266.3",
+              "2.7"
+            ],
+            [
+              "11",
+              "Wyoming",
+              "1197.5",
+              "2.5"
+            ],
+            [
+              "12",
+              "Offshore Gulf of Mexico",
+              "721.5",
+              "1.5"
+            ],
+            [
+              "13",
+              "Utah",
+              "338.7",
+              "0.7"
+            ],
+            [
+              "14",
+              "Arkansas",
+              "323.3",
+              "0.7"
+            ],
+            [
+              "15",
+              "Kansas",
+              "122.3",
+              "0.3"
+            ],
+            [
+              "16",
+              "California",
+              "113.2",
+              "0.2"
+            ],
+            [
+              "17",
+              "Virginia",
+              "80.9",
+              "0.2"
+            ],
+            [
+              "18",
+              "Alabama",
+              "75.8",
+              "0.2"
+            ],
+            [
+              "19",
+              "Michigan",
+              "64.1",
+              "0.1"
+            ],
+            [
+              "20",
+              "Kentucky",
+              "58.8",
+              "0.1"
+            ],
+            [
+              "21",
+              "Montana",
+              "50.5",
+              "0.1"
+            ],
+            [
+              "22",
+              "Mississippi",
+              "25.8",
+              "0.1"
+            ]
+          ],
+          "caption": "美国各州及产区天然气总产量排名"
+        }
+      ],
+      "deep_dive": "## 产区集中度与页岩革命的地理烙印\n美国天然气生产的版图清晰地展示了页岩资源的地质分布与技术可采性的结合。前五大州合计占比高达68.8%，其中德克萨斯一州便占全国总产量的28.5%，其优势地位源于二叠纪盆地（Permian Basin）和巴奈特页岩（Barnett Shale）等多层系页岩储层的大规模开发。二叠纪盆地不仅产油，伴生天然气产量亦极为可观，而德州完善的管输基础设施和出口终端（如科珀斯克里斯蒂液化厂）进一步巩固了其枢纽地位。排名第二的宾夕法尼亚州（16.1%）则完全凭借马塞勒斯页岩（Marcellus Shale）的爆发式增长，该页岩区横跨宾州、西弗吉尼亚和俄亥俄，是三州跻身前十的核心驱动力，合计贡献全国产量的28%。\n\n## 产区特征与战略启示\n- **传统产区转型**：路易斯安那州（8.0%）虽保留传统天然气生产，但其地位更体现在亨利港（Henry Hub）价格基准及液化天然气出口设施，实际产区与贸易枢纽功能分离；阿拉斯加州（7.4%）产量主要来自北坡常规气田，并通过拟议中的LNG项目寻求出口亚洲市场。\n- **海上油气潜力**：墨西哥湾海上产区（1.5%）受深水项目成本与环保限制，产量占比逐年下滑，但仍对边际供应有调节作用。\n- **落基山地与中部产区**：科罗拉多（3.9%）、北达科他（2.7%）和怀俄明（2.5%）的产量主要源于尼奥布拉拉（Niobrara）和巴肯（Bakken）页岩的伴生气，其增长受油价和管道外输能力双重制约。\n- **新兴区域与边缘角色**：俄亥俄州凭借马塞勒斯/尤蒂卡页岩快速攀升至第8位，而传统产气州如堪萨斯（0.3%）和加利福尼亚（0.2%）已退居边缘，凸显页岩革命对产区格局的重塑。\n\n整体而言，美国天然气生产的地理集中度仍将提高，未来增量将主要依托二叠纪盆地和东部页岩区的技术进步与管道扩容，而LNG出口需求会进一步强化德克萨斯和路易斯安那的枢纽地位，但产区与消费区的错配也加大了管网依赖和区域价格差异风险。",
+      "glossary": [
+        {
+          "term": "Gross Natural Gas Withdrawals",
+          "explanation": "天然气总产量，指从油气井口采出的全部天然气量，包括干气、伴生气和凝析油等，未扣除回注、放空或加工损耗。"
+        },
+        {
+          "term": "Marcellus Shale（马塞勒斯页岩）",
+          "explanation": "美国东部主要的泥盆纪页岩气层，分布在宾夕法尼亚、西弗吉尼亚等地，是近年美国天然气产量增长的核心来源。"
+        },
+        {
+          "term": "Permian Basin（二叠纪盆地）",
+          "explanation": "位于西得克萨斯和新墨西哥州的超级沉积盆地，蕴藏丰富的石油和天然气，为美国最大产油区，伴生气产量巨大。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d0898a0f",
     "title": "Mapped: Home Prices vs. Incomes Around the World",
     "original_url": "https://www.visualcapitalist.com/mapped-home-prices-vs-incomes-around-the-world/",
