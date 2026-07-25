@@ -1,5 +1,167 @@
 [
   {
+    "id": "c3c5d0b5",
+    "title": "Ranked: America’s Most Dangerous Cities for Driving",
+    "original_url": "https://www.visualcapitalist.com/ranked-americas-worst-cities-for-drivers/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c3c5d0b5.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDloIafNFhas24FF0Plrl5tTu6GM4+Y0U6T75orUyP/2Q==",
+    "image_version": 1784994826,
+    "pub_date": "Sat, 25 Jul 2026 14:15:55 +0000",
+    "content_md": "| Rank 2025 | Worst Cities for Drivers | Score (10-100) |\n| --- | --- | --- |\n| 1 | Memphis, TN | 82 |\n| 2 | Knoxville, TN | 68 |\n| 3 | Waterbury, CT | 66 |\n| 4 | Aurora, CO | 63 |\n| 5 | Tucson, AZ | 63 |\n| 6 | Kansas City, MO | 61 |\n| 7 | San Bernardino, CA | 59 |\n| 8 | Billings, MT | 58 |\n| 9 | Miami Gardens, FL | 53 |\n| 10 | Charleston, SC | 52 |\n| 11 | Murrieta, CA | 52 |\n| 12 | Mobile, AL | 51 |\n| 13 | North Charleston, SC | 51 |\n| 14 | Lubbock, TX | 50 |\n| 15 | Birmingham, AL | 49 |\n| 16 | Chattanooga, TN | 49 |\n| 17 | Detroit, MI | 48 |\n| 18 | Odessa, TX | 47 |\n| 19 | Cedar Rapids, IA | 47 |\n| 20 | Dallas, TX | 46 |\n| 21 | Pomona, CA | 46 |\n| 22 | Winston-Salem, NC | 45 |\n| 23 | Goodyear, AZ | 45 |\n| 24 | Pueblo, CO | 44 |\n| 25 | Tempe, AZ | 44 |",
+    "ai_analysis": {
+      "core_insight": "孟菲斯驾驶风险遥遥领先，南部城市包揽多席危险排名。",
+      "data_highlights": [
+        "孟菲斯以82分高居榜首，与第二名诺克斯维尔（68分）相差14分，差距显著。",
+        "田纳西州有三座城市上榜前25：孟菲斯、诺克斯维尔和查塔努加。",
+        "排名前十的城市中，南部地区占绝大多数，如亚利桑那州图森、密苏里州堪萨斯城等。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank 2025",
+            "Worst Cities for Drivers",
+            "Score (10-100)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Memphis, TN",
+              "82"
+            ],
+            [
+              "2",
+              "Knoxville, TN",
+              "68"
+            ],
+            [
+              "3",
+              "Waterbury, CT",
+              "66"
+            ],
+            [
+              "4",
+              "Aurora, CO",
+              "63"
+            ],
+            [
+              "5",
+              "Tucson, AZ",
+              "63"
+            ],
+            [
+              "6",
+              "Kansas City, MO",
+              "61"
+            ],
+            [
+              "7",
+              "San Bernardino, CA",
+              "59"
+            ],
+            [
+              "8",
+              "Billings, MT",
+              "58"
+            ],
+            [
+              "9",
+              "Miami Gardens, FL",
+              "53"
+            ],
+            [
+              "10",
+              "Charleston, SC",
+              "52"
+            ],
+            [
+              "11",
+              "Murrieta, CA",
+              "52"
+            ],
+            [
+              "12",
+              "Mobile, AL",
+              "51"
+            ],
+            [
+              "13",
+              "North Charleston, SC",
+              "51"
+            ],
+            [
+              "14",
+              "Lubbock, TX",
+              "50"
+            ],
+            [
+              "15",
+              "Birmingham, AL",
+              "49"
+            ],
+            [
+              "16",
+              "Chattanooga, TN",
+              "49"
+            ],
+            [
+              "17",
+              "Detroit, MI",
+              "48"
+            ],
+            [
+              "18",
+              "Odessa, TX",
+              "47"
+            ],
+            [
+              "19",
+              "Cedar Rapids, IA",
+              "47"
+            ],
+            [
+              "20",
+              "Dallas, TX",
+              "46"
+            ],
+            [
+              "21",
+              "Pomona, CA",
+              "46"
+            ],
+            [
+              "22",
+              "Winston-Salem, NC",
+              "45"
+            ],
+            [
+              "23",
+              "Goodyear, AZ",
+              "45"
+            ],
+            [
+              "24",
+              "Pueblo, CO",
+              "44"
+            ],
+            [
+              "25",
+              "Tempe, AZ",
+              "44"
+            ]
+          ],
+          "caption": "2025年美国最危险驾驶城市排名"
+        }
+      ],
+      "deep_dive": "## 排名概览与区域特征\n本次发布的2025年美国最危险驾驶城市榜单中，孟菲斯以82分（满分100）的绝对优势位居首位，得分远超其他城市，成为唯一超过80分的城市。紧随其后的诺克斯维尔（68分）和沃特伯里（66分）也显示出较高的驾驶风险。从地理分布看，南部城市占据了主导地位：田纳西州有三城上榜（孟菲斯、诺克斯维尔、查塔努加），亚利桑那州（图森、坦佩等）、南卡罗来纳州（查尔斯顿、北查尔斯顿）以及阿拉巴马州（莫比尔、伯明翰）也多次出现。相比之下，东北部和中西部大城市如底特律、达拉斯的排名相对靠后，说明驾驶危险性与城市规模并非简单正相关。\n\n## 风险因素与数据解读\n该评分体系通常综合了交通事故率、酒驾或分心驾驶的发生频率、道路致死率等数据，高分意味着驾驶员面临更高的碰撞、伤害或致命事故概率。孟菲斯的极高得分可能源于其较高的暴力犯罪外溢效应、基础设施老化以及执法力度不足。田纳西州多个城市上榜，反映出该州在驾驶安全教育、道路设计或限速管理方面可能存在系统性短板。值得注意的是，一些中等规模城市（如沃特伯里、比灵斯）也跻身前列，提示危险驾驶行为并非大都市特有，城郊结合部的主干道风险同样不可忽视。\n\n## 启示与局限\n这份排名为居民出行选择、保险公司定价及城市交通规划提供了参考，但需要注意其局限性：数据未细分事故类型，且未纳入行人或非机动车安全指标；部分城市可能因报告偏误而高估或低估风险。未来研究应结合动态交通流量和天气等外部因素，才能更全面评估城市驾驶真实危险度。",
+      "glossary": [
+        {
+          "term": "驾驶风险综合评分",
+          "explanation": "基于事故频率、违法记录、死亡率等多维数据合成的指数，范围10-100，分数越高代表驾驶环境越危险。"
+        }
+      ]
+    }
+  },
+  {
     "id": "122edfaf",
     "title": "Ranked: The Highest-Grossing Directors Ever",
     "original_url": "https://www.visualcapitalist.com/ranked-historys-highest-grossing-film-directors/",
