@@ -1,5 +1,242 @@
 [
   {
+    "id": "0096824e",
+    "title": "Charted: Europe Is Nearing Last Year’s Burned Area Already",
+    "original_url": "https://www.visualcapitalist.com/cp/wildfire-season-europe/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0096824e.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuilOXintTKRRIGoqOigLH/9k=",
+    "image_version": 1784957571,
+    "pub_date": "Sat, 25 Jul 2026 03:45:49 +0000",
+    "content_md": "| Country | Annual Avg. Burned Area (ha) | 2025 Burned Area (ha) | % vs. Avg. | Status vs. avg |\n| --- | --- | --- | --- | --- |\n| Austria | 89 | 431 | +384.0% | Above |\n| Belgium | 213 | 668 | +213.5% | Above |\n| Bulgaria | 12,311 | 32,752 | +166.0% | Above |\n| Croatia | 13,765 | 3,380 | -75.4% | Below |\n| Cyprus | 1,815 | 13,527 | +645.4% | Above |\n| Czech Republic | 83 | 0 | -100.0% | Below |\n| Denmark | 73 | 255 | +251.3% | Above |\n| Estonia | 29 | 0 | -100.0% | Below |\n| Finland | 187 | 407 | +117.2% | Above |\n| France | 13,588 | 36,951 | +171.9% | Above |\n| Germany | 672 | 5,475 | +714.9% | Above |\n| Greece | 50,318 | 47,819 | -5.0% | Below |\n| Hungary | 737 | 666 | -9.6% | Below |\n| Ireland | 3,139 | 4,355 | +38.7% | Above |\n| Italy | 55,799 | 84,348 | +51.2% | Above |\n| Latvia | 168 | 30 | -82.1% | Below |\n| Lithuania | 31 | 0 | -100.0% | Below |\n| Luxembourg | 0 | 0 | N/A | N/A |\n| Malta | 3 | 0 | -100.0% | Below |\n| Netherlands | 98 | 170 | +74.2% | Above |\n| Poland | 368 | 295 | -19.7% | Below |\n| Portugal | 96,360 | 278,917 | +189.5% | Above |\n| Romania | 22,889 | 129,443 | +465.5% | Above |\n| Slovakia | 27 | 362 | +1,230.4% | Above |\n| Slovenia | 328 | 143 | -56.4% | Below |\n| Spain | 79,570 | 393,079 | +394.0% | Above |\n| Sweden | 2,182 | 1,079 | -50.5% | Below |",
+    "ai_analysis": {
+      "core_insight": "2025年欧洲野火肆虐，多国过火面积远超历史平均。",
+      "data_highlights": [
+        "斯洛伐克和德国2025年过火面积较平均增幅超700%，极端异常。",
+        "葡萄牙、西班牙已烧毁面积分别达27.9万和39.3万公顷，远超常年。",
+        "塞浦路斯、罗马尼亚、奥地利等国过火面积增加了数倍。",
+        "南欧国家中希腊和克罗地亚的过火面积低于平均，呈现分化。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Annual Avg. Burned Area (ha)",
+            "2025 Burned Area (ha)",
+            "% vs. Avg.",
+            "Status vs. avg"
+          ],
+          "rows": [
+            [
+              "Austria",
+              "89",
+              "431",
+              "+384.0%",
+              "Above"
+            ],
+            [
+              "Belgium",
+              "213",
+              "668",
+              "+213.5%",
+              "Above"
+            ],
+            [
+              "Bulgaria",
+              "12,311",
+              "32,752",
+              "+166.0%",
+              "Above"
+            ],
+            [
+              "Croatia",
+              "13,765",
+              "3,380",
+              "-75.4%",
+              "Below"
+            ],
+            [
+              "Cyprus",
+              "1,815",
+              "13,527",
+              "+645.4%",
+              "Above"
+            ],
+            [
+              "Czech Republic",
+              "83",
+              "0",
+              "-100.0%",
+              "Below"
+            ],
+            [
+              "Denmark",
+              "73",
+              "255",
+              "+251.3%",
+              "Above"
+            ],
+            [
+              "Estonia",
+              "29",
+              "0",
+              "-100.0%",
+              "Below"
+            ],
+            [
+              "Finland",
+              "187",
+              "407",
+              "+117.2%",
+              "Above"
+            ],
+            [
+              "France",
+              "13,588",
+              "36,951",
+              "+171.9%",
+              "Above"
+            ],
+            [
+              "Germany",
+              "672",
+              "5,475",
+              "+714.9%",
+              "Above"
+            ],
+            [
+              "Greece",
+              "50,318",
+              "47,819",
+              "-5.0%",
+              "Below"
+            ],
+            [
+              "Hungary",
+              "737",
+              "666",
+              "-9.6%",
+              "Below"
+            ],
+            [
+              "Ireland",
+              "3,139",
+              "4,355",
+              "+38.7%",
+              "Above"
+            ],
+            [
+              "Italy",
+              "55,799",
+              "84,348",
+              "+51.2%",
+              "Above"
+            ],
+            [
+              "Latvia",
+              "168",
+              "30",
+              "-82.1%",
+              "Below"
+            ],
+            [
+              "Lithuania",
+              "31",
+              "0",
+              "-100.0%",
+              "Below"
+            ],
+            [
+              "Luxembourg",
+              "0",
+              "0",
+              "N/A",
+              "N/A"
+            ],
+            [
+              "Malta",
+              "3",
+              "0",
+              "-100.0%",
+              "Below"
+            ],
+            [
+              "Netherlands",
+              "98",
+              "170",
+              "+74.2%",
+              "Above"
+            ],
+            [
+              "Poland",
+              "368",
+              "295",
+              "-19.7%",
+              "Below"
+            ],
+            [
+              "Portugal",
+              "96,360",
+              "278,917",
+              "+189.5%",
+              "Above"
+            ],
+            [
+              "Romania",
+              "22,889",
+              "129,443",
+              "+465.5%",
+              "Above"
+            ],
+            [
+              "Slovakia",
+              "27",
+              "362",
+              "+1,230.4%",
+              "Above"
+            ],
+            [
+              "Slovenia",
+              "328",
+              "143",
+              "-56.4%",
+              "Below"
+            ],
+            [
+              "Spain",
+              "79,570",
+              "393,079",
+              "+394.0%",
+              "Above"
+            ],
+            [
+              "Sweden",
+              "2,182",
+              "1,079",
+              "-50.5%",
+              "Below"
+            ]
+          ],
+          "caption": "2025年欧洲各国野火过火面积与年均对比"
+        }
+      ],
+      "deep_dive": "## 异常野火季的规模与分布\n2025年欧洲野火季尚未结束，但已有多个国家的过火面积大幅超越历史平均水平，尤其以斯洛伐克（+1230%）、德国（+715%）、塞浦路斯（+645%）、罗马尼亚（+466%）和西班牙（+394%）最为突出。这些数字不仅反映了气候异常（如持续干旱、高温热浪），也暴露了部分国家在火灾预防和初期扑救能力上的不足。南欧传统火灾多发国如葡萄牙和西班牙的绝对过火面积已分别达到27.9万公顷和39.3万公顷，而中欧和东欧国家的相对增幅惊人是今年野火格局的新特征。\n\n## 驱动因素与机制分析\n- **气象条件**：2024-2025年冬季欧洲部分地区降水偏少，春季提前出现高温，导致植被干燥，可燃物载量高。尤其在大西洋沿岸和地中海西部，长期干旱使森林和灌木处于易燃状态。\n- **土地利用变化**：农村人口外流、农田废弃导致可燃物连续堆积，增加了野火蔓延风险。德国、斯洛伐克等工业化国家近年来未充分管理森林-城镇交界区域的燃料。\n- **风与极端事件**：强风事件（如焚风）加速了火灾扩散。2025年春季伊比利亚半岛多次出现时速超过70公里的阵风，助长了火势失控。\n\n## 国别差异与启示\n部分国家野火面积低于平均，如希腊（-5%）、克罗地亚（-75.4%）、瑞典（-50.5%），这可能得益于有效的早期预警和扑救资源部署，或者当年的气象条件相对有利。希腊虽总量仍居高位，但较平均小幅下降，表明其投资于消防飞机和预警系统的效果初现。克罗地亚和北欧国家则可能受惠于较湿润的春季。然而，这些“低值”国家仍需警惕：野火风险具有年际波动性，未来在全球变暖背景下，异常年份将更频繁。欧洲需强化跨境合作机制，如欧盟rescEU消防机队，以应对不对称的火灾压力。\n\n## 数据局限与展望\n本表统计截至2025年某时间点，全年过火面积仍可能上升。历史平均值可能因统计年限不同而存在偏差，且“烧毁面积”仅反映过火范围，未考量生态破坏程度、碳排放或经济损失。未来需结合气象预测和植被状况，建立动态风险评估模型，并推动景观尺度的可燃物管理，以降低灾难性野火的频率。",
+      "glossary": [
+        {
+          "term": "过火面积 (Burned Area)",
+          "explanation": "指野火烧过的区域总面积，通常以公顷（ha）为单位，是衡量野火规模的直接指标。"
+        },
+        {
+          "term": "年均烧毁面积 (Annual Avg. Burned Area)",
+          "explanation": "通常指过去若干年（如2006-2023年）每年烧毁面积的平均值，用于比较当年火灾的严重程度。"
+        },
+        {
+          "term": "野火-城镇交界域 (Wildland-Urban Interface)",
+          "explanation": "指荒野植被与人类居住区交界的区域，此类地带火灾蔓延容易威胁生命财产。"
+        }
+      ]
+    }
+  },
+  {
     "id": "ce12616b",
     "title": "How Americans Spend Their Time on Weekdays vs. Weekends",
     "original_url": "https://www.visualcapitalist.com/how-americans-spend-their-time-on-weekdays-vs-weekends/",
