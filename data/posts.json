@@ -1,5 +1,163 @@
 [
   {
+    "id": "f2be9759",
+    "title": "How Americans Spend Every Hour of the Day",
+    "original_url": "https://www.visualcapitalist.com/how-americans-spend-every-hour-of-their-day/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/f2be9759.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqJ5MVHDL81R3JqGE/PWdeJpTZtJJ8ooqBD8oornsWf//Z",
+    "image_version": 1785005104,
+    "pub_date": "Sat, 25 Jul 2026 16:48:27 +0000",
+    "content_md": "| Share Engaged in Activity (%) | 12:00 AM | 4:00 AM | 8:00 AM | 12:00 PM | 4:00 PM | 8:00 PM |\n| --- | --- | --- | --- | --- | --- | --- |\n| Personal care activities | 88.4 | 93.8 | 33.0 | 5.9 | 6.7 | 11.7 |\n| Eating and drinking | 0.7 | 0.4 | 7.6 | 14.4 | 5.4 | 9.1 |\n| Household activities | 0.5 | 1.5 | 11.9 | 15.4 | 14.5 | 7.9 |\n| Purchasing goodsand services | 0.2 | 0.2 | 2.2 | 7.2 | 6.7 | 1.8 |\n| Caring for householdmembers | 0.4 | 0.3 | 3.5 | 2.1 | 4.2 | 4.6 |\n| Caring for nonhouseholdmembers | 0.0 | 0.0 | 0.7 | 1.2 | 1.4 | 0.6 |\n| Working and work-relatedactivities | 1.5 | 1.9 | 22.7 | 23.5 | 22.9 | 5.9 |\n| Educational activities | 0.2 | 0.0 | 2.8 | 4.4 | 1.9 | 1.1 |\n| Organizational, civic,and religious activities | 0.1 | 0.3 | 1.5 | 2.5 | 1.4 | 2.0 |\n| Leisure and sports | 7.1 | 1.3 | 11.7 | 20.8 | 31.9 | 52.4 |\n| Telephone calls, mail,and email | 0.3 | 0.2 | 0.9 | 0.9 | 1.3 | 1.6 |\n| Other activities | 0.5 | 0.2 | 1.6 | 1.7 | 1.7 | 1.3 |",
+    "ai_analysis": {
+      "core_insight": "美国人日常活动遵循昼夜节律，深夜休息、白天工作、晚间休闲主导。",
+      "data_highlights": [
+        "凌晨4点高达93.8%的人从事个人护理（以睡眠为主），深夜休息行为高度一致。",
+        "中午12点工作活动占比达峰值23.5%，与8:00 AM至4:00 PM形成标准工作波段。",
+        "晚上8点休闲和运动比例跃升至52.4%，为全天最主导的清醒活动。",
+        "进食活动在中午12点达到次高峰14.4%，与工作节奏匹配的午餐时段。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Share Engaged in Activity (%)",
+            "12:00 AM",
+            "4:00 AM",
+            "8:00 AM",
+            "12:00 PM",
+            "4:00 PM",
+            "8:00 PM"
+          ],
+          "rows": [
+            [
+              "Personal care activities",
+              "88.4",
+              "93.8",
+              "33.0",
+              "5.9",
+              "6.7",
+              "11.7"
+            ],
+            [
+              "Eating and drinking",
+              "0.7",
+              "0.4",
+              "7.6",
+              "14.4",
+              "5.4",
+              "9.1"
+            ],
+            [
+              "Household activities",
+              "0.5",
+              "1.5",
+              "11.9",
+              "15.4",
+              "14.5",
+              "7.9"
+            ],
+            [
+              "Purchasing goodsand services",
+              "0.2",
+              "0.2",
+              "2.2",
+              "7.2",
+              "6.7",
+              "1.8"
+            ],
+            [
+              "Caring for householdmembers",
+              "0.4",
+              "0.3",
+              "3.5",
+              "2.1",
+              "4.2",
+              "4.6"
+            ],
+            [
+              "Caring for nonhouseholdmembers",
+              "0.0",
+              "0.0",
+              "0.7",
+              "1.2",
+              "1.4",
+              "0.6"
+            ],
+            [
+              "Working and work-relatedactivities",
+              "1.5",
+              "1.9",
+              "22.7",
+              "23.5",
+              "22.9",
+              "5.9"
+            ],
+            [
+              "Educational activities",
+              "0.2",
+              "0.0",
+              "2.8",
+              "4.4",
+              "1.9",
+              "1.1"
+            ],
+            [
+              "Organizational, civic,and religious activities",
+              "0.1",
+              "0.3",
+              "1.5",
+              "2.5",
+              "1.4",
+              "2.0"
+            ],
+            [
+              "Leisure and sports",
+              "7.1",
+              "1.3",
+              "11.7",
+              "20.8",
+              "31.9",
+              "52.4"
+            ],
+            [
+              "Telephone calls, mail,and email",
+              "0.3",
+              "0.2",
+              "0.9",
+              "0.9",
+              "1.3",
+              "1.6"
+            ],
+            [
+              "Other activities",
+              "0.5",
+              "0.2",
+              "1.6",
+              "1.7",
+              "1.7",
+              "1.3"
+            ]
+          ],
+          "caption": "美国人各时段活动参与比例"
+        }
+      ],
+      "deep_dive": "## 时间分配揭示的现代生活节律\n\n该调查展示了美国人在六个关键时间点同步的活动分布，清晰勾勒出社会集体作息。数据背后的昼夜模式高度契合生理节律与社会时钟的双重约束。\n\n- 睡眠主导深夜：凌晨4点93.8%的人处于个人护理，几乎可视为睡眠的代理变量，显示绝大多数人遵循深夜休息的规律，社会时差较小。\n- 工作脉冲集中：从8:00 AM到4:00 PM，工作活动比例从22.7%攀升至23.5%后略降，形成稳定的9-to-5轮廓。工作时段内，居家活动、购物与照料家人等也同步抬升，体现生产与再生产活动的交织。\n- 休闲的夜间显赫：晚8点休闲参与率52.4%接近峰值，而工作骤降至5.9%，标志非工作时间的释放。休闲类型可能包括电视、运动、社交等，是缓解压力的关键窗口。\n\n## 工作时段的多任务与平衡\n\n工作活动并非孤立存在，其周边活动构成了典型工作日场景。\n\n- 午餐与通勤影响：中午12点进食比例14.4%为进食次高峰（仅次于晚餐时段），配合工作短暂休息，而购物、电话邮件等比例也高于早晚，反映工作间隙处理生活琐事的常态。\n- 照料活动的性别分工线索：照料家庭成员在早晨8:00和下午4:00形成小高峰，可能分别对应送学与接学，暗示性别分工仍然存在。此类数据可间接映射家庭内部劳动的不平等。\n- 个人护理的低谷：中午12点个人护理仅5.9%，与深夜对比悬殊，表明自我护理（如梳洗、睡眠）被压缩至工作与通勤之外，可能递延至早晚。\n\n## 数据的局限与延伸思考\n\n该表仅提供百分比快照，未揭示时长或不同人群差异。\n\n- 横向对比缺失：无法判断同时从事多项活动（如边吃饭边工作）的叠加效应，可能低估某些活动。\n- 群体异质性存疑：退休者、学生等群体的时间模式与标准工作人群迥异，平均值掩盖了生命周期差异。\n- 政策启示：若结合时间贫困指标，可评估休闲与照料活动的时间挤压，为劳动保护与公共服务时间设定提供实证依据。未来可结合GPS或日记数据，细化活动地点与主观体验。",
+      "glossary": [
+        {
+          "term": "个人护理活动",
+          "explanation": "包括睡眠、洗浴、梳妆等维持个人基本生理需求的活动，夜间以睡眠为主。"
+        },
+        {
+          "term": "休闲和运动",
+          "explanation": "涵盖看电视、社交、运动、阅读等娱乐消遣，是除工作与义务活动外自由支配时间的活动。"
+        },
+        {
+          "term": "昼夜节律",
+          "explanation": "生物体内在的约24小时周期节律，调控睡眠-觉醒、体温等，与社会时间表交互作用决定行为模式。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c3c5d0b5",
     "title": "Ranked: America’s Most Dangerous Cities for Driving",
     "original_url": "https://www.visualcapitalist.com/ranked-americas-worst-cities-for-drivers/",
