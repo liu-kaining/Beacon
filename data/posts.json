@@ -1,5 +1,173 @@
 [
   {
+    "id": "122edfaf",
+    "title": "Ranked: The Highest-Grossing Directors Ever",
+    "original_url": "https://www.visualcapitalist.com/ranked-historys-highest-grossing-film-directors/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/122edfaf.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjbcc1fVflqnb9RWgnSsXudi2IynNFSHrRTIP/2Q==",
+    "image_version": 1784984062,
+    "pub_date": "Sat, 25 Jul 2026 12:02:08 +0000",
+    "content_md": "| Rank | Director | Total globalbox office gross ($B) | Highest-Grossing Film |\n| --- | --- | --- | --- |\n| 1 | Steven Spielberg | 10.7 | Jurassic Park (1993) |\n| 2 | James Cameron | 9.8 | Avatar (2009) |\n| 3 | Russo brothers | 6.8 | Avengers: Endgame (2019) |\n| 4 | Peter Jackson | 6.6 | LotR: Return of the King (2003) |\n| 5 | Michael Bay | 6.5 | Transformers: Dark of the Moon (2011) |\n| 6 | David Yates | 6.4 | Harry Potter and the Deathly Hallows - Part 2 (2011) |\n| 7 | Christopher Nolan | 6.1 | The Dark Knight Rises (2012) |\n| 8 | Ridley Scott | 5.0 | The Martian (2015) |\n| 9 | Tim Burton | 4.9 | Alice in Wonderland (2010) |\n| 10 | J.J. Abrams | 4.6 | Star Wars: The Force Awakens (2015) |\n| 11 | Robert Zemeckis | 4.4 | Forrest Gump (1994) |\n| 12 | Jon Favreau | 4.3 | The Lion King (2019) |\n| 13 | Ron Howard | 4.3 | The Da Vinci Code (2006) |\n| 14 | Sam Raimi | 4.3 | Doctor Strange in the Multiverse of Madness (2022) |\n| 15 | Chris Renaud | 4.2 | Despicable Me 4 (2024) |\n| 16 | James Wan | 4.2 | Furious 7 (2015) |\n| 17 | Chris Columbus | 4.1 | Harry Potter and the Philosopher's Stone (2001) |\n| 18 | Shawn Levy | 4.1 | Deadpool & Wolverine (2024) |\n| 19 | Roland Emmerich | 4.0 | Independence Day (1996) |\n| 20 | Jon Watts | 3.9 | Spider-Man: No Way Home (2021) |",
+    "ai_analysis": {
+      "core_insight": "斯皮尔伯格以107亿美元居首，但超级英雄和系列电影导演正迅速崛起，票房榜单反映IP为王时代。",
+      "data_highlights": [
+        "史蒂文·斯皮尔伯格以107亿美元全球票房稳居榜首，凭借《侏罗纪公园》等经典长青。",
+        "詹姆斯·卡梅隆以98亿美元紧随其后，《阿凡达》开启3D视觉革命。",
+        "罗素兄弟凭借《复仇者联盟4：终局之战》等漫威力作，以68亿美元跻身前三。",
+        "大卫·叶茨、克里斯·哥伦布等导演依靠《哈利·波特》系列占据高位，凸显系列电影吸金力。",
+        "共20位导演总票房均超39亿美元，最年轻的导演如乔恩·费儒（《狮子王》）及肖恩·利维（《死侍与金刚狼》）代表新势力。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Director",
+            "Total global box office gross ($B)",
+            "Highest-Grossing Film"
+          ],
+          "rows": [
+            [
+              "1",
+              "Steven Spielberg",
+              "10.7",
+              "Jurassic Park (1993)"
+            ],
+            [
+              "2",
+              "James Cameron",
+              "9.8",
+              "Avatar (2009)"
+            ],
+            [
+              "3",
+              "Russo brothers",
+              "6.8",
+              "Avengers: Endgame (2019)"
+            ],
+            [
+              "4",
+              "Peter Jackson",
+              "6.6",
+              "LotR: Return of the King (2003)"
+            ],
+            [
+              "5",
+              "Michael Bay",
+              "6.5",
+              "Transformers: Dark of the Moon (2011)"
+            ],
+            [
+              "6",
+              "David Yates",
+              "6.4",
+              "Harry Potter and the Deathly Hallows - Part 2 (2011)"
+            ],
+            [
+              "7",
+              "Christopher Nolan",
+              "6.1",
+              "The Dark Knight Rises (2012)"
+            ],
+            [
+              "8",
+              "Ridley Scott",
+              "5.0",
+              "The Martian (2015)"
+            ],
+            [
+              "9",
+              "Tim Burton",
+              "4.9",
+              "Alice in Wonderland (2010)"
+            ],
+            [
+              "10",
+              "J.J. Abrams",
+              "4.6",
+              "Star Wars: The Force Awakens (2015)"
+            ],
+            [
+              "11",
+              "Robert Zemeckis",
+              "4.4",
+              "Forrest Gump (1994)"
+            ],
+            [
+              "12",
+              "Jon Favreau",
+              "4.3",
+              "The Lion King (2019)"
+            ],
+            [
+              "13",
+              "Ron Howard",
+              "4.3",
+              "The Da Vinci Code (2006)"
+            ],
+            [
+              "14",
+              "Sam Raimi",
+              "4.3",
+              "Doctor Strange in the Multiverse of Madness (2022)"
+            ],
+            [
+              "15",
+              "Chris Renaud",
+              "4.2",
+              "Despicable Me 4 (2024)"
+            ],
+            [
+              "16",
+              "James Wan",
+              "4.2",
+              "Furious 7 (2015)"
+            ],
+            [
+              "17",
+              "Chris Columbus",
+              "4.1",
+              "Harry Potter and the Philosopher's Stone (2001)"
+            ],
+            [
+              "18",
+              "Shawn Levy",
+              "4.1",
+              "Deadpool & Wolverine (2024)"
+            ],
+            [
+              "19",
+              "Roland Emmerich",
+              "4.0",
+              "Independence Day (1996)"
+            ],
+            [
+              "20",
+              "Jon Watts",
+              "3.9",
+              "Spider-Man: No Way Home (2021)"
+            ]
+          ],
+          "caption": "全球最高票房导演排行榜"
+        }
+      ],
+      "deep_dive": "## 票房神话背后的商业逻辑\n\n榜单头部是斯皮尔伯格与卡梅隆两位“无冕之王”，他们的共同点是兼具艺术追求与商业嗅觉，能驾驭高成本特效大片，同时故事具有普世吸引力。斯皮尔伯格的《侏罗纪公园》开创CGI恐龙先河，卡梅隆的《阿凡达》引领3D浪潮，技术革新成为票房爆款的核心驱动力。\n\n然而，中后段导演的崛起几乎都与系列IP深度绑定。罗素兄弟与乔恩·费儒扎根漫威宇宙，彼得·杰克逊重塑“魔戒”，大卫·叶茨延续“哈利·波特”魔法，J.J. 艾布拉姆斯接手《星球大战》。系列电影通过续集、前传和衍生作品构建宇宙，降低了市场风险，也更容易获得院线排片和观众基础。这意味着，如今成为“最高票房导演”的关键已从原创故事转向能否取得大IP的执导权。\n\n## 榜单的局限与未来展望\n\n数字背后的通胀因素不容忽视。榜单票房未按通胀调整，例如1993年的《侏罗纪公园》北美票房若折算至今，可能远高于账面数据。此外，全球市场扩张（尤其中国）为近年电影贡献了巨大增量，使得依靠视觉效果和动作奇观的影片更容易冲高票房，而外语片或剧情片导演几乎缺席。\n\n未来，随着流媒体兴起和观影习惯变化，院线票房的主导地位可能被削弱。但同时，超级IP的体量仍在膨胀，如《阿凡达》与漫威宇宙的持续产出，榜单前十或将进一步被系列电影导演垄断。值得思考的是，票房数字是否仍能衡量导演的影响力，或者它更多反映的是制片厂对IP的运营能力。",
+      "glossary": [
+        {
+          "term": "全球票房 (Global Box Office)",
+          "explanation": "指一部电影在所有上映国家和地区的影院票房总收入，不包含家庭娱乐、流媒体等收入。"
+        },
+        {
+          "term": "系列电影 (Franchise)",
+          "explanation": "基于相同世界观、角色或主题创作的一系列电影，依靠品牌效应和粉丝基础获取稳定回报。"
+        },
+        {
+          "term": "超级英雄电影 (Superhero Film)",
+          "explanation": "以漫画超级英雄为主角的一类电影，如漫威和DC宇宙，常以视觉特效和连贯故事线吸引观众。"
+        }
+      ]
+    }
+  },
+  {
     "id": "0096824e",
     "title": "Charted: Europe Is Nearing Last Year’s Burned Area Already",
     "original_url": "https://www.visualcapitalist.com/cp/wildfire-season-europe/",
