@@ -1,5 +1,199 @@
 [
   {
+    "id": "e7b61f6b",
+    "title": "Ranked: Countries With the Least Fresh Water Per Person",
+    "original_url": "https://www.visualcapitalist.com/countries-with-the-least-fresh-water-per-person/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e7b61f6b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnkWiQcVItNk6Vjc3sVSOaKcetFO4rH//Z",
+    "image_version": 1785070280,
+    "pub_date": "Sun, 26 Jul 2026 12:05:49 +0000",
+    "content_md": "| Rank | Country | Cubic Feet of FreshwaterPer Person | Cubic Meters of FreshwaterPer Person | Region |\n| --- | --- | --- | --- | --- |\n| 1 | Kuwait | 0 | 0 | Middle East |\n| 2 | Bahrain | 93 | 3 | Middle East |\n| 3 | Egypt | 314 | 9 | Africa |\n| 4 | UAE | 526 | 15 | Middle East |\n| 5 | Qatar | 744 | 21 | Middle East |\n| 6 | Yemen | 1,940 | 55 | Middle East |\n| 7 | Maldives | 2,021 | 57 | Asia |\n| 8 | Jordan | 2,140 | 61 | Middle East |\n| 9 | Saudi Arabia | 2,634 | 75 | Middle East |\n| 10 | Sudan | 2,860 | 81 | Africa |\n| 11 | Mauritania | 2,897 | 82 | Africa |\n| 12 | Malta | 3,358 | 95 | Europe |\n| 13 | Libya | 3,422 | 97 | Africa |\n| 14 | Singapore | 3,759 | 106 | Asia |\n| 15 | Niger | 4,883 | 138 | Africa |\n| 16 | Turkmenistan | 6,862 | 194 | Asia |\n| 17 | Pakistan | 7,970 | 226 | Asia |\n| 18 | Algeria | 8,734 | 247 | Africa |\n| 19 | Djibouti | 9,317 | 264 | Africa |\n| 20 | Barbados | 10,007 | 283 | Americas |\n| -- | Global Average | 190,699 | 5,400 |  |",
+    "ai_analysis": {
+      "core_insight": "中东与北非国家人均可再生淡水资源极度匮乏，远低于全球平均水平。",
+      "data_highlights": [
+        "科威特人均可再生淡水资源为0，完全依赖海水淡化与进口。",
+        "全球人均淡水量为5,400立方米，而榜单前20国中最高仅283立方米。",
+        "前20名中，中东地区占据8席，非洲占7席，缺水集中度高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Cubic Feet of Freshwater Per Person",
+            "Cubic Meters of Freshwater Per Person",
+            "Region"
+          ],
+          "rows": [
+            [
+              "1",
+              "Kuwait",
+              "0",
+              "0",
+              "Middle East"
+            ],
+            [
+              "2",
+              "Bahrain",
+              "93",
+              "3",
+              "Middle East"
+            ],
+            [
+              "3",
+              "Egypt",
+              "314",
+              "9",
+              "Africa"
+            ],
+            [
+              "4",
+              "UAE",
+              "526",
+              "15",
+              "Middle East"
+            ],
+            [
+              "5",
+              "Qatar",
+              "744",
+              "21",
+              "Middle East"
+            ],
+            [
+              "6",
+              "Yemen",
+              "1,940",
+              "55",
+              "Middle East"
+            ],
+            [
+              "7",
+              "Maldives",
+              "2,021",
+              "57",
+              "Asia"
+            ],
+            [
+              "8",
+              "Jordan",
+              "2,140",
+              "61",
+              "Middle East"
+            ],
+            [
+              "9",
+              "Saudi Arabia",
+              "2,634",
+              "75",
+              "Middle East"
+            ],
+            [
+              "10",
+              "Sudan",
+              "2,860",
+              "81",
+              "Africa"
+            ],
+            [
+              "11",
+              "Mauritania",
+              "2,897",
+              "82",
+              "Africa"
+            ],
+            [
+              "12",
+              "Malta",
+              "3,358",
+              "95",
+              "Europe"
+            ],
+            [
+              "13",
+              "Libya",
+              "3,422",
+              "97",
+              "Africa"
+            ],
+            [
+              "14",
+              "Singapore",
+              "3,759",
+              "106",
+              "Asia"
+            ],
+            [
+              "15",
+              "Niger",
+              "4,883",
+              "138",
+              "Africa"
+            ],
+            [
+              "16",
+              "Turkmenistan",
+              "6,862",
+              "194",
+              "Asia"
+            ],
+            [
+              "17",
+              "Pakistan",
+              "7,970",
+              "226",
+              "Asia"
+            ],
+            [
+              "18",
+              "Algeria",
+              "8,734",
+              "247",
+              "Africa"
+            ],
+            [
+              "19",
+              "Djibouti",
+              "9,317",
+              "264",
+              "Africa"
+            ],
+            [
+              "20",
+              "Barbados",
+              "10,007",
+              "283",
+              "Americas"
+            ],
+            [
+              "--",
+              "Global Average",
+              "190,699",
+              "5,400",
+              ""
+            ]
+          ],
+          "caption": "人均可再生淡水资源最少国家排名"
+        }
+      ],
+      "deep_dive": "## 全球水资源稀缺的地理集中与结构性成因\n\n全球可再生淡水资源分布极不均衡，人均占有量最低的国家主要集中在干旱的中东和部分非洲地区。气候干旱、降水稀少是自然禀赋的硬约束，而人口快速增长和经济活动扩张则加剧了人均水量的下滑。榜单前5名（科威特、巴林、埃及、阿联酋、卡塔尔）人均淡水均不足21立方米/年，远低于国际公认的500立方米/人/年“绝对缺水”阈值。\n\n- 科威特与阿联酋等国几乎没有可再生地表水源，高度依赖高能耗的海水淡化（占全球淡化产能近半），但淡化过程伴随着温室气体排放和海洋生态影响。\n- 埃及依赖尼罗河，但上游埃塞俄比亚的复兴大坝争端威胁其水安全，凸显跨境水资源管理的地缘政治风险。\n- 撒哈拉以南非洲国家（如苏丹、尼日尔）面临气候变率大、基础设施薄弱等多重挑战，缺水与贫困形成恶性循环。\n\n## 应对策略、局限与启示\n\n面对极端缺水，各国采取了不同策略，但可持续性存疑。\n\n- **技术路径**：海水淡化支撑了海湾国家的生存，但成本高昂且碳足迹大；新加坡通过新生水、雨水收集与进口水多元组合，成为城市水管理的标杆，但其模式难以完全复制到广大发展中国家。\n- **政策局限**：价格补贴扭曲了真实水价值，抑制节水激励；农业用水效率低下（许多缺水国农业用水占比超70%）亟需滴灌、耐旱作物等变革。\n- **全球视角**：全球人均5400立方米的表面均值掩盖了巨大的内部差异，排名末20国人均中位数仅约60立方米，相差近90倍。气候变化预期将加剧干旱频率，人口压力持续，未来水资源冲突风险上升。国际社会需加强技术转移、跨境流域合作与气候适应投资，以避免人道主义危机。\n\n缺水不仅是自然禀赋问题，更是治理、技术和消费模式的综合挑战。榜单国家的水压力警示全球：水资源的再分配与高效利用将是21世纪的核心议题。",
+      "glossary": [
+        {
+          "term": "可再生淡水资源",
+          "explanation": "指通过水文循环自然补充的淡水，包括河流、湖泊、浅层地下水等，不包括深层化石地下水或淡化水。人均指标反映潜在自给能力。"
+        },
+        {
+          "term": "绝对缺水阈值",
+          "explanation": "国际上常用人均每年可更新淡水量低于500立方米作为“绝对缺水”标准，低于此值会严重制约经济社会发展与生态可持续性。"
+        },
+        {
+          "term": "海水淡化",
+          "explanation": "通过蒸馏或反渗透等技术将海水转化为淡水，是海湾国家的主要淡水来源，但能耗高且产生浓盐水排放等环境影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "f2be9759",
     "title": "How Americans Spend Every Hour of the Day",
     "original_url": "https://www.visualcapitalist.com/how-americans-spend-every-hour-of-their-day/",
