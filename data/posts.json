@@ -1,5 +1,211 @@
 [
   {
+    "id": "1ad067bd",
+    "title": "The Mammals That Sleep Most and Least",
+    "original_url": "https://www.visualcapitalist.com/animals-that-sleep-most-least/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/1ad067bd.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDqZJcUsUmTVaU80sB5rnvqBpKeKKan3aKso//Z",
+    "image_version": 1785091853,
+    "pub_date": "Sun, 26 Jul 2026 17:11:16 +0000",
+    "content_md": "| Rank | Mammal | Reported Sleep (Hours/Day) |\n| --- | --- | --- |\n| 1 | Little brown bat | 19.9 |\n| 2 | Big brown bat | 19.7 |\n| 3 | Thick-tailed opossum | 19.4 |\n| 4 | Giant armadillo | 18.1 |\n| 5 | North American opossum | 18.0 |\n| 6 | Long-nosed armadillo | 17.4 |\n| 7 | Owl monkey | 17.0 |\n| 8 | Arctic ground squirrel | 16.6 |\n| 9 | Golden-mantled ground squirrel | 15.9 |\n| 10 | Eastern American chipmunk | 15.8 |\n| 10 | Tiger | 15.8 |\n| 12 | Tenrec | 15.6 |\n| 13 | Greater short-tailed shrew | 14.9 |\n| 13 | Western American chipmunk | 14.9 |\n| 15 | Round-tailed muskrat | 14.6 |\n\n| Rank | Mammal | Reported Sleep (Hours/Day) |\n| --- | --- | --- |\n| 1 | Giraffe | 1.9 |\n| 2 | Horse | 2.9 |\n| 3 | Roe deer | 3.0 |\n| 4 | Donkey | 3.1 |\n| 5 | African elephant | 3.3 |\n| 6 | Sheep | 3.8 |\n| 7 | Asian elephant | 3.9 |\n| 8 | Cow | 4.0 |\n| 9 | Brazilian tapir | 4.4 |\n| 10 | Goat | 5.3 |\n| 10 | Tree hyrax | 5.3 |\n| 12 | Rock hyrax | 5.4 |\n| 13 | Genet | 6.3 |\n| 13 | Gray hyrax | 6.3 |\n| 15 | Vesper mouse | 7.0 |",
+    "ai_analysis": {
+      "core_insight": "蝙蝠睡眠时长近20小时，长颈鹿不足2小时，哺乳动物睡眠差异悬殊。",
+      "data_highlights": [
+        "小棕蝠每日睡眠19.9小时，居哺乳动物之首。",
+        "长颈鹿每日仅1.9小时睡眠，为哺乳动物中最短。",
+        "睡眠最长与最短相差18小时，种间差异显著。",
+        "小型夜行性动物常占据睡眠榜前列，大型食草动物普遍睡眠极短。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Mammal",
+            "Reported Sleep (Hours/Day)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Little brown bat",
+              "19.9"
+            ],
+            [
+              "2",
+              "Big brown bat",
+              "19.7"
+            ],
+            [
+              "3",
+              "Thick-tailed opossum",
+              "19.4"
+            ],
+            [
+              "4",
+              "Giant armadillo",
+              "18.1"
+            ],
+            [
+              "5",
+              "North American opossum",
+              "18.0"
+            ],
+            [
+              "6",
+              "Long-nosed armadillo",
+              "17.4"
+            ],
+            [
+              "7",
+              "Owl monkey",
+              "17.0"
+            ],
+            [
+              "8",
+              "Arctic ground squirrel",
+              "16.6"
+            ],
+            [
+              "9",
+              "Golden-mantled ground squirrel",
+              "15.9"
+            ],
+            [
+              "10",
+              "Eastern American chipmunk",
+              "15.8"
+            ],
+            [
+              "10",
+              "Tiger",
+              "15.8"
+            ],
+            [
+              "12",
+              "Tenrec",
+              "15.6"
+            ],
+            [
+              "13",
+              "Greater short-tailed shrew",
+              "14.9"
+            ],
+            [
+              "13",
+              "Western American chipmunk",
+              "14.9"
+            ],
+            [
+              "15",
+              "Round-tailed muskrat",
+              "14.6"
+            ]
+          ],
+          "caption": "睡眠时间最长的哺乳动物"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Mammal",
+            "Reported Sleep (Hours/Day)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Giraffe",
+              "1.9"
+            ],
+            [
+              "2",
+              "Horse",
+              "2.9"
+            ],
+            [
+              "3",
+              "Roe deer",
+              "3.0"
+            ],
+            [
+              "4",
+              "Donkey",
+              "3.1"
+            ],
+            [
+              "5",
+              "African elephant",
+              "3.3"
+            ],
+            [
+              "6",
+              "Sheep",
+              "3.8"
+            ],
+            [
+              "7",
+              "Asian elephant",
+              "3.9"
+            ],
+            [
+              "8",
+              "Cow",
+              "4.0"
+            ],
+            [
+              "9",
+              "Brazilian tapir",
+              "4.4"
+            ],
+            [
+              "10",
+              "Goat",
+              "5.3"
+            ],
+            [
+              "10",
+              "Tree hyrax",
+              "5.3"
+            ],
+            [
+              "12",
+              "Rock hyrax",
+              "5.4"
+            ],
+            [
+              "13",
+              "Genet",
+              "6.3"
+            ],
+            [
+              "13",
+              "Gray hyrax",
+              "6.3"
+            ],
+            [
+              "15",
+              "Vesper mouse",
+              "7.0"
+            ]
+          ],
+          "caption": "睡眠时间最少的哺乳动物"
+        }
+      ],
+      "deep_dive": "## 体型、代谢与捕食风险：驱动睡眠差异的三角关系\n\n哺乳动物的每日睡眠时长跨越近20小时的范围，背后是体型、代谢率与生态位长期演化的结果。睡眠最多榜单被小型夜行性或穴居物种占据，如小棕蝠（19.9小时）和厚尾负鼠（19.4小时）。这些动物通常体型小、代谢率高，需要通过长时间睡眠节省能量；同时，夜行或隐蔽习性使其白天能安全休息，降低被捕食风险。蝙蝠倒挂洞穴，犰狳藏身地洞，几乎无天敌威胁，因此可将大部分时间用于睡眠。\n\n相比之下，睡眠最少的哺乳动物几乎全为大型植食性动物，如长颈鹿（1.9小时）、马（2.9小时）和非洲象（3.3小时）。这些动物体型庞大，胃肠发酵过程需持续进食，睡眠被拆分为多次短时至多段，且常采用站立睡眠，以在遇险时迅速逃离。长颈鹿甚至仅靠几分钟的深睡周期即可恢复，此适应策略在开阔草原的捕食压力下至关重要。有趣的是，亚洲象与非洲象睡眠时长相近（约3.3-3.9小时），表明该属演化保守。\n\n### 数据局限与生态启示\n\n本排名基于圈养或实验室条件下的零星记录，野生个体的睡眠时长可能因环境波动而显著不同。例如，野生大象日行距离达数十公里，其睡眠可能更碎片化。此外，表中部分物种（如鼩鼱）的测量存在方法学挑战——它们活动节律极快，传统脑电图难以准确界定“睡眠”。尽管如此，两榜单仍清晰揭示生态位决定睡眠预算：能量约束高、天敌少的物种奢侈睡眠，而需持续觅食、警戒压力大的物种则短时高效睡眠。这一宏观模式为研究人类睡眠的演化起源提供了基线，也警示现代社会中人为压缩睡眠可能违背生物本能。",
+      "glossary": [
+        {
+          "term": "Sleep Duration",
+          "explanation": "每日总睡眠时长，包含快速眼动睡眠和非快速眼动睡眠，是衡量睡眠需求的关键指标。"
+        },
+        {
+          "term": "Nocturnality",
+          "explanation": "夜行性，指动物主要在夜间活动、白天休息的行为模式，常与长睡眠及避敌策略相关。"
+        },
+        {
+          "term": "Metabolic Rate",
+          "explanation": "代谢率，即单位时间内的能量消耗速率。小型哺乳动物代谢率高，能量储限低，需通过睡眠节能。"
+        }
+      ]
+    }
+  },
+  {
     "id": "a8d4a7cd",
     "title": "Mapped: Which Countries Are Best for Women?",
     "original_url": "https://www.visualcapitalist.com/best-countries-for-women-map/",
