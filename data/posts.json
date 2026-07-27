@@ -1,5 +1,212 @@
 [
   {
+    "id": "93136093",
+    "title": "Ranked: The Countries That Consume the Most Coal",
+    "original_url": "https://www.visualcapitalist.com/the-countries-that-consume-the-most-coal/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/93136093.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDorpqqRP8APU953qnD9+pe50RWhrIflFFNj+4KKoix/9k=",
+    "image_version": 1785154094,
+    "pub_date": "Mon, 27 Jul 2026 12:06:59 +0000",
+    "content_md": "| Rank | Country | Coal consumption (EJ) | Share of world (2025) |\n| --- | --- | --- | --- |\n| 1 | China | 92.24 | 55.6% |\n| 2 | India | 23.07 | 13.9% |\n| 3 | United States | 8.73 | 5.3% |\n| 4 | Indonesia | 5.15 | 3.1% |\n| 5 | Japan | 4.36 | 2.6% |\n| 6 | South Africa | 3.65 | 2.2% |\n| 7 | Russia | 3.56 | 2.1% |\n| 8 | South Korea | 2.86 | 1.7% |\n| 9 | Vietnam | 2.57 | 1.5% |\n| 10 | Türkiye | 1.79 | 1.1% |\n| 11 | Kazakhstan | 1.57 | 0.9% |\n| 12 | Germany | 1.49 | 0.9% |\n| 13 | Australia | 1.46 | 0.9% |\n| 14 | Poland | 1.34 | 0.8% |\n| 15 | Taiwan | 1.28 | 0.8% |\n| 16 | Malaysia | 1.10 | 0.7% |\n| 17 | Philippines | 0.93 | 0.6% |\n| 18 | Thailand | 0.59 | 0.4% |\n| 19 | Brazil | 0.59 | 0.4% |\n| 20 | Pakistan | 0.48 | 0.3% |\n| 21 | Bangladesh | 0.42 | 0.3% |\n| 22 | Czechia | 0.38 | 0.2% |\n| 23 | Ukraine | 0.35 | 0.2% |\n| 24 | Morocco | 0.28 | 0.2% |\n| 25 | Canada | 0.25 | 0.1% |\n| -- | Global Total | 166 Exajoules | 100% |",
+    "ai_analysis": {
+      "core_insight": "中国消费全球超半数煤炭，占比55.6%，主导全球煤炭市场。",
+      "data_highlights": [
+        "2025年中国煤炭消费量高达92.24 EJ，占全球总量的55.6%，是第二名印度的4倍。",
+        "印度以23.07 EJ排名第二，占全球13.9%，美国以8.73 EJ位居第三，占5.3%。",
+        "全球前三大消费国合计占比高达74.8%，前十名国家占全球总量的89.5%。",
+        "全球煤炭消费总量达166 Exajoules，主要集中于亚洲国家。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Coal consumption (EJ)",
+            "Share of world (2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "92.24",
+              "55.6%"
+            ],
+            [
+              "2",
+              "India",
+              "23.07",
+              "13.9%"
+            ],
+            [
+              "3",
+              "United States",
+              "8.73",
+              "5.3%"
+            ],
+            [
+              "4",
+              "Indonesia",
+              "5.15",
+              "3.1%"
+            ],
+            [
+              "5",
+              "Japan",
+              "4.36",
+              "2.6%"
+            ],
+            [
+              "6",
+              "South Africa",
+              "3.65",
+              "2.2%"
+            ],
+            [
+              "7",
+              "Russia",
+              "3.56",
+              "2.1%"
+            ],
+            [
+              "8",
+              "South Korea",
+              "2.86",
+              "1.7%"
+            ],
+            [
+              "9",
+              "Vietnam",
+              "2.57",
+              "1.5%"
+            ],
+            [
+              "10",
+              "Türkiye",
+              "1.79",
+              "1.1%"
+            ],
+            [
+              "11",
+              "Kazakhstan",
+              "1.57",
+              "0.9%"
+            ],
+            [
+              "12",
+              "Germany",
+              "1.49",
+              "0.9%"
+            ],
+            [
+              "13",
+              "Australia",
+              "1.46",
+              "0.9%"
+            ],
+            [
+              "14",
+              "Poland",
+              "1.34",
+              "0.8%"
+            ],
+            [
+              "15",
+              "Taiwan",
+              "1.28",
+              "0.8%"
+            ],
+            [
+              "16",
+              "Malaysia",
+              "1.10",
+              "0.7%"
+            ],
+            [
+              "17",
+              "Philippines",
+              "0.93",
+              "0.6%"
+            ],
+            [
+              "18",
+              "Thailand",
+              "0.59",
+              "0.4%"
+            ],
+            [
+              "19",
+              "Brazil",
+              "0.59",
+              "0.4%"
+            ],
+            [
+              "20",
+              "Pakistan",
+              "0.48",
+              "0.3%"
+            ],
+            [
+              "21",
+              "Bangladesh",
+              "0.42",
+              "0.3%"
+            ],
+            [
+              "22",
+              "Czechia",
+              "0.38",
+              "0.2%"
+            ],
+            [
+              "23",
+              "Ukraine",
+              "0.35",
+              "0.2%"
+            ],
+            [
+              "24",
+              "Morocco",
+              "0.28",
+              "0.2%"
+            ],
+            [
+              "25",
+              "Canada",
+              "0.25",
+              "0.1%"
+            ],
+            [
+              "--",
+              "Global Total",
+              "166",
+              "100%"
+            ]
+          ],
+          "caption": "2025年全球煤炭消费量排名"
+        }
+      ],
+      "deep_dive": "## 一、极端集中：亚洲主导的煤炭消费格局\n\n2025年全球煤炭消费高度集中于亚洲，前十大消费国中除美国、南非、俄罗斯外，均为亚洲国家。中国独占55.6%的份额，消费量接近全球其余国家的总和。印度作为人口第一大国和发展中经济体，煤炭消费量（23.07 EJ）虽仅为中国的四分之一，但已远超欧美传统工业国。这种格局映射出两大现实：第一，煤炭仍是亚洲发展中国家廉价、稳定的基荷能源，工业化与城市化进程持续拉动需求；第二，尽管全球可再生能源投资激增，但增量尚未能完全替代存量和增量煤炭需求，尤其在电力需求增速快、电网灵活性不足的地区。欧美国家份额普遍偏低，但如德国（1.49 EJ）、波兰（1.34 EJ）等仍受制于能源结构与地缘因素，短期内难以完全脱煤。\n\n## 二、能源转型背后的数据张力\n\n总量166 Exajoules（约合56.6亿吨标准煤）的全球消费揭示转型之艰难。中国虽拥有全球最大可再生能源装机，但煤电仍提供约60%的电力，其煤炭消费90%以上用于发电和工业。印度计划到2030年将非化石能源装机占比提升至50%，但预计煤炭消费绝对值仍将增长。值得注意的是，榜单中印度尼西亚、澳大利亚等产煤大国自身消费量较高，其煤炭出口与国内使用形成相互支撑的市场。此外，部分东南亚国家（越南、菲律宾、孟加拉国）消费量虽小，但增速显著，正成为全球煤炭消费新增量主力。从气候目标看，若维持当前消费结构，《巴黎协定》1.5°C温控目标几无可能实现。然而，煤炭依赖国的公正转型需要技术、资金与时间，发达国家应承担更多历史责任，协助发展中国家以较低成本跨越碳锁定。数据同时警示：即便在净零承诺背景下，全球煤炭消费尚未达峰，实现实质性减排仍需突破性技术（如碳捕集）或更强政策约束。\n\n## 三、数据局限与补充视角\n\n本排名仅反映一次能源消费总量，未考虑发电效率、人口基数（人均消费）及消费趋势变化。例如，中国人均煤炭消费虽低于澳大利亚，但总量巨大；美国消费量连续多年下降，而印度持续上升。未来分析需结合历史序列与政策评估，才能更全面判断全球能源转型真实进度。",
+      "glossary": [
+        {
+          "term": "Exajoule (EJ)",
+          "explanation": "能量单位，1 Exajoule = 10^18 焦耳，相当于约3,400万吨标准煤，常用于衡量大规模能源消费。"
+        },
+        {
+          "term": "能源强度",
+          "explanation": "单位GDP能耗，反映经济产出的能源依赖程度，高能源强度往往意味着能效偏低或产业结构偏重。"
+        },
+        {
+          "term": "碳锁定",
+          "explanation": "指经济系统对化石燃料基础设施和技术的高度依赖，形成难以摆脱的排放路径。"
+        },
+        {
+          "term": "基荷能源",
+          "explanation": "电力系统中为满足最低持续需求而稳定运行的发电形式，煤炭常被用作基荷电源。"
+        }
+      ]
+    }
+  },
+  {
     "id": "1ad067bd",
     "title": "The Mammals That Sleep Most and Least",
     "original_url": "https://www.visualcapitalist.com/animals-that-sleep-most-least/",
