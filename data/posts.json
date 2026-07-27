@@ -1,5 +1,677 @@
 [
   {
+    "id": "ad370133",
+    "title": "Mapped: New Home Building Permits By State",
+    "original_url": "https://www.visualcapitalist.com/sp/ter02-new-home-building-permits-by-state/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ad370133.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDAHNOBxTUxSvjFelyI5/aMkE+KKpluaKjkD2jGLNStNkVVWlNWmQ0PMnNFQmimSf/Z",
+    "image_version": 1785171113,
+    "pub_date": "Mon, 27 Jul 2026 15:42:00 +0000",
+    "content_md": "| State | New Home Building Permits Per 100,000 People |\n| --- | --- |\n| Idaho | 861 |\n| South Carolina | 829 |\n| North Carolina | 773 |\n| Utah | 725 |\n| Florida | 694 |\n| Texas | 620 |\n| Arizona | 608 |\n| Delaware | 595 |\n| Tennessee | 578 |\n| South Dakota | 568 |\n| Colorado | 564 |\n| Georgia | 521 |\n| Arkansas | 512 |\n| Nebraska | 486 |\n| Montana | 485 |\n| Washington | 477 |\n| Maine | 455 |\n| Nevada | 424 |\n| Wisconsin | 423 |\n| Indiana | 411 |\n| Iowa | 394 |\n| Alabama | 393 |\n| Kansas | 393 |\n| Virginia | 386 |\n| New Mexico | 363 |\n| Oregon | 362 |\n| Minnesota | 359 |\n| Oklahoma | 353 |\n| Vermont | 352 |\n| Wyoming | 341 |\n| New Jersey | 334 |\n| New Hampshire | 327 |\n| Kentucky | 314 |\n| Louisiana | 310 |\n| North Dakota | 295 |\n| Mississippi | 293 |\n| Missouri | 285 |\n| California | 279 |\n| Ohio | 273 |\n| District of Columbia | 267 |\n| Hawaii | 235 |\n| West Virginia | 232 |\n| Michigan | 230 |\n| New York | 223 |\n| Maryland | 211 |\n| Pennsylvania | 189 |\n| Rhode Island | 182 |\n| Connecticut | 181 |\n| Massachusetts | 163 |\n| Illinois | 157 |\n| Alaska | 109 |\n| United States | 412 |",
+    "ai_analysis": {
+      "core_insight": "西部与东南部州建筑许可井喷，东北部与大西洋中部则明显滞后，折射人口流动与住房可负担性鸿沟。",
+      "data_highlights": [
+        "爱达荷州以每10万人861个许可高居榜首，是全美平均水平（412）的2.1倍。",
+        "排名前五的州（爱达荷、南卡罗来纳、北卡罗来纳、犹他、佛罗里达）许可数均超过690，集中在阳光带。",
+        "全美有15个州低于300，其中伊利诺伊（157）、马萨诸塞（163）和阿拉斯加（109）垫底。",
+        "加利福尼亚州仅279个许可，纽约州223个，远低于全国平均，尽管人口稠密。",
+        "哥伦比亚特区许可数267，甚至低于全国均值，反映首都地区建设受限。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "New Home Building Permits Per 100,000 People"
+          ],
+          "rows": [
+            [
+              "Idaho",
+              "861"
+            ],
+            [
+              "South Carolina",
+              "829"
+            ],
+            [
+              "North Carolina",
+              "773"
+            ],
+            [
+              "Utah",
+              "725"
+            ],
+            [
+              "Florida",
+              "694"
+            ],
+            [
+              "Texas",
+              "620"
+            ],
+            [
+              "Arizona",
+              "608"
+            ],
+            [
+              "Delaware",
+              "595"
+            ],
+            [
+              "Tennessee",
+              "578"
+            ],
+            [
+              "South Dakota",
+              "568"
+            ],
+            [
+              "Colorado",
+              "564"
+            ],
+            [
+              "Georgia",
+              "521"
+            ],
+            [
+              "Arkansas",
+              "512"
+            ],
+            [
+              "Nebraska",
+              "486"
+            ],
+            [
+              "Montana",
+              "485"
+            ],
+            [
+              "Washington",
+              "477"
+            ],
+            [
+              "Maine",
+              "455"
+            ],
+            [
+              "Nevada",
+              "424"
+            ],
+            [
+              "Wisconsin",
+              "423"
+            ],
+            [
+              "Indiana",
+              "411"
+            ],
+            [
+              "Iowa",
+              "394"
+            ],
+            [
+              "Alabama",
+              "393"
+            ],
+            [
+              "Kansas",
+              "393"
+            ],
+            [
+              "Virginia",
+              "386"
+            ],
+            [
+              "New Mexico",
+              "363"
+            ],
+            [
+              "Oregon",
+              "362"
+            ],
+            [
+              "Minnesota",
+              "359"
+            ],
+            [
+              "Oklahoma",
+              "353"
+            ],
+            [
+              "Vermont",
+              "352"
+            ],
+            [
+              "Wyoming",
+              "341"
+            ],
+            [
+              "New Jersey",
+              "334"
+            ],
+            [
+              "New Hampshire",
+              "327"
+            ],
+            [
+              "Kentucky",
+              "314"
+            ],
+            [
+              "Louisiana",
+              "310"
+            ],
+            [
+              "North Dakota",
+              "295"
+            ],
+            [
+              "Mississippi",
+              "293"
+            ],
+            [
+              "Missouri",
+              "285"
+            ],
+            [
+              "California",
+              "279"
+            ],
+            [
+              "Ohio",
+              "273"
+            ],
+            [
+              "District of Columbia",
+              "267"
+            ],
+            [
+              "Hawaii",
+              "235"
+            ],
+            [
+              "West Virginia",
+              "232"
+            ],
+            [
+              "Michigan",
+              "230"
+            ],
+            [
+              "New York",
+              "223"
+            ],
+            [
+              "Maryland",
+              "211"
+            ],
+            [
+              "Pennsylvania",
+              "189"
+            ],
+            [
+              "Rhode Island",
+              "182"
+            ],
+            [
+              "Connecticut",
+              "181"
+            ],
+            [
+              "Massachusetts",
+              "163"
+            ],
+            [
+              "Illinois",
+              "157"
+            ],
+            [
+              "Alaska",
+              "109"
+            ],
+            [
+              "United States",
+              "412"
+            ]
+          ],
+          "caption": "2024年美国各州每10万人新住宅建筑许可数"
+        }
+      ],
+      "deep_dive": "## 建筑许可大幅增长的背后推力\n\n阳光带州份建筑许可数量的爆发式增长并非偶然。爱达荷州、南北卡罗来纳、犹他、佛罗里达等州得益于持续的国内人口净流入。远程办公的普及进一步加速了这种迁移，人们从高成本沿海地区迁往住房成本更低、税收环境更友好的地区。同时，这些州普遍具有更灵活的土地使用政策和更短的建设审批周期，使得开发商能更快响应需求。相比之下，德克萨斯州虽然经济强劲，但其人均许可数仅为620，仍低于榜首，这可能与其庞大的既有住房存量和分散的城市结构有关。\n\n- 人口驱动：净迁入州（如爱达荷、南卡）每100人新增住房许可远高于全国平均。\n- 监管红利：许多高许可州无需经历漫长的环境审查或严苛的分区听证，显著降低了开发门槛。\n- 可负担性：较低的中位房价和土地成本刺激了建设，并进一步吸引新居民。\n\n## 低许可州的结构性困境\n\n东北部、大西洋中部和中西部部分州则面临相反的局面。纽约州（223）、加利福尼亚州（279）、马萨诸塞州（163）和伊利诺伊州（157）的许可数大幅落后于全美平均。这些地区往往是人口流失州，但核心障碍在于供应侧的严格限制：复杂的分区法规、高昂的合规成本、土地稀缺以及社区抵制，导致即使存在需求，新住房也无法及时落地。例如，加州虽然人口庞大，但其许可数与其人口规模严重不匹配，加剧了住房危机。华盛顿特区也表现出类似的特征，有限的可开发土地和联邦限制使其许可数偏低。\n\n- 监管困境：漫长审批与高昂的“影响费”直接推高房价，抑制新项目启动。\n- 人口流失：部分锈带州缺乏增长动力，新建需求自然疲软。\n- 数据对比：全美平均412个许可，而中位数（如密歇根230）远低于均值，揭示分布严重右偏，少数高增长州拉高了整体数字。\n\n## 经济影响与未来启示\n\n建筑许可数是住宅投资的领先指标，也是未来数月经济健康度的风向标。高许可州将迎来建筑就业、建材零售和家居消费的繁荣。然而，过度依赖房地产也可能在未来需求放缓时暴露风险。政策制定者需关注：为何同样的联邦环境下，各州供应弹性差异如此巨大？对照低许可州的经验，高许可模式说明增加供应是抑制房价过快上涨的有效手段。短期内，这种分化将重塑美国人口和经济版图，但长期看，若高成本州不进行根本性改革，其经济活力可能进一步受损。",
+      "glossary": [
+        {
+          "term": "新住宅建筑许可",
+          "explanation": "地方政府颁发的允许新建住宅的官方批准文件，被视为未来住房开工和投资的领先指标。许可数量直接反映地区建设活动和住房供给能力。"
+        },
+        {
+          "term": "每10万人",
+          "explanation": "一种标准化衡量方式，便于跨州比较建设强度，消除人口规模差异的影响，更真实反映相对建设水平。"
+        },
+        {
+          "term": "阳光带",
+          "explanation": "指美国南部和西南部气候温暖的地区，包括卡罗来纳、佛罗里达、德克萨斯等州，近年来因经济机会和较低生活成本吸引了大量人口迁入。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7245fc9b",
+    "title": "Ranked: America’s Most Valuable Farmland by State",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-states-with-americas-most-valuable-farmland/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/7245fc9b.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrZkzUSrg1bkqHvXI2Fh6niimjpRRcD//Z",
+    "image_version": 1785171152,
+    "pub_date": "Mon, 27 Jul 2026 14:01:12 +0000",
+    "content_md": "| Rank | State | Value Per Acre (2025) |\n| --- | --- | --- |\n| 1 | Rhode Island | $22,500 |\n| 2 | New Jersey | $16,600 |\n| 3 | Massachusetts | $14,900 |\n| 4 | Connecticut | $14,400 |\n| 5 | California | $13,700 |\n| 6 | Maryland | $9,800 |\n| 7 | Iowa | $9,790 |\n| 8 | Delaware | $9,500 |\n| 9 | Ohio | $9,350 |\n| 10 | Illinois | $8,930 |\n| 11 | Indiana | $8,850 |\n| 12 | Florida | $8,700 |\n| 13 | Pennsylvania | $8,490 |\n| 14 | Michigan | $6,800 |\n| 15 | Minnesota | $6,790 |\n| 16 | New Hampshire | $6,500 |\n| 17 | Wisconsin | $6,420 |\n| 18 | Tennessee | $6,150 |\n| 19 | Virginia | $6,100 |\n| 20 | Kentucky | $5,480 |\n| 21 | North Carolina | $5,470 |\n| 22 | Missouri | $5,000 |\n| 23 | South Carolina | $4,740 |\n| 24 | Georgia | $4,720 |\n| 25 | Idaho | $4,580 |\n| 26 | Vermont | $4,400 |\n| 27 | New York | $4,300 |\n| 28 | Nebraska | $4,250 |\n| 28 | Arkansas | $4,250 |\n| 30 | Arizona | $4,180 |\n| 31 | Alabama | $4,150 |\n| 32 | Louisiana | $3,850 |\n| 33 | Oregon | $3,780 |\n| 34 | Washington | $3,710 |\n| 35 | Mississippi | $3,580 |\n| 36 | West Virginia | $3,520 |\n| 37 | Utah | $3,500 |\n| 38 | Maine | $3,350 |\n| 39 | Kansas | $3,100 |\n| 40 | South Dakota | $2,970 |\n| 40 | Texas | $2,970 |\n| 42 | Oklahoma | $2,540 |\n| 43 | North Dakota | $2,360 |\n| 44 | Colorado | $2,290 |\n| 45 | Montana | $1,230 |\n| 46 | Nevada | $1,200 |\n| 47 | Wyoming | $1,000 |\n| 48 | New Mexico | $725 |\n| -- | U.S. Average | $4,350 |",
+    "ai_analysis": {
+      "core_insight": "美国农田价值呈现“沿海小州高、中部粮仓中高、西部低”的三级阶梯格局。",
+      "data_highlights": [
+        "罗德岛以$22,500/英亩居首，是新墨西哥州的31倍，悬殊巨大。",
+        "东北部小州（新泽西、马萨诸塞、康涅狄格）包揽前四，地价均超$14,000。",
+        "玉米带核心爱荷华、伊利诺伊、印第安纳每英亩近$9,000，价值仅次于沿海。",
+        "西部多数州地价低于$3,000，蒙大拿、内华达、怀俄明不足$1,300。",
+        "全美农田均价$4,350，仅18个州高于此线，集中度明显。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Value Per Acre (2025)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Rhode Island",
+              "$22,500"
+            ],
+            [
+              "2",
+              "New Jersey",
+              "$16,600"
+            ],
+            [
+              "3",
+              "Massachusetts",
+              "$14,900"
+            ],
+            [
+              "4",
+              "Connecticut",
+              "$14,400"
+            ],
+            [
+              "5",
+              "California",
+              "$13,700"
+            ],
+            [
+              "6",
+              "Maryland",
+              "$9,800"
+            ],
+            [
+              "7",
+              "Iowa",
+              "$9,790"
+            ],
+            [
+              "8",
+              "Delaware",
+              "$9,500"
+            ],
+            [
+              "9",
+              "Ohio",
+              "$9,350"
+            ],
+            [
+              "10",
+              "Illinois",
+              "$8,930"
+            ],
+            [
+              "11",
+              "Indiana",
+              "$8,850"
+            ],
+            [
+              "12",
+              "Florida",
+              "$8,700"
+            ],
+            [
+              "13",
+              "Pennsylvania",
+              "$8,490"
+            ],
+            [
+              "14",
+              "Michigan",
+              "$6,800"
+            ],
+            [
+              "15",
+              "Minnesota",
+              "$6,790"
+            ],
+            [
+              "16",
+              "New Hampshire",
+              "$6,500"
+            ],
+            [
+              "17",
+              "Wisconsin",
+              "$6,420"
+            ],
+            [
+              "18",
+              "Tennessee",
+              "$6,150"
+            ],
+            [
+              "19",
+              "Virginia",
+              "$6,100"
+            ],
+            [
+              "20",
+              "Kentucky",
+              "$5,480"
+            ],
+            [
+              "21",
+              "North Carolina",
+              "$5,470"
+            ],
+            [
+              "22",
+              "Missouri",
+              "$5,000"
+            ],
+            [
+              "23",
+              "South Carolina",
+              "$4,740"
+            ],
+            [
+              "24",
+              "Georgia",
+              "$4,720"
+            ],
+            [
+              "25",
+              "Idaho",
+              "$4,580"
+            ],
+            [
+              "26",
+              "Vermont",
+              "$4,400"
+            ],
+            [
+              "27",
+              "New York",
+              "$4,300"
+            ],
+            [
+              "28",
+              "Nebraska",
+              "$4,250"
+            ],
+            [
+              "28",
+              "Arkansas",
+              "$4,250"
+            ],
+            [
+              "30",
+              "Arizona",
+              "$4,180"
+            ],
+            [
+              "31",
+              "Alabama",
+              "$4,150"
+            ],
+            [
+              "32",
+              "Louisiana",
+              "$3,850"
+            ],
+            [
+              "33",
+              "Oregon",
+              "$3,780"
+            ],
+            [
+              "34",
+              "Washington",
+              "$3,710"
+            ],
+            [
+              "35",
+              "Mississippi",
+              "$3,580"
+            ],
+            [
+              "36",
+              "West Virginia",
+              "$3,520"
+            ],
+            [
+              "37",
+              "Utah",
+              "$3,500"
+            ],
+            [
+              "38",
+              "Maine",
+              "$3,350"
+            ],
+            [
+              "39",
+              "Kansas",
+              "$3,100"
+            ],
+            [
+              "40",
+              "South Dakota",
+              "$2,970"
+            ],
+            [
+              "40",
+              "Texas",
+              "$2,970"
+            ],
+            [
+              "42",
+              "Oklahoma",
+              "$2,540"
+            ],
+            [
+              "43",
+              "North Dakota",
+              "$2,360"
+            ],
+            [
+              "44",
+              "Colorado",
+              "$2,290"
+            ],
+            [
+              "45",
+              "Montana",
+              "$1,230"
+            ],
+            [
+              "46",
+              "Nevada",
+              "$1,200"
+            ],
+            [
+              "47",
+              "Wyoming",
+              "$1,000"
+            ],
+            [
+              "48",
+              "New Mexico",
+              "$725"
+            ],
+            [
+              "--",
+              "U.S. Average",
+              "$4,350"
+            ]
+          ],
+          "caption": "美国各州农田每英亩价值排名（2025年）"
+        }
+      ],
+      "deep_dive": "## 一、区域差异的核心驱动因素\n美国农田价值呈现鲜明的空间分异，最昂贵的州集中在东北部和大西洋中部，而大平原和西部州则地处低位。这种格局主要由三重力量共同塑造：\n- **城市扩张压力**：罗德岛、新泽西等小州面积狭小，城郊土地用途竞争激烈，农地被大量转化为住宅和商业用地，稀缺性推高地价。这与中西部广袤、单一农作区形成反差。\n- **自然禀赋与产出**：加利福尼亚以多样化高值作物（果蔬、坚果）著称，单位面积收益远高于谷物产区，支撑其$13,700的高位；爱荷华、伊利诺伊等玉米带州得益于肥沃黑土和稳定降水，作物产量领先，地价接近$9,000。\n- **气候与水资源**：西部干旱区（如新墨西哥、怀俄明）受制于水源短缺，牧草或粗放种植经济效益低，每英亩价值不足$1,500，仅为全国均值的三分之一。\n\n## 二、农田价值与农业生产力的再平衡\n排名揭示了一层重要信息：高地产价格未必代表高农业生产力。例如，位列第一的罗德岛农业产值仅占州经济极小部分，其高价格更多反映土地的非农机会成本。而真正奠定美国农业竞争力的中西部州（爱荷华、伊利诺伊、印第安纳等）价格虽处于第二梯队，却承担了全国大部分的玉米、大豆产出。这种错位提示投资者和政策制定者需区分“农地价值”与“农地生产力”，避免单纯以单价评估农业重要性。\n同时，部分南方州（阿肯色、密西西比）和北部平原州（南北达科他）价格相对低廉，为扩大规模化经营提供了成本优势，但它们往往面临更多生产风险（如洪水、干旱）。从趋势看，沿海高价区可能继续向城市溢价倾斜，而中部粮仓地价对农产品价格和利率更敏感，波动风险各异。\n\n## 三、数据局限与启示\n该榜单为2025年预估值，基于历史交易、土地质量和市场调查，但存在以下注意点：\n- **未区分用途**：牧草地、耕地、永久作物用地混合统计，掩盖内部结构差异（如加州果园 vs. 爱荷华玉米地）。\n- **州内差异显著**：加州中央谷地与内陆荒漠、佛州柑橘带与湿地间可能相差十倍，州均值平滑了局部高点和洼地。\n- **通胀与实际价值**：名义价格受通胀影响，若折算成不变价，西部部分州的实际涨幅可能更为平缓。\n对于跨国比较或投资决策，需结合土地租金回报率、补贴政策和贸易环境综合判断，单一名目单价不足以构成充分依据。",
+      "glossary": [
+        {
+          "term": "农田价值 (Farmland Value)",
+          "explanation": "指农业用地在市场上的公允价值，通常以每英亩价格表示，受土壤质量、区位、产出潜力和非农需求等因素影响。"
+        },
+        {
+          "term": "玉米带 (Corn Belt)",
+          "explanation": "美国中西部以玉米和大豆为主产区的农业地带，包括爱荷华、伊利诺伊、印第安纳等州，拥有深厚肥沃的草原土壤和适宜气候。"
+        },
+        {
+          "term": "城市化溢价 (Urban Premium)",
+          "explanation": "由于靠近城市、基础设施和人口密集区，农地面临转为建设用地的高机会成本，导致其价格显著高于纯农业用途区域。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e6a6d95",
+    "title": "Mapped: Which NATO Countries Boosted Defense Spending the Most in 2025?",
+    "original_url": "https://www.visualcapitalist.com/sp/ig02-nato-countries-boosted-defense-spending-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5e6a6d95.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAcABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDz1UoZKkjp7AYq7CKhSipj1oosIbG2KkL8VXWn5qLlCk80Uw0UuYLH/9k=",
+    "image_version": 1785171187,
+    "pub_date": "Thu, 23 Jul 2026 15:41:00 +0000",
+    "content_md": "| Country | Annual Real Percent Change, 2024 to 2025 | 2025 Defense Spending as % of GDP |\n| --- | --- | --- |\n| Belgium | 58% | 2.0% |\n| Denmark | 49% | 3.3% |\n| Spain | 45% | 2.0% |\n| Norway | 44% | 3.2% |\n| Canada | 41% | 2.0% |\n| Italy | 33% | 2.0% |\n| Netherlands | 31% | 2.6% |\n| Germany | 20% | 2.4% |\n| Poland | 18% | 4.3% |\n| Türkiye | 16% | 2.3% |\n| Sweden | 15% | 2.5% |\n| United Kingdom | 3% | 2.3% |\n| France | 1% | 2.1% |\n| United States | -1% | 3.2% |\n| NATO Europe and Canada | 20% | 2.3% |\n| NATO Total | 6% | 2.8% |",
+    "ai_analysis": {
+      "core_insight": "欧洲北约成员国2025年国防开支激增，比利时增幅58%居首，但多数刚达GDP 2%门槛；波兰以4.3%占比领先。",
+      "data_highlights": [
+        "比利时国防开支年增58%，增幅最大，但2025年开支仅占GDP的2.0%，刚触及北约目标。",
+        "波兰国防开支占GDP高达4.3%，为北约最高，年增18%仍保持强劲。",
+        "美国是唯一负增长国家（-1%），但开支占比仍达3.2%，高于多数盟友。",
+        "北约欧洲和加拿大整体增幅20%，推动北约总开支增6%，但总占比仅2.8%。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Annual Real Percent Change, 2024 to 2025",
+            "2025 Defense Spending as % of GDP"
+          ],
+          "rows": [
+            [
+              "Belgium",
+              "58%",
+              "2.0%"
+            ],
+            [
+              "Denmark",
+              "49%",
+              "3.3%"
+            ],
+            [
+              "Spain",
+              "45%",
+              "2.0%"
+            ],
+            [
+              "Norway",
+              "44%",
+              "3.2%"
+            ],
+            [
+              "Canada",
+              "41%",
+              "2.0%"
+            ],
+            [
+              "Italy",
+              "33%",
+              "2.0%"
+            ],
+            [
+              "Netherlands",
+              "31%",
+              "2.6%"
+            ],
+            [
+              "Germany",
+              "20%",
+              "2.4%"
+            ],
+            [
+              "Poland",
+              "18%",
+              "4.3%"
+            ],
+            [
+              "Türkiye",
+              "16%",
+              "2.3%"
+            ],
+            [
+              "Sweden",
+              "15%",
+              "2.5%"
+            ],
+            [
+              "United Kingdom",
+              "3%",
+              "2.3%"
+            ],
+            [
+              "France",
+              "1%",
+              "2.1%"
+            ],
+            [
+              "United States",
+              "-1%",
+              "3.2%"
+            ],
+            [
+              "NATO Europe and Canada",
+              "20%",
+              "2.3%"
+            ],
+            [
+              "NATO Total",
+              "6%",
+              "2.8%"
+            ]
+          ],
+          "caption": "2025年北约成员国国防开支变化与GDP占比"
+        }
+      ],
+      "deep_dive": "## 增长态势：欧洲急起直追，美国减负\n2025年，北约欧洲成员国呈现罕见的国防开支爆发式增长。比利时（+58%）、丹麦（+49%）、西班牙（+45%）等传统低开支国家增幅居前，反映出俄乌冲突后欧洲安全环境的剧变。这些国家长期依赖美国安全保护，国防开支常年低于GDP的2%目标，如今快速追赶，带有强烈的政治信号。然而，高增幅背后基数较低，多数国家2025年占比仅刚达2.0%，实际金额仍有限。\n\n相比之下，波兰虽增幅仅18%，但因其基数较高，国防开支占比达到4.3%，是北约中唯一超过4%的成员国，凸显其直面威胁的地缘紧迫性。美国作为北约军费支柱，2025年开支实际下降1%，占比仍达3.2%，显示其内部财政调整与战略重心的转移。\n\n## 达标门槛：多数成员跨过2%，但差异显著\n2025年，统计的北约成员国中，除美国外，已有9个欧洲国家占比达到或超过2%目标，但仍有法国（2.1%）、比利时（2.0%）、加拿大（2.0%）等国勉强达标。北约欧洲和加拿大整体平均占比仅2.3%，显著低于美国的3.2%。这组数据表明，虽然欧洲防务自主意识觉醒，但短期内仍无法摆脱对美依赖。\n\n值得警惕的是，高通胀环境下，名义开支增长可能被物价侵蚀。表中所列“实际百分比变化”剔除价格因素，更能体现购买力提升。比利时等国的超高实际增幅若不能持续，未来达标稳定性存疑。\n\n## 趋势与启示：防务一体化与分摊矛盾\n从数据可见，北约总开支增幅仅6%，拉低主要源于美国负增长。欧洲加拿大20%的增幅虽高，但总体规模有限。未来，美国可能继续施压要求欧洲提高军费，但欧洲内部财政空间、社会福利竞争将制约长期增长。北约军费分摊争议不会平息，但至少2025年的数字让欧洲在政治对话中多了一份底气。",
+      "glossary": [
+        {
+          "term": "实际百分比变化 (Annual Real Percent Change)",
+          "explanation": "剔除通货膨胀因素后，国防开支从2024年到2025年的年度增长率，反映实际购买力的提升。"
+        },
+        {
+          "term": "国防开支占GDP百分比",
+          "explanation": "一国国防总支出占其国内生产总值的比例，北约要求成员国应达2%目标，是衡量防务负担的核心指标。"
+        },
+        {
+          "term": "北约 (NATO)",
+          "explanation": "北大西洋公约组织，成立于1949年的军事同盟，现有32个成员国，集体防御是其核心原则。"
+        }
+      ]
+    }
+  },
+  {
     "id": "93136093",
     "title": "Ranked: The Countries That Consume the Most Coal",
     "original_url": "https://www.visualcapitalist.com/the-countries-that-consume-the-most-coal/",
