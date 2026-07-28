@@ -1,5 +1,101 @@
 [
   {
+    "id": "c7de1972",
+    "title": "Ranked: Top Sectors for Global Foreign Direct Investment",
+    "original_url": "https://www.visualcapitalist.com/the-top-sectors-for-international-investment-in-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c7de1972.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDtJpMCqZl+apbg8VSyd1ZyLTsXVfiioV+7RSC5/9k=",
+    "image_version": 1785265315,
+    "pub_date": "Tue, 28 Jul 2026 17:26:34 +0000",
+    "content_md": "| Rank | Sector | Capital Investment in 2025 (billions $) |\n| --- | --- | --- |\n| 1 | Communications | 346 |\n| 2 | Renewable energy | 200 |\n| 3 | Semiconductors | 138 |\n| 4 | Real estate | 112 |\n| 5 | Metals | 64 |\n| 6 | Coal, oil & gas | 61 |\n| 7 | Transportation & Warehousing | 58 |\n| 8 | Software & IT services | 39 |\n| 9 | Chemicals | 35 |\n| 10 | Automotive Manufacturing | 32 |",
+    "ai_analysis": {
+      "core_insight": "通讯、可再生能源、半导体领跑2025年全球FDI，数字化与绿色转型主导资本流向。",
+      "data_highlights": [
+        "通讯行业吸引3460亿美元FDI，位居榜首，是第十名汽车制造的近11倍。",
+        "可再生能源投资达2000亿美元，超过传统化石能源（610亿美元）三倍以上。",
+        "前三大行业（通讯、可再生能源、半导体）合计占前十总投资的63%以上。",
+        "半导体以1380亿美元位列第三，反映全球芯片战略竞争加剧。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Sector",
+            "Capital Investment in 2025 (billions $)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Communications",
+              "346"
+            ],
+            [
+              "2",
+              "Renewable energy",
+              "200"
+            ],
+            [
+              "3",
+              "Semiconductors",
+              "138"
+            ],
+            [
+              "4",
+              "Real estate",
+              "112"
+            ],
+            [
+              "5",
+              "Metals",
+              "64"
+            ],
+            [
+              "6",
+              "Coal, oil & gas",
+              "61"
+            ],
+            [
+              "7",
+              "Transportation & Warehousing",
+              "58"
+            ],
+            [
+              "8",
+              "Software & IT services",
+              "39"
+            ],
+            [
+              "9",
+              "Chemicals",
+              "35"
+            ],
+            [
+              "10",
+              "Automotive Manufacturing",
+              "32"
+            ]
+          ],
+          "caption": "2025年全球外国直接投资前十大行业"
+        }
+      ],
+      "deep_dive": "## 数字化与绿色转型双轮驱动FDI格局\n\n2025年全球FDI行业排名揭示了两大核心趋势：数字化基础设施的加速扩张与清洁能源转型的不可逆。通讯行业以3460亿美元高居榜首，背后是5G网络全球覆盖、数据中心扩容以及卫星互联网等前沿领域的资本密集投入。这一规模几乎是第二名可再生能源的两倍，表明数字连接已成为全球价值链的底层支柱，其投资回报预期与战略重要性吸引了主权基金、跨国企业的巨额部署。\n\n## 能源投资的结构性分化\n\n可再生能源以2000亿美元远超化石能源（煤炭、油气，仅610亿美元），标志着能源投资的结构性拐点。政策激励、技术成本下降与净零目标共同推动资本向风能、太阳能及配套储能倾斜。同时，化石能源依然保有61亿美元规模，凸显转型期“旧能源”的续航需求，但其增速已明显放缓，未来可能进一步被挤出。\n\n## 地缘政治与供应链重构映射在半导体\n\n半导体以1380亿美元位居第三，反映了地缘政治博弈下各国追求芯片自主化、冗余化的投资浪潮。美欧亚多区域的本土化建厂举措直接推高资本开支，该行业兼具战略敏感性与技术壁垒，其FDI流入未来数年内仍将高位运行。\n\n## 传统行业的韧性及启示\n\n房地产、金属、运输仓储等传统行业稳居中后方，表明它们仍是经济活动的基石，但投资吸引力向技术密集型领域转移。前十大行业合计投资超1万亿美元，揭示全球资本正以“数字+绿色”为核心重新配置。对中国而言，需关注通讯与半导体领域的外部竞争，同时把握可再生能源输出的机遇，但也要警惕部分行业产能过剩风险与FDI流入波动。",
+      "glossary": [
+        {
+          "term": "外国直接投资（FDI）",
+          "explanation": "一国投资者对另一国企业进行的以获得持久利益为目的的投资，通常涉及管理控制权，反映资本跨境流动与产业战略。"
+        },
+        {
+          "term": "可再生能源",
+          "explanation": "包括风能、太阳能、水能、生物质能等非化石能源，其投资受气候变化政策与技术进步强力推动。"
+        },
+        {
+          "term": "半导体",
+          "explanation": "集成电路的核心材料，是数字经济的基石，其产业链高度全球化，近年因地缘政治出现区域化重组趋势。"
+        }
+      ]
+    }
+  },
+  {
     "id": "b66681b9",
     "title": "U.S. Battery Capacity Growth Forecast: 2026–2031",
     "original_url": "https://www.visualcapitalist.com/sp/npuc26-u-s-battery-capacity-growth-forecast-2026-2031/",
