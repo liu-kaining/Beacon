@@ -1,5 +1,830 @@
 [
   {
+    "id": "e2bfd7f6",
+    "title": "Mapped: Every Country in the World by Income Group",
+    "original_url": "https://www.visualcapitalist.com/mapped-every-country-by-income-group/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/e2bfd7f6.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDt2qCQZqdqjasjVlYpzRU+KKQ+U//Z",
+    "image_version": 1785245081,
+    "pub_date": "Tue, 28 Jul 2026 12:02:22 +0000",
+    "content_md": "| Country | Income Group (2025) |\n| --- | --- |\n| Afghanistan | Low income |\n| Albania | Upper-middle income |\n| Algeria | Upper-middle income |\n| Angola | Lower-middle income |\n| Antigua and Barbuda | High income |\n| Argentina | Upper-middle income |\n| Armenia | Upper-middle income |\n| Australia | High income |\n| Austria | High income |\n| Azerbaijan | Upper-middle income |\n| Bahamas | High income |\n| Bahrain | High income |\n| Bangladesh | Lower-middle income |\n| Barbados | High income |\n| Belarus | Upper-middle income |\n| Belgium | High income |\n| Belize | Upper-middle income |\n| Benin | Lower-middle income |\n| Bhutan | Lower-middle income |\n| Bolivia | Lower-middle income |\n| Bosnia and Herzegovina | Upper-middle income |\n| Botswana | Upper-middle income |\n| Brazil | Upper-middle income |\n| Brunei | High income |\n| Bulgaria | High income |\n| Burkina Faso | Low income |\n| Burundi | Low income |\n| Cabo Verde | Upper-middle income |\n| Cambodia | Lower-middle income |\n| Cameroon | Lower-middle income |\n| Canada | High income |\n| Central African Republic | Low income |\n| Chad | Low income |\n| Chile | High income |\n| China | Upper-middle income |\n| Colombia | Upper-middle income |\n| Comoros | Lower-middle income |\n| DR Congo | Low income |\n| Republic of the Congo | Lower-middle income |\n| Costa Rica | High income |\n| Côte d'Ivoire | Lower-middle income |\n| Croatia | High income |\n| Cuba | Upper-middle income |\n| Cyprus | High income |\n| Czechia | High income |\n| Denmark | High income |\n| Djibouti | Lower-middle income |\n| Dominica | Upper-middle income |\n| Dominican Republic | Upper-middle income |\n| Ecuador | Upper-middle income |\n| Egypt | Lower-middle income |\n| El Salvador | Upper-middle income |\n| Equatorial Guinea | Upper-middle income |\n| Eritrea | Low income |\n| Estonia | High income |\n| Eswatini | Lower-middle income |\n| Ethiopia | Low income |\n| Fiji | Upper-middle income |\n| Finland | High income |\n| France | High income |\n| Gabon | Upper-middle income |\n| Gambia | Low income |\n| Georgia | Upper-middle income |\n| Germany | High income |\n| Ghana | Lower-middle income |\n| Greece | High income |\n| Grenada | Upper-middle income |\n| Guatemala | Upper-middle income |\n| Guinea | Lower-middle income |\n| Guinea-Bissau | Low income |\n| Guyana | High income |\n| Haiti | Lower-middle income |\n| Honduras | Lower-middle income |\n| Hungary | High income |\n| Iceland | High income |\n| India | Lower-middle income |\n| Indonesia | Upper-middle income |\n| Iran | Upper-middle income |\n| Iraq | Upper-middle income |\n| Ireland | High income |\n| Israel | High income |\n| Italy | High income |\n| Jamaica | Upper-middle income |\n| Japan | High income |\n| Jordan | Upper-middle income |\n| Kazakhstan | Upper-middle income |\n| Kenya | Lower-middle income |\n| Kiribati | Lower-middle income |\n| North Korea | Low income |\n| South Korea | High income |\n| Kosovo | Upper-middle income |\n| Kuwait | High income |\n| Kyrgyzstan | Lower-middle income |\n| Laos | Lower-middle income |\n| Latvia | High income |\n| Lebanon | Lower-middle income |\n| Lesotho | Lower-middle income |\n| Liberia | Low income |\n| Libya | Upper-middle income |\n| Liechtenstein | High income |\n| Lithuania | High income |\n| Luxembourg | High income |\n| Madagascar | Low income |\n| Malawi | Low income |\n| Malaysia | Upper-middle income |\n| Maldives | Upper-middle income |\n| Mali | Low income |\n| Malta | High income |\n| Marshall Islands | Upper-middle income |\n| Mauritania | Lower-middle income |\n| Mauritius | Upper-middle income |\n| Mexico | Upper-middle income |\n| Micronesia | Upper-middle income |\n| Moldova | Upper-middle income |\n| Monaco | High income |\n| Mongolia | Upper-middle income |\n| Montenegro | Upper-middle income |\n| Morocco | Lower-middle income |\n| Mozambique | Low income |\n| Myanmar | Lower-middle income |\n| Namibia | Lower-middle income |\n| Nauru | High income |\n| Nepal | Lower-middle income |\n| Netherlands | High income |\n| New Zealand | High income |\n| Nicaragua | Lower-middle income |\n| Niger | Low income |\n| Nigeria | Lower-middle income |\n| North Macedonia | Upper-middle income |\n| Norway | High income |\n| Oman | High income |\n| Pakistan | Lower-middle income |\n| Palau | High income |\n| Panama | High income |\n| Papua New Guinea | Lower-middle income |\n| Paraguay | Upper-middle income |\n| Peru | Upper-middle income |\n| Philippines | Upper-middle income |\n| Poland | High income |\n| Portugal | High income |\n| Qatar | High income |\n| Romania | High income |\n| Russia | High income |\n| Rwanda | Low income |\n| Samoa | Upper-middle income |\n| San Marino | High income |\n| São Tomé and Príncipe | Lower-middle income |\n| Saudi Arabia | High income |\n| Senegal | Lower-middle income |\n| Serbia | Upper-middle income |\n| Seychelles | High income |\n| Sierra Leone | Low income |\n| Singapore | High income |\n| Slovakia | High income |\n| Slovenia | High income |\n| Solomon Islands | Lower-middle income |\n| Somalia | Low income |\n| South Africa | Upper-middle income |\n| South Sudan | Low income |\n| Spain | High income |\n| Sri Lanka | Upper-middle income |\n| St. Kitts and Nevis | High income |\n| St. Lucia | Upper-middle income |\n| St. Vincent and the Grenadines | Upper-middle income |\n| Sudan | Low income |\n| Suriname | Upper-middle income |\n| Sweden | High income |\n| Switzerland | High income |\n| Syria | Low income |\n| Taiwan | High income |\n| Tajikistan | Lower-middle income |\n| Tanzania | Lower-middle income |\n| Thailand | Upper-middle income |\n| Timor-Leste | Lower-middle income |\n| Togo | Lower-middle income |\n| Tonga | Upper-middle income |\n| Trinidad and Tobago | High income |\n| Tunisia | Lower-middle income |\n| Türkiye | Upper-middle income |\n| Turkmenistan | Upper-middle income |\n| Tuvalu | Upper-middle income |\n| Uganda | Low income |\n| Ukraine | Upper-middle income |\n| United Arab Emirates | High income |\n| United Kingdom | High income |\n| United States | High income |\n| Uruguay | High income |\n| Uzbekistan | Lower-middle income |\n| Vanuatu | Lower-middle income |\n| Venezuela | Lower-middle income |\n| Vietnam | Upper-middle income |\n| West Bank and Gaza | Lower-middle income |\n| Yemen | Low income |\n| Zambia | Lower-middle income |\n| Zimbabwe | Lower-middle income |\n|  |  |",
+    "ai_analysis": {
+      "core_insight": "2025年全球收入分组显示，高收入国家占主导，但低收入国家仍集中在非洲，区域分化显著。",
+      "data_highlights": [
+        "全球共有65个高收入国家，59个中高收入国家，47个中低收入国家，25个低收入国家。",
+        "中国处于中高收入组别，距离高收入门槛仅一步之遥；印度仍属于中低收入国家。",
+        "低收入国家几乎全部位于撒哈拉以南非洲，少数在亚洲，如阿富汗和叙利亚。",
+        "俄罗斯与部分东欧国家被列为高收入经济体，引发争议。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Income Group (2025)"
+          ],
+          "rows": [
+            [
+              "Afghanistan",
+              "Low income"
+            ],
+            [
+              "Albania",
+              "Upper-middle income"
+            ],
+            [
+              "Algeria",
+              "Upper-middle income"
+            ],
+            [
+              "Angola",
+              "Lower-middle income"
+            ],
+            [
+              "Antigua and Barbuda",
+              "High income"
+            ],
+            [
+              "Argentina",
+              "Upper-middle income"
+            ],
+            [
+              "Armenia",
+              "Upper-middle income"
+            ],
+            [
+              "Australia",
+              "High income"
+            ],
+            [
+              "Austria",
+              "High income"
+            ],
+            [
+              "Azerbaijan",
+              "Upper-middle income"
+            ],
+            [
+              "Bahamas",
+              "High income"
+            ],
+            [
+              "Bahrain",
+              "High income"
+            ],
+            [
+              "Bangladesh",
+              "Lower-middle income"
+            ],
+            [
+              "Barbados",
+              "High income"
+            ],
+            [
+              "Belarus",
+              "Upper-middle income"
+            ],
+            [
+              "Belgium",
+              "High income"
+            ],
+            [
+              "Belize",
+              "Upper-middle income"
+            ],
+            [
+              "Benin",
+              "Lower-middle income"
+            ],
+            [
+              "Bhutan",
+              "Lower-middle income"
+            ],
+            [
+              "Bolivia",
+              "Lower-middle income"
+            ],
+            [
+              "Bosnia and Herzegovina",
+              "Upper-middle income"
+            ],
+            [
+              "Botswana",
+              "Upper-middle income"
+            ],
+            [
+              "Brazil",
+              "Upper-middle income"
+            ],
+            [
+              "Brunei",
+              "High income"
+            ],
+            [
+              "Bulgaria",
+              "High income"
+            ],
+            [
+              "Burkina Faso",
+              "Low income"
+            ],
+            [
+              "Burundi",
+              "Low income"
+            ],
+            [
+              "Cabo Verde",
+              "Upper-middle income"
+            ],
+            [
+              "Cambodia",
+              "Lower-middle income"
+            ],
+            [
+              "Cameroon",
+              "Lower-middle income"
+            ],
+            [
+              "Canada",
+              "High income"
+            ],
+            [
+              "Central African Republic",
+              "Low income"
+            ],
+            [
+              "Chad",
+              "Low income"
+            ],
+            [
+              "Chile",
+              "High income"
+            ],
+            [
+              "China",
+              "Upper-middle income"
+            ],
+            [
+              "Colombia",
+              "Upper-middle income"
+            ],
+            [
+              "Comoros",
+              "Lower-middle income"
+            ],
+            [
+              "DR Congo",
+              "Low income"
+            ],
+            [
+              "Republic of the Congo",
+              "Lower-middle income"
+            ],
+            [
+              "Costa Rica",
+              "High income"
+            ],
+            [
+              "Côte d'Ivoire",
+              "Lower-middle income"
+            ],
+            [
+              "Croatia",
+              "High income"
+            ],
+            [
+              "Cuba",
+              "Upper-middle income"
+            ],
+            [
+              "Cyprus",
+              "High income"
+            ],
+            [
+              "Czechia",
+              "High income"
+            ],
+            [
+              "Denmark",
+              "High income"
+            ],
+            [
+              "Djibouti",
+              "Lower-middle income"
+            ],
+            [
+              "Dominica",
+              "Upper-middle income"
+            ],
+            [
+              "Dominican Republic",
+              "Upper-middle income"
+            ],
+            [
+              "Ecuador",
+              "Upper-middle income"
+            ],
+            [
+              "Egypt",
+              "Lower-middle income"
+            ],
+            [
+              "El Salvador",
+              "Upper-middle income"
+            ],
+            [
+              "Equatorial Guinea",
+              "Upper-middle income"
+            ],
+            [
+              "Eritrea",
+              "Low income"
+            ],
+            [
+              "Estonia",
+              "High income"
+            ],
+            [
+              "Eswatini",
+              "Lower-middle income"
+            ],
+            [
+              "Ethiopia",
+              "Low income"
+            ],
+            [
+              "Fiji",
+              "Upper-middle income"
+            ],
+            [
+              "Finland",
+              "High income"
+            ],
+            [
+              "France",
+              "High income"
+            ],
+            [
+              "Gabon",
+              "Upper-middle income"
+            ],
+            [
+              "Gambia",
+              "Low income"
+            ],
+            [
+              "Georgia",
+              "Upper-middle income"
+            ],
+            [
+              "Germany",
+              "High income"
+            ],
+            [
+              "Ghana",
+              "Lower-middle income"
+            ],
+            [
+              "Greece",
+              "High income"
+            ],
+            [
+              "Grenada",
+              "Upper-middle income"
+            ],
+            [
+              "Guatemala",
+              "Upper-middle income"
+            ],
+            [
+              "Guinea",
+              "Lower-middle income"
+            ],
+            [
+              "Guinea-Bissau",
+              "Low income"
+            ],
+            [
+              "Guyana",
+              "High income"
+            ],
+            [
+              "Haiti",
+              "Lower-middle income"
+            ],
+            [
+              "Honduras",
+              "Lower-middle income"
+            ],
+            [
+              "Hungary",
+              "High income"
+            ],
+            [
+              "Iceland",
+              "High income"
+            ],
+            [
+              "India",
+              "Lower-middle income"
+            ],
+            [
+              "Indonesia",
+              "Upper-middle income"
+            ],
+            [
+              "Iran",
+              "Upper-middle income"
+            ],
+            [
+              "Iraq",
+              "Upper-middle income"
+            ],
+            [
+              "Ireland",
+              "High income"
+            ],
+            [
+              "Israel",
+              "High income"
+            ],
+            [
+              "Italy",
+              "High income"
+            ],
+            [
+              "Jamaica",
+              "Upper-middle income"
+            ],
+            [
+              "Japan",
+              "High income"
+            ],
+            [
+              "Jordan",
+              "Upper-middle income"
+            ],
+            [
+              "Kazakhstan",
+              "Upper-middle income"
+            ],
+            [
+              "Kenya",
+              "Lower-middle income"
+            ],
+            [
+              "Kiribati",
+              "Lower-middle income"
+            ],
+            [
+              "North Korea",
+              "Low income"
+            ],
+            [
+              "South Korea",
+              "High income"
+            ],
+            [
+              "Kosovo",
+              "Upper-middle income"
+            ],
+            [
+              "Kuwait",
+              "High income"
+            ],
+            [
+              "Kyrgyzstan",
+              "Lower-middle income"
+            ],
+            [
+              "Laos",
+              "Lower-middle income"
+            ],
+            [
+              "Latvia",
+              "High income"
+            ],
+            [
+              "Lebanon",
+              "Lower-middle income"
+            ],
+            [
+              "Lesotho",
+              "Lower-middle income"
+            ],
+            [
+              "Liberia",
+              "Low income"
+            ],
+            [
+              "Libya",
+              "Upper-middle income"
+            ],
+            [
+              "Liechtenstein",
+              "High income"
+            ],
+            [
+              "Lithuania",
+              "High income"
+            ],
+            [
+              "Luxembourg",
+              "High income"
+            ],
+            [
+              "Madagascar",
+              "Low income"
+            ],
+            [
+              "Malawi",
+              "Low income"
+            ],
+            [
+              "Malaysia",
+              "Upper-middle income"
+            ],
+            [
+              "Maldives",
+              "Upper-middle income"
+            ],
+            [
+              "Mali",
+              "Low income"
+            ],
+            [
+              "Malta",
+              "High income"
+            ],
+            [
+              "Marshall Islands",
+              "Upper-middle income"
+            ],
+            [
+              "Mauritania",
+              "Lower-middle income"
+            ],
+            [
+              "Mauritius",
+              "Upper-middle income"
+            ],
+            [
+              "Mexico",
+              "Upper-middle income"
+            ],
+            [
+              "Micronesia",
+              "Upper-middle income"
+            ],
+            [
+              "Moldova",
+              "Upper-middle income"
+            ],
+            [
+              "Monaco",
+              "High income"
+            ],
+            [
+              "Mongolia",
+              "Upper-middle income"
+            ],
+            [
+              "Montenegro",
+              "Upper-middle income"
+            ],
+            [
+              "Morocco",
+              "Lower-middle income"
+            ],
+            [
+              "Mozambique",
+              "Low income"
+            ],
+            [
+              "Myanmar",
+              "Lower-middle income"
+            ],
+            [
+              "Namibia",
+              "Lower-middle income"
+            ],
+            [
+              "Nauru",
+              "High income"
+            ],
+            [
+              "Nepal",
+              "Lower-middle income"
+            ],
+            [
+              "Netherlands",
+              "High income"
+            ],
+            [
+              "New Zealand",
+              "High income"
+            ],
+            [
+              "Nicaragua",
+              "Lower-middle income"
+            ],
+            [
+              "Niger",
+              "Low income"
+            ],
+            [
+              "Nigeria",
+              "Lower-middle income"
+            ],
+            [
+              "North Macedonia",
+              "Upper-middle income"
+            ],
+            [
+              "Norway",
+              "High income"
+            ],
+            [
+              "Oman",
+              "High income"
+            ],
+            [
+              "Pakistan",
+              "Lower-middle income"
+            ],
+            [
+              "Palau",
+              "High income"
+            ],
+            [
+              "Panama",
+              "High income"
+            ],
+            [
+              "Papua New Guinea",
+              "Lower-middle income"
+            ],
+            [
+              "Paraguay",
+              "Upper-middle income"
+            ],
+            [
+              "Peru",
+              "Upper-middle income"
+            ],
+            [
+              "Philippines",
+              "Upper-middle income"
+            ],
+            [
+              "Poland",
+              "High income"
+            ],
+            [
+              "Portugal",
+              "High income"
+            ],
+            [
+              "Qatar",
+              "High income"
+            ],
+            [
+              "Romania",
+              "High income"
+            ],
+            [
+              "Russia",
+              "High income"
+            ],
+            [
+              "Rwanda",
+              "Low income"
+            ],
+            [
+              "Samoa",
+              "Upper-middle income"
+            ],
+            [
+              "San Marino",
+              "High income"
+            ],
+            [
+              "São Tomé and Príncipe",
+              "Lower-middle income"
+            ],
+            [
+              "Saudi Arabia",
+              "High income"
+            ],
+            [
+              "Senegal",
+              "Lower-middle income"
+            ],
+            [
+              "Serbia",
+              "Upper-middle income"
+            ],
+            [
+              "Seychelles",
+              "High income"
+            ],
+            [
+              "Sierra Leone",
+              "Low income"
+            ],
+            [
+              "Singapore",
+              "High income"
+            ],
+            [
+              "Slovakia",
+              "High income"
+            ],
+            [
+              "Slovenia",
+              "High income"
+            ],
+            [
+              "Solomon Islands",
+              "Lower-middle income"
+            ],
+            [
+              "Somalia",
+              "Low income"
+            ],
+            [
+              "South Africa",
+              "Upper-middle income"
+            ],
+            [
+              "South Sudan",
+              "Low income"
+            ],
+            [
+              "Spain",
+              "High income"
+            ],
+            [
+              "Sri Lanka",
+              "Upper-middle income"
+            ],
+            [
+              "St. Kitts and Nevis",
+              "High income"
+            ],
+            [
+              "St. Lucia",
+              "Upper-middle income"
+            ],
+            [
+              "St. Vincent and the Grenadines",
+              "Upper-middle income"
+            ],
+            [
+              "Sudan",
+              "Low income"
+            ],
+            [
+              "Suriname",
+              "Upper-middle income"
+            ],
+            [
+              "Sweden",
+              "High income"
+            ],
+            [
+              "Switzerland",
+              "High income"
+            ],
+            [
+              "Syria",
+              "Low income"
+            ],
+            [
+              "Taiwan",
+              "High income"
+            ],
+            [
+              "Tajikistan",
+              "Lower-middle income"
+            ],
+            [
+              "Tanzania",
+              "Lower-middle income"
+            ],
+            [
+              "Thailand",
+              "Upper-middle income"
+            ],
+            [
+              "Timor-Leste",
+              "Lower-middle income"
+            ],
+            [
+              "Togo",
+              "Lower-middle income"
+            ],
+            [
+              "Tonga",
+              "Upper-middle income"
+            ],
+            [
+              "Trinidad and Tobago",
+              "High income"
+            ],
+            [
+              "Tunisia",
+              "Lower-middle income"
+            ],
+            [
+              "Türkiye",
+              "Upper-middle income"
+            ],
+            [
+              "Turkmenistan",
+              "Upper-middle income"
+            ],
+            [
+              "Tuvalu",
+              "Upper-middle income"
+            ],
+            [
+              "Uganda",
+              "Low income"
+            ],
+            [
+              "Ukraine",
+              "Upper-middle income"
+            ],
+            [
+              "United Arab Emirates",
+              "High income"
+            ],
+            [
+              "United Kingdom",
+              "High income"
+            ],
+            [
+              "United States",
+              "High income"
+            ],
+            [
+              "Uruguay",
+              "High income"
+            ],
+            [
+              "Uzbekistan",
+              "Lower-middle income"
+            ],
+            [
+              "Vanuatu",
+              "Lower-middle income"
+            ],
+            [
+              "Venezuela",
+              "Lower-middle income"
+            ],
+            [
+              "Vietnam",
+              "Upper-middle income"
+            ],
+            [
+              "West Bank and Gaza",
+              "Lower-middle income"
+            ],
+            [
+              "Yemen",
+              "Low income"
+            ],
+            [
+              "Zambia",
+              "Lower-middle income"
+            ],
+            [
+              "Zimbabwe",
+              "Lower-middle income"
+            ]
+          ],
+          "caption": "2025年世界各国收入分组"
+        }
+      ],
+      "deep_dive": "## 一、收入分组标准与方法\n世界银行每年7月依据前一年人均国民总收入（GNI per capita）更新国家收入分组，采用阿特拉斯方法（Atlas method）折算美元，以消除汇率波动影响。2025年分组使用2023年数据，具体阈值为：低收入≤$1,145，中低收入$1,146–$4,515，中高收入$4,516–$14,005，高收入>$14,005。这些阈值随全球通胀逐年上调，反映动态的相对标准。\n\n## 二、全球收入格局特征\n最新分组清单显示，全球65个高收入经济体主要集中在欧洲、北美、亚洲部分发达地区及石油富国；59个中高收入国家以新兴市场为主，如中国、巴西、南非等；47个中低收入国家包括印度、尼日利亚等人口大国；25个低收入国家几乎全为撒哈拉以南非洲国家，仅有两个在亚洲（阿富汗、叙利亚）。整体呈金字塔形，但高收入组别虽数量较少，却掌控全球经济总量的绝大部分。\n\n## 三、区域差异与典型国家\n- **欧洲**：除科索沃、波黑等为中高收入外，基本整体进入高收入行列，凸显先发优势与一体化红利。\n- **亚洲**：分化剧烈，日本、韩国、新加坡等稳居高收入；中国、马来西亚、泰国正处于向高收入跨越的关键期；印度、巴基斯坦仍为中低收入，面临基础设施与人力资本挑战。\n- **非洲**：低收入国家集中的大陆，冲突、治理失灵与资源诅咒交织，仅毛里求斯、塞舌尔等少数岛国进入高收入。\n- **美洲**：美国、加拿大为高收入，拉美多数为中高或中低收入，阿根廷、巴西等传统中等强国长期徘徊。\n\n## 四、启示与局限\n- 俄罗斯被归为高收入，引发对其经济结构与可持续性的质疑，凸显按人均GNI单一指标的局限性。\n- 中国若成功跨越“中等收入陷阱”，将重塑全球高收入俱乐部版图，但需解决收入分配、创新能力等问题。\n- 该分组忽略国内贫富差距、购买力平价及非经济维度的发展，应结合其他指标综合研判。低收入国家亟需国际支持以应对债务、气候变化等多重危机。",
+      "glossary": [
+        {
+          "term": "世界银行收入分组",
+          "explanation": "世界银行基于人均国民总收入将经济体划分为低收入、中低收入、中高收入和高收入四类，每年7月更新，用于政策分析和国际比较。"
+        },
+        {
+          "term": "人均国民总收入（GNI per capita）",
+          "explanation": "国民总收入除以年中人口数，反映了本国居民在国内外创造的总收入水平，是衡量经济发展阶段的核心指标。"
+        },
+        {
+          "term": "阿特拉斯方法",
+          "explanation": "世界银行用于计算GNI的国际比较方法，通过三年平均汇率和价格调整系数将本币换算为美元，以减少汇率短期波动的影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "34957434",
     "title": "Ranked: Which Brands Gained the Most From the FIFA World Cup?",
     "original_url": "https://www.visualcapitalist.com/ranked-which-brands-gained-the-most-from-the-fifa-world-cup/",
