@@ -1,5 +1,505 @@
 [
   {
+    "id": "db1d089f",
+    "title": "Ranked: The Most Valuable Squads at the 2026 FIFA World Cup",
+    "original_url": "https://www.visualcapitalist.com/cp/ranked-the-most-valuable-squads-at-the-2026-fifa-world-cup/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/db1d089f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpJ5/eq6T/ADdajuCarITursUFY8uVV3NhZvloqmhO2iseUv2jP//Z",
+    "image_version": 1785275625,
+    "pub_date": "Tue, 28 Jul 2026 19:45:41 +0000",
+    "content_md": "| Rank | Team | Squad Value (€ Millions) | Continent |\n| --- | --- | --- | --- |\n| 1 | France | 1,520 | Europe |\n| 2 | England | 1,360 | Europe |\n| 3 | Spain | 1,220 | Europe |\n| 4 | Portugal | 1,010 | Europe |\n| 5 | Germany | 947.0 | Europe |\n| 6 | Brazil | 928.2 | South America |\n| 7 | Argentina | 807.5 | South America |\n| 8 | Netherlands | 754.2 | Europe |\n| 9 | Norway | 589.9 | Europe |\n| 10 | Belgium | 547.5 | Europe |\n| 11 | Ivory Coast | 522.1 | Africa |\n| 12 | Senegal | 478.1 | Africa |\n| 13 | Türkiye | 473.7 | Europe |\n| 14 | Morocco | 447.7 | Africa |\n| 15 | Sweden | 406.1 | Europe |\n| 16 | Croatia | 387.3 | Europe |\n| 17 | U.S. | 385.6 | North America |\n| 18 | Ecuador | 368.7 | South America |\n| 19 | Uruguay | 359.3 | South America |\n| 20 | Switzerland | 332.5 | Europe |\n| 21 | Colombia | 302.4 | South America |\n| 22 | Japan | 270.9 | Asia |\n| 23 | Algeria | 256.9 | Africa |\n| 24 | Austria | 245.2 | Europe |\n| 25 | Ghana | 234.5 | Africa |\n| 26 | Canada | 198.7 | North America |\n| 27 | Mexico | 191.9 | North America |\n| 28 | Czech Republic | 188.2 | Europe |\n| 29 | Scotland | 170.3 | Europe |\n| 30 | Paraguay | 153.7 | South America |\n| 31 | Bosnia & Herzegovina | 146.4 | Europe |\n| 32 | DR Congo | 143.9 | Africa |\n| 33 | South Korea | 139.1 | Asia |\n| 34 | Egypt | 116.5 | Africa |\n| 35 | Uzbekistan | 85.3 | Asia |\n| 36 | Australia | 77.5 | Oceania |\n| 37 | Tunisia | 70.0 | Africa |\n| 38 | Haiti | 55.9 | North America |\n| 39 | Cape Verde | 49.3 | Africa |\n| 40 | South Africa | 49.3 | Africa |\n| 41 | Saudi Arabia | 40.7 | Asia |\n| 42 | Panama | 34.6 | North America |\n| 43 | New Zealand | 34.5 | Oceania |\n| 44 | Iran | 32.1 | Asia |\n| 45 | Curaçao | 25.8 | South America |\n| 46 | Iraq | 21.2 | Asia |\n| 47 | Jordan | 20.3 | Asia |\n| 48 | Qatar | 19.9 | Asia |",
+    "ai_analysis": {
+      "core_insight": "法国队以15.2亿欧元居首，欧洲球队垄断前五，市值集中反映球员身价差距。",
+      "data_highlights": [
+        "法国队阵容总价值15.2亿欧元，高居榜首，英格兰13.6亿欧元紧随其后。",
+        "前五名均为欧洲球队，欧洲球队在前十中占据八席。",
+        "南美双雄巴西和阿根廷分列第6和第7，市值均超8亿欧元。",
+        "非洲球队中，科特迪瓦以5.22亿欧元排名最高，为第11位。",
+        "亚洲球队最高的是日本，市值2.71亿欧元，位列第22名。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Team",
+            "Squad Value (€ Millions)",
+            "Continent"
+          ],
+          "rows": [
+            [
+              "1",
+              "France",
+              "1,520",
+              "Europe"
+            ],
+            [
+              "2",
+              "England",
+              "1,360",
+              "Europe"
+            ],
+            [
+              "3",
+              "Spain",
+              "1,220",
+              "Europe"
+            ],
+            [
+              "4",
+              "Portugal",
+              "1,010",
+              "Europe"
+            ],
+            [
+              "5",
+              "Germany",
+              "947.0",
+              "Europe"
+            ],
+            [
+              "6",
+              "Brazil",
+              "928.2",
+              "South America"
+            ],
+            [
+              "7",
+              "Argentina",
+              "807.5",
+              "South America"
+            ],
+            [
+              "8",
+              "Netherlands",
+              "754.2",
+              "Europe"
+            ],
+            [
+              "9",
+              "Norway",
+              "589.9",
+              "Europe"
+            ],
+            [
+              "10",
+              "Belgium",
+              "547.5",
+              "Europe"
+            ],
+            [
+              "11",
+              "Ivory Coast",
+              "522.1",
+              "Africa"
+            ],
+            [
+              "12",
+              "Senegal",
+              "478.1",
+              "Africa"
+            ],
+            [
+              "13",
+              "Türkiye",
+              "473.7",
+              "Europe"
+            ],
+            [
+              "14",
+              "Morocco",
+              "447.7",
+              "Africa"
+            ],
+            [
+              "15",
+              "Sweden",
+              "406.1",
+              "Europe"
+            ],
+            [
+              "16",
+              "Croatia",
+              "387.3",
+              "Europe"
+            ],
+            [
+              "17",
+              "U.S.",
+              "385.6",
+              "North America"
+            ],
+            [
+              "18",
+              "Ecuador",
+              "368.7",
+              "South America"
+            ],
+            [
+              "19",
+              "Uruguay",
+              "359.3",
+              "South America"
+            ],
+            [
+              "20",
+              "Switzerland",
+              "332.5",
+              "Europe"
+            ],
+            [
+              "21",
+              "Colombia",
+              "302.4",
+              "South America"
+            ],
+            [
+              "22",
+              "Japan",
+              "270.9",
+              "Asia"
+            ],
+            [
+              "23",
+              "Algeria",
+              "256.9",
+              "Africa"
+            ],
+            [
+              "24",
+              "Austria",
+              "245.2",
+              "Europe"
+            ],
+            [
+              "25",
+              "Ghana",
+              "234.5",
+              "Africa"
+            ],
+            [
+              "26",
+              "Canada",
+              "198.7",
+              "North America"
+            ],
+            [
+              "27",
+              "Mexico",
+              "191.9",
+              "North America"
+            ],
+            [
+              "28",
+              "Czech Republic",
+              "188.2",
+              "Europe"
+            ],
+            [
+              "29",
+              "Scotland",
+              "170.3",
+              "Europe"
+            ],
+            [
+              "30",
+              "Paraguay",
+              "153.7",
+              "South America"
+            ],
+            [
+              "31",
+              "Bosnia & Herzegovina",
+              "146.4",
+              "Europe"
+            ],
+            [
+              "32",
+              "DR Congo",
+              "143.9",
+              "Africa"
+            ],
+            [
+              "33",
+              "South Korea",
+              "139.1",
+              "Asia"
+            ],
+            [
+              "34",
+              "Egypt",
+              "116.5",
+              "Africa"
+            ],
+            [
+              "35",
+              "Uzbekistan",
+              "85.3",
+              "Asia"
+            ],
+            [
+              "36",
+              "Australia",
+              "77.5",
+              "Oceania"
+            ],
+            [
+              "37",
+              "Tunisia",
+              "70.0",
+              "Africa"
+            ],
+            [
+              "38",
+              "Haiti",
+              "55.9",
+              "North America"
+            ],
+            [
+              "39",
+              "Cape Verde",
+              "49.3",
+              "Africa"
+            ],
+            [
+              "40",
+              "South Africa",
+              "49.3",
+              "Africa"
+            ],
+            [
+              "41",
+              "Saudi Arabia",
+              "40.7",
+              "Asia"
+            ],
+            [
+              "42",
+              "Panama",
+              "34.6",
+              "North America"
+            ],
+            [
+              "43",
+              "New Zealand",
+              "34.5",
+              "Oceania"
+            ],
+            [
+              "44",
+              "Iran",
+              "32.1",
+              "Asia"
+            ],
+            [
+              "45",
+              "Curaçao",
+              "25.8",
+              "South America"
+            ],
+            [
+              "46",
+              "Iraq",
+              "21.2",
+              "Asia"
+            ],
+            [
+              "47",
+              "Jordan",
+              "20.3",
+              "Asia"
+            ],
+            [
+              "48",
+              "Qatar",
+              "19.9",
+              "Asia"
+            ]
+          ],
+          "caption": "2026世界杯球队市值排名（前48名）"
+        }
+      ],
+      "deep_dive": "## 欧洲霸榜与球员身价集中\n2026年世界杯球队市值排名清晰地揭示了当今足坛的财富格局：欧洲球队在前十名中占据八席，且前五名全部来自欧洲。法国队以15.2亿欧元的总身价位居榜首，得益于姆巴佩、楚阿梅尼等巨星的高额转会市场估值。英格兰队13.6亿欧元紧随其后，贝林厄姆、福登等年轻才俊拉高了平均水平。西班牙、葡萄牙分别以12.2亿和10.1亿欧元排名三、四，体现了欧洲顶级联赛对球员价值的深度挖掘。\n\n这一现象背后是欧洲五大联赛的商业化与全球化吸金能力。顶级俱乐部愿意为潜力新星支付巨额转会费，使得国家队阵容的市值水涨船高。挪威队凭借哈兰德（估值约1.8亿欧元）一人就跻身前十，凸显了超级巨星对球队总市值的决定性影响。相比之下，德国、巴西等传统强队因部分位置球员身价相对“平民化”，排名稍低于预期。\n\n## 南美双雄与非洲势力的追赶\n南美洲的巴西和阿根廷分列第6和第7，市值分别为9.28亿和8.08亿欧元。巴西年轻锋线维尼修斯、罗德里戈等身价飙升，但中后场估值相对欧洲存在差距；阿根廷虽贵为世界冠军，但球员年龄结构偏大，整体市值未能突破9亿。南美其他球队如厄瓜多尔、乌拉圭等市值均低于4亿，反映出南美俱乐部输血能力与欧洲的鸿沟。\n\n非洲球队的崛起引人注目：科特迪瓦（5.22亿）、塞内加尔（4.78亿）和摩洛哥（4.48亿）分列非洲前三，均进入全球前15。这些球队依赖欧洲青训或归化球员，血液中流淌着欧洲联赛的锤炼。然而，非洲球队之间市值分化明显，南非、佛得角等仅约5000万，显示内部发展不均。\n\n## 亚洲与大洋洲的困局与启示\n亚洲球队整体市值偏低，最高的日本队仅2.71亿欧元，韩国1.39亿，沙特、伊朗等更低。这直接反映了亚洲球员在欧洲顶级联赛的稀缺性，以及亚洲本土联赛的商业价值有限。大洋洲的澳大利亚（7750万）和新西兰（3450万）同样处于下游，但澳大利亚凭借部分旅欧球员身价略高于其他洲末流队伍。\n\n市值并不能完全等同于竞技实力。2022年世界杯摩洛哥打入四强，克罗地亚连续取得佳绩，均证明团队战术与精神属性可弥补身价差距。然而，长期来看，市值高度集中的球队在阵容深度和天才储备上占据绝对优势，这为中小国家在世界杯上逆袭增加了难度。2026年美加墨世界杯扩军至48队，部分低市值球队将获得展示舞台，但突围仍需超常发挥。",
+      "glossary": [
+        {
+          "term": "Squad Value (球队市值)",
+          "explanation": "根据球员当前转会市场价值（通常综合年龄、合同、表现等因素估算）加总得出的国家队全部球员总身价，单位通常为欧元或美元。"
+        },
+        {
+          "term": "转会市场估值",
+          "explanation": "专业机构（如Transfermarkt）综合球员能力、潜力、合同年限等评估的球员在当前市场中的合理转会费区间。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc56f90f",
+    "title": "Charted: 75 Years of America’s Electricity Transition",
+    "original_url": "https://www.visualcapitalist.com/75-years-americas-electricity-transition/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/bc56f90f.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAdABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvWbFM8wZpJicVVLHdUDLwkFFVQxxRTuItyJmoDBzV2kwKQysIeKKs4FFID//Z",
+    "image_version": 1785275653,
+    "pub_date": "Tue, 28 Jul 2026 19:17:39 +0000",
+    "content_md": "| Energy Source | Share of U.S. Electricity Generation |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1950 | 1965 | 1980 | 1995 | 2010 | 2025 |  |\n| Natural Gas | 13.5% | 21.0% | 15.1% | 14.8% | 24.0% | 40.8% |\n| Renewables | 30.2% | 18.6% | 12.4% | 11.4% | 10.2% | 24.0% |\n| Nuclear | 0.0% | 0.4% | 11.0% | 20.1% | 19.6% | 17.7% |\n| Coal | 46.4% | 54.0% | 50.7% | 51.0% | 44.8% | 16.6% |\n| Petroleum and Other | 10.2% | 6.1% | 10.7% | 2.8% | 1.5% | 0.8% |\n\n| Energy Source | Electricity Generation (Billion kWh) |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1950 | 1965 | 1980 | 1995 | 2010 | 2025 |  |\n| Natural Gas | 45 | 222 | 346 | 496 | 988 | 1,807 |\n| Renewables | 101 | 197 | 285 | 382 | 422 | 1,064 |\n| Nuclear | 0 | 4 | 251 | 673 | 807 | 785 |\n| Coal | 155 | 571 | 1,162 | 1,709 | 1,847 | 737 |\n| Petroleum and Other | 34 | 65 | 246 | 93 | 61 | 37 |\n| Total Electricity Generation | 334 | 1,058 | 2,290 | 3,353 | 4,125 | 4,430 |\n\n| Year | Natural Gas (Billion kWh) | Renewables (Billion kWh) | Nuclear (Billion kWh) | Coal (Billion kWh) | Petroleum and Other (Billion kWh) | Total Electricity Generation (Billion kWh) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1950 | 45 | 101 | 0 | 155 | 34 | 334 |\n| 1951 | 57 | 105 | 0 | 185 | 29 | 375 |\n| 1952 | 68 | 110 | 0 | 195 | 30 | 404 |\n| 1953 | 80 | 110 | 0 | 219 | 38 | 447 |\n| 1954 | 94 | 112 | 0 | 239 | 32 | 476 |\n| 1955 | 95 | 117 | 0 | 301 | 37 | 550 |\n| 1956 | 104 | 125 | 0 | 339 | 36 | 604 |\n| 1957 | 114 | 134 | 0 | 346 | 40 | 635 |\n| 1958 | 120 | 144 | 0 | 344 | 40 | 648 |\n| 1959 | 147 | 141 | 0 | 378 | 47 | 713 |\n| 1960 | 158 | 150 | 1 | 403 | 48 | 759 |\n| 1961 | 169 | 156 | 2 | 422 | 49 | 797 |\n| 1962 | 184 | 172 | 2 | 450 | 49 | 858 |\n| 1963 | 202 | 169 | 3 | 494 | 52 | 920 |\n| 1964 | 220 | 181 | 3 | 526 | 57 | 987 |\n| 1965 | 222 | 197 | 4 | 571 | 65 | 1058 |\n| 1966 | 251 | 198 | 6 | 613 | 79 | 1148 |\n| 1967 | 265 | 226 | 8 | 630 | 89 | 1218 |\n| 1968 | 304 | 227 | 13 | 685 | 104 | 1333 |\n| 1969 | 333 | 254 | 14 | 706 | 138 | 1445 |\n| 1970 | 373 | 252 | 22 | 704 | 184 | 1535 |\n| 1971 | 374 | 270 | 38 | 713 | 220 | 1616 |\n| 1972 | 376 | 278 | 54 | 771 | 274 | 1753 |\n| 1973 | 341 | 278 | 83 | 848 | 314 | 1864 |\n| 1974 | 320 | 307 | 114 | 828 | 301 | 1870 |\n| 1975 | 300 | 307 | 173 | 853 | 289 | 1921 |\n| 1976 | 295 | 291 | 191 | 944 | 320 | 2041 |\n| 1977 | 306 | 228 | 251 | 985 | 358 | 2127 |\n| 1978 | 305 | 287 | 276 | 976 | 365 | 2209 |\n| 1979 | 329 | 287 | 255 | 1075 | 304 | 2251 |\n| 1980 | 346 | 285 | 251 | 1162 | 246 | 2290 |\n| 1981 | 346 | 270 | 273 | 1203 | 206 | 2298 |\n| 1982 | 305 | 318 | 283 | 1192 | 147 | 2244 |\n| 1983 | 274 | 342 | 294 | 1259 | 144 | 2313 |\n| 1984 | 297 | 333 | 328 | 1342 | 120 | 2419 |\n| 1985 | 292 | 295 | 384 | 1402 | 100 | 2473 |\n| 1986 | 249 | 306 | 414 | 1386 | 137 | 2490 |\n| 1987 | 273 | 265 | 455 | 1464 | 118 | 2575 |\n| 1988 | 253 | 238 | 527 | 1541 | 149 | 2707 |\n| 1989 | 353 | 325 | 529 | 1584 | 176 | 2967 |\n| 1990 | 373 | 354 | 577 | 1594 | 140 | 3038 |\n| 1991 | 382 | 353 | 613 | 1591 | 136 | 3074 |\n| 1992 | 404 | 323 | 619 | 1621 | 117 | 3084 |\n| 1993 | 415 | 353 | 610 | 1690 | 129 | 3197 |\n| 1994 | 460 | 333 | 640 | 1691 | 123 | 3248 |\n| 1995 | 496 | 382 | 673 | 1709 | 93 | 3353 |\n| 1996 | 455 | 420 | 675 | 1795 | 99 | 3444 |\n| 1997 | 479 | 430 | 629 | 1845 | 110 | 3492 |\n| 1998 | 531 | 396 | 674 | 1874 | 146 | 3620 |\n| 1999 | 556 | 393 | 728 | 1881 | 136 | 3695 |\n| 2000 | 601 | 351 | 754 | 1966 | 130 | 3802 |\n| 2001 | 639 | 279 | 769 | 1904 | 146 | 3737 |\n| 2002 | 691 | 335 | 780 | 1933 | 120 | 3858 |\n| 2003 | 650 | 347 | 764 | 1974 | 149 | 3883 |\n| 2004 | 710 | 343 | 789 | 1978 | 151 | 3971 |\n| 2005 | 761 | 351 | 782 | 2013 | 149 | 4055 |\n| 2006 | 816 | 379 | 787 | 1991 | 91 | 4065 |\n| 2007 | 897 | 346 | 806 | 2016 | 91 | 4157 |\n| 2008 | 883 | 375 | 806 | 1986 | 70 | 4119 |\n| 2009 | 921 | 413 | 799 | 1756 | 61 | 3950 |\n| 2010 | 988 | 422 | 807 | 1847 | 61 | 4125 |\n| 2011 | 1014 | 507 | 790 | 1733 | 56 | 4100 |\n| 2012 | 1226 | 490 | 769 | 1514 | 49 | 4048 |\n| 2013 | 1125 | 517 | 789 | 1581 | 54 | 4066 |\n| 2014 | 1127 | 532 | 797 | 1582 | 56 | 4094 |\n| 2015 | 1335 | 539 | 797 | 1352 | 55 | 4079 |\n| 2016 | 1379 | 603 | 806 | 1239 | 51 | 4078 |\n| 2017 | 1298 | 680 | 805 | 1206 | 47 | 4035 |\n| 2018 | 1472 | 701 | 807 | 1149 | 52 | 4181 |\n| 2019 | 1589 | 723 | 809 | 965 | 44 | 4131 |\n| 2020 | 1627 | 778 | 790 | 773 | 42 | 4010 |\n| 2021 | 1579 | 810 | 780 | 898 | 43 | 4110 |\n| 2022 | 1687 | 895 | 772 | 832 | 46 | 4231 |\n| 2023 | 1806 | 889 | 775 | 675 | 38 | 4183 |\n| 2024 | 1870 | 971 | 782 | 652 | 34 | 4309 |\n| 2025 | 1807 | 1064 | 785 | 737 | 37 | 4430 |",
+    "ai_analysis": {
+      "core_insight": "美国电力转型：天然气与可再生能源崛起，煤炭从霸主跌至配角。",
+      "data_highlights": [
+        "天然气发电占比从1950年的13.5%飙升至2025年的40.8%，成为最大电源。",
+        "可再生能源占比经历V形反转：从1950年的30.2%降至2010年的10.2%，再回升至2025年的24.0%。",
+        "煤炭占比从1950年的46.4%骤降至2025年的16.6%，发电量在2007年达峰后腰斩。",
+        "核能自1960年代起步，1995年占比达20.1%，2025年稳定在17.7%。",
+        "总发电量从1950年的3340亿千瓦时增至2025年的44300亿千瓦时，增长超13倍。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Energy Source",
+            "1950",
+            "1965",
+            "1980",
+            "1995",
+            "2010",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Natural Gas",
+              "13.5%",
+              "21.0%",
+              "15.1%",
+              "14.8%",
+              "24.0%",
+              "40.8%"
+            ],
+            [
+              "Renewables",
+              "30.2%",
+              "18.6%",
+              "12.4%",
+              "11.4%",
+              "10.2%",
+              "24.0%"
+            ],
+            [
+              "Nuclear",
+              "0.0%",
+              "0.4%",
+              "11.0%",
+              "20.1%",
+              "19.6%",
+              "17.7%"
+            ],
+            [
+              "Coal",
+              "46.4%",
+              "54.0%",
+              "50.7%",
+              "51.0%",
+              "44.8%",
+              "16.6%"
+            ],
+            [
+              "Petroleum and Other",
+              "10.2%",
+              "6.1%",
+              "10.7%",
+              "2.8%",
+              "1.5%",
+              "0.8%"
+            ]
+          ],
+          "caption": "美国各能源发电量份额（%）"
+        },
+        {
+          "headers": [
+            "Energy Source",
+            "1950",
+            "1965",
+            "1980",
+            "1995",
+            "2010",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Natural Gas",
+              "45",
+              "222",
+              "346",
+              "496",
+              "988",
+              "1,807"
+            ],
+            [
+              "Renewables",
+              "101",
+              "197",
+              "285",
+              "382",
+              "422",
+              "1,064"
+            ],
+            [
+              "Nuclear",
+              "0",
+              "4",
+              "251",
+              "673",
+              "807",
+              "785"
+            ],
+            [
+              "Coal",
+              "155",
+              "571",
+              "1,162",
+              "1,709",
+              "1,847",
+              "737"
+            ],
+            [
+              "Petroleum and Other",
+              "34",
+              "65",
+              "246",
+              "93",
+              "61",
+              "37"
+            ],
+            [
+              "Total Electricity Generation",
+              "334",
+              "1,058",
+              "2,290",
+              "3,353",
+              "4,125",
+              "4,430"
+            ]
+          ],
+          "caption": "美国各能源发电量（十亿千瓦时）"
+        }
+      ],
+      "deep_dive": "## 转型三阶段：煤炭王朝的覆灭与天然气黄金时代\n\n美国电力结构75年的演变可清晰划分为三个阶段。\n\n- **煤炭绝对主导期（1950–1980）**：煤炭占比始终在46%–54%之间，1965年甚至攀至54%。这一时期美国工业化与电气化高速推进，煤电凭借低成本与丰富储量成为基荷首选。水电是可再生能源主力，但占比从30.2%逐年下滑，因需求增速远超水电开发速度。\n- **多元试探期（1980–2010）**：两次石油危机催生能源安全焦虑，核能与天然气开始挤占煤电空间。1973年石油禁运后，核电进入爆发期，1995年占比达20.1%；天然气则受1978年《发电厂与工业燃料使用法案》压制，占比长期在15%左右。此间煤炭仍占半壁江山，2007年发电量创历史峰值2,0160亿千瓦时，但随后页岩气革命悄然酝酿。\n- **页岩气与风光崛起期（2010–2025）**：水平钻井与水力压裂技术突破使得天然气价格骤降，其发电占比从24.0%一路攀升至40.8%，同期煤炭从44.8%断崖式跌至16.6%。可再生能源在经历多年徘徊后，借补贴与成本下降重回扩张通道，2025年占比24.0%，其中风电、太阳能贡献超六成。核能维持稳定，但老旧机组退役与新建乏力使其占比微降。\n\n## 驱动力与启示：技术、政策与市场的三重变奏\n\n- **技术颠覆**：页岩气革命重塑全球能源格局，美国从LNG进口国转为出口国，气电兼具经济性与灵活性，完美匹配可再生能源调峰需求。风光成本十年间降幅超70%，平价上网推动装机爆发。\n- **政策杠杆**：联邦层面，《清洁空气法》修正案（1990）与《汞和空气有毒物标准》（2011）显著提高煤电环保成本；州级可再生能源配额制（RPS）与生产税收抵免（PTC）激励风光扩张。反观核电，三哩岛事故后监管成本剧增，新建项目几乎停滞。\n- **市场选择**：低价天然气与愈发严格的环境法规形成合力，经济性驱动大量煤电机组退役（2010–2025年淘汰超100GW）。电力需求增长放缓甚至停滞，增量市场几乎全部由气电与新能源填补。\n\n## 局限与展望\n\n尽管转型成效显著，但当前数据仅反映发电端，未涵盖终端消费及输配损耗。2025年数据为预测值，实际走势受经济波动、气候政策与技术进步等多种不确定因素影响。未来，储能技术突破与电网升级将成为可再生能源渗透率进一步提升的关键。若天然气价格大幅反弹或碳定价机制落地，煤电淘汰速度可能再度生变。这场跨世纪的电力转型，既是技术与政策的赛跑，也是一部能源地缘政治微观史。",
+      "glossary": [
+        {
+          "term": "基荷电源",
+          "explanation": "承担电力系统连续、稳定供电需求的发电厂，如煤电、核电，其出力通常恒定。"
+        },
+        {
+          "term": "页岩气革命",
+          "explanation": "指21世纪初美国通过水力压裂和水平钻井技术大量开采页岩气，致使其天然气产量飙升、价格暴跌，深刻改变能源结构。"
+        },
+        {
+          "term": "可再生能源配额制（RPS）",
+          "explanation": "州政府要求电力供应商一定比例的电力来自风能、太阳能等可再生能源，以推动清洁能源发展。"
+        },
+        {
+          "term": "调峰电源",
+          "explanation": "能快速启停或调整出力以匹配电力需求波动的电源，如天然气发电、抽水蓄能等。"
+        }
+      ]
+    }
+  },
+  {
     "id": "c7de1972",
     "title": "Ranked: Top Sectors for Global Foreign Direct Investment",
     "original_url": "https://www.visualcapitalist.com/the-top-sectors-for-international-investment-in-2025/",
