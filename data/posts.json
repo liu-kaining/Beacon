@@ -1,5 +1,456 @@
 [
   {
+    "id": "b66681b9",
+    "title": "U.S. Battery Capacity Growth Forecast: 2026–2031",
+    "original_url": "https://www.visualcapitalist.com/sp/npuc26-u-s-battery-capacity-growth-forecast-2026-2031/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b66681b9.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAaABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDYmuBjrVJ5hnrVOW4J71AZj61pTbM6iL/nD1orO80+tFbcxjyEbNmoyaDSVjDY3mGaKSiruQf/2Q==",
+    "image_version": 1785255994,
+    "pub_date": "Tue, 28 Jul 2026 15:40:00 +0000",
+    "content_md": "| Year | Cumulative U.S. Battery Storage Power Capacity (GW) |\n| --- | --- |\n| 2025 | 44 |\n| 2026 | 68 |\n| 2027 | 91 |\n| 2028 | 104 |\n| 2029 | 110 |\n| 2030 | 111 |\n| 2031 | 112 |",
+    "ai_analysis": {
+      "core_insight": "2028年后美国电池储能增长近乎停滞，年增量从2026年的24GW骤降至1GW",
+      "data_highlights": [
+        "2025年装机44GW，2028年达到104GW，三年增长近1.4倍",
+        "2028至2031年总增量仅8GW，复合年增长率降至2.5%",
+        "2026-2027年连续两年增量超22GW，但2028年增量腰斩至13GW",
+        "2031年累计装机112GW，仅比2030年高出1GW，增速见顶"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Year",
+            "Cumulative U.S. Battery Storage Power Capacity (GW)"
+          ],
+          "rows": [
+            [
+              "2025",
+              "44"
+            ],
+            [
+              "2026",
+              "68"
+            ],
+            [
+              "2027",
+              "91"
+            ],
+            [
+              "2028",
+              "104"
+            ],
+            [
+              "2029",
+              "110"
+            ],
+            [
+              "2030",
+              "111"
+            ],
+            [
+              "2031",
+              "112"
+            ]
+          ],
+          "caption": "美国电池储能累计装机容量预测 (2025–2031)"
+        }
+      ],
+      "deep_dive": "## 增长轨迹与转折点\n该预测描绘了一条先爆发后急刹的路径。2025–2027年为高速扩张期，年均新增超24 GW，驱动力可能来自《通胀削减法案》激励、可再生能源配套需求及独立储能经济性改善。然而，2028年成为转折：新增容量骤降至13 GW，此后陷入平台期，2031年仅新增1 GW。\n\n- **前期强劲**：2024–2027年累计新增约91 GW，反映短期政策红利与项目储备集中释放。\n- **断崖式放缓**：2028年后增长失速，与同期光伏、风电装机规划形成背离，暗示系统性瓶颈出现。\n\n## 增长停滞的潜在机制\n预测隐含的急剧放缓可能源于多重因素交织：\n- **市场饱和与选址瓶颈**：早期优势区域（如加州、德州）电网接入容量饱和，跨州输电线路建设滞后，导致新项目并网困难。\n- **补贴退坡与商业模式挑战**：联邦投资税收抵免（ITC）逐步下调，现货市场套利空间因储能渗透率提高而收窄，独立储能盈利能力承压。\n- **供应链与成本压力**：尽管电池价格长期下降，但近期关税上调、本土制造要求趋严抬升系统成本，延缓投资决策。\n- **政策摇摆风险**：若联邦清洁电力目标弱化，公用事业采购意愿可能降低，导致远期项目取消。\n\n## 对电力系统与市场的影响\n增长急剧放缓将深刻影响美国能源转型节奏：\n- **可再生能源弃电加剧**：太阳能晚间出力高峰缺乏储能平移，加州“鸭型曲线”可能恶化，负电价时段增加。\n- **备用容量依赖气电**：储能装见顶将迫使电网更多依赖天然气调峰，抬高电力行业碳排放与电价波动风险。\n- **投资机遇转移**：资本可能转向需求侧响应、虚拟电厂或长时储能技术，但短期内难以填补容量缺口。\n\n## 对比与启示\n相较于中国“十四五”至“十五五”期间规划新增超100 GW抽蓄及新型储能，美国预测呈现先扬后抑，凸显政策连续性与市场深度的差异。即便考虑数据来源保守偏向，如此剧烈的掉速仍需警惕，或倒逼州级层面出台强制性储能目标、加速跨区输电投资以突破瓶颈。",
+      "glossary": [
+        {
+          "term": "电池储能电力容量",
+          "explanation": "指电池储能系统在特定条件下可输出的最大瞬时功率，单位为吉瓦(GW)，反映其支撑电网的能力，区别于能量容量(GWh)。"
+        },
+        {
+          "term": "投资税收抵免 (ITC)",
+          "explanation": "美国联邦政府对符合条件的可再生能源及储能项目提供的一次性税收减免，可降低初始投资成本，是推动储能部署的关键政策。"
+        },
+        {
+          "term": "鸭型曲线",
+          "explanation": "描述高光伏渗透率下，净电力负荷在日落时快速爬升的曲线形状，储能可有效平抑该波动。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce3e3e8c",
+    "title": "Mapped: Where Innovation Is Thriving Across America",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-innovation-is-thriving-across-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/ce3e3e8c.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDq55cVHFPlutQ3RNV4Cd/WuiME0cMqrubiSfKKKgjPyCio5Ebe0Z//2Q==",
+    "image_version": 1785256024,
+    "pub_date": "Tue, 28 Jul 2026 14:14:03 +0000",
+    "content_md": "| Rank | State | Most Innovative (0-100) |\n| --- | --- | --- |\n| 1 | California | 95.2 |\n| 2 | Massachusetts | 75.2 |\n| 3 | Delaware | 57.3 |\n| 4 | Washington | 51.8 |\n| 5 | Oregon | 37.2 |\n| 6 | Colorado | 33.6 |\n| 7 | Connecticut | 32.6 |\n| 8 | Wyoming | 31.9 |\n| 9 | Minnesota | 31.1 |\n| 10 | Idaho | 29.8 |\n| 11 | New Hampshire | 29.4 |\n| 12 | Michigan | 28.1 |\n| 13 | New York | 27.1 |\n| 14 | Vermont | 25.0 |\n| 15 | Utah | 24.1 |\n| 16 | North Carolina | 23.5 |\n| 17 | Maryland | 22.2 |\n| 18 | Illinois | 21.8 |\n| 19 | Wisconsin | 21.4 |\n| 20 | Virginia | 20.6 |\n| 21 | New Jersey | 19.8 |\n| 22 | New Mexico | 18.6 |\n| 23 | Arizona | 18.4 |\n| 24 | Rhode Island | 18.2 |\n| 25 | Iowa | 17.7 |\n| 26 | Texas | 17.7 |\n| 27 | Ohio | 17.6 |\n| 28 | Pennsylvania | 17.4 |\n| 29 | Nevada | 16.5 |\n| 30 | North Dakota | 15.4 |\n| 31 | Indiana | 14.6 |\n| 32 | Montana | 13.6 |\n| 33 | Missouri | 12.0 |\n| 34 | Kansas | 11.8 |\n| 35 | Georgia | 11.4 |\n| 36 | Florida | 10.5 |\n| 37 | Tennessee | 8.8 |\n| 38 | Nebraska | 8.2 |\n| 39 | South Carolina | 6.7 |\n| 40 | Alabama | 5.4 |\n| 41 | Oklahoma | 5.2 |\n| 42 | South Dakota | 5.1 |\n| 43 | Kentucky | 4.7 |\n| 44 | Maine | 4.7 |\n| 45 | Arkansas | 3.0 |\n| 46 | Hawaii | 2.8 |\n| 47 | Louisiana | 1.9 |\n| 48 | West Virginia | 0.5 |\n| 49 | Alaska | 0.4 |\n| 50 | Mississippi | 0.1 |\n\n| Most Innovative | Patents per 100K residents | VC deal value (per capita) | R&D expenditures (per capita) |\n| --- | --- | --- | --- |\n| California | 129 | $4,920 | $7,105 |\n| Massachusetts | 106 | $2,324 | $9,688 |\n| Delaware | 63 | $3,772 | $5,796 |\n| Washington | 80 | $938 | $7,443 |\n| Oregon | 75 | $320 | $2,675 |\n\n| Least Innovative | Patents per 100K residents | VC deal value (per capita) | R&D expenditures (per capita) |\n| --- | --- | --- | --- |\n| Hawaii | 8 | $78 | $748 |\n| Louisiana | 8 | $18 | $422 |\n| West Virginia | 5 | $2 | $413 |\n| Alaska | 4 | $12 | $581 |\n| Mississippi | 4 | $2 | $435 |",
+    "ai_analysis": {
+      "core_insight": "加州以绝对优势领跑全美创新，得分95.2远超次席，创新资源高度集中于沿海与科技重镇。",
+      "data_highlights": [
+        "加州创新得分95.2，是第二名马萨诸塞州（75.2）的1.3倍，形成断层式领先。",
+        "创新前五州人均VC投资额均超320美元，加州高达4920美元，末五州则不足80美元。",
+        "密西西比州创新得分仅0.1，人均专利4件、VC投资2美元，创新生态近乎空白。",
+        "人均R&D支出最高（马萨诸塞州9688美元）与最低（西弗吉尼亚州413美元）相差超23倍。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State",
+            "Most Innovative (0-100)"
+          ],
+          "rows": [
+            [
+              "1",
+              "California",
+              "95.2"
+            ],
+            [
+              "2",
+              "Massachusetts",
+              "75.2"
+            ],
+            [
+              "3",
+              "Delaware",
+              "57.3"
+            ],
+            [
+              "4",
+              "Washington",
+              "51.8"
+            ],
+            [
+              "5",
+              "Oregon",
+              "37.2"
+            ],
+            [
+              "6",
+              "Colorado",
+              "33.6"
+            ],
+            [
+              "7",
+              "Connecticut",
+              "32.6"
+            ],
+            [
+              "8",
+              "Wyoming",
+              "31.9"
+            ],
+            [
+              "9",
+              "Minnesota",
+              "31.1"
+            ],
+            [
+              "10",
+              "Idaho",
+              "29.8"
+            ],
+            [
+              "11",
+              "New Hampshire",
+              "29.4"
+            ],
+            [
+              "12",
+              "Michigan",
+              "28.1"
+            ],
+            [
+              "13",
+              "New York",
+              "27.1"
+            ],
+            [
+              "14",
+              "Vermont",
+              "25.0"
+            ],
+            [
+              "15",
+              "Utah",
+              "24.1"
+            ],
+            [
+              "16",
+              "North Carolina",
+              "23.5"
+            ],
+            [
+              "17",
+              "Maryland",
+              "22.2"
+            ],
+            [
+              "18",
+              "Illinois",
+              "21.8"
+            ],
+            [
+              "19",
+              "Wisconsin",
+              "21.4"
+            ],
+            [
+              "20",
+              "Virginia",
+              "20.6"
+            ],
+            [
+              "21",
+              "New Jersey",
+              "19.8"
+            ],
+            [
+              "22",
+              "New Mexico",
+              "18.6"
+            ],
+            [
+              "23",
+              "Arizona",
+              "18.4"
+            ],
+            [
+              "24",
+              "Rhode Island",
+              "18.2"
+            ],
+            [
+              "25",
+              "Iowa",
+              "17.7"
+            ],
+            [
+              "26",
+              "Texas",
+              "17.7"
+            ],
+            [
+              "27",
+              "Ohio",
+              "17.6"
+            ],
+            [
+              "28",
+              "Pennsylvania",
+              "17.4"
+            ],
+            [
+              "29",
+              "Nevada",
+              "16.5"
+            ],
+            [
+              "30",
+              "North Dakota",
+              "15.4"
+            ],
+            [
+              "31",
+              "Indiana",
+              "14.6"
+            ],
+            [
+              "32",
+              "Montana",
+              "13.6"
+            ],
+            [
+              "33",
+              "Missouri",
+              "12.0"
+            ],
+            [
+              "34",
+              "Kansas",
+              "11.8"
+            ],
+            [
+              "35",
+              "Georgia",
+              "11.4"
+            ],
+            [
+              "36",
+              "Florida",
+              "10.5"
+            ],
+            [
+              "37",
+              "Tennessee",
+              "8.8"
+            ],
+            [
+              "38",
+              "Nebraska",
+              "8.2"
+            ],
+            [
+              "39",
+              "South Carolina",
+              "6.7"
+            ],
+            [
+              "40",
+              "Alabama",
+              "5.4"
+            ],
+            [
+              "41",
+              "Oklahoma",
+              "5.2"
+            ],
+            [
+              "42",
+              "South Dakota",
+              "5.1"
+            ],
+            [
+              "43",
+              "Kentucky",
+              "4.7"
+            ],
+            [
+              "44",
+              "Maine",
+              "4.7"
+            ],
+            [
+              "45",
+              "Arkansas",
+              "3.0"
+            ],
+            [
+              "46",
+              "Hawaii",
+              "2.8"
+            ],
+            [
+              "47",
+              "Louisiana",
+              "1.9"
+            ],
+            [
+              "48",
+              "West Virginia",
+              "0.5"
+            ],
+            [
+              "49",
+              "Alaska",
+              "0.4"
+            ],
+            [
+              "50",
+              "Mississippi",
+              "0.1"
+            ]
+          ],
+          "caption": "全美各州创新指数排名（0-100分）"
+        },
+        {
+          "headers": [
+            "Most Innovative",
+            "Patents per 100K residents",
+            "VC deal value (per capita)",
+            "R&D expenditures (per capita)"
+          ],
+          "rows": [
+            [
+              "California",
+              "129",
+              "$4,920",
+              "$7,105"
+            ],
+            [
+              "Massachusetts",
+              "106",
+              "$2,324",
+              "$9,688"
+            ],
+            [
+              "Delaware",
+              "63",
+              "$3,772",
+              "$5,796"
+            ],
+            [
+              "Washington",
+              "80",
+              "$938",
+              "$7,443"
+            ],
+            [
+              "Oregon",
+              "75",
+              "$320",
+              "$2,675"
+            ]
+          ],
+          "caption": "创新指数前五州关键创新指标"
+        },
+        {
+          "headers": [
+            "Least Innovative",
+            "Patents per 100K residents",
+            "VC deal value (per capita)",
+            "R&D expenditures (per capita)"
+          ],
+          "rows": [
+            [
+              "Hawaii",
+              "8",
+              "$78",
+              "$748"
+            ],
+            [
+              "Louisiana",
+              "8",
+              "$18",
+              "$422"
+            ],
+            [
+              "West Virginia",
+              "5",
+              "$2",
+              "$413"
+            ],
+            [
+              "Alaska",
+              "4",
+              "$12",
+              "$581"
+            ],
+            [
+              "Mississippi",
+              "4",
+              "$2",
+              "$435"
+            ]
+          ],
+          "caption": "创新指数末五州关键创新指标"
+        }
+      ],
+      "deep_dive": "## 创新地理格局：从“单极主导”到“内陆塌陷”\n美国创新版图呈现极端的空间非均衡性。加州以95.2分独占鳌头，其人均专利数（129件/10万人）是末位密西西比州（4件）的32倍，人均VC投资额（4920美元）更是密西西比州（2美元）的2460倍。前三名（加州、马萨诸塞州、特拉华州）得分均超过57，从华盛顿州（第4名）开始断崖式下跌至51.8，前五名之后再无超40分者。东北部的马萨诸塞州凭借生物医药与高校集群（人均R&D支出9688美元为全美最高）稳居第二，而传统工业带（如密歇根、俄亥俄）得分在28以下，内陆及南部州普遍低于15分，形成“沿海创新走廊”与“内陆创新荒漠”的鲜明对比。\n\n## 创新投入产出关联：资本密集度决定创新高度\n三个核心指标（人均专利、人均VC交易额、人均R&D支出）与综合创新得分高度正相关。前五名州的人均VC投资额均超过320美元，而末五名均不足80美元；人均R&D支出方面，前五名最低的俄勒冈州（2675美元）也是末五名最高者（路易斯安那州422美元）的6.3倍。值得注意的是，特拉华州人均VC高达3772美元（超过华盛顿州），但人均专利仅63件，可能因其企业注册地属性导致VC数据虚高而实际创新产出有限。与之相对，俄勒冈州人均专利75件但VC投资仅320美元，反映其创新更多依赖大型企业内生研发而非风投驱动。\n\n## 创新鸿沟的成因与启示\n加州和马萨诸塞州聚集了斯坦福、麻省理工等顶尖高校，形成了人才、资本、政策的“飞轮效应”，而中西部和南部州受制于产业路径依赖（如资源型经济）、人才外流和科研基础设施薄弱，创新动能不足。政策制定者需关注：① 联邦研发拨款可适度向低分州倾斜，但应避免“撒胡椒面”，需与产业基础匹配；② 内陆州可依托特色产业（如爱达荷州的半导体制造）走差异化创新路径；③ 远程办公浪潮可能为低成本地区吸引创新人才提供新机遇。然而，该指数仅采用三项指标，未涵盖创业活跃度、科技就业密度等维度，可能低估部分州的隐性创新能力（如佛罗里达州的航天科技）。",
+      "glossary": [
+        {
+          "term": "VC deal value per capita",
+          "explanation": "人均风险投资交易额，反映一个地区吸引早期创新资本的能力，是衡量创新生态活跃度的关键指标。"
+        },
+        {
+          "term": "R&D expenditures per capita",
+          "explanation": "人均研发支出，包括政府、企业和高校的研发投入总和，直接体现对创新活动的资源投入力度。"
+        },
+        {
+          "term": "Patents per 100K residents",
+          "explanation": "每10万居民拥有的专利数量，衡量地区技术发明产出效率，是创新成果转化的重要代理变量。"
+        }
+      ]
+    }
+  },
+  {
     "id": "e2bfd7f6",
     "title": "Mapped: Every Country in the World by Income Group",
     "original_url": "https://www.visualcapitalist.com/mapped-every-country-by-income-group/",
