@@ -1,5 +1,238 @@
 [
   {
+    "id": "291ffb68",
+    "title": "Ranked: The World’s Biggest Lumber Producers",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-lumber-producers/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/291ffb68.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAKABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC2/SoCeamkqA9aypHTiNh+aKbRXQcJ/9k=",
+    "image_version": 1785331862,
+    "pub_date": "Wed, 29 Jul 2026 12:04:35 +0000",
+    "content_md": "| Rank | Country | Cubic Feet (2024) | Global Share |\n| --- | --- | --- | --- |\n| 1 | U.S. | 2.7B | 17.0% |\n| 2 | China | 2.1B | 13.7% |\n| 3 | Russia | 1.3B | 8.4% |\n| 4 | Canada | 1.2B | 7.9% |\n| 5 | India | 847M | 5.4% |\n| 6 | Germany | 820M | 5.2% |\n| 7 | Sweden | 632M | 4.0% |\n| 8 | Finland | 388M | 2.5% |\n| 9 | Brazil | 344M | 2.2% |\n| 10 | Austria | 343M | 2.2% |\n| 11 | Türkiye | 333M | 2.1% |\n| 12 | Japan | 281M | 1.8% |\n| 13 | France | 271M | 1.7% |\n| 14 | Chile | 249M | 1.6% |\n| 15 | Mexico | 241M | 1.5% |\n| 16 | Vietnam | 203M | 1.3% |\n| 17 | Thailand | 198M | 1.3% |\n| 18 | Czechia | 167M | 1.1% |\n| 19 | Belarus | 162M | 1.0% |\n| 20 | Poland | 148M | 0.9% |\n| 21 | New Zealand | 147M | 0.9% |\n| 22 | Romania | 138M | 0.9% |\n| 23 | Australia | 133M | 0.8% |\n| 24 | Argentina | 132M | 0.8% |\n| 25 | Ukraine | 113M | 0.7% |\n| 26 | UK | 113M | 0.7% |\n| 27 | Latvia | 105M | 0.7% |\n| 28 | Norway | 95M | 0.6% |\n| 29 | Spain | 92M | 0.6% |\n| 30 | Indonesia | 78M | 0.5% |\n| -- | World total | $15.7B (Market Value) | 100% |",
+    "ai_analysis": {
+      "core_insight": "美中俄加四国木材产量占全球近半，前十大生产国贡献超三分之二份额。",
+      "data_highlights": [
+        "美国以2.7B立方英尺产量高居榜首，占全球17.0%份额。",
+        "中国与俄罗斯分列二、三位，产量分别为2.1B和1.3B立方英尺。",
+        "前5名国家总产量占全球52.4%，前10名占比高达68.5%。",
+        "全球木材市场总价值达157亿美元，凸显行业经济规模。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Cubic Feet (2024)",
+            "Global Share"
+          ],
+          "rows": [
+            [
+              "1",
+              "U.S.",
+              "2.7B",
+              "17.0%"
+            ],
+            [
+              "2",
+              "China",
+              "2.1B",
+              "13.7%"
+            ],
+            [
+              "3",
+              "Russia",
+              "1.3B",
+              "8.4%"
+            ],
+            [
+              "4",
+              "Canada",
+              "1.2B",
+              "7.9%"
+            ],
+            [
+              "5",
+              "India",
+              "847M",
+              "5.4%"
+            ],
+            [
+              "6",
+              "Germany",
+              "820M",
+              "5.2%"
+            ],
+            [
+              "7",
+              "Sweden",
+              "632M",
+              "4.0%"
+            ],
+            [
+              "8",
+              "Finland",
+              "388M",
+              "2.5%"
+            ],
+            [
+              "9",
+              "Brazil",
+              "344M",
+              "2.2%"
+            ],
+            [
+              "10",
+              "Austria",
+              "343M",
+              "2.2%"
+            ],
+            [
+              "11",
+              "Türkiye",
+              "333M",
+              "2.1%"
+            ],
+            [
+              "12",
+              "Japan",
+              "281M",
+              "1.8%"
+            ],
+            [
+              "13",
+              "France",
+              "271M",
+              "1.7%"
+            ],
+            [
+              "14",
+              "Chile",
+              "249M",
+              "1.6%"
+            ],
+            [
+              "15",
+              "Mexico",
+              "241M",
+              "1.5%"
+            ],
+            [
+              "16",
+              "Vietnam",
+              "203M",
+              "1.3%"
+            ],
+            [
+              "17",
+              "Thailand",
+              "198M",
+              "1.3%"
+            ],
+            [
+              "18",
+              "Czechia",
+              "167M",
+              "1.1%"
+            ],
+            [
+              "19",
+              "Belarus",
+              "162M",
+              "1.0%"
+            ],
+            [
+              "20",
+              "Poland",
+              "148M",
+              "0.9%"
+            ],
+            [
+              "21",
+              "New Zealand",
+              "147M",
+              "0.9%"
+            ],
+            [
+              "22",
+              "Romania",
+              "138M",
+              "0.9%"
+            ],
+            [
+              "23",
+              "Australia",
+              "133M",
+              "0.8%"
+            ],
+            [
+              "24",
+              "Argentina",
+              "132M",
+              "0.8%"
+            ],
+            [
+              "25",
+              "Ukraine",
+              "113M",
+              "0.7%"
+            ],
+            [
+              "26",
+              "UK",
+              "113M",
+              "0.7%"
+            ],
+            [
+              "27",
+              "Latvia",
+              "105M",
+              "0.7%"
+            ],
+            [
+              "28",
+              "Norway",
+              "95M",
+              "0.6%"
+            ],
+            [
+              "29",
+              "Spain",
+              "92M",
+              "0.6%"
+            ],
+            [
+              "30",
+              "Indonesia",
+              "78M",
+              "0.5%"
+            ],
+            [
+              "--",
+              "World total",
+              "$15.7B (Market Value)",
+              "100%"
+            ]
+          ],
+          "caption": "2024年全球前30大木材生产国排名"
+        }
+      ],
+      "deep_dive": "## 全球木材生产格局：高度集中与区域分化\n\n2024年全球木材产量呈现明显的头部集中特征。前五大生产国（美国、中国、俄罗斯、加拿大、印度）合计产量占比超过52%，前十名国家更是包揽了全球近七成的份额。美国凭借广阔的林地和先进的林业管理，以17%的份额稳居第一；中国虽列第二，但其木材消费远大于产量，仍需大量进口以满足建筑和家具等行业需求。俄罗斯拥有世界最大森林面积，但产量仅排第三，反映出采伐效率与基础设施的制约。加拿大和北欧国家（瑞典、芬兰）则凭借可持续林业实践在高附加值针叶材领域占据优势。值得注意的是，热带木材大国如巴西和印尼的产量排名相对靠后，可能与严格的森林保护政策及非法采伐打击力度有关。\n\n## 产量与价值脱节：隐藏在体积背后的经济密码\n\n表格最后一行揭示了关键矛盾：全球木材总产量以体积计达到数十亿立方英尺，但市场价值仅为157亿美元。这暗示着不同树种和木材类型的价格悬殊巨大。北欧和北美产出的优质建筑用材与纸浆材可能占据大部分价值，而发展中国家所产木材往往单价较低。此外，数据未区分工业原木与薪材，而薪材在部分国家（如印度）产量中占比很高，进一步拉低了平均单价。这种结构与国际贸易流密切关联：高价值木材主要由温带地区流向中国和欧洲，而亚洲和非洲的发展中国家则多以低附加值形式出口。理解木材市场不能仅凭体积排名，还需结合树种、用途和加工深度等维度。\n\n## 可持续性与地缘政治：隐忧与启示\n\n前30大生产国中，许多国家正面临森林资源可持续性的挑战。俄罗斯和白俄罗斯的产量部分依赖于广袤的泰加林，但开采方式常受环保组织诟病；巴西和印尼虽位列榜单尾部，却是全球毁林舆论焦点，其产量数据可能未完全反映森林退化问题。另一方面，北欧和加拿大通过认证体系和循环经济模式，树立了可持续林业的标杆。地缘政治同样不容忽视：乌克兰受战争影响产量剧降，而俄罗斯木材因制裁转向亚洲市场，正在重塑全球贸易流向。投资者和政策制定者需密切关注各国林业政策、贸易壁垒以及气候变化对产区的影响，这些因素将日益主导木材供应的稳定性。",
+      "glossary": [
+        {
+          "term": "Cubic Feet",
+          "explanation": "立方英尺，体积单位，常用于木材和气体的计量，1立方英尺约等于0.028立方米。"
+        },
+        {
+          "term": "Global Share",
+          "explanation": "全球份额，指某个国家或地区的产量占全球总产量的百分比，反映其在国际市场中的相对地位。"
+        },
+        {
+          "term": "Market Value",
+          "explanation": "市场价值，此处指全球木材贸易的总金额，以美元计价，不同于以体积计算的产量数据，受木材种类和品质影响。"
+        }
+      ]
+    }
+  },
+  {
     "id": "db1d089f",
     "title": "Ranked: The Most Valuable Squads at the 2026 FIFA World Cup",
     "original_url": "https://www.visualcapitalist.com/cp/ranked-the-most-valuable-squads-at-the-2026-fifa-world-cup/",
