@@ -1,5 +1,249 @@
 [
   {
+    "id": "b055a12a",
+    "title": "Mapped: U.S. Oil Production by State in 2025",
+    "original_url": "https://www.visualcapitalist.com/mapped-us-crude-oil-production-by-state-2025/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/b055a12a.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAYABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDj1SlZDirUaA0siDFTzamzhoZxXmipmXmiruZWJI5sU95siiipa1NE3YrM/NFFFVYyuf/Z",
+    "image_version": 1785350923,
+    "pub_date": "Wed, 29 Jul 2026 17:17:07 +0000",
+    "content_md": "| Rank | State or Producing Area | Crude Oil Production (Thousand Barrels per Day) | Share of U.S. Production (%) |\n| --- | --- | --- | --- |\n| 1 | Texas | 5,751 | 42.3 |\n| 2 | New Mexico | 2,244 | 16.5 |\n| 3 | Gulf of Mexico | 1,898 | 14.0 |\n| 4 | North Dakota | 1,154 | 8.5 |\n| 5 | Colorado | 467 | 3.4 |\n| 6 | Alaska | 421 | 3.1 |\n| 7 | Oklahoma | 405 | 3.0 |\n| 8 | Wyoming | 289 | 2.1 |\n| 9 | California | 257 | 1.9 |\n| 10 | Utah | 185 | 1.4 |\n| 11 | Ohio | 139 | 1.0 |\n| 12 | Montana | 78 | 0.6 |\n| 13 | Louisiana | 71 | 0.5 |\n| 14 | Kansas | 69 | 0.5 |\n| 15 | West Virginia | 41 | 0.3 |\n| 16 | Mississippi | 27 | 0.2 |\n| 17 | Illinois | 18 | 0.1 |\n| 18 | Pennsylvania | 11 | 0.1 |\n| 19 | Arkansas | 11 | 0.1 |\n| 20 | Michigan | 10 | 0.1 |\n| 21 | Alabama | 8 | 0.1 |\n| 22 | Kentucky | 5 | 0.0 |\n| 23 | Indiana | 4 | 0.0 |\n| 24 | Nebraska | 4 | 0.0 |\n| 25 | Florida | 2 | 0.0 |\n| 26 | South Dakota | 2 | 0.0 |\n| 27 | New York | 1 | 0.0 |\n\n| PADD Region | Crude Oil Production (Thousand Barrels per Day) | Share of U.S. Production (%) |\n| --- | --- | --- |\n| Gulf Coast (PADD 3) | 10,010 | 73.7 |\n| Midwest (PADD 2) | 1,811 | 13.3 |\n| Rocky Mountain (PADD 4) | 1,020 | 7.5 |\n| West Coast (PADD 5) | 690 | 5.1 |\n| East Coast (PADD 1) | 55 | 0.4 |",
+    "ai_analysis": {
+      "core_insight": "美国原油生产高度集中，得州与新墨西哥州合计占全国近六成。",
+      "data_highlights": [
+        "得州以575.1万桶/日产量独占全国42.3%份额，遥遥领先。",
+        "前三大产区（得州、新墨西哥、墨西哥湾）合计贡献73.8%产量。",
+        "墨西哥湾沿岸PADD 3区域产量占全国73.7%，凸显地理集中度。",
+        "二叠纪盆地跨越的得州与新墨西哥州合计占58.8%，为页岩核心。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "State or Producing Area",
+            "Crude Oil Production (Thousand Barrels per Day)",
+            "Share of U.S. Production (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Texas",
+              "5,751",
+              "42.3"
+            ],
+            [
+              "2",
+              "New Mexico",
+              "2,244",
+              "16.5"
+            ],
+            [
+              "3",
+              "Gulf of Mexico",
+              "1,898",
+              "14.0"
+            ],
+            [
+              "4",
+              "North Dakota",
+              "1,154",
+              "8.5"
+            ],
+            [
+              "5",
+              "Colorado",
+              "467",
+              "3.4"
+            ],
+            [
+              "6",
+              "Alaska",
+              "421",
+              "3.1"
+            ],
+            [
+              "7",
+              "Oklahoma",
+              "405",
+              "3.0"
+            ],
+            [
+              "8",
+              "Wyoming",
+              "289",
+              "2.1"
+            ],
+            [
+              "9",
+              "California",
+              "257",
+              "1.9"
+            ],
+            [
+              "10",
+              "Utah",
+              "185",
+              "1.4"
+            ],
+            [
+              "11",
+              "Ohio",
+              "139",
+              "1.0"
+            ],
+            [
+              "12",
+              "Montana",
+              "78",
+              "0.6"
+            ],
+            [
+              "13",
+              "Louisiana",
+              "71",
+              "0.5"
+            ],
+            [
+              "14",
+              "Kansas",
+              "69",
+              "0.5"
+            ],
+            [
+              "15",
+              "West Virginia",
+              "41",
+              "0.3"
+            ],
+            [
+              "16",
+              "Mississippi",
+              "27",
+              "0.2"
+            ],
+            [
+              "17",
+              "Illinois",
+              "18",
+              "0.1"
+            ],
+            [
+              "18",
+              "Pennsylvania",
+              "11",
+              "0.1"
+            ],
+            [
+              "19",
+              "Arkansas",
+              "11",
+              "0.1"
+            ],
+            [
+              "20",
+              "Michigan",
+              "10",
+              "0.1"
+            ],
+            [
+              "21",
+              "Alabama",
+              "8",
+              "0.1"
+            ],
+            [
+              "22",
+              "Kentucky",
+              "5",
+              "0.0"
+            ],
+            [
+              "23",
+              "Indiana",
+              "4",
+              "0.0"
+            ],
+            [
+              "24",
+              "Nebraska",
+              "4",
+              "0.0"
+            ],
+            [
+              "25",
+              "Florida",
+              "2",
+              "0.0"
+            ],
+            [
+              "26",
+              "South Dakota",
+              "2",
+              "0.0"
+            ],
+            [
+              "27",
+              "New York",
+              "1",
+              "0.0"
+            ]
+          ],
+          "caption": "2025年美国各州原油产量排名"
+        },
+        {
+          "headers": [
+            "PADD Region",
+            "Crude Oil Production (Thousand Barrels per Day)",
+            "Share of U.S. Production (%)"
+          ],
+          "rows": [
+            [
+              "Gulf Coast (PADD 3)",
+              "10,010",
+              "73.7"
+            ],
+            [
+              "Midwest (PADD 2)",
+              "1,811",
+              "13.3"
+            ],
+            [
+              "Rocky Mountain (PADD 4)",
+              "1,020",
+              "7.5"
+            ],
+            [
+              "West Coast (PADD 5)",
+              "690",
+              "5.1"
+            ],
+            [
+              "East Coast (PADD 1)",
+              "55",
+              "0.4"
+            ]
+          ],
+          "caption": "2025年美国PADD区域原油产量"
+        }
+      ],
+      "deep_dive": "## 生产格局：历史性集中与页岩驱动\n美国原油产量在2025年依然呈现高度集中态势。得克萨斯州以575.1万桶/日（占42.3%）的绝对优势领跑，与新墨西哥州（224.4万桶/日）共同构成二叠纪盆地核心产区，两者合计贡献全国58.8%的产量。墨西哥湾海上油田作为第三大产区（189.8万桶/日，14.0%）补充了离岸产能。前三大产区合计占比73.8%，而产量前十的州/区域包揽了约96%的全国产出，凸显“赢者通吃”的生产地理。\n\n- 页岩革命深化的影响：二叠纪盆地凭借狼营（Wolfcamp）、骨泉（Bone Spring）等多层系页岩油藏，持续实现低成本增产，推动得州与新墨西哥州产量屡创新高。水平钻井与水力压裂技术的成熟，使单井生产率大幅提升，进一步巩固了该区域的成本优势。\n- 传统产区的地位变迁：阿拉斯加（北坡）虽仍列第六，但产量仅42.1万桶/日，较其历史峰值萎缩明显；加州（25.7万桶/日）受政策限制逐步退出一线；而巴肯（北达科他）与奈厄布拉勒（科罗拉多）等页岩产区维持稳健，但增速已放缓。\n\n## 区域影响：PADD划分下的炼化与物流动脉\n从美国能源信息署（EIA）定义的石油防御区（PADD）看，墨西哥湾沿岸（PADD 3）以73.7%的产量占比支配美国原油版图。该区域不仅聚集了大量页岩油产区，还拥有全国近半炼油能力及关键出口终端（如科珀斯克里斯蒂、休斯顿）。\n\n- 炼化一体化与出口导向：PADD 3的炼厂可加工大量轻质致密油，并配套完善的管道、储存设施，便于向拉美、欧洲等市场出口。这使美国从石油净进口国转变为全球最大产油国及主要出口国之一。\n- 内陆瓶颈与价差：中西部（PADD 2，13.3%）虽有巴肯与奈厄布拉勒产区，但管道容量偶尔受限，导致WTI休斯顿与米德兰价差波动。落基山（PADD 4）和西海岸（PADD 5）产量份额较小，且面临环保法规及资源衰减挑战。\n- 东海岸（PADD 1）产量几乎为零（仅5.5万桶/日），但拥有重要的炼厂（如费城、新泽西），依赖国内其他地区及进口原油供应。这种供需错配塑造了复杂的国内物流网络。\n\n综合来看，美国原油生产的地理集中赋予了墨西哥湾沿岸显著的能源枢纽地位，但也带来管道依赖、区域价差以及环境公平等课题。未来若二叠纪产量增速放缓，或政策向新能源倾斜，现有格局可能面临重塑。",
+      "glossary": [
+        {
+          "term": "二叠纪盆地 (Permian Basin)",
+          "explanation": "位于西得克萨斯与新墨西哥州东南部的超级沉积盆地，是美国页岩油产量最高的地区，贡献大部分增产。"
+        },
+        {
+          "term": "PADD (石油防御区)",
+          "explanation": "Petroleum Administration for Defense Districts，美国能源信息署划分的全国五大石油地理分区，用于统计和管理。"
+        },
+        {
+          "term": "致密油 (Tight Oil)",
+          "explanation": "存在于低渗透率页岩或砂岩中的石油，需通过水力压裂等增产措施经济开采，是近年美国产量增长的主要来源。"
+        }
+      ]
+    }
+  },
+  {
     "id": "044bd271",
     "title": "Ranked: Where Senior Populations Will Grow Fastest by 2040",
     "original_url": "https://www.visualcapitalist.com/how-much-will-senior-populations-grow-by-2040/",
