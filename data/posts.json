@@ -1,5 +1,189 @@
 [
   {
+    "id": "044bd271",
+    "title": "Ranked: Where Senior Populations Will Grow Fastest by 2040",
+    "original_url": "https://www.visualcapitalist.com/how-much-will-senior-populations-grow-by-2040/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/044bd271.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrZpMVCj5akuKjh+9RbQsvr0opU+6KKkD/2Q==",
+    "image_version": 1785341615,
+    "pub_date": "Wed, 29 Jul 2026 14:11:04 +0000",
+    "content_md": "| Country | Projected Increase (2025–2040F) | Median Age 2025 |\n| --- | --- | --- |\n| Saudi Arabia | 115% | 29.6 |\n| UAE | 80% | 31.6 |\n| Malaysia | 78% | 31.0 |\n| Vietnam | 77% | 33.4 |\n| Colombia | 77% | 32.5 |\n| Indonesia | 75% | 30.4 |\n| Mexico | 74% | 29.6 |\n| China | 69% | 40.1 |\n| India | 68% | 28.8 |\n| Singapore | 59% | 36.2 |\n| Brazil | 59% | 34.8 |\n| Nigeria | 58% | 18.1 |\n| South Korea | 58% | 45.6 |\n| Thailand | 55% | 40.6 |\n| Canada | 32% | 40.6 |\n| Netherlands | 28% | 41.5 |\n| U.S. | 28% | 38.5 |\n| UK | 26% | 40.1 |\n| France | 22% | 42.3 |\n| Croatia | 7% | 45.3 |\n| Japan | 7% | 49.8 |\n| World Average | 53% | 30.9 |",
+    "ai_analysis": {
+      "core_insight": "新兴市场老龄化提速，沙特、阿联酋增幅领跑全球，日本已近顶峰。",
+      "data_highlights": [
+        "沙特阿拉伯老年人口预计增长115%，为全球之最，中位年龄仅29.6岁。",
+        "日本老龄化接近峰值，增幅仅7%，但中位年龄高达49.8岁。",
+        "中国增幅69%，中位年龄已40.1岁，面临“未富先老”压力。",
+        "世界平均增幅53%，中位年龄30.9岁，老龄化成为全球趋势。",
+        "尼日利亚中位年龄仅18.1岁，但老年人口将增长58%，潜力与挑战并存。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "Projected Increase (2025–2040F)",
+            "Median Age 2025"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saudi Arabia",
+              "115%",
+              "29.6"
+            ],
+            [
+              "2",
+              "UAE",
+              "80%",
+              "31.6"
+            ],
+            [
+              "3",
+              "Malaysia",
+              "78%",
+              "31.0"
+            ],
+            [
+              "4",
+              "Vietnam",
+              "77%",
+              "33.4"
+            ],
+            [
+              "5",
+              "Colombia",
+              "77%",
+              "32.5"
+            ],
+            [
+              "6",
+              "Indonesia",
+              "75%",
+              "30.4"
+            ],
+            [
+              "7",
+              "Mexico",
+              "74%",
+              "29.6"
+            ],
+            [
+              "8",
+              "China",
+              "69%",
+              "40.1"
+            ],
+            [
+              "9",
+              "India",
+              "68%",
+              "28.8"
+            ],
+            [
+              "10",
+              "Singapore",
+              "59%",
+              "36.2"
+            ],
+            [
+              "11",
+              "Brazil",
+              "59%",
+              "34.8"
+            ],
+            [
+              "12",
+              "Nigeria",
+              "58%",
+              "18.1"
+            ],
+            [
+              "13",
+              "South Korea",
+              "58%",
+              "45.6"
+            ],
+            [
+              "14",
+              "Thailand",
+              "55%",
+              "40.6"
+            ],
+            [
+              "15",
+              "Canada",
+              "32%",
+              "40.6"
+            ],
+            [
+              "16",
+              "Netherlands",
+              "28%",
+              "41.5"
+            ],
+            [
+              "17",
+              "U.S.",
+              "28%",
+              "38.5"
+            ],
+            [
+              "18",
+              "UK",
+              "26%",
+              "40.1"
+            ],
+            [
+              "19",
+              "France",
+              "22%",
+              "42.3"
+            ],
+            [
+              "20",
+              "Croatia",
+              "7%",
+              "45.3"
+            ],
+            [
+              "21",
+              "Japan",
+              "7%",
+              "49.8"
+            ],
+            [
+              "World",
+              "World Average",
+              "53%",
+              "30.9"
+            ]
+          ],
+          "caption": "2025–2040年老年人口增长最快的国家/地区（含世界平均）"
+        }
+      ],
+      "deep_dive": "## 增速分化：低起点与高基数的双重效应\n\n排名显示，预计2025至2040年老年人口增幅最快的国家普遍具有较低的中位年龄，如沙特（29.6岁）、阿联酋（31.6岁）、印度（28.8岁）等，它们正处于人口转型的早期阶段，过去数十年较高的生育率为当前庞大的劳动年龄人口打下了基础。这批人群将在未来15年逐步迈入老年，导致老年人口成倍增长。相比之下，日本（49.8岁）、克罗地亚（45.3岁）等老龄化已深的国家，老年人口基数已然庞大，增幅极低，近乎停滞。\n\n- 起点差异：沙特老年人口仅占当前总人口的3.4%，而日本已超29%，低基数使增长百分比异常高。\n- 生育率历史：1980年代高生育率地区（如中东、东南亚）将在2040年前后迎来大规模退休潮。\n- 医疗延寿：预期寿命延长进一步放大了老年人口数量，尤其在中国（从2020年77.1岁预计升至2040年80岁）。\n\n## 经济与社会冲击：从“人口红利”到“老人潮”\n\n快速增长的老龄化对尚未完成收入转型的新兴经济体构成严峻挑战。中国正面临“未富先老”，养老金体系、医疗设施和长期护理保险亟待扩容；印度虽享有年轻劳动力，但老年人口绝对数量将激增逾1.5亿，农村地区社会保障薄弱。沙特、阿联酋等石油富国则需在能源转型背景下，用财政盈余构建可持续的全民养老体系。\n\n- 劳动力萎缩：中国劳动年龄人口自2012年已开始下降，2040年前65岁以上人口将增加近1.7亿。\n- 储蓄与消费：老龄化推高储蓄率、抑制消费，可能拖累经济增长。\n- 政策应对：新加坡、智利等已推动延迟退休和私人养老金，而尼日利亚等低收入国家几乎从零开始。\n\n## 启示与数据局限\n\n该预测基于当前生育率和死亡率假设，但移民、政策和技术变革可能改变轨迹。例如，沙特若能持续吸引外来年轻劳工，老龄化速度可能低于模型预期；相反，气候变化或地缘冲突可能加剧部分地区的抚养压力。此外，表格仅以增长百分比排序，未体现绝对数量——中国和印度的绝对增量远超沙特，应同等重视。",
+      "glossary": [
+        {
+          "term": "中位年龄",
+          "explanation": "将总人口按年龄分为两半的年龄值，反映人口年轻或老化程度。"
+        },
+        {
+          "term": "人口老龄化",
+          "explanation": "老年人口在总人口中的比例持续上升的动态过程，通常由生育率下降和预期寿命延长引起。"
+        },
+        {
+          "term": "人口红利",
+          "explanation": "劳动年龄人口占总人口比重较高，为经济增长提供的潜在优势窗口期。"
+        },
+        {
+          "term": "未富先老",
+          "explanation": "一个国家在人均收入尚未达到高收入水平时，就已进入老龄化社会，常见于部分发展中国家。"
+        }
+      ]
+    }
+  },
+  {
     "id": "291ffb68",
     "title": "Ranked: The World’s Biggest Lumber Producers",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-biggest-lumber-producers/",
