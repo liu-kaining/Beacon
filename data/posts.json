@@ -1,5 +1,247 @@
 [
   {
+    "id": "247739f4",
+    "title": "Ranked: The World’s Biggest Mineral Producers",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-mineral-production-by-country/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/247739f4.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDnY1p7JxSx1K3St7mdimU5oqY9aKVxWP/Z",
+    "image_version": 1785417653,
+    "pub_date": "Thu, 30 Jul 2026 12:03:55 +0000",
+    "content_md": "| Rank | Country | 2024 Production(million metric tons) | Share of global mineralproduction 2024 (%) |\n| --- | --- | --- | --- |\n| 1 | China | 5,341.4 | 26.9 |\n| 2 | United States | 2,397.4 | 12.1 |\n| 3 | Russia | 1,566.6 | 7.9 |\n| 4 | India | 1,413.8 | 7.1 |\n| 5 | Australia | 1,332.4 | 6.7 |\n| 6 | Indonesia | 941.9 | 4.7 |\n| 7 | Saudi Arabia | 620.0 | 3.1 |\n| 8 | Canada | 570.2 | 2.9 |\n| 9 | Iran | 540.3 | 2.7 |\n| 10 | Brazil | 529.8 | 2.7 |\n| 11 | South Africa | 295.8 | 1.5 |\n| 12 | Kazakhstan | 253.8 | 1.3 |\n| 13 | UAE | 238.3 | 1.2 |\n| 14 | Iraq | 226.6 | 1.1 |\n| 15 | Qatar | 215.2 | 1.1 |\n| 16 | Norway | 199.0 | 1.0 |\n| 17 | Kuwait | 156.2 | 0.8 |\n| 18 | Algeria | 151.3 | 0.8 |\n| 19 | Mexico | 147.2 | 0.7 |\n| 20 | Türkiye | 144.4 | 0.7 |\n| 21 | Guinea | 141.8 | 0.7 |\n| 22 | Germany | 122.8 | 0.6 |\n| 23 | Nigeria | 115.1 | 0.6 |\n| 24 | Mongolia | 109.2 | 0.5 |\n| 25 | Colombia | 108.8 | 0.5 |\n\n| Region | 2024 Production(million metric tons) | Share of Global MineralProduction 2024 (%) |\n| --- | --- | --- |\n| Asia-Pacific | 9,998.7 | 50.3 |\n| North America | 3,149.8 | 15.9 |\n| Europe | 2,378.3 | 12.0 |\n| Middle East | 2,311.9 | 11.6 |\n| Africa | 1,084.2 | 5.5 |\n| South America | 934.1 | 4.7 |\n| World Total | 19,857 | 100.0 |",
+    "ai_analysis": {
+      "core_insight": "中国占全球矿物产量26.9%，主导地位显著，但资源分布高度集中，供应风险值得关注。",
+      "data_highlights": [
+        "中国2024年矿物产量53.4亿吨，占全球26.9%，居绝对首位。",
+        "美国以12.1%的份额位居第二，产量24亿吨，但与中国差距巨大。",
+        "俄罗斯、印度、澳大利亚紧随其后，合计占全球21.7%，前五国总份额超60%。",
+        "亚太地区贡献全球一半产量，中东和非洲合计仅占17.1%，区域集中度极高。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Country",
+            "2024 Production (million metric tons)",
+            "Share of global mineral production 2024 (%)"
+          ],
+          "rows": [
+            [
+              "1",
+              "China",
+              "5,341.4",
+              "26.9"
+            ],
+            [
+              "2",
+              "United States",
+              "2,397.4",
+              "12.1"
+            ],
+            [
+              "3",
+              "Russia",
+              "1,566.6",
+              "7.9"
+            ],
+            [
+              "4",
+              "India",
+              "1,413.8",
+              "7.1"
+            ],
+            [
+              "5",
+              "Australia",
+              "1,332.4",
+              "6.7"
+            ],
+            [
+              "6",
+              "Indonesia",
+              "941.9",
+              "4.7"
+            ],
+            [
+              "7",
+              "Saudi Arabia",
+              "620.0",
+              "3.1"
+            ],
+            [
+              "8",
+              "Canada",
+              "570.2",
+              "2.9"
+            ],
+            [
+              "9",
+              "Iran",
+              "540.3",
+              "2.7"
+            ],
+            [
+              "10",
+              "Brazil",
+              "529.8",
+              "2.7"
+            ],
+            [
+              "11",
+              "South Africa",
+              "295.8",
+              "1.5"
+            ],
+            [
+              "12",
+              "Kazakhstan",
+              "253.8",
+              "1.3"
+            ],
+            [
+              "13",
+              "UAE",
+              "238.3",
+              "1.2"
+            ],
+            [
+              "14",
+              "Iraq",
+              "226.6",
+              "1.1"
+            ],
+            [
+              "15",
+              "Qatar",
+              "215.2",
+              "1.1"
+            ],
+            [
+              "16",
+              "Norway",
+              "199.0",
+              "1.0"
+            ],
+            [
+              "17",
+              "Kuwait",
+              "156.2",
+              "0.8"
+            ],
+            [
+              "18",
+              "Algeria",
+              "151.3",
+              "0.8"
+            ],
+            [
+              "19",
+              "Mexico",
+              "147.2",
+              "0.7"
+            ],
+            [
+              "20",
+              "Türkiye",
+              "144.4",
+              "0.7"
+            ],
+            [
+              "21",
+              "Guinea",
+              "141.8",
+              "0.7"
+            ],
+            [
+              "22",
+              "Germany",
+              "122.8",
+              "0.6"
+            ],
+            [
+              "23",
+              "Nigeria",
+              "115.1",
+              "0.6"
+            ],
+            [
+              "24",
+              "Mongolia",
+              "109.2",
+              "0.5"
+            ],
+            [
+              "25",
+              "Colombia",
+              "108.8",
+              "0.5"
+            ]
+          ],
+          "caption": "2024年全球最大矿物生产国排名"
+        },
+        {
+          "headers": [
+            "Region",
+            "2024 Production (million metric tons)",
+            "Share of Global Mineral Production 2024 (%)"
+          ],
+          "rows": [
+            [
+              "Asia-Pacific",
+              "9,998.7",
+              "50.3"
+            ],
+            [
+              "North America",
+              "3,149.8",
+              "15.9"
+            ],
+            [
+              "Europe",
+              "2,378.3",
+              "12.0"
+            ],
+            [
+              "Middle East",
+              "2,311.9",
+              "11.6"
+            ],
+            [
+              "Africa",
+              "1,084.2",
+              "5.5"
+            ],
+            [
+              "South America",
+              "934.1",
+              "4.7"
+            ],
+            [
+              "World Total",
+              "19,857",
+              "100.0"
+            ]
+          ],
+          "caption": "2024年全球矿物生产区域分布"
+        }
+      ],
+      "deep_dive": "## 全球矿物生产的集中格局与地缘影响\n\n从排名数据看，矿物生产的集中度极高。前五大生产国（中国、美国、俄罗斯、印度、澳大利亚）合计产量占全球60.7%，而仅中国一国就贡献了26.9%，远超其他国家。这反映了资源禀赋、工业化进程与矿业政策长期累积的结果。值得注意的是，排名中不少国家（如沙特、伊朗、阿联酋、伊拉克、卡塔尔、科威特、阿尔及利亚、尼日利亚）的矿物产量主要来自油气资源，而非金属矿产，因此该榜单实质是“矿物与化石能源综合排名”，需区分解读。\n\n- 中国的绝对主导地位得益于其大规模的煤炭、稀土、以及多种金属矿的开采，但同时也面临着环境约束与资源枯竭的挑战。\n- 美国产量主要来自煤炭、天然气、铜矿等，页岩气革命使其稳居第二，但对中国关键矿产进口依赖度仍高。\n- 俄罗斯与中亚（哈萨克斯坦）资源丰富，但受地缘政治与投资环境影响，产量潜力未能充分发挥。\n- 非洲（如南非、几内亚）虽然份额仅5.5%，但在铂族金属、铝土矿等关键矿产上具有战略地位，未来增长潜力大。\n\n## 区域对比与供应链风险\n\n区域分布显示，亚太地区独占半壁江山（50.3%），主因中、印、印尼、澳大利亚等国的高产量。北美和欧洲合计27.9%，中东以11.6%的份额凸显了油气矿产的权重。南美和非洲合计仅10.2%，但两者是清洁能源转型所需关键矿物（锂、铜、钴）的核心产区，这种产量与需求的结构性错配将加剧供应链风险。\n\n- 亚太内部也存在分化：澳大利亚的矿石大量出口到中国冶炼，形成“澳矿-中冶”绑定；印度则侧重于国内消费。\n- 欧洲矿物产量（12%）主要来自俄罗斯（油气）和挪威（油气），乌克兰冲突已经暴露了欧洲对单一来源的脆弱性。\n- 非洲的份额看似不高，但中国通过“一带一路”在几内亚、刚果金等地的矿业投资，实际上控制了相当比例的精选矿，这种“产量在本土，权益在海外”的统计口径可能低估了供应链的实际控制力。\n\n综合来看，这份排名虽以矿物总量计，却深刻映射了全球能源与矿产权力的分布。未来，随着清洁能源转型，锂、钴、稀土等关键矿产的权重将上升，排名可能发生显著变化。政策制定者应关注生产集中度带来的市场脆弱性，并推动多元化供应与回收技术发展。",
+      "glossary": [
+        {
+          "term": "矿物产量 (Mineral Production)",
+          "explanation": "指一国境内开采的各类矿物总量，通常包含煤炭、石油、天然气等化石能源以及金属和非金属矿产，以重量为单位统计。"
+        },
+        {
+          "term": "关键矿产 (Critical Minerals)",
+          "explanation": "对经济发展和国家安全至关重要且存在供应短缺风险的矿产，如稀土、锂、钴等，多用于高科技和清洁能源产业。"
+        },
+        {
+          "term": "集中度 (Concentration Ratio)",
+          "explanation": "衡量市场或生产分布集中程度的指标，通常用前几位生产者的总份额百分比表示，高集中度意味着供应风险上升。"
+        }
+      ]
+    }
+  },
+  {
     "id": "983bbd85",
     "title": "Charted: The World’s Shift to Cities (1950–2050)",
     "original_url": "https://www.visualcapitalist.com/worlds-shift-to-cities-1950-2050/",
