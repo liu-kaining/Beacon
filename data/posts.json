@@ -1,5 +1,585 @@
 [
   {
+    "id": "07d86245",
+    "title": "Ranked: The World’s Most Livable Regions in 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-livable-regions-in-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/07d86245.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDs3amK/NNeox1rFIyci4H4oqJelFKwcx//2Q==",
+    "image_version": 1785438311,
+    "pub_date": "Thu, 30 Jul 2026 17:23:47 +0000",
+    "content_md": "| Region | Liveability | Stability | Healthcare | Culture & environment | Education | Infrastructure |\n| --- | --- | --- | --- | --- | --- | --- |\n| Asia | 74 | 76 | 76 | 67 | 82 | 74 |\n| North America | 90 | 85 | 92 | 90 | 100 | 92 |\n| Western Europe | 92 | 86 | 95 | 92 | 96 | 93 |\n| Eastern Europe | 71 | 70 | 71 | 70 | 81 | 70 |\n| Latin America | 67 | 58 | 68 | 75 | 80 | 63 |\n| Middle East & N. Africa | 61 | 55 | 68 | 52 | 78 | 64 |\n| Sub-Saharan Africa | 55 | 49 | 47 | 65 | 65 | 51 |",
+    "ai_analysis": {
+      "core_insight": "全球宜居性呈明显分化：西欧与北美领跑，撒哈拉以南非洲大幅落后。",
+      "data_highlights": [
+        "北美教育得分满分（100），为全球唯一。",
+        "西欧宜居总分最高（92），稳定性、医疗、文化与环境均超90。",
+        "撒哈拉以南非洲医疗仅47分，稳定性49分，宜居总分最低（55）。",
+        "亚洲教育得分82，基础设施74，但文化与环境仅67。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Region",
+            "Liveability",
+            "Stability",
+            "Healthcare",
+            "Culture & environment",
+            "Education",
+            "Infrastructure"
+          ],
+          "rows": [
+            [
+              "Asia",
+              "74",
+              "76",
+              "76",
+              "67",
+              "82",
+              "74"
+            ],
+            [
+              "North America",
+              "90",
+              "85",
+              "92",
+              "90",
+              "100",
+              "92"
+            ],
+            [
+              "Western Europe",
+              "92",
+              "86",
+              "95",
+              "92",
+              "96",
+              "93"
+            ],
+            [
+              "Eastern Europe",
+              "71",
+              "70",
+              "71",
+              "70",
+              "81",
+              "70"
+            ],
+            [
+              "Latin America",
+              "67",
+              "58",
+              "68",
+              "75",
+              "80",
+              "63"
+            ],
+            [
+              "Middle East & N. Africa",
+              "61",
+              "55",
+              "68",
+              "52",
+              "78",
+              "64"
+            ],
+            [
+              "Sub-Saharan Africa",
+              "55",
+              "49",
+              "47",
+              "65",
+              "65",
+              "51"
+            ]
+          ],
+          "caption": "2026年全球最宜居区域排名"
+        }
+      ],
+      "deep_dive": "## 一、全球宜居格局：两极分化加剧\n\n2026年数据显示，全球宜居水平呈现出显著的“中心-边缘”结构。西欧（92）与北美（90）构成第一梯队，在稳定性、医疗、教育、基础设施等维度均超过85分，北美更以教育满分彰显其人力资本优势。东部欧洲（71）与亚洲（74）处于中间层，但亚洲的文化与环境得分仅67，拉低了整体体验。拉丁美洲（67）、中东与北非（61）和撒哈拉以南非洲（55）则组成低分阵营，其中撒哈拉以南非洲的稳定性（49）与医疗（47）严重拖后腿，反映出冲突、疾病与资源匮乏的系统性困境。\n\n- 两极差距高达37分（西欧92 vs. 撒哈拉以南非洲55），医疗差距达48分（西欧95 vs. 撒哈拉以南非洲47）。\n- 北美与西欧包揽教育前三高分，凸显知识经济的先发优势。\n\n## 二、关键指标深度剖析：教育决定未来，稳定性保障当下\n\n- **教育（Education）**：北美100分独占鳌头，西欧96分紧随其后，而撒哈拉以南非洲仅65分。教育不仅是代际流动的阶梯，更与创新能力、经济韧性直接挂钩。北欧和北美的高分支撑了其高技术产业与高人均收入。\n- **稳定性（Stability）**：中东与北非（55）、拉丁美洲（58）得分最低，与地缘政治紧张、社会动荡密切相关。稳定性每降低10分，往往对应GDP增速下降0.5-1个百分点（全球历史数据），成为投资的隐形门槛。\n- **医疗（Healthcare）**：撒哈拉以南非洲（47）与西欧（95）的鸿沟，实质是预期寿命、妇幼死亡率、卫生基础设施的缩影。疫情后全球卫生投资分化，可能进一步扩大这一差距。\n- **文化与环境（Culture & environment）**：亚洲（67）与撒哈拉以南非洲（65）偏低，但拉丁美洲（75）表现较好，显示热带气候与文化遗产并非线性决定因素，而是受环境治理、文化活力政策影响。\n\n## 三、启示与局限\n\n- **对决策者**：低分区域需优先改善稳定性与基础医疗，通过教育投资打破贫困陷阱；中高区域应关注文化环境软实力，以提升人才吸引力。\n- **数据局限**：该排名未纳入气候风险、数字连接等新兴维度，且各区域内部差异极大（如西欧内部瑞士与希腊差距明显），使用时需结合国别分析。此外，“宜居性”总分加权方式未公开，可能遮蔽某些指标的非线性影响。",
+      "glossary": [
+        {
+          "term": "Liveability",
+          "explanation": "宜居性，综合衡量地区生活质量的指标，通常涵盖稳定性、医疗、文化与环境、教育、基础设施等维度。"
+        },
+        {
+          "term": "Stability",
+          "explanation": "稳定性，反映社会安全、政治风险、犯罪率等，是居民安全感和资本流动的基础。"
+        },
+        {
+          "term": "Culture & environment",
+          "explanation": "文化与自然环境，包含气候舒适度、腐败水平、社会自由度、文化丰富度等软性因素。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0d9b1f39",
+    "title": "Mapped: The U.S. Cities Hit Hardest by Wildfire Smoke in 2026",
+    "original_url": "https://www.visualcapitalist.com/us-cities-hit-hardest-wildfire-smoke-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/0d9b1f39.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAAkABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrGmxUkM3NQPGaSNSppFWNZZPloqkJCBRQKw0kGm8VU+0e9KLgetIfOi1RVb7QPWiqsTzIzNx9aC7etFFCOO43e3rRRRVFH//Z",
+    "image_version": 1785438338,
+    "pub_date": "Thu, 30 Jul 2026 16:57:51 +0000",
+    "content_md": "| Rank | Metro Area | State | Air Quality: PM2.5 (µg/m³) |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Jan–June Baseline Avg. | July 14–19 Avg. | Change | Peak Daily Median |  |  |  |\n| 1 | Duluth | MN | 6.0 | 188.7 | +182.7 | 507.8 |\n| 2 | Toledo | OH | 8.7 | 109.5 | +100.8 | 367.8 |\n| 3 | Detroit | MI | 7.5 | 106.5 | +99.0 | 295.6 |\n| 4 | Grand Rapids | MI | 8.5 | 96.2 | +87.7 | 264.8 |\n| 5 | Milwaukee | WI | 6.5 | 94.0 | +87.6 | 252.6 |\n| 6 | Chicago | IL | 7.3 | 76.5 | +69.2 | 234.8 |\n| 7 | Weirton-Steubenville | WV | 6.9 | 73.1 | +66.2 | 201.4 |\n| 8 | Madison | WI | 6.2 | 69.9 | +63.7 | 180.4 |\n| 9 | Youngstown | OH | 6.7 | 66.2 | +59.5 | 148.7 |\n| 10 | Pittsburgh | PA | 6.7 | 63.4 | +56.8 | 160.4 |\n| 11 | Harrisburg | PA | 8.3 | 64.8 | +56.5 | 148.4 |\n| 12 | Lancaster | PA | 9.6 | 55.6 | +46.0 | 130.4 |\n| 13 | Minneapolis-St. Paul | MN | 5.9 | 49.2 | +43.4 | 133.4 |\n| 14 | Dover | DE | 7.4 | 50.1 | +42.8 | 138.9 |\n| 15 | Philadelphia | PA | 7.8 | 50.1 | +42.3 | 121.5 |\n| 16 | Columbus | OH | 7.4 | 44.6 | +37.2 | 155.2 |\n| 17 | Trenton-Princeton | NJ | 6.5 | 41.6 | +35.0 | 88.2 |\n| 18 | Baltimore | MD | 7.1 | 38.8 | +31.7 | 113.8 |\n| 19 | Atlantic City | NJ | 5.7 | 36.9 | +31.2 | 82.3 |\n| 20 | New York | NY | 7.1 | 37.4 | +30.2 | 72.9 |\n| 21 | Washington | DC | 7.0 | 36.5 | +29.5 | 110.6 |\n| 22 | Bridgeport-Stamford | CT | 6.8 | 35.2 | +28.4 | 69.2 |\n| 23 | Spokane | WA | 4.6 | 29.9 | +25.4 | 116.4 |\n| 24 | Hartford | CT | 7.0 | 28.2 | +21.2 | 50.8 |\n| 25 | Richmond | VA | 7.0 | 27.7 | +20.7 | 102.2 |\n\n| Rank | Metro Area | State | Peak Date | Days ≥35.5 µg/m³ |\n| --- | --- | --- | --- | --- |\n| 1 | Duluth | MN | Jul. 16 | 4 |\n| 2 | Toledo | OH | Jul. 16 | 3 |\n| 3 | Detroit | MI | Jul. 16 | 4 |\n| 4 | Grand Rapids | MI | Jul. 16 | 4 |\n| 5 | Milwaukee | WI | Jul. 16 | 5 |\n| 6 | Chicago | IL | Jul. 16 | 3 |\n| 7 | Weirton-Steubenville | WV | Jul. 17 | 4 |\n| 8 | Madison | WI | Jul. 16 | 3 |\n| 9 | Youngstown | OH | Jul. 17 | 3 |\n| 10 | Pittsburgh | PA | Jul. 17 | 3 |\n| 11 | Harrisburg | PA | Jul. 17 | 3 |\n| 12 | Lancaster | PA | Jul. 17 | 3 |\n| 13 | Minneapolis-St. Paul | MN | Jul. 16 | 3 |\n| 14 | Dover | DE | Jul. 17 | 3 |\n| 15 | Philadelphia | PA | Jul. 17 | 3 |\n| 16 | Columbus | OH | Jul. 17 | 3 |\n| 17 | Trenton-Princeton | NJ | Jul. 16 | 3 |\n| 18 | Baltimore | MD | Jul. 17 | 3 |\n| 19 | Atlantic City | NJ | Jul. 17 | 3 |\n| 20 | New York | NY | Jul. 16 | 4 |\n| 21 | Washington | DC | Jul. 17 | 2 |\n| 22 | Bridgeport-Stamford | CT | Jul. 16 | 2 |\n| 23 | Spokane | WA | Jul. 17 | 1 |\n| 24 | Hartford | CT | Jul. 18 | 2 |\n| 25 | Richmond | VA | Jul. 17 | 1 |",
+    "ai_analysis": {
+      "core_insight": "2026年7月加拿大野火烟尘致美国中西部及东北部PM2.5飙升，德卢斯峰值破500µg/m³。",
+      "data_highlights": [
+        "德卢斯PM2.5从基线6.0飙升至188.7µg/m³，变化+182.7，峰值日均507.8µg/m³，远超危险阈值。",
+        "受影响最严重的前五名城市均位于五大湖地区，PM2.5平均上升均超87µg/m³。",
+        "密尔沃基出现5天不健康水平（≥35.5µg/m³），为所有城市中最多。",
+        "几乎所有城市在7月16–17日达到污染峰值，显示烟雾事件高度同步。",
+        "纽约、华盛顿等东部大城市虽排名靠后，但基线较低，污染增幅仍达30µg/m³以上。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Rank",
+            "Metro Area",
+            "State",
+            "Jan–June Baseline Avg. (µg/m³)",
+            "July 14–19 Avg. (µg/m³)",
+            "Change (µg/m³)",
+            "Peak Daily Median (µg/m³)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Duluth",
+              "MN",
+              "6.0",
+              "188.7",
+              "+182.7",
+              "507.8"
+            ],
+            [
+              "2",
+              "Toledo",
+              "OH",
+              "8.7",
+              "109.5",
+              "+100.8",
+              "367.8"
+            ],
+            [
+              "3",
+              "Detroit",
+              "MI",
+              "7.5",
+              "106.5",
+              "+99.0",
+              "295.6"
+            ],
+            [
+              "4",
+              "Grand Rapids",
+              "MI",
+              "8.5",
+              "96.2",
+              "+87.7",
+              "264.8"
+            ],
+            [
+              "5",
+              "Milwaukee",
+              "WI",
+              "6.5",
+              "94.0",
+              "+87.6",
+              "252.6"
+            ],
+            [
+              "6",
+              "Chicago",
+              "IL",
+              "7.3",
+              "76.5",
+              "+69.2",
+              "234.8"
+            ],
+            [
+              "7",
+              "Weirton-Steubenville",
+              "WV",
+              "6.9",
+              "73.1",
+              "+66.2",
+              "201.4"
+            ],
+            [
+              "8",
+              "Madison",
+              "WI",
+              "6.2",
+              "69.9",
+              "+63.7",
+              "180.4"
+            ],
+            [
+              "9",
+              "Youngstown",
+              "OH",
+              "6.7",
+              "66.2",
+              "+59.5",
+              "148.7"
+            ],
+            [
+              "10",
+              "Pittsburgh",
+              "PA",
+              "6.7",
+              "63.4",
+              "+56.8",
+              "160.4"
+            ],
+            [
+              "11",
+              "Harrisburg",
+              "PA",
+              "8.3",
+              "64.8",
+              "+56.5",
+              "148.4"
+            ],
+            [
+              "12",
+              "Lancaster",
+              "PA",
+              "9.6",
+              "55.6",
+              "+46.0",
+              "130.4"
+            ],
+            [
+              "13",
+              "Minneapolis-St. Paul",
+              "MN",
+              "5.9",
+              "49.2",
+              "+43.4",
+              "133.4"
+            ],
+            [
+              "14",
+              "Dover",
+              "DE",
+              "7.4",
+              "50.1",
+              "+42.8",
+              "138.9"
+            ],
+            [
+              "15",
+              "Philadelphia",
+              "PA",
+              "7.8",
+              "50.1",
+              "+42.3",
+              "121.5"
+            ],
+            [
+              "16",
+              "Columbus",
+              "OH",
+              "7.4",
+              "44.6",
+              "+37.2",
+              "155.2"
+            ],
+            [
+              "17",
+              "Trenton-Princeton",
+              "NJ",
+              "6.5",
+              "41.6",
+              "+35.0",
+              "88.2"
+            ],
+            [
+              "18",
+              "Baltimore",
+              "MD",
+              "7.1",
+              "38.8",
+              "+31.7",
+              "113.8"
+            ],
+            [
+              "19",
+              "Atlantic City",
+              "NJ",
+              "5.7",
+              "36.9",
+              "+31.2",
+              "82.3"
+            ],
+            [
+              "20",
+              "New York",
+              "NY",
+              "7.1",
+              "37.4",
+              "+30.2",
+              "72.9"
+            ],
+            [
+              "21",
+              "Washington",
+              "DC",
+              "7.0",
+              "36.5",
+              "+29.5",
+              "110.6"
+            ],
+            [
+              "22",
+              "Bridgeport-Stamford",
+              "CT",
+              "6.8",
+              "35.2",
+              "+28.4",
+              "69.2"
+            ],
+            [
+              "23",
+              "Spokane",
+              "WA",
+              "4.6",
+              "29.9",
+              "+25.4",
+              "116.4"
+            ],
+            [
+              "24",
+              "Hartford",
+              "CT",
+              "7.0",
+              "28.2",
+              "+21.2",
+              "50.8"
+            ],
+            [
+              "25",
+              "Richmond",
+              "VA",
+              "7.0",
+              "27.7",
+              "+20.7",
+              "102.2"
+            ]
+          ],
+          "caption": "2026年7月野火烟雾影响下美国城市PM2.5浓度及变化（前25名）"
+        },
+        {
+          "headers": [
+            "Rank",
+            "Metro Area",
+            "State",
+            "Peak Date",
+            "Days ≥35.5 µg/m³"
+          ],
+          "rows": [
+            [
+              "1",
+              "Duluth",
+              "MN",
+              "Jul. 16",
+              "4"
+            ],
+            [
+              "2",
+              "Toledo",
+              "OH",
+              "Jul. 16",
+              "3"
+            ],
+            [
+              "3",
+              "Detroit",
+              "MI",
+              "Jul. 16",
+              "4"
+            ],
+            [
+              "4",
+              "Grand Rapids",
+              "MI",
+              "Jul. 16",
+              "4"
+            ],
+            [
+              "5",
+              "Milwaukee",
+              "WI",
+              "Jul. 16",
+              "5"
+            ],
+            [
+              "6",
+              "Chicago",
+              "IL",
+              "Jul. 16",
+              "3"
+            ],
+            [
+              "7",
+              "Weirton-Steubenville",
+              "WV",
+              "Jul. 17",
+              "4"
+            ],
+            [
+              "8",
+              "Madison",
+              "WI",
+              "Jul. 16",
+              "3"
+            ],
+            [
+              "9",
+              "Youngstown",
+              "OH",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "10",
+              "Pittsburgh",
+              "PA",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "11",
+              "Harrisburg",
+              "PA",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "12",
+              "Lancaster",
+              "PA",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "13",
+              "Minneapolis-St. Paul",
+              "MN",
+              "Jul. 16",
+              "3"
+            ],
+            [
+              "14",
+              "Dover",
+              "DE",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "15",
+              "Philadelphia",
+              "PA",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "16",
+              "Columbus",
+              "OH",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "17",
+              "Trenton-Princeton",
+              "NJ",
+              "Jul. 16",
+              "3"
+            ],
+            [
+              "18",
+              "Baltimore",
+              "MD",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "19",
+              "Atlantic City",
+              "NJ",
+              "Jul. 17",
+              "3"
+            ],
+            [
+              "20",
+              "New York",
+              "NY",
+              "Jul. 16",
+              "4"
+            ],
+            [
+              "21",
+              "Washington",
+              "DC",
+              "Jul. 17",
+              "2"
+            ],
+            [
+              "22",
+              "Bridgeport-Stamford",
+              "CT",
+              "Jul. 16",
+              "2"
+            ],
+            [
+              "23",
+              "Spokane",
+              "WA",
+              "Jul. 17",
+              "1"
+            ],
+            [
+              "24",
+              "Hartford",
+              "CT",
+              "Jul. 18",
+              "2"
+            ],
+            [
+              "25",
+              "Richmond",
+              "VA",
+              "Jul. 17",
+              "1"
+            ]
+          ],
+          "caption": "2026年7月野火烟雾事件中美国城市峰值日期及不健康天数"
+        }
+      ],
+      "deep_dive": "## 事件背景与空间分布\n2026年7月中旬，加拿大西部大规模野火产生的浓烟随高空西风带长距离输送，导致美国中西部及东北部多地遭遇严重颗粒物污染。本次事件中，五大湖沿岸城市首当其冲：明尼苏达州德卢斯PM2.5日均峰值达到507.8 µg/m³，超过EPA“危险”级别（250 µg/m³以上），相当于在几小时内吸入了平时数月的污染物总量。密歇根州底特律、托莱多等传统工业城市也出现100 µg/m³以上的周均值，远高于WHO 24小时指导值（15 µg/m³）。\n\n从空间格局看，污染梯度自西北向东南递减，但阿巴拉契亚山脉以东的费城、纽约等城市仍出现显著上升，说明烟雾可穿透低层大气边界层，影响数千里外的人口密集区。值得注意的是，太平洋沿岸的斯波坎虽排名靠后，但因靠近西部火源，其峰值高达116.4 µg/m³，显示出双向传输路径的可能性。\n\n## 健康影响与社会应对\nPM2.5浓度升高与呼吸系统、心血管疾病的超额死亡紧密相关。本次事件中，德卢斯有4天超过35.5 µg/m³（美国AQI分界点“对敏感人群不健康”），密尔沃基甚至达到5天，意味着当地居民（尤其儿童、老人）持续暴露于有害空气中。以507.8 µg/m³的峰值计算，空气质量指数AQI远超500，进入“紧急状况”，所有人均应避免户外活动。\n\n各城市应对能力差异显著。明尼阿波利斯-圣保罗等大城市曾经历2023年类似事件，已建立预警系统和临时避难所；而德卢斯等较小城市可能缺乏应急资源，凸显气候适应不平等。公众健康建议包括佩戴N95口罩、使用空气净化器、减少外出等，但对低收入群体和户外工作者而言，这些措施难以落实。\n\n## 数据局限与启示\n数据来源于地面监测站，可能低估农村地区浓度；Peak Daily Median仅代表当日中位数值，不能反映短时峰值（如1小时值）。此外，气象反演和火点排放估算存在不确定性。然而，这张排名表清晰揭示了野火烟尘跨境污染的严峻现实：即使城市自身减排达标，也无法独善其身。未来需加强跨境协作、完善早期预警，并将野火烟雾纳入城市健康韧性规划。",
+      "glossary": [
+        {
+          "term": "PM2.5",
+          "explanation": "直径≤2.5微米的细颗粒物，能深入肺泡并进入血液循环，是评估空气污染健康危害的核心指标。"
+        },
+        {
+          "term": "Peak Daily Median",
+          "explanation": "单日内所有小时浓度值的中位数，用于反映整体暴露水平，区别于短时峰值。"
+        },
+        {
+          "term": "Baseline Avg.",
+          "explanation": "指1月至6月期间的平均PM2.5浓度，代表该城市在未受烟雾事件影响时的典型水平。"
+        },
+        {
+          "term": "AQI",
+          "explanation": "空气质量指数，将多种污染物浓度统一转换为0-500的无量纲数值，用于健康警示；PM2.5浓度35.5 µg/m³对应AQI约100。"
+        }
+      ]
+    }
+  },
+  {
     "id": "4b7a11e7",
     "title": "Investing Through Financial Distress",
     "original_url": "https://www.visualcapitalist.com/sp/investing-through-financial-distress/",
