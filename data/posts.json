@@ -1,5 +1,365 @@
 [
   {
+    "id": "fffc4d92",
+    "title": "Mapped: Where Cars Eat Up the Biggest Share of Income",
+    "original_url": "https://www.visualcapitalist.com/mapped-where-cars-eat-up-the-biggest-share-of-income/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/fffc4d92.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpHpg6056YOtc0fhNXuSg8UUgorFo0uf/Z",
+    "image_version": 1785524562,
+    "pub_date": "Fri, 31 Jul 2026 16:58:26 +0000",
+    "content_md": "| State | Total Costs | Median Household Income | % of Household Income |\n| --- | --- | --- | --- |\n| Louisiana | $14,894 | $64,199 | 23.2% |\n| Mississippi | $13,378 | $62,242 | 21.5% |\n| New Mexico | $14,115 | $71,388 | 19.8% |\n| Arkansas | $12,798 | $65,378 | 19.6% |\n| Alabama | $13,164 | $70,171 | 18.8% |\n| West Virginia | $11,951 | $64,001 | 18.7% |\n| Kentucky | $12,628 | $67,925 | 18.6% |\n| Oklahoma | $12,722 | $69,633 | 18.3% |\n| Florida | $14,546 | $81,830 | 17.8% |\n| Missouri | $13,235 | $75,360 | 17.6% |\n| Arizona | $14,860 | $85,779 | 17.3% |\n| Wyoming | $13,533 | $79,511 | 17.0% |\n| Texas | $14,139 | $83,921 | 16.8% |\n| Nevada | $14,341 | $85,408 | 16.8% |\n| Montana | $13,245 | $79,309 | 16.7% |\n| Georgia | $13,733 | $84,205 | 16.3% |\n| Tennessee | $12,350 | $75,790 | 16.3% |\n| Kansas | $12,941 | $79,492 | 16.3% |\n| Indiana | $12,269 | $75,750 | 16.2% |\n| South Carolina | $12,233 | $76,161 | 16.1% |\n| Michigan | $12,208 | $76,202 | 16.0% |\n| North Dakota | $12,766 | $81,973 | 15.6% |\n| Ohio | $11,574 | $76,016 | 15.2% |\n| Iowa | $11,992 | $79,478 | 15.1% |\n| North Carolina | $11,725 | $77,854 | 15.1% |\n| Nebraska | $12,133 | $80,399 | 15.1% |\n| South Dakota | $12,092 | $80,931 | 14.9% |\n| Wisconsin | $11,947 | $81,570 | 14.6% |\n| New York | $13,183 | $90,341 | 14.6% |\n| Idaho | $12,340 | $85,442 | 14.4% |\n| Pennsylvania | $11,735 | $81,630 | 14.4% |\n| Illinois | $12,549 | $87,594 | 14.3% |\n| Maine | $11,231 | $80,469 | 14.0% |\n| Oregon | $12,528 | $89,709 | 14.0% |\n| Delaware | $12,680 | $92,145 | 13.8% |\n| Rhode Island | $12,042 | $87,903 | 13.7% |\n| Colorado | $13,876 | $102,229 | 13.6% |\n| California | $14,325 | $105,425 | 13.6% |\n| Minnesota | $12,304 | $91,706 | 13.4% |\n| Vermont | $11,542 | $87,088 | 13.3% |\n| Alaska | $13,051 | $100,705 | 13.0% |\n| Washington | $13,558 | $104,625 | 13.0% |\n| Utah | $13,023 | $101,750 | 12.8% |\n| Virginia | $12,214 | $96,941 | 12.6% |\n| New Jersey | $13,708 | $109,788 | 12.5% |\n| Connecticut | $12,630 | $101,109 | 12.5% |\n| Hawaii | $13,193 | $106,052 | 12.4% |\n| Maryland | $13,314 | $108,326 | 12.3% |\n| District of Columbia | $13,205 | $115,486 | 11.4% |\n| New Hampshire | $11,418 | $105,038 | 10.9% |\n| Massachusetts | $11,745 | $110,350 | 10.6% |\n| U.S. Average | $12,841 | $85,759 | 15.0% |",
+    "ai_analysis": {
+      "core_insight": "低收入州汽车负担尤重，路易斯安那州高达23.2%，凸显交通贫困。",
+      "data_highlights": [
+        "路易斯安那州汽车支出占家庭收入23.2%，为全美最高，总成本14,894美元。",
+        "密西西比州收入最低，占比21.5%，成本13,378美元。",
+        "美国平均占比15%，平均成本12,841美元，收入85,759美元。",
+        "马萨诸塞州收入较高，占比仅10.6%，成本11,745美元。",
+        "哥伦比亚特区收入最高，占比11.4%，成本13,205美元。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Total Costs",
+            "Median Household Income",
+            "% of Household Income"
+          ],
+          "rows": [
+            [
+              "Louisiana",
+              "$14,894",
+              "$64,199",
+              "23.2%"
+            ],
+            [
+              "Mississippi",
+              "$13,378",
+              "$62,242",
+              "21.5%"
+            ],
+            [
+              "New Mexico",
+              "$14,115",
+              "$71,388",
+              "19.8%"
+            ],
+            [
+              "Arkansas",
+              "$12,798",
+              "$65,378",
+              "19.6%"
+            ],
+            [
+              "Alabama",
+              "$13,164",
+              "$70,171",
+              "18.8%"
+            ],
+            [
+              "West Virginia",
+              "$11,951",
+              "$64,001",
+              "18.7%"
+            ],
+            [
+              "Kentucky",
+              "$12,628",
+              "$67,925",
+              "18.6%"
+            ],
+            [
+              "Oklahoma",
+              "$12,722",
+              "$69,633",
+              "18.3%"
+            ],
+            [
+              "Florida",
+              "$14,546",
+              "$81,830",
+              "17.8%"
+            ],
+            [
+              "Missouri",
+              "$13,235",
+              "$75,360",
+              "17.6%"
+            ],
+            [
+              "Arizona",
+              "$14,860",
+              "$85,779",
+              "17.3%"
+            ],
+            [
+              "Wyoming",
+              "$13,533",
+              "$79,511",
+              "17.0%"
+            ],
+            [
+              "Texas",
+              "$14,139",
+              "$83,921",
+              "16.8%"
+            ],
+            [
+              "Nevada",
+              "$14,341",
+              "$85,408",
+              "16.8%"
+            ],
+            [
+              "Montana",
+              "$13,245",
+              "$79,309",
+              "16.7%"
+            ],
+            [
+              "Georgia",
+              "$13,733",
+              "$84,205",
+              "16.3%"
+            ],
+            [
+              "Tennessee",
+              "$12,350",
+              "$75,790",
+              "16.3%"
+            ],
+            [
+              "Kansas",
+              "$12,941",
+              "$79,492",
+              "16.3%"
+            ],
+            [
+              "Indiana",
+              "$12,269",
+              "$75,750",
+              "16.2%"
+            ],
+            [
+              "South Carolina",
+              "$12,233",
+              "$76,161",
+              "16.1%"
+            ],
+            [
+              "Michigan",
+              "$12,208",
+              "$76,202",
+              "16.0%"
+            ],
+            [
+              "North Dakota",
+              "$12,766",
+              "$81,973",
+              "15.6%"
+            ],
+            [
+              "Ohio",
+              "$11,574",
+              "$76,016",
+              "15.2%"
+            ],
+            [
+              "Iowa",
+              "$11,992",
+              "$79,478",
+              "15.1%"
+            ],
+            [
+              "North Carolina",
+              "$11,725",
+              "$77,854",
+              "15.1%"
+            ],
+            [
+              "Nebraska",
+              "$12,133",
+              "$80,399",
+              "15.1%"
+            ],
+            [
+              "South Dakota",
+              "$12,092",
+              "$80,931",
+              "14.9%"
+            ],
+            [
+              "Wisconsin",
+              "$11,947",
+              "$81,570",
+              "14.6%"
+            ],
+            [
+              "New York",
+              "$13,183",
+              "$90,341",
+              "14.6%"
+            ],
+            [
+              "Idaho",
+              "$12,340",
+              "$85,442",
+              "14.4%"
+            ],
+            [
+              "Pennsylvania",
+              "$11,735",
+              "$81,630",
+              "14.4%"
+            ],
+            [
+              "Illinois",
+              "$12,549",
+              "$87,594",
+              "14.3%"
+            ],
+            [
+              "Maine",
+              "$11,231",
+              "$80,469",
+              "14.0%"
+            ],
+            [
+              "Oregon",
+              "$12,528",
+              "$89,709",
+              "14.0%"
+            ],
+            [
+              "Delaware",
+              "$12,680",
+              "$92,145",
+              "13.8%"
+            ],
+            [
+              "Rhode Island",
+              "$12,042",
+              "$87,903",
+              "13.7%"
+            ],
+            [
+              "Colorado",
+              "$13,876",
+              "$102,229",
+              "13.6%"
+            ],
+            [
+              "California",
+              "$14,325",
+              "$105,425",
+              "13.6%"
+            ],
+            [
+              "Minnesota",
+              "$12,304",
+              "$91,706",
+              "13.4%"
+            ],
+            [
+              "Vermont",
+              "$11,542",
+              "$87,088",
+              "13.3%"
+            ],
+            [
+              "Alaska",
+              "$13,051",
+              "$100,705",
+              "13.0%"
+            ],
+            [
+              "Washington",
+              "$13,558",
+              "$104,625",
+              "13.0%"
+            ],
+            [
+              "Utah",
+              "$13,023",
+              "$101,750",
+              "12.8%"
+            ],
+            [
+              "Virginia",
+              "$12,214",
+              "$96,941",
+              "12.6%"
+            ],
+            [
+              "New Jersey",
+              "$13,708",
+              "$109,788",
+              "12.5%"
+            ],
+            [
+              "Connecticut",
+              "$12,630",
+              "$101,109",
+              "12.5%"
+            ],
+            [
+              "Hawaii",
+              "$13,193",
+              "$106,052",
+              "12.4%"
+            ],
+            [
+              "Maryland",
+              "$13,314",
+              "$108,326",
+              "12.3%"
+            ],
+            [
+              "District of Columbia",
+              "$13,205",
+              "$115,486",
+              "11.4%"
+            ],
+            [
+              "New Hampshire",
+              "$11,418",
+              "$105,038",
+              "10.9%"
+            ],
+            [
+              "Massachusetts",
+              "$11,745",
+              "$110,350",
+              "10.6%"
+            ],
+            [
+              "U.S. Average",
+              "$12,841",
+              "$85,759",
+              "15.0%"
+            ]
+          ],
+          "caption": "美国各州汽车持有成本占家庭收入比重（按占比降序）"
+        }
+      ],
+      "deep_dive": "## 地区差异：收入与成本的双重分化\n全美汽车持有成本占家庭收入中位数的平均比例为15%，但各州差异显著，范围从10.6%（马萨诸塞州）到23.2%（路易斯安那州）。这种差距主要源于两大因素：收入水平与汽车绝对成本。收入较低的州（如密西西比、西弗吉尼亚）往往负担更重，但汽车成本也并非完全由收入决定。例如，路易斯安那州总成本高达$14,894，高居前列，而收入仅$64,199，使得占比突破23%。相比之下，加利福尼亚州成本相近（$14,325），但因收入高达$105,425，占比仅13.6%。\n\n成本构成方面，保险、油价、维修及车辆偏好扮演关键角色。南部州因灾害风险高（如飓风）、诉讼频率高，车险费率往往更贵；西部州地广人稀、通勤距离长，汽油支出和折旧更快。此外，部分州车辆登记费、个人财产税等隐性成本进一步推高总支出。值得注意的是，一些低收入州（如阿肯色、阿拉巴马）的成本甚至高于高收入州（如新罕布什尔、马萨诸塞），这反映出当地公共交通缺乏迫使家庭深度依赖私家车，且选择的车型可能更耗油或保险分级更差。\n\n## 政策启示与未来挑战\n汽车负担直指“交通贫困”问题。对于占比超过20%的家庭，汽车不仅是出行工具，更是经济脆弱性的来源。任何油价波动或维修意外都可能挤占食物、医疗等基本需求。数据本身存在局限：它基于中位数收入，未反映低收入群体的真实压力，且总成本为平均值，可能掩盖不同用车行为（如拼车、老旧车辆）的差异。此外，城乡差异、家庭拥有的车辆数量也未纳入。\n\n从政策角度看，单纯补贴购车不如投资公共交通、远程办公基础设施和保险改革。例如，高负担州可借鉴低负担州的经验，如推动保险竞争、优化道路规划降低通勤成本。长期趋势中，电动车的普及可能降低燃料和维护费用，但前期购置成本仍是障碍。最终，汽车可负担性需要纳入更广泛的区域经济均衡战略，否则可能加剧社会不平等。",
+      "glossary": [
+        {
+          "term": "Total Costs",
+          "explanation": "年均汽车持有总成本，通常包含汽油、保险、维修、牌照费、注册费、折旧等直接支出。"
+        },
+        {
+          "term": "Median Household Income",
+          "explanation": "家庭收入中位数，将全部家庭按收入排序后位于中间位置的数值，比平均值更能反映典型家庭收入水平。"
+        },
+        {
+          "term": "交通贫困",
+          "explanation": "指因缺乏可负担的交通选择（如公共交通不足）而导致的出行困难，进一步限制就业、教育和医疗机会的现象。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d5ced5ea",
     "title": "Ranked: America’s Fastest-Aging States",
     "original_url": "https://www.visualcapitalist.com/ranked-where-americas-fastest-aging-states/",
