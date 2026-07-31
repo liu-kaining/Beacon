@@ -1,5 +1,315 @@
 [
   {
+    "id": "d5ced5ea",
+    "title": "Ranked: America’s Fastest-Aging States",
+    "original_url": "https://www.visualcapitalist.com/ranked-where-americas-fastest-aging-states/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d5ced5ea.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDdkkxSwyZNVpTT7f71bPYzRqKflopqfdFFZ3K5T//Z",
+    "image_version": 1785515312,
+    "pub_date": "Fri, 31 Jul 2026 13:47:00 +0000",
+    "content_md": "| State | Change in 65+ Population (2014–2024) | Total Growth |\n| --- | --- | --- |\n| Alaska | 56% | 39,425 |\n| Idaho | 51% | 120,188 |\n| Delaware | 48% | 74,383 |\n| Utah | 48% | 140,632 |\n| Wyoming | 46% | 36,760 |\n| New Hampshire | 45% | 93,596 |\n| Colorado | 44% | 300,169 |\n| Nevada | 44% | 175,038 |\n| Montana | 42% | 71,509 |\n| South Carolina | 42% | 319,192 |\n| Georgia | 41% | 513,532 |\n| Texas | 41% | 1,265,419 |\n| Vermont | 39% | 41,969 |\n| Arizona | 39% | 420,852 |\n| Washington | 38% | 382,832 |\n| Maine | 36% | 87,850 |\n| Hawaii | 36% | 82,756 |\n| South Dakota | 36% | 46,219 |\n| North Carolina | 36% | 518,927 |\n| Minnesota | 35% | 275,897 |\n| Virginia | 35% | 401,357 |\n| New Mexico | 35% | 110,140 |\n| Florida | 34% | 1,294,733 |\n| Oregon | 34% | 214,979 |\n| Wisconsin | 34% | 295,892 |\n| North Dakota | 34% | 35,289 |\n| Maryland | 33% | 275,008 |\n| Rhode Island | 32% | 53,451 |\n| Massachusetts | 31% | 317,385 |\n| California | 30% | 1,519,339 |\n| Michigan | 30% | 461,738 |\n| New Jersey | 30% | 392,753 |\n| Louisiana | 30% | 187,508 |\n| New York | 29% | 854,478 |\n| Indiana | 29% | 275,051 |\n| Tennessee | 29% | 285,027 |\n| Connecticut | 29% | 159,449 |\n| Nebraska | 28% | 77,116 |\n| Alabama | 28% | 208,362 |\n| Kansas | 28% | 115,595 |\n| Illinois | 27% | 484,181 |\n| Kentucky | 26% | 172,658 |\n| Ohio | 26% | 474,302 |\n| Missouri | 25% | 235,408 |\n| Pennsylvania | 25% | 530,510 |\n| Iowa | 25% | 121,677 |\n| Mississippi | 24% | 103,194 |\n| Oklahoma | 23% | 129,764 |\n| District of Columbia | 22% | 16,219 |\n| Arkansas | 21% | 96,987 |\n| West Virginia | 17% | 57,493 |\n| U.S. total | 34% | 14,964,188 |",
+    "ai_analysis": {
+      "core_insight": "西部与山地州老龄化速度领先，但绝对增量集中在加州、佛州等人口大州，凸显迁移驱动的老龄化分异。",
+      "data_highlights": [
+        "阿拉斯加以56%的65+人口增幅居首，但绝对增长仅3.9万人，反映低基数效应。",
+        "加州65+人口净增超过151万，为全美之最，而增幅仅30%，位列中游。",
+        "全美65+人口十年增长34%，净增约1496万，老龄化趋势全面深化。",
+        "西弗吉尼亚州增幅最低仅17%，凸显经济衰退地区的老龄化缓慢与人口外流。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "State",
+            "Change in 65+ Population (2014–2024)",
+            "Total Growth"
+          ],
+          "rows": [
+            [
+              "Alaska",
+              "56%",
+              "39,425"
+            ],
+            [
+              "Idaho",
+              "51%",
+              "120,188"
+            ],
+            [
+              "Delaware",
+              "48%",
+              "74,383"
+            ],
+            [
+              "Utah",
+              "48%",
+              "140,632"
+            ],
+            [
+              "Wyoming",
+              "46%",
+              "36,760"
+            ],
+            [
+              "New Hampshire",
+              "45%",
+              "93,596"
+            ],
+            [
+              "Colorado",
+              "44%",
+              "300,169"
+            ],
+            [
+              "Nevada",
+              "44%",
+              "175,038"
+            ],
+            [
+              "Montana",
+              "42%",
+              "71,509"
+            ],
+            [
+              "South Carolina",
+              "42%",
+              "319,192"
+            ],
+            [
+              "Georgia",
+              "41%",
+              "513,532"
+            ],
+            [
+              "Texas",
+              "41%",
+              "1,265,419"
+            ],
+            [
+              "Vermont",
+              "39%",
+              "41,969"
+            ],
+            [
+              "Arizona",
+              "39%",
+              "420,852"
+            ],
+            [
+              "Washington",
+              "38%",
+              "382,832"
+            ],
+            [
+              "Maine",
+              "36%",
+              "87,850"
+            ],
+            [
+              "Hawaii",
+              "36%",
+              "82,756"
+            ],
+            [
+              "South Dakota",
+              "36%",
+              "46,219"
+            ],
+            [
+              "North Carolina",
+              "36%",
+              "518,927"
+            ],
+            [
+              "Minnesota",
+              "35%",
+              "275,897"
+            ],
+            [
+              "Virginia",
+              "35%",
+              "401,357"
+            ],
+            [
+              "New Mexico",
+              "35%",
+              "110,140"
+            ],
+            [
+              "Florida",
+              "34%",
+              "1,294,733"
+            ],
+            [
+              "Oregon",
+              "34%",
+              "214,979"
+            ],
+            [
+              "Wisconsin",
+              "34%",
+              "295,892"
+            ],
+            [
+              "North Dakota",
+              "34%",
+              "35,289"
+            ],
+            [
+              "Maryland",
+              "33%",
+              "275,008"
+            ],
+            [
+              "Rhode Island",
+              "32%",
+              "53,451"
+            ],
+            [
+              "Massachusetts",
+              "31%",
+              "317,385"
+            ],
+            [
+              "California",
+              "30%",
+              "1,519,339"
+            ],
+            [
+              "Michigan",
+              "30%",
+              "461,738"
+            ],
+            [
+              "New Jersey",
+              "30%",
+              "392,753"
+            ],
+            [
+              "Louisiana",
+              "30%",
+              "187,508"
+            ],
+            [
+              "New York",
+              "29%",
+              "854,478"
+            ],
+            [
+              "Indiana",
+              "29%",
+              "275,051"
+            ],
+            [
+              "Tennessee",
+              "29%",
+              "285,027"
+            ],
+            [
+              "Connecticut",
+              "29%",
+              "159,449"
+            ],
+            [
+              "Nebraska",
+              "28%",
+              "77,116"
+            ],
+            [
+              "Alabama",
+              "28%",
+              "208,362"
+            ],
+            [
+              "Kansas",
+              "28%",
+              "115,595"
+            ],
+            [
+              "Illinois",
+              "27%",
+              "484,181"
+            ],
+            [
+              "Kentucky",
+              "26%",
+              "172,658"
+            ],
+            [
+              "Ohio",
+              "26%",
+              "474,302"
+            ],
+            [
+              "Missouri",
+              "25%",
+              "235,408"
+            ],
+            [
+              "Pennsylvania",
+              "25%",
+              "530,510"
+            ],
+            [
+              "Iowa",
+              "25%",
+              "121,677"
+            ],
+            [
+              "Mississippi",
+              "24%",
+              "103,194"
+            ],
+            [
+              "Oklahoma",
+              "23%",
+              "129,764"
+            ],
+            [
+              "District of Columbia",
+              "22%",
+              "16,219"
+            ],
+            [
+              "Arkansas",
+              "21%",
+              "96,987"
+            ],
+            [
+              "West Virginia",
+              "17%",
+              "57,493"
+            ],
+            [
+              "U.S. total",
+              "34%",
+              "14,964,188"
+            ]
+          ],
+          "caption": "美国各州65岁及以上人口变化（2014–2024）"
+        }
+      ],
+      "deep_dive": "## 驱动因素与区域分异\n\n65+人口的高速增长并非单纯源于自然老化，而是**国内迁移、国际移民与出生率下滑**共同作用的结果。\n\n- **西部与山地州的虹吸效应**：阿拉斯加（56%）、爱达荷（51%）、犹他（48%）等州的领先增幅，主要得益于年轻退休群体的流入——这些地区以低税率、户外生活品质吸引“活跃老年”迁移。科罗拉多、内华达的净增绝对数更达30万以上，显示对高收入老年人口的磁吸力。\n- **传统老龄化州的“钝化”**：佛罗里达虽因舒适气候长居退休目的地榜首，但本次增幅仅34%，略低于全美均值，因其65+基数本就庞大，新增人口效应被稀释；而其绝对增长近130万，仍为全美第二。加州、纽约等传统人口大州因高生活成本，老年人口增速明显放缓（30%、29%），但其绝对增量仍居前列。\n- **铁锈带与阿巴拉契亚的落后**：西弗吉尼亚（17%）、阿肯色（21%）、密西西比（24%）等经济衰退地区增幅垫底，反映出年轻人外流、出生率低迷与老年人口自然减少的叠加效应。这些区域面临更严峻的老龄化挑战，但并非因老年人涌入，而是年轻劳动力流失导致的“结构老化”。\n\n## 经济与社会启示\n\n**绝对增量与增速的错配**，决定了各州面临的财政压力与机遇截然不同。\n\n- **服务需求的结构性分化**：增速快、绝对量小的州（如阿拉斯加）短期内需快速扩建老年医疗与照料设施，但财政基础薄弱；绝对增量庞大的州（如加州、德州）需应对大规模养老服务与社保支出，规模经济与规划能力成为关键。\n- **劳动力市场的双面影响**：老年人口扩张一方面加剧养老金、医疗补助（Medicaid）负担，另一方面催生“银发经济”——护理、健康管理、适老化改造等产业。科罗拉多、亚利桑那等州的老年净流入，可能为当地创造新的消费与就业机会。\n- **政治与政策博弈**：老龄化速度的差异将重塑国会选区划分与联邦资源分配。增速领先州可能争取更多联邦医疗补贴，而绝对增量大州则需调整税收与福利政策，以平衡代际公平。\n\n## 数据局限与展望\n\n本排名仅反映**10年窗口的净变化**，未披露年龄结构内部动态（如85+高龄比例）、移民类别（国内迁移 vs 国际移民）及新冠疫情的特殊影响。未来需关注：随着婴儿潮一代全部步入65+，增速可能放缓但绝对量持续爬坡；气候变化（如野火、海平面上升）可能逆转部分阳光地带吸引力；远程办公普及或进一步分散老年迁移目的地。各州需前瞻布局，避免“未富先老”或“未备先老”的困境。",
+      "glossary": [
+        {
+          "term": "老龄化率",
+          "explanation": "65岁及以上人口占总人口的比例，通常用于衡量人口老化程度。文中使用65+人口增长率反映老化速度。"
+        },
+        {
+          "term": "净增长",
+          "explanation": "特定时期内人口增加或减少的绝对数量，包含出生、死亡、迁移等因素的净效果。"
+        },
+        {
+          "term": "活跃老年",
+          "explanation": "指65岁后仍保持独立、活跃生活方式的群体，常迁移至气候宜人、生活成本较低的地区。"
+        },
+        {
+          "term": "铁锈带",
+          "explanation": "美国东北部至中西部传统工业衰退区，因制造业外流导致经济下滑、人口流失，老龄化问题尤为突出。"
+        }
+      ]
+    }
+  },
+  {
     "id": "d710cf72",
     "title": "The World’s Most Powerful Passports (2016 vs. 2026)",
     "original_url": "https://www.visualcapitalist.com/the-worlds-most-powerful-passports-2016-vs-2026/",
