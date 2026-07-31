@@ -1,5 +1,261 @@
 [
   {
+    "id": "d710cf72",
+    "title": "The World’s Most Powerful Passports (2016 vs. 2026)",
+    "original_url": "https://www.visualcapitalist.com/the-worlds-most-powerful-passports-2016-vs-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/d710cf72.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlVp56U1acaxPQIz1ooPWigZ//2Q==",
+    "image_version": 1785504282,
+    "pub_date": "Fri, 31 Jul 2026 12:06:45 +0000",
+    "content_md": "| Country / Group | Passport Visa-Free Destinations (2026) | Continent |\n| --- | --- | --- |\n| Singapore | 192 | Asia |\n| Japan | 188 | Asia |\n| South Korea | 188 | Asia |\n| United Arab Emirates | 188 | Asia |\n| Norway | 186 | Europe |\n| Switzerland | 185 | Europe |\n| EU Countries* | 184 | Europe |\n| United Kingdom | 184 | Europe |\n| Malaysia | 183 | Asia |\n| Australia | 183 | Oceania |\n| Canada | 183 | North America |\n| New Zealand | 183 | Oceania |\n| Liechtenstein | 181 | Europe |\n| Iceland | 180 | Europe |\n| United States | 180 | North America |\n| Monaco | 177 | Europe |\n| Chile | 174 | South America |\n| Hong Kong | 174 | Asia |\n| Andorra | 170 | Europe |\n| Argentina | 169 | South America |\n\n| Country / Group | Passport Visa-Free Destinations (2016) | Continent |\n| --- | --- | --- |\n| EU Countries* | 174 | Europe |\n| United Kingdom | 175 | Europe |\n| United States | 174 | North America |\n| Japan | 173 | Asia |\n| Singapore | 173 | Asia |\n| Canada | 172 | North America |\n| Norway | 172 | Europe |\n| South Korea | 172 | Asia |\n| Switzerland | 172 | Europe |\n| New Zealand | 171 | Oceania |\n| Australia | 169 | Oceania |\n| Iceland | 167 | Europe |\n| Liechtenstein | 164 | Europe |\n| Malaysia | 164 | Asia |\n| Monaco | 160 | Europe |\n| San Marino | 156 | Europe |\n| Chile | 155 | South America |\n| Hong Kong (SAR China) | 154 | Asia |\n| Brazil | 153 | South America |\n| Andorra | 152 | Europe |",
+    "ai_analysis": {
+      "core_insight": "亚洲护照十年间强势崛起，新加坡跃居榜首，阿联酋免签国增幅最大。",
+      "data_highlights": [
+        "新加坡以192个免签国登顶2026年榜首，较2016年增加19个。",
+        "阿联酋从榜外跃升至188个免签国，增幅全球第一。",
+        "美国从2016年第1梯队跌至第15位，免签国仅增加6个，相对后退明显。",
+        "整体免签国数量普遍上升，十年间差距缩小，头部竞争激烈。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country / Group",
+            "Passport Visa-Free Destinations (2026)",
+            "Continent"
+          ],
+          "rows": [
+            [
+              "Singapore",
+              "192",
+              "Asia"
+            ],
+            [
+              "Japan",
+              "188",
+              "Asia"
+            ],
+            [
+              "South Korea",
+              "188",
+              "Asia"
+            ],
+            [
+              "United Arab Emirates",
+              "188",
+              "Asia"
+            ],
+            [
+              "Norway",
+              "186",
+              "Europe"
+            ],
+            [
+              "Switzerland",
+              "185",
+              "Europe"
+            ],
+            [
+              "EU Countries*",
+              "184",
+              "Europe"
+            ],
+            [
+              "United Kingdom",
+              "184",
+              "Europe"
+            ],
+            [
+              "Malaysia",
+              "183",
+              "Asia"
+            ],
+            [
+              "Australia",
+              "183",
+              "Oceania"
+            ],
+            [
+              "Canada",
+              "183",
+              "North America"
+            ],
+            [
+              "New Zealand",
+              "183",
+              "Oceania"
+            ],
+            [
+              "Liechtenstein",
+              "181",
+              "Europe"
+            ],
+            [
+              "Iceland",
+              "180",
+              "Europe"
+            ],
+            [
+              "United States",
+              "180",
+              "North America"
+            ],
+            [
+              "Monaco",
+              "177",
+              "Europe"
+            ],
+            [
+              "Chile",
+              "174",
+              "South America"
+            ],
+            [
+              "Hong Kong",
+              "174",
+              "Asia"
+            ],
+            [
+              "Andorra",
+              "170",
+              "Europe"
+            ],
+            [
+              "Argentina",
+              "169",
+              "South America"
+            ]
+          ],
+          "caption": "2026年全球最强护照排名"
+        },
+        {
+          "headers": [
+            "Country / Group",
+            "Passport Visa-Free Destinations (2016)",
+            "Continent"
+          ],
+          "rows": [
+            [
+              "EU Countries*",
+              "174",
+              "Europe"
+            ],
+            [
+              "United Kingdom",
+              "175",
+              "Europe"
+            ],
+            [
+              "United States",
+              "174",
+              "North America"
+            ],
+            [
+              "Japan",
+              "173",
+              "Asia"
+            ],
+            [
+              "Singapore",
+              "173",
+              "Asia"
+            ],
+            [
+              "Canada",
+              "172",
+              "North America"
+            ],
+            [
+              "Norway",
+              "172",
+              "Europe"
+            ],
+            [
+              "South Korea",
+              "172",
+              "Asia"
+            ],
+            [
+              "Switzerland",
+              "172",
+              "Europe"
+            ],
+            [
+              "New Zealand",
+              "171",
+              "Oceania"
+            ],
+            [
+              "Australia",
+              "169",
+              "Oceania"
+            ],
+            [
+              "Iceland",
+              "167",
+              "Europe"
+            ],
+            [
+              "Liechtenstein",
+              "164",
+              "Europe"
+            ],
+            [
+              "Malaysia",
+              "164",
+              "Asia"
+            ],
+            [
+              "Monaco",
+              "160",
+              "Europe"
+            ],
+            [
+              "San Marino",
+              "156",
+              "Europe"
+            ],
+            [
+              "Chile",
+              "155",
+              "South America"
+            ],
+            [
+              "Hong Kong (SAR China)",
+              "154",
+              "Asia"
+            ],
+            [
+              "Brazil",
+              "153",
+              "South America"
+            ],
+            [
+              "Andorra",
+              "152",
+              "Europe"
+            ]
+          ],
+          "caption": "2016年全球最强护照排名"
+        }
+      ],
+      "deep_dive": "## 亚洲护照的黄金十年\n\n2026年的榜单清晰地展现了亚洲护照的集体飞跃。新加坡以192个免签目的地登顶，较2016年提升了3个名次，反映了其积极的外交谈判能力和国际信誉。日本与韩国虽然并列第二，但与美国等传统强国相比，增幅更为显著。最引人注目的是阿联酋，从2016年榜上无名到2026年以188个免签国并列第二，这得益于其近年来实施的外交多元化战略，通过签署互免签证协议大幅提升护照含金量，成为全球化进程中的最大赢家。\n\n亚洲国家的普遍进步（如马来西亚上升至183个，香港从154升至174）体现了区域经济一体化与政治稳定带来的红利。相比之下，欧美国家虽然免签数量也在增长，但相对位置有所下滑，尤其是美国从并列第一跌至第15名，这或许与其签证政策收紧、互惠不足等因素有关。\n\n## 欧洲护照：稳中存变\n\n欧洲护照依然保持强大竞争力，但内部出现分化。挪威（186）、瑞士（185）等非欧盟国家表现亮眼，而欧盟国家作为一个整体（184）尽管免签数量增加，排名却从榜首降至第七，这背后可能反映了欧盟内部协调的复杂性以及部分成员国的外交弱势。英国脱欧后，其护照实力虽仍居前列（184），但未来谈判能力存在不确定性。值得注意的是，榜单中出现了“EU Countries*”这一集体实体，其免签数量取决于所有成员国的共同协议，个别成员国的外交表现可能拖累整体。\n\n## 启示与局限\n\n护照免签数量是衡量国家软实力、国际关系和安全信任度的重要指标，但也存在局限。免签协议可能受短期政治风向影响，如地缘冲突或公共卫生事件可迅速改变签证政策。此外，免签国数量并不完全等同于旅行自由的实际价值，因为目的地国的经济水平和开放程度差异巨大。投资者和移民在选择“黄金护照”时，还需考虑税收、生活品质等综合因素。未来，随着数字游民签证和区域流动性协议的兴起，护照实力的评估维度或将进一步多元化。",
+      "glossary": [
+        {
+          "term": "护照免签目的地",
+          "explanation": "指持有一国普通护照的公民无需事先申请签证即可入境的国家或地区数量，是衡量护照旅行便利度的核心指标。"
+        },
+        {
+          "term": "EU Countries*",
+          "explanation": "指代欧盟成员国护照的集体数据，由于欧盟内部人员自由流动和政策协调，其签证政策常被视为一个整体，但实际免签数量取决于所有成员国的共同协议。"
+        },
+        {
+          "term": "互免签证协议",
+          "explanation": "两国或多国之间达成的相互免除对方公民入境签证的协议，通常基于外交对等和互惠原则。"
+        }
+      ]
+    }
+  },
+  {
     "id": "07d86245",
     "title": "Ranked: The World’s Most Livable Regions in 2026",
     "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-most-livable-regions-in-2026/",
