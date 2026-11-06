@@ -1,5 +1,256 @@
 [
   {
+    "id": "5aedea52",
+    "title": "Mapped: How Long Europeans Work to Afford Netflix",
+    "original_url": "https://www.visualcapitalist.com/cp/mapped-how-long-europeans-work-to-afford-netflix/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/5aedea52.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDuStOQYpxoWpGSDpRRRQM//9k=",
+    "image_version": 1793959212,
+    "pub_date": "Fri, 06 Nov 2026 03:16:45 +0000",
+    "content_md": "| Country | Time worked category (minutes) | Notes |\n| --- | --- | --- |\n| Iceland | Under 20 |  |\n| Norway | Under 20 |  |\n| Slovenia | Under 20 |  |\n| Sweden | 20–29 |  |\n| Finland | 20–29 |  |\n| Denmark | 20–29 |  |\n| Ireland | 20–29 |  |\n| Belgium | 20–29 |  |\n| Netherlands | 20–29 |  |\n| Germany | 20–29 |  |\n| France | 20–29 |  |\n| Luxembourg | 20–29 |  |\n| Switzerland | 20–29 |  |\n| Austria | 20–29 |  |\n| United Kingdom | 30–39 |  |\n| Estonia | 30–39 |  |\n| Lithuania | 30–39 |  |\n| Italy | 30–39 |  |\n| Croatia | 30–39 |  |\n| Latvia | 40–49 |  |\n| Poland | 40–49 |  |\n| Slovakia | 40–49 |  |\n| Spain | 40–49 |  |\n| Malta | 40–49 |  |\n| Serbia | 40–49 |  |\n| Bulgaria | 40–49 |  |\n| Cyprus | 40–49 |  |\n| Czechia | 50–59 |  |\n| Portugal | 50–59 |  |\n| Hungary | 50–59 |  |\n| Romania | 50–59 |  |\n| Bosnia and Herzegovina | 50–59 |  |\n| Greece | 50–59 |  |\n| Ukraine | 60+ | Over 120 minutes (graphic annotation) |\n| Moldova | 60+ |  |\n| North Macedonia | 60+ |  |\n| Albania | 60+ |  |\n| Türkiye | No data | No data shown |\n| Kosovo | No data | No data shown |\n| Montenegro | No data | No data shown |",
+    "ai_analysis": {
+      "core_insight": "欧洲各国为负担Netflix所需工作时间差异巨大，反映实际购买力悬殊。",
+      "data_highlights": [
+        "冰岛、挪威、斯洛文尼亚只需不到20分钟，为欧洲最低负担。",
+        "瑞典、芬兰、丹麦等北欧及西欧国家集中在20–29分钟。",
+        "英国、意大利等需30–39分钟；波兰、西班牙等需40–49分钟。",
+        "捷克、葡萄牙、匈牙利等需50–59分钟；乌克兰标注需超过120分钟。",
+        "土耳其、科索沃、黑山无数据。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "Time worked category (minutes)",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Iceland",
+              "Under 20",
+              ""
+            ],
+            [
+              "Norway",
+              "Under 20",
+              ""
+            ],
+            [
+              "Slovenia",
+              "Under 20",
+              ""
+            ],
+            [
+              "Sweden",
+              "20–29",
+              ""
+            ],
+            [
+              "Finland",
+              "20–29",
+              ""
+            ],
+            [
+              "Denmark",
+              "20–29",
+              ""
+            ],
+            [
+              "Ireland",
+              "20–29",
+              ""
+            ],
+            [
+              "Belgium",
+              "20–29",
+              ""
+            ],
+            [
+              "Netherlands",
+              "20–29",
+              ""
+            ],
+            [
+              "Germany",
+              "20–29",
+              ""
+            ],
+            [
+              "France",
+              "20–29",
+              ""
+            ],
+            [
+              "Luxembourg",
+              "20–29",
+              ""
+            ],
+            [
+              "Switzerland",
+              "20–29",
+              ""
+            ],
+            [
+              "Austria",
+              "20–29",
+              ""
+            ],
+            [
+              "United Kingdom",
+              "30–39",
+              ""
+            ],
+            [
+              "Estonia",
+              "30–39",
+              ""
+            ],
+            [
+              "Lithuania",
+              "30–39",
+              ""
+            ],
+            [
+              "Italy",
+              "30–39",
+              ""
+            ],
+            [
+              "Croatia",
+              "30–39",
+              ""
+            ],
+            [
+              "Latvia",
+              "40–49",
+              ""
+            ],
+            [
+              "Poland",
+              "40–49",
+              ""
+            ],
+            [
+              "Slovakia",
+              "40–49",
+              ""
+            ],
+            [
+              "Spain",
+              "40–49",
+              ""
+            ],
+            [
+              "Malta",
+              "40–49",
+              ""
+            ],
+            [
+              "Serbia",
+              "40–49",
+              ""
+            ],
+            [
+              "Bulgaria",
+              "40–49",
+              ""
+            ],
+            [
+              "Cyprus",
+              "40–49",
+              ""
+            ],
+            [
+              "Czechia",
+              "50–59",
+              ""
+            ],
+            [
+              "Portugal",
+              "50–59",
+              ""
+            ],
+            [
+              "Hungary",
+              "50–59",
+              ""
+            ],
+            [
+              "Romania",
+              "50–59",
+              ""
+            ],
+            [
+              "Bosnia and Herzegovina",
+              "50–59",
+              ""
+            ],
+            [
+              "Greece",
+              "50–59",
+              ""
+            ],
+            [
+              "Ukraine",
+              "60+",
+              "Over 120 minutes (graphic annotation)"
+            ],
+            [
+              "Moldova",
+              "60+",
+              ""
+            ],
+            [
+              "North Macedonia",
+              "60+",
+              ""
+            ],
+            [
+              "Albania",
+              "60+",
+              ""
+            ],
+            [
+              "Türkiye",
+              "No data",
+              "No data shown"
+            ],
+            [
+              "Kosovo",
+              "No data",
+              "No data shown"
+            ],
+            [
+              "Montenegro",
+              "No data",
+              "No data shown"
+            ]
+          ],
+          "caption": "欧洲各国为负担Netflix所需工作时间（分钟）"
+        }
+      ],
+      "deep_dive": "## 欧洲数字服务可负担性的梯度格局\n该图以“为支付Netflix订阅所需的工作时间”为指标，直观呈现了欧洲各国居民购买力的显著差异。北欧与部分西欧国家处于最低负担区间：冰岛、挪威、斯洛文尼亚仅需不到20分钟，而瑞典、芬兰、丹麦、德国、法国、瑞士等也只需20–29分钟。这一方面反映这些国家较高的时薪水平，另一方面也说明Netflix作为标准化数字服务，其定价在各国间差异相对有限，因此所需工作时间几乎直接映射了实际收入水平。相反，东欧与南欧部分国家如乌克兰、摩尔多瓦、阿尔巴尼亚等需超过60分钟，其中乌克兰更是标注超过120分钟，意味着购买力差距可达数倍。这种梯度并非简单的“东西对立”，而是与欧盟内部经济发展水平、劳动力市场结构及欧元区/非欧元区差异密切相关。\n\n## 指标局限与政策启示\n需要注意的是，该指标仅聚焦于单一数字订阅服务，无法全面衡量生活成本或综合购买力。首先，Netflix在各国的定价可能因税收、汇率、本地化策略而有所不同，尽管差异不大，但并未完全消除。其次，工作时间分类较宽（如20–29、30–39），掩盖了组内差异；而“Under 20”未进一步细分，可能低估了最高收入国家的优势。再次，数据仅反映平均值，未考虑收入分配、非正规就业、兼职工作等因素。最后，土耳其、科索沃、黑山无数据，可能缘于调查覆盖不足或市场未普及。\n从政策角度看，数字服务可负担性差距提示了欧洲内部数字鸿沟的风险：当低收入国家居民需要工作更长时间才能享受同样的数字内容时，可能加剧信息获取与文化消费的不平等。对于流媒体平台而言，这一数据也提示定价策略需考虑区域购买力差异，例如推出更灵活的订阅档次或区域定价。",
+      "glossary": [
+        {
+          "term": "可负担性（Affordability）",
+          "explanation": "衡量个人或家庭在满足基本需求后，是否有能力支付特定商品或服务的能力。常用所需工作时间或收入占比来度量。"
+        },
+        {
+          "term": "实际工资（Real Wage）",
+          "explanation": "经过物价水平调整后的工资，反映劳动者实际购买力。与名义工资相对，能更好体现生活水平差异。"
+        },
+        {
+          "term": "数字服务订阅（Digital Subscription）",
+          "explanation": "通过互联网提供的按月或按年付费的内容或软件服务，如Netflix、Spotify等，具有标准化和跨境特征。"
+        },
+        {
+          "term": "购买力平价（Purchasing Power Parity, PPP）",
+          "explanation": "一种根据各国价格水平差异调整后的货币转换率，用于比较不同经济体的实际收入和消费水平。"
+        }
+      ]
+    }
+  },
+  {
     "id": "6d5cd4ec",
     "title": "Mapped: Americans With No Net Wealth by State",
     "original_url": "https://www.visualcapitalist.com/mapped-americans-with-no-net-wealth-by-state/",
