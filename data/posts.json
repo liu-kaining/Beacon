@@ -1,5 +1,270 @@
 [
   {
+    "id": "86cd5b82",
+    "title": "Ranked: The Deadliest and Safest Car Models in America",
+    "original_url": "https://www.visualcapitalist.com/cp/ranked-the-deadliest-and-safest-car-models-in-america/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/86cd5b82.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDDJxUEjVK1V5Kg9FRXKRk80UlFBzM//9k=",
+    "image_version": 1794085721,
+    "pub_date": "Sat, 07 Nov 2026 18:49:51 +0000",
+    "content_md": "| Vehicle | Driver death rate per million vehicle-years | Vehicle category |\n| --- | --- | --- |\n| Kia Rio | 170 | Car |\n| Nissan Versa | 164 | Car |\n| Chrysler 300 2WD | 132 | Car |\n| Dodge Charger Hemi 2WD | 127 | Car |\n| Dodge Challenger 2WD | 125 | Car |\n| Kia Forte | 120 | Car |\n| Chevrolet Malibu | 116 | Car |\n| Hyundai Venue 2WD | 113 | SUV |\n| Nissan Altima | 105 | Car |\n| Nissan Maxima | 105 | Car |\n\n| Vehicle | Driver death rate per million vehicle-years | Vehicle category |\n| --- | --- | --- |\n| BMW X5 4WD | 5 | Luxury SUV |\n| Volkswagen Atlas 2WD | 5 | SUV |\n| Toyota RAV4 Prime Plug-in hybrid 4WD | 5 | SUV |\n| Porsche Macan 4WD | 4 | Luxury SUV |\n| Audi Q7 4WD | 0 | Luxury SUV |\n| BMW X7 4WD | 0 | Luxury SUV |\n| Toyota Tundra CrewMax 4WD | 0 | Pickup |\n| Chevrolet Tahoe 4WD | 0 | SUV |\n| Mercedes-Benz GLE-Class 2WD | 0 | Luxury SUV |\n| Mercedes-Benz GLB-Class 4WD | 0 | Luxury SUV |",
+    "ai_analysis": {
+      "core_insight": "小型车死亡率高，大型SUV/皮卡近乎零死亡，尺寸是关键。",
+      "data_highlights": [
+        "Kia Rio 死亡率最高，达170/百万车辆年，日产Versa以164紧随其后。",
+        "前10大最致命车型中9款为轿车，仅现代Venue为SUV。",
+        "最安全榜单中，奥迪Q7、宝马X7、丰田Tundra等6款车型死亡率为0。",
+        "最安全车型多为大型豪华SUV或皮卡，死亡率在0-5之间。",
+        "死亡率最高与最低车型差距超过170倍（170 vs 0）。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Vehicle",
+            "Driver death rate per million vehicle-years",
+            "Vehicle category"
+          ],
+          "rows": [
+            [
+              "Kia Rio",
+              "170",
+              "Car"
+            ],
+            [
+              "Nissan Versa",
+              "164",
+              "Car"
+            ],
+            [
+              "Chrysler 300 2WD",
+              "132",
+              "Car"
+            ],
+            [
+              "Dodge Charger Hemi 2WD",
+              "127",
+              "Car"
+            ],
+            [
+              "Dodge Challenger 2WD",
+              "125",
+              "Car"
+            ],
+            [
+              "Kia Forte",
+              "120",
+              "Car"
+            ],
+            [
+              "Chevrolet Malibu",
+              "116",
+              "Car"
+            ],
+            [
+              "Hyundai Venue 2WD",
+              "113",
+              "SUV"
+            ],
+            [
+              "Nissan Altima",
+              "105",
+              "Car"
+            ],
+            [
+              "Nissan Maxima",
+              "105",
+              "Car"
+            ]
+          ],
+          "caption": "最致命车型排名"
+        },
+        {
+          "headers": [
+            "Vehicle",
+            "Driver death rate per million vehicle-years",
+            "Vehicle category"
+          ],
+          "rows": [
+            [
+              "BMW X5 4WD",
+              "5",
+              "Luxury SUV"
+            ],
+            [
+              "Volkswagen Atlas 2WD",
+              "5",
+              "SUV"
+            ],
+            [
+              "Toyota RAV4 Prime Plug-in hybrid 4WD",
+              "5",
+              "SUV"
+            ],
+            [
+              "Porsche Macan 4WD",
+              "4",
+              "Luxury SUV"
+            ],
+            [
+              "Audi Q7 4WD",
+              "0",
+              "Luxury SUV"
+            ],
+            [
+              "BMW X7 4WD",
+              "0",
+              "Luxury SUV"
+            ],
+            [
+              "Toyota Tundra CrewMax 4WD",
+              "0",
+              "Pickup"
+            ],
+            [
+              "Chevrolet Tahoe 4WD",
+              "0",
+              "SUV"
+            ],
+            [
+              "Mercedes-Benz GLE-Class 2WD",
+              "0",
+              "Luxury SUV"
+            ],
+            [
+              "Mercedes-Benz GLB-Class 4WD",
+              "0",
+              "Luxury SUV"
+            ]
+          ],
+          "caption": "最安全车型排名"
+        }
+      ],
+      "deep_dive": "## 死亡率差异背后的车辆物理与设计因素\n\n从榜单看，死亡率最高与最低车型差距悬殊：起亚Rio（Kia Rio）每百万车辆年驾驶员死亡高达170人，而多款大型SUV和皮卡（如奥迪Q7、宝马X7、丰田Tundra CrewMax）死亡率为0。这背后首先是物理规律——车辆质量越大，碰撞中乘员受到的加速度越小，生存空间也更大。小型轿车在与其他车辆（尤其是SUV）碰撞时处于劣势，碰撞相容性差。其次是车辆设计定位：经济型小车往往成本控制严格，高强度钢使用比例、安全气囊数量和先进驾驶辅助系统（ADAS）配备不如豪华车型。\n\n- 关键因素：质量与尺寸、结构强度、主动安全配置、驱动形式（四驱车型更常见于安全榜单）。\n- 前10名最致命车型中9款为轿车，仅现代Venue一款小型SUV，说明尺寸而非外形类别更关键。\n\n反观最安全榜单，清一色为大型SUV、豪华SUV或全尺寸皮卡，不仅被动安全出色，还普遍搭载自动紧急制动、车道保持等主动安全技术，有效避免事故初始发生。此外，四驱系统（4WD）在多数安全车型中出现，可能与其行驶稳定性及车主驾驶场景（如非高速、非夜间）有关。\n\n## 数据局限与市场启示\n\n需要说明，该死亡率数据通常来自美国公路安全保险协会（IIHS）基于特定年份的统计，样本量有限，尤其“零死亡”车型可能因为销量或使用强度低而出现统计偶然，不代表绝对零风险。但即使考虑误差，大型车相对安全的趋势依然稳健。这启示消费者：在预算允许时，选择更大、更新的车型通常能获得更好的乘员保护；然而，也应看到大型车对行人、骑车人等弱势道路使用者构成的威胁更大，社会层面存在安全外部性。车企和政策制定者需在乘员保护与行人保护之间寻求平衡，例如推广自动紧急制动、改进车头设计。\n\n- 启示一：消费者可优先考虑配备完善主动安全系统的大型车。\n- 启示二：行业需关注车辆大型化带来的行人风险与燃油效率问题。\n- 启示三：未来安全评级应纳入多车碰撞相容性和弱势道路使用者保护指标。",
+      "glossary": [
+        {
+          "term": "Driver death rate per million vehicle-years",
+          "explanation": "每百万车辆年驾驶员死亡率，衡量每百万辆注册车辆每年驾驶员死亡人数。"
+        },
+        {
+          "term": "Vehicle category",
+          "explanation": "车辆类别，如轿车（Car）、SUV、皮卡（Pickup）等。"
+        },
+        {
+          "term": "Luxury SUV",
+          "explanation": "豪华SUV，高端品牌或配置的运动型多用途车。"
+        },
+        {
+          "term": "Pickup",
+          "explanation": "皮卡，轻型载货汽车，通常具有开放式货箱。"
+        },
+        {
+          "term": "Plug-in hybrid",
+          "explanation": "插电式混合动力，可外接充电的混合动力汽车。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c85355b7",
+    "title": "Ranked: The World’s Nuclear Arsenals in 2006 vs. 2026",
+    "original_url": "https://www.visualcapitalist.com/ranked-the-worlds-nuclear-arsenals-in-2006-vs-2026/",
+    "r2_image_url": "https://beacon-img.thetamind.ai/c85355b7.webp",
+    "base64_blur": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAALABQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzuLrWlbLkVmw9RWra9BWNQ3pFkJxRUo6UVgdJ/9k=",
+    "image_version": 1794085756,
+    "pub_date": "Sat, 07 Nov 2026 17:11:15 +0000",
+    "content_md": "| Country | 2006 Warheads | 2026 Warheads |\n| --- | --- | --- |\n| United States | 7,853 | 3,700 |\n| Russia | 6,643 | 4,400 |\n| France | 350 | 290 |\n| United Kingdom | 245 | 225 |\n| China | 235 | 620 |\n| Israel | 80 | 90 |\n| Pakistan | 50 | 170 |\n| India | 43 | 190 |\n| North Korea | - | 60 |",
+    "ai_analysis": {
+      "core_insight": "全球核弹头总量下降，但中国倍增与南亚、朝鲜崛起改变核秩序",
+      "data_highlights": [
+        "美国与俄罗斯仍占主导：2006年合计14,496枚，2026年合计8,100枚，占全球约83%。",
+        "中国核弹头从235枚增至620枚，增长约164%，成为仅次于美俄的第三大核武库。",
+        "印度（43→190）与巴基斯坦（50→170）分别增长约342%和240%，南亚核竞赛加剧。",
+        "朝鲜2026年首次出现60枚弹头，2006年标记为无数据（-）。",
+        "英国和法国小幅削减：分别从245降至225、350降至290。"
+      ],
+      "data_tables": [
+        {
+          "headers": [
+            "Country",
+            "2006 Warheads",
+            "2026 Warheads"
+          ],
+          "rows": [
+            [
+              "United States",
+              "7,853",
+              "3,700"
+            ],
+            [
+              "Russia",
+              "6,643",
+              "4,400"
+            ],
+            [
+              "France",
+              "350",
+              "290"
+            ],
+            [
+              "United Kingdom",
+              "245",
+              "225"
+            ],
+            [
+              "China",
+              "235",
+              "620"
+            ],
+            [
+              "Israel",
+              "80",
+              "90"
+            ],
+            [
+              "Pakistan",
+              "50",
+              "170"
+            ],
+            [
+              "India",
+              "43",
+              "190"
+            ],
+            [
+              "North Korea",
+              "-",
+              "60"
+            ]
+          ],
+          "caption": "2006年与2026年全球核武库对比（按国家）"
+        }
+      ],
+      "deep_dive": "## 一、总量削减与结构分化并存\n\n2006—2026年，表列国家核弹头总量从约15,499枚（朝鲜2006年未计）降至9,745枚，降幅约37%。这一下降几乎全部来自美俄双边核裁军：美国削减约53%，俄罗斯削减约34%。但削减并未带来均质化，而是出现明显分化——法国、英国小幅裁减，中国、印度、巴基斯坦和朝鲜则逆势扩充。中国的620枚已远超法英，逼近美俄之外的第二梯队顶部；印度和巴基斯坦分别增长4.4倍和3.4倍，南亚核竞赛由隐性走向显性。\n\n## 二、多极核秩序与战略稳定挑战\n\n核力量对比正从“美俄主导”向“多极分散”演变。中国从235枚增至620枚，增幅164%，体现其核现代化与战略威慑升级；朝鲜从无到有60枚，则意味着东北亚核扩散成为既成事实。多极核体系增加了误判与升级风险：更多国家拥有二次打击能力，危机稳定性下降。同时，数据本身存在不确定性——以色列从未正式承认核武库，朝鲜数据多靠估算，实际规模可能更高。未来若缺乏新的军控框架，南亚和东北亚可能成为核冲突高风险区。\n\n## 三、启示与数据局限\n\n表中数据来自公开估算，以色列与朝鲜的核弹头数量存在较大不确定性；美俄削减多为退役而非销毁，实际可用弹头可能高于表列数。因此，国家间精确比较需谨慎。但趋势明确：全球核武总量下降的表象下，多极化和区域核扩散正在重塑安全格局，国际社会亟需新的风险管控机制。",
+      "glossary": [
+        {
+          "term": "核弹头（Warhead）",
+          "explanation": "安装在导弹或其他投送工具上、可产生核爆炸的战斗部，是衡量核武库规模的基本单位。"
+        },
+        {
+          "term": "核武库（Nuclear Arsenal）",
+          "explanation": "一国拥有的全部核武器及其运载系统的总和。"
+        },
+        {
+          "term": "核威慑（Nuclear Deterrence）",
+          "explanation": "通过拥有并展示核报复能力，阻止对手发动攻击的战略。"
+        },
+        {
+          "term": "核不扩散条约（NPT）",
+          "explanation": "1968年开放签署的国际条约，旨在防止核武器扩散、推动核裁军与和平利用核能。"
+        },
+        {
+          "term": "战略稳定（Strategic Stability）",
+          "explanation": "核大国之间相互威慑关系保持可预期、避免军备竞赛失控的状态。"
+        }
+      ]
+    }
+  },
+  {
     "id": "571ffa91",
     "title": "Ranked: America’s 20 Most Popular Dog Breeds",
     "original_url": "https://www.visualcapitalist.com/ranked-most-popular-dog-breeds-america-2025/",
